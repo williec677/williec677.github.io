@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+  <header class="post-header">
+    {% if page.category_label %}<p class="kicker">{{ page.category_label }}</p>{% endif %}
+    <h1 itemprop="headline">{{ page.title }}</h1>
+    {% if page.description %}<p class="dek">{{ page.description }}</p>{% endif %}
+    <p class="meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+      · {% assign words = content | number_of_words %}{{ words | divided_by: 230 | plus: 1 }} min read
+      · by <a href="{{ site.instagram_url }}" rel="author noopener" target="_blank">Will, @mrtictoctalk</a>
+    </p>
+  </header>
+  {% if page.affiliate %}
+  <p class="disclosure">Some links on this page may be affiliate links. If you buy through one, the Journal may earn a small commission at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}</p>
+  {% endif %}
+  <div class="post-body" itemprop="articleBody">
+    {{ content }}
+  </div>
+  {% include ad.html slot=site.adsense.slot_in_article %}
+  <aside class="post-cta">
+    <p><strong>Talk watches with me.</strong> Questions about a reference, or a watch you are thinking of buying? Send a DM on <a href="{{ site.instagram_url }}" rel="noopener" target="_blank">Instagram @mrtictoctalk</a>, or <a href="{{ '/newsletter/' | relative_url }}">follow the Journal</a> to get new articles automatically.</p>
+  </aside>
+  {% assign others = site.posts | where_exp: "p", "p.url != page.url" %}
+  {% if others.size > 0 %}
+  <nav class="related" aria-label="More articles">
+    <h2>Keep reading</h2>
+    <ul>
+      {% for p in others limit: 3 %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
+</article>

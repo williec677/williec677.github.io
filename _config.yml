@@ -1,0 +1,72 @@
+# MrTicTocTalk Journal: site configuration
+# Monetization IDs live at the bottom. Leave them blank until each program approves you.
+# These are PUBLIC identifiers (not secrets). Never put passwords or API keys in this repo.
+
+title: MrTicTocTalk Journal
+tagline: "Talking Time. One Watch at a Time."
+description: "Vintage watch buying guides, reference histories, and sold price research from the collector behind MrTicTocTalk. Sold prices over asking prices, always."
+url: "https://williec677.github.io"
+baseurl: ""
+lang: en_US
+timezone: America/New_York
+author:
+  name: Will Camacho
+  url: https://www.instagram.com/mrtictoctalk/
+social:
+  name: MrTicTocTalk
+  links:
+    - https://www.instagram.com/mrtictoctalk/
+instagram_url: https://www.instagram.com/mrtictoctalk/
+logo: /assets/img/logo.png
+defaults:
+  - scope: { path: "", type: posts }
+    values:
+      layout: post
+      image: /assets/img/og-default.png
+      affiliate: true
+  - scope: { path: "" }
+    values:
+      image: /assets/img/og-default.png
+
+permalink: /:title/
+future: false          # posts dated in the future are NOT built; the daily workflow publishes them on their date
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+feed:
+  path: feed.xml
+  excerpt_only: false
+exclude:
+  - README.md
+  - SETUP.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# ---------------------------------------------------------------
+# MONETIZATION PLACEHOLDERS (fill in after approval, then commit)
+# ---------------------------------------------------------------
+affiliates:
+  # Amazon Associates tracking ID, looks like "mrtictoc-20"
+  amazon_tag: ""
+  # eBay Partner Network campaign ID (10 digits, from EPN > Campaigns)
+  ebay_campid: ""
+  # Awin publisher ID + Chrono24 advertiser ID (both shown in your Awin dashboard after Chrono24 approves you)
+  awin_affid: ""
+  chrono24_awinmid: ""
+
+adsense:
+  # Google AdSense publisher ID, looks like "ca-pub-1234567890123456". Ads stay OFF while blank.
+  publisher_id: ""
+  # Optional ad unit slot IDs (numbers from AdSense > Ads > By ad unit)
+  slot_in_article: ""
+  slot_footer: ""
+
+newsletter:
+  # Paste your follow.it (free) subscribe page URL here to show an email signup button.
+  followit_url: ""

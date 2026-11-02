@@ -1,0 +1,53 @@
+/* MrTicTocTalk Journal: mobile first, no web fonts, no JS */
+:root{--ink:#1b1b1f;--muted:#5c5f66;--paper:#fbf8f2;--card:#fff;--navy:#14213d;--red:#c8102e;--gold:#b08d57;--line:#e6e0d4;--max:44rem}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:18px/1.65 Charter,"Bitstream Charter","Sitka Text",Cambria,Georgia,serif}
+a{color:var(--navy);text-decoration-thickness:1px;text-underline-offset:3px}
+a:hover{color:var(--red)}
+.wrap{max-width:var(--max);margin:0 auto;padding:0 1.1rem}
+.skip{position:absolute;left:-999px}.skip:focus{left:1rem;top:1rem;background:#fff;padding:.5rem;z-index:9}
+.site-header{background:var(--navy);color:#fff;border-bottom:3px solid var(--red)}
+.header-inner{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.4rem 1rem;padding-top:.8rem;padding-bottom:.8rem}
+.brand{display:flex;align-items:center;gap:.5rem;color:#fff;text-decoration:none;font:700 1.15rem/1.1 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;letter-spacing:.01em}
+.brand em{font-style:normal;color:var(--gold);font-weight:600}
+.brand:hover{color:#fff}
+.nav{display:flex;gap:1rem;font:500 .9rem system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.nav a{color:#e8e8ee;text-decoration:none}.nav a:hover{color:#fff;text-decoration:underline}
+main{padding-top:1.6rem;padding-bottom:2.5rem}
+h1,h2,h3{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.2;color:var(--navy)}
+h1{font-size:1.9rem;margin:.2rem 0 .6rem}
+h2{font-size:1.35rem;margin:2rem 0 .6rem}
+h3{font-size:1.1rem;margin:1.5rem 0 .4rem}
+.hero{padding:.4rem 0 1.2rem;border-bottom:1px solid var(--line);margin-bottom:1.4rem}
+.hero h1{font-size:2rem}
+.hero p{color:var(--muted);margin:.2rem 0}
+.post-list{list-style:none;padding:0;margin:0}
+.post-list li{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:1rem 1.1rem;margin:0 0 1rem}
+.post-list h2{margin:.15rem 0 .35rem;font-size:1.2rem}
+.post-list h2 a{text-decoration:none}
+.post-list p{margin:.3rem 0;color:var(--muted);font-size:.97rem}
+.kicker{font:700 .72rem system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin:0}
+.meta{font:.85rem system-ui,sans-serif;color:var(--muted)}
+.dek{font-size:1.1rem;color:var(--muted);margin:.2rem 0 .6rem}
+.disclosure{font:.82rem/1.45 system-ui,sans-serif;color:var(--muted);background:#f3eee4;border-left:3px solid var(--gold);padding:.6rem .8rem;border-radius:4px}
+.post-body img{max-width:100%;height:auto}
+.post-body blockquote{margin:1.2rem 0;padding:.2rem 1rem;border-left:3px solid var(--red);color:#33363d;background:#fff}
+.post-body table{width:100%;border-collapse:collapse;font:.9rem/1.4 system-ui,sans-serif;display:block;overflow-x:auto}
+.post-body th,.post-body td{border:1px solid var(--line);padding:.45rem .55rem;text-align:left;vertical-align:top}
+.post-body th{background:#f1ece2}
+.post-body code{font-size:.88em;background:#f1ece2;padding:.05em .3em;border-radius:3px}
+.takeaways{background:var(--card);border:1px solid var(--line);border-top:3px solid var(--navy);border-radius:8px;padding:.6rem 1.1rem;margin:1.6rem 0}
+.sources{font-size:.88rem;color:var(--muted)}
+.post-cta{margin:2rem 0 1rem;padding:1rem 1.1rem;background:var(--navy);color:#eef;border-radius:10px;font-size:.97rem}
+.post-cta a{color:#fff}
+.related ul{padding-left:1.1rem}
+.ad-slot{margin:1.5rem 0;min-height:100px}
+.site-footer{border-top:1px solid var(--line);padding:1.4rem 0 2rem;font:.88rem/1.5 system-ui,sans-serif;color:var(--muted)}
+.footer-links a{margin-right:.9rem;display:inline-block}
+.fine{font-size:.78rem}
+.button{display:inline-block;background:var(--red);color:#fff;padding:.6rem 1rem;border-radius:8px;text-decoration:none;font:600 .95rem system-ui,sans-serif}
+.button:hover{color:#fff;background:#a50d26}
+@media (min-width:700px){body{font-size:19px}h1{font-size:2.3rem}.hero h1{font-size:2.5rem}}
+@media (prefers-color-scheme:dark){:root{--ink:#e9e6df;--muted:#a9adb6;--paper:#111318;--card:#181b22;--line:#2a2e38;--navy:#9fb4e8}
+ .site-header{background:#0b1226}.disclosure{background:#1d2028}.post-body th,.post-body code{background:#20242d}.post-body blockquote{background:#181b22;color:#d6d3cc}.post-cta{background:#0b1226}}

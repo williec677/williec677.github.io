@@ -1,0 +1,6 @@
+{%- if site.adsense.publisher_id != "" and include.slot and include.slot != "" -%}
+<div class="ad-slot" aria-label="Advertisement">
+  <ins class="adsbygoogle" style="display:block" data-ad-client="{{ site.adsense.publisher_id }}" data-ad-slot="{{ include.slot }}" data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{%- endif -%}
