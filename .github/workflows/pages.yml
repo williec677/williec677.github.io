@@ -39,3 +39,66 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v5
+  # Tells IndexNow (Bing, Yandex, Seznam, Naver; Google does not use it) about new or changed URLs.
+  # Runs only after a successful deploy and can never fail the workflow.
+  #   push:              posts added or changed in the pushed commits (only if they are live in the sitemap)
+  #   schedule (daily):  posts whose sitemap lastmod is today, so scheduled posts are announced on their publish day
+  #   workflow_dispatch: every URL in the sitemap
+  # The key file lives at the repo root as <key>.txt. If you change the key, rename that file to match.
+  indexnow:
+    needs: deploy
+    if: needs.deploy.result == 'success'
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    permissions: {}
+    steps:
+      - name: Ping IndexNow
+        env:
+          INDEXNOW_KEY: 5908965c96dc3e71d77eefc66b4d9099
+          SITE_HOST: mrtictoctalk.com
+        run: |
+          python3 - <<'PY' || echo "IndexNow step failed; ignoring"
+          import datetime, json, os, re, sys, time, urllib.request
+          key, host = os.environ["INDEXNOW_KEY"], os.environ["SITE_HOST"]
+          event = os.environ.get("GITHUB_EVENT_NAME", "")
+          time.sleep(60)  # give the Pages CDN a moment to serve the new build
+          xml = None
+          for base in (f"https://{host}", f"http://{host}"):
+              try:
+                  xml = urllib.request.urlopen(f"{base}/sitemap.xml?ts={int(time.time())}", timeout=30).read().decode()
+                  break
+              except Exception as e:
+                  print(f"Could not read {base}/sitemap.xml: {e}")
+          if not xml:
+              sys.exit(0)
+          entries = re.findall(r"<loc>([^<]+)</loc>(?:\s*<lastmod>([^<]+)</lastmod>)?", xml)
+          live = {u for u, _ in entries}
+          if event == "workflow_dispatch":
+              urls = sorted(live)
+          elif event == "push":
+              payload = json.load(open(os.environ["GITHUB_EVENT_PATH"]))
+              changed = set()
+              for c in payload.get("commits", []):
+                  changed.update(c.get("added", []) + c.get("modified", []))
+              urls = []
+              for path in sorted(changed):
+                  m = re.match(r"_posts/\d{4}-\d{2}-\d{2}-(.+)\.(md|markdown|html)$", path)
+                  if m:
+                      u = f"https://{host}/{m.group(1)}/"
+                      if u in live:
+                          urls.append(u)
+          else:
+              today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-5))).date().isoformat()
+              urls = [u for u, mod in entries if mod and mod.startswith(today)]
+          if not urls:
+              print("No URLs to submit.")
+              sys.exit(0)
+          body = json.dumps({"host": host, "key": key, "keyLocation": f"https://{host}/{key}.txt", "urlList": urls}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
+                                       headers={"Content-Type": "application/json; charset=utf-8"})
+          try:
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  print("IndexNow response:", r.status, urls)
+          except Exception as e:
+              print("IndexNow request failed (ignored):", e, urls)
+          PY
