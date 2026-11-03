@@ -80,6 +80,8 @@ A "franken" is a real watch built from mismatched genuine parts. These are more 
 
 I check three places: dealer listings on {% include aff.html network="chrono24" url="https://www.chrono24.com/rolex/gmt-master-ii--mod2.htm" text="Chrono24" %} to see what is out there, {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=rolex+16710&LH_Sold=1&LH_Complete=1" text="eBay sold listings for 16710" %} to see what actually traded in the last 90 days, and public auction results. Asking prices tell you what sellers hope for. Sold prices tell you the market. I am not quoting a number here because a price without a fresh date is worse than no price at all. Pull your own comps on the day you buy, matched for dial era, bracelet, and box and papers.
 
+{% include ebay-shop.html q="rolex+gmt+master+ii+16710" label="Rolex GMT Master II 16710" q2="rolex+gmt+master+ii+16710+stick+dial" label2="16710 stick dial" %}
+
 A good {% include aff.html network="amazon" url="https://www.amazon.com/s?k=10x+jewelers+loupe+triplet" text="10x triplet loupe" %} pays for itself the first time you read a dial up close. And since this is a travel watch, a padded {% include aff.html network="amazon" url="https://www.amazon.com/s?k=watch+travel+case" text="watch travel case" %} keeps it from knocking around in a carry on.
 
 <div class="takeaways" markdown="1">

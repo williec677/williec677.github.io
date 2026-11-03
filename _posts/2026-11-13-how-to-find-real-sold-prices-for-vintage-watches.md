@@ -23,6 +23,8 @@ So I treat every source in one of two buckets:
 
 eBay lets anyone filter search results to completed sales. On the website, search for the reference, then open the filters and tick **Sold items**. On the app, it is under Filter as well. Shortcut: add `LH_Sold=1&LH_Complete=1` to a search URL, like this {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=omega+speedmaster+145.022&LH_Sold=1&LH_Complete=1" text="sold search for the Speedmaster 145.022" %}.
 
+{% include ebay-shop.html lead="Compare asking against sold:" q="omega+speedmaster+professional+145.022" label="Omega Speedmaster Professional 145.022" %}
+
 Know the limits:
 
 * **The window is short.** eBay's public sold search reaches back about 90 days ([Reclaim Stuff](https://www.reclaimstuff.com/ebay-sold-prices)). That is great for current comps, useless for long trends.

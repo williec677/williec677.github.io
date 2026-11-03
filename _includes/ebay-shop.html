@@ -1,0 +1,10 @@
+{%- comment -%}
+eBay "shop current listings" callout for a specific watch reference.
+Usage: {% include ebay-shop.html q="rolex+gmt+master+ii+16710" label="Rolex GMT Master II 16710" %}
+Optional second reference: q2="..." label2="...". Optional lead="..." replaces the default lead in.
+q is an eBay search query with words joined by +. Tracking is added by aff.html from site.affiliates.ebay_campid.
+{%- endcomment -%}
+{%- assign lead = include.lead | default: "Shopping for one?" -%}
+{%- capture u1 -%}https://www.ebay.com/sch/i.html?_nkw={{ include.q }}{%- endcapture -%}
+{%- capture t1 -%}See current {{ include.label }} listings on eBay{%- endcapture -%}
+<p class="shop-callout"><span class="shop-lead">{{ lead }}</span> {% capture l1 -%}{% include aff.html network="ebay" url=u1 text=t1 %}{%- endcapture -%}{{ l1 | strip }}{%- if include.q2 -%}{%- capture u2 -%}https://www.ebay.com/sch/i.html?_nkw={{ include.q2 }}{%- endcapture -%}{%- capture t2 -%}current {{ include.label2 }} listings{%- endcapture %} or {% capture l2 -%}{% include aff.html network="ebay" url=u2 text=t2 %}{%- endcapture -%}{{ l2 | strip }}{%- endif -%}.</p>

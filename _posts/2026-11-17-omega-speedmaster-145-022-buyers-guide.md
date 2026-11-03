@@ -69,6 +69,8 @@ Omega historically offered an Extract of the Archives that confirms a watch's pr
 
 Compare dealer stock on {% include aff.html network="chrono24" url="https://www.chrono24.com/search/index.htm?query=speedmaster+145.022" text="Chrono24" %} and recent results with the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=speedmaster+145.022&LH_Sold=1&LH_Complete=1" text="eBay sold filter" %}. Fratello's own advice is that asking prices and transaction prices often differ, so lean on sold data. I am not quoting a range here because the spread between a -78 on a strap and a -69 step dial with a straight writing back is enormous, and I could not verify a current range I would publish. Match comps by suffix, dial, bezel, case back, and bracelet.
 
+{% include ebay-shop.html q="omega+speedmaster+professional+145.022" label="Omega Speedmaster Professional 145.022" q2="omega+speedmaster+145.022+step+dial" label2="Speedmaster 145.022 step dial" %}
+
 For the 861, a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=omega+speedmaster+book" text="Speedmaster reference book" %} is worth owning before your first purchase, and a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=20mm+leather+watch+strap" text="20mm leather strap" %} saves a vintage bracelet from daily wear.
 
 <div class="takeaways" markdown="1">

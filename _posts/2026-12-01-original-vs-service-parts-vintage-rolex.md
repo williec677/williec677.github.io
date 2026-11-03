@@ -81,6 +81,8 @@ Then compare everything against the serial era. Use a {% include aff.html networ
 
 Service part watches are often the best value way to wear vintage. Search the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=vintage+rolex+service+dial&LH_Sold=1&LH_Complete=1" text="eBay sold filter for service dial watches" %} to see what wearer grade examples trade for, and compare against originals of the same reference on {% include aff.html network="chrono24" url="https://www.chrono24.com/search/index.htm?query=vintage+rolex" text="Chrono24" %}. I do not quote a percentage gap here because it varies by reference and the market moves. Build your own comps.
 
+{% include ebay-shop.html lead="Practice the checklist on real listings:" q="rolex+datejust+1601" label="Rolex Datejust 1601" q2="rolex+submariner+5513" label2="Rolex Submariner 5513" %}
+
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 

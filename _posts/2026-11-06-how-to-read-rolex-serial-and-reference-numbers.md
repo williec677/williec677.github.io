@@ -97,6 +97,8 @@ The final check is always the same: a qualified watchmaker opens the case. Befor
 4. Ask whether the papers match the serial, and compare the digits yourself.
 5. Make the sale conditional on a watchmaker opening the case.
 
+{% include ebay-shop.html lead="Practice on real listings:" q="rolex+datejust+1601" label="Rolex Datejust 1601" q2="rolex+submariner+5513" label2="Rolex Submariner 5513" %}
+
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 

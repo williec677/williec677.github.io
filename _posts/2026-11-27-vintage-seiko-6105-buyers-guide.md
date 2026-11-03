@@ -71,6 +71,8 @@ The 6105 movement is simple and well documented, and many parts interchange with
 
 Use the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=seiko+6105&LH_Sold=1&LH_Complete=1" text="eBay sold filter for the 6105" %} to see what changed hands recently, and browse {% include aff.html network="chrono24" url="https://www.chrono24.com/search/index.htm?query=seiko+6105" text="Chrono24" %} for dealer pieces with better documentation. I am not quoting a price range because originality swings value so much. Compare like with like.
 
+{% include ebay-shop.html q="seiko+6105+8110" label="Seiko 6105 8110 Captain Willard" q2="seiko+6105+8000" label2="Seiko 6105 8000" %}
+
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 

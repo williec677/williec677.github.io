@@ -89,6 +89,8 @@ The 1601 is not fragile, but it is not a modern Datejust either. Keep it away fr
 
 The 1601 trades a lot, which is good for comps. Use the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=rolex+datejust+1601&LH_Sold=1&LH_Complete=1" text="eBay sold filter for the 1601" %} and compare with dealer listings on {% include aff.html network="chrono24" url="https://www.chrono24.com/search/index.htm?query=rolex+datejust+1601" text="Chrono24" %}. Prices swing widely by dial, so I am not quoting a range. Match comps by dial variant first, then condition.
 
+{% include ebay-shop.html q="rolex+datejust+1601" label="Rolex Datejust 1601" q2="rolex+datejust+1601+pie+pan" label2="1601 pie pan" %}
+
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 

@@ -77,6 +77,8 @@ Pick the **1680** if you use the date, want a chronometer movement, or love the 
 
 Either way, start with comps. Look at {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=rolex+5513&LH_Sold=1&LH_Complete=1" text="eBay sold listings for the 5513" %} and {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=rolex+1680&LH_Sold=1&LH_Complete=1" text="the 1680" %}, then compare dealer stock on {% include aff.html network="chrono24" url="https://www.chrono24.com/search/index.htm?query=rolex+5513" text="Chrono24" %}. I am not publishing a price range here because I could not verify a current sold range I would trust for both references in every dial variant. Pull your own comps by dial type and condition on the day you buy.
 
+{% include ebay-shop.html q="rolex+submariner+5513" label="Rolex Submariner 5513" q2="rolex+submariner+date+1680" label2="Rolex Submariner Date 1680" %}
+
 If you want one book on the shelf for this, {% include aff.html network="amazon" url="https://www.amazon.com/s?k=rolex+submariner+book" text="a dedicated Submariner reference book" %} beats a hundred forum threads. Both references take 20mm straps, so if you plan to wear yours hard, a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=20mm+nylon+watch+strap" text="20mm nylon strap" %} spares the original bracelet.
 
 <div class="takeaways" markdown="1">

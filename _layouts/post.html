@@ -13,7 +13,7 @@ layout: default
     </p>
   </header>
   {% if page.affiliate %}
-  <p class="disclosure">Some links on this page may be affiliate links. If you buy through one, the Journal may earn a small commission at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}</p>
+  <p class="disclosure">Some links on this page may be affiliate links. If you buy through one, the Journal may earn a small commission at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
   {% endif %}
   <div class="post-body" itemprop="articleBody">
     {{ content }}

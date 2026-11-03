@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 description: "Privacy policy for the MrTicTocTalk Journal."
 ---
-_Last updated: November 2, 2026_
+_Last updated: November 3, 2026_
 
 This policy explains what happens to information when you visit the MrTicTocTalk Journal (mrtictoctalk.com).
 
@@ -18,7 +18,7 @@ The site is hosted on GitHub Pages. GitHub may log technical information such as
 
 ## Affiliate links
 
-Some links go to partner sites such as Amazon, eBay, or Chrono24 (through the Awin network). If you click one, that site and its affiliate network may set cookies to credit the referral. Their own privacy policies apply once you leave this site.
+Some links go to partner sites such as Amazon (through Amazon Associates), eBay (through the eBay Partner Network), or Chrono24 (through the Awin network). If you click one, that site and its affiliate network may set cookies to credit the referral. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner, I may be compensated if you make a purchase through eBay links. Their own privacy policies apply once you leave this site.
 
 ## Advertising
 

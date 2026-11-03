@@ -42,7 +42,7 @@
         <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
         <a href="{{ site.instagram_url }}" rel="me noopener" target="_blank">@mrtictoctalk</a>
       </p>
-      {% if site.affiliates.amazon_tag != "" %}<p class="fine">As an Amazon Associate I earn from qualifying purchases.</p>{% endif %}
+      {% if site.affiliates.amazon_tag != "" or site.affiliates.ebay_campid != "" %}<p class="fine">{% if site.affiliates.amazon_tag != "" %}As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>{% endif %}
       <p class="fine">Independent collector content. Not affiliated with, sponsored by, or endorsed by Rolex, Tudor, Omega, Seiko, or any brand mentioned. Brand and model names are used only to identify the watches discussed. © {{ site.time | date: "%Y" }} MrTicTocTalk.</p>
     </div>
   </footer>

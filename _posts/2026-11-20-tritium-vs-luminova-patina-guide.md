@@ -78,6 +78,8 @@ If you sell or trade, show buyers the truth. Photograph the dial in daylight wit
 
 Pay for patina only when the rest of the story agrees. That means a dial era that fits the serial, hands that match, a glow that fits the material, and a seller who can show you the watch under different light. If any piece is off, value the watch as if the lume were ordinary.
 
+{% include ebay-shop.html lead="Practice reading tritium dials on real listings:" q="rolex+submariner+5513" label="Rolex Submariner 5513" q2="rolex+datejust+1601" label2="Rolex Datejust 1601" %}
+
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 

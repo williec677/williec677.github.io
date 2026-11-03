@@ -67,6 +67,8 @@ Tudor brought the Snowflake hand back in 2012 with the Pelagos, and it appears o
 
 Use the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=tudor+snowflake+submariner&LH_Sold=1&LH_Complete=1" text="eBay sold filter for Tudor Snowflake Submariners" %} and browse dealer stock on {% include aff.html network="chrono24" url="https://www.chrono24.com/search/index.htm?query=tudor+snowflake" text="Chrono24" %}. I am not quoting prices because MN provenance, dial color, dial condition, and service history all swing the market dramatically. For deep reading, a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=tudor+watch+book" text="Tudor history book" %} helps you recognize the details sellers leave out.
 
+{% include ebay-shop.html q="tudor+submariner+7021+snowflake" label="Tudor Submariner 7021 Snowflake" q2="tudor+submariner+9411+snowflake" label2="Tudor Submariner 9411 Snowflake" %}
+
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 
