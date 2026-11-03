@@ -24,7 +24,7 @@ The 16710 came with three factory inserts: red and blue (Pepsi), red and black (
 
 That is the practical point. **Buy the watch, not the insert.** Price the case, dial, hands, movement, and bracelet first. Then decide which insert you want. Original faded inserts with even, honest wear can carry a premium. A perfectly crisp insert on a watch that otherwise looks 25 years old is often a replacement, which is fine if you are paying for a replacement.
 
-The Coke is my pick because the black half reads cleanly at a glance and the red is a little less loud than Pepsi on the wrist. That is taste, not investment advice.
+The Coke is my pick because the black half reads cleanly at a glance and the red is a little less loud than Pepsi on the wrist. That is taste, not investment advice. If you love the look but not the price, I rounded up the {% assign ga = site.posts | where: "slug", "affordable-rolex-gmt-alternatives" | first %}{% if ga %}[affordable Rolex GMT alternatives under $1,000]({{ ga.url | relative_url }}){% else %}affordable Rolex GMT alternatives under $1,000 (publishing November 5){% endif %}.
 
 ## Dating a 16710 by its dial
 
