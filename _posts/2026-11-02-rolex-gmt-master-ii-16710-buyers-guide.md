@@ -1,5 +1,7 @@
 ---
 title: "Rolex GMT Master II 16710 Buyer's Guide: Coke vs Pepsi, Cal 3185 vs 3186, and the Stick Dial"
+seo_title: "Rolex GMT Master II 16710 Buyer's Guide"
+cluster: gmt
 description: "How to buy a 16710 GMT Master II: bezel choices, dial generations by lume, the 3185 vs 3186 question, stick dials, and the checks that protect your money."
 date: 2026-11-02 09:00:00 -0500
 category_label: Buying Guide

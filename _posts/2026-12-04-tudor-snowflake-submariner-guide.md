@@ -1,5 +1,7 @@
 ---
 title: "Tudor Snowflake Submariner Guide: 7016, 7021, 9401, 9411, and the Marine Nationale"
+seo_title: "Tudor Snowflake Submariner Guide"
+cluster: dive
 description: "A collector's guide to the vintage Tudor Snowflake Submariner: references 7016, 7021, 9401, and 9411, the French Navy issue, dial rot, the service trap, and the checks that matter before you buy."
 date: 2026-12-04 09:00:00 -0500
 category_label: Reference Guide

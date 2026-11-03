@@ -1,5 +1,7 @@
 ---
 title: "Chrono24 vs eBay Sold vs Auction Results: How to Find What a Vintage Watch Really Sold For"
+seo_title: "How to Find Real Sold Prices for Vintage Watches"
+cluster: vintage
 description: "Asking prices are not market prices. Here is how to pull real sold comps from eBay, read auction results with the buyer's premium, and use Chrono24 and data sites the right way."
 date: 2026-11-13 09:00:00 -0500
 category_label: Market Know How

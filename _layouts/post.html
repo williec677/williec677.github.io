@@ -1,33 +1,41 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+<article class="post">
   <header class="post-header">
     {% if page.category_label %}<p class="kicker">{{ page.category_label }}</p>{% endif %}
-    <h1 itemprop="headline">{{ page.title }}</h1>
+    <h1>{{ page.title }}</h1>
     {% if page.description %}<p class="dek">{{ page.description }}</p>{% endif %}
     <p class="meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       · {% assign words = content | number_of_words %}{{ words | divided_by: 230 | plus: 1 }} min read
       · by <a href="{{ site.instagram_url }}" rel="author noopener" target="_blank">Will, @mrtictoctalk</a>
     </p>
   </header>
   {% if page.affiliate %}
-  <p class="disclosure">Some links on this page may be affiliate links. If you buy through one, the Journal may earn a small commission at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
+  <p class="disclosure">This post contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
   {% endif %}
-  <div class="post-body" itemprop="articleBody">
+  <div class="post-body">
     {{ content }}
   </div>
   {% include ad.html slot=site.adsense.slot_in_article %}
   <aside class="post-cta">
     <p><strong>Talk watches with me.</strong> Questions about a reference, or a watch you are thinking of buying? Send a DM on <a href="{{ site.instagram_url }}" rel="noopener" target="_blank">Instagram @mrtictoctalk</a>, or <a href="{{ '/newsletter/' | relative_url }}">follow the Journal</a> to get new articles automatically.</p>
   </aside>
+  {%- comment -%} Related posts: same cluster first, then the newest other posts as filler. Posts with no cluster keep the old newest first list. {%- endcomment -%}
   {% assign others = site.posts | where_exp: "p", "p.url != page.url" %}
-  {% if others.size > 0 %}
+  {% if page.cluster %}
+    {% assign same_cluster = others | where: "cluster", page.cluster %}
+    {% assign other_clusters = others | where_exp: "p", "p.cluster != page.cluster" %}
+    {% assign related = same_cluster | concat: other_clusters %}
+  {% else %}
+    {% assign related = others %}
+  {% endif %}
+  {% if related.size > 0 %}
   <nav class="related" aria-label="More articles">
     <h2>Keep reading</h2>
     <ul>
-      {% for p in others limit: 3 %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
+      {% for p in related limit: 3 %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
     </ul>
   </nav>
   {% endif %}

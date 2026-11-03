@@ -1,5 +1,7 @@
 ---
 title: "Tissot PRX Powermatic 80 Buyer's Guide: The Best First Swiss Automatic Under $1,000"
+seo_title: "Tissot PRX Powermatic 80 Buyer's Guide"
+cluster: affordable
 description: "Everything you need before you buy a Tissot PRX Powermatic 80: the 1978 backstory, verified specs, 40mm vs 35mm, the 80 hour movement, real retail and used prices for November 2026, and the flaws nobody mentions."
 date: 2026-11-04 09:00:00 -0500
 category_label: Buying Guide

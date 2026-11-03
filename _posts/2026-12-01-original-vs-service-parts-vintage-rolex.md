@@ -1,5 +1,7 @@
 ---
 title: "Original vs Service Parts on Vintage Rolex: Dials, Hands, Bezels, and Crystals"
+seo_title: "Original vs Service Parts on Vintage Rolex"
+cluster: vintage
 description: "How to tell when a vintage Rolex has genuine service replacement parts, why that changes value without making the watch fake, and a checklist for each component."
 date: 2026-12-01 09:00:00 -0500
 category_label: Collector Basics

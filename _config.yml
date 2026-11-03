@@ -11,7 +11,7 @@ lang: en_US
 timezone: America/New_York
 author:
   name: Will Camacho
-  url: https://www.instagram.com/mrtictoctalk/
+  url: https://mrtictoctalk.com/about/
 social:
   name: MrTicTocTalk
   links:
@@ -44,6 +44,7 @@ feed:
 exclude:
   - README.md
   - SETUP.md
+  - content-calendar.md   # internal planning file, never publish
   - Gemfile
   - Gemfile.lock
   - vendor

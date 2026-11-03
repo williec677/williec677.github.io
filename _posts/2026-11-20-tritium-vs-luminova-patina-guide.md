@@ -1,5 +1,7 @@
 ---
 title: "Tritium vs Luminova: How to Read Lume, Patina, and Relumed Dials on Vintage Watches"
+seo_title: "Tritium vs Luminova: Lume and Patina Guide"
+cluster: vintage
 description: "Radium, tritium, Luminova, Super LumiNova, and Chromalight explained, with the dial markings that date them, how patina forms, and a simple glow test for spotting relume."
 date: 2026-11-20 09:00:00 -0500
 category_label: Collector Basics

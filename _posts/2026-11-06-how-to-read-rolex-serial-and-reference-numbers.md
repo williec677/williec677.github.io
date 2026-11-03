@@ -1,5 +1,7 @@
 ---
 title: "How to Read Rolex Serial and Reference Numbers (and What They Can't Tell You)"
+seo_title: "How to Read Rolex Serial and Reference Numbers"
+cluster: vintage
 description: "Where Rolex engraves serial and reference numbers, how to date a watch from its serial, how to decode the reference digits, and the clasp and caseback clues that catch swapped parts."
 date: 2026-11-06 09:00:00 -0500
 category_label: Reference Guide

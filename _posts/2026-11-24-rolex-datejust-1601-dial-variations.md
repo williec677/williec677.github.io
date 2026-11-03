@@ -1,5 +1,7 @@
 ---
 title: "Rolex Datejust 1601 Dial Variations: Pie Pan, Sigma, Linen, Buckley, and How to Spot a Redial"
+seo_title: "Rolex Datejust 1601 Dial Variations"
+cluster: vintage
 description: "A field guide to the vintage Datejust 1601: production years, calibre 1565 vs 1575, the dial variants collectors chase, and the checks that separate originals from refinished dials."
 date: 2026-11-24 09:00:00 -0500
 category_label: Reference Guide

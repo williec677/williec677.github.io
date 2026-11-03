@@ -1,5 +1,7 @@
 ---
 title: "Rolex Submariner 5513 vs 1680: Which Vintage Sub Should You Buy?"
+seo_title: "Rolex Submariner 5513 vs 1680"
+cluster: dive
 description: "The no date 5513 and the first Submariner Date 1680 side by side: production years, movements, dials, red Subs, and how to choose between them."
 date: 2026-11-10 09:00:00 -0500
 category_label: Head to Head

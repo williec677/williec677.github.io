@@ -1,5 +1,7 @@
 ---
 title: "Vintage Seiko 6105 Buyer's Guide: The 8000 vs the 8110 Captain Willard"
+seo_title: "Vintage Seiko 6105 Buyer's Guide"
+cluster: vintage
 description: "Everything to check before buying a Seiko 6105: the 8000 and 8110 cases, 6105A vs 6105B movements, how to read the serial, the Apocalypse Now story, and common franken parts."
 date: 2026-11-27 09:00:00 -0500
 category_label: Buying Guide

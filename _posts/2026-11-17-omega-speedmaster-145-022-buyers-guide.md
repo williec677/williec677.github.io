@@ -1,5 +1,7 @@
 ---
 title: "Omega Speedmaster 145.022 Buyer's Guide: Every Variant from 68 to 78, Explained"
+seo_title: "Omega Speedmaster 145.022 Buyer's Guide"
+cluster: vintage
 description: "The calibre 861 Speedmaster decoded: what the 145.022 suffixes mean, step dials, DON and 220 bezels, casebacks, bracelets, and what to check before you buy."
 date: 2026-11-17 09:00:00 -0500
 category_label: Buying Guide

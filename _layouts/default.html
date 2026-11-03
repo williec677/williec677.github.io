@@ -4,7 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#14213d">
-  {% seo %}
+  {% seo title=false %}
+  {%- comment -%} Title tag: seo_title, else title, else site title. The " | MrTicTocTalk" suffix is added only when the whole tag stays under 60 characters. {%- endcomment -%}
+  {%- assign title_base = page.seo_title | default: page.title | default: site.title -%}
+  {%- assign title_full = title_base | append: " | MrTicTocTalk" -%}
+  {%- if page.url == "/" or title_base contains "MrTicTocTalk" or title_full.size >= 60 -%}{%- assign title_full = title_base -%}{%- endif %}
+  <title>{{ title_full | escape }}</title>
+  {% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
   {% feed_meta %}
   <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
