@@ -3,7 +3,7 @@ layout: post
 title: "Watch News: Casio's Titanium Automatic, Omega Retires the X-33, and an Oxblood Oris"
 seo_title: "Casio CMK-100, Omega X-33 and More Watch News"
 description: "The Casio CMK-100 brings a titanium automatic under $450, Omega quietly pulls the Speedmaster X-33, Oris goes oxblood, and AP drops three Supersonneries."
-date: 2026-11-03 16:15:00 -0500
+date: 2026-11-03 15:50:00 -0500
 category_label: News
 cluster: affordable
 tags: [news, casio, omega, oris, audemars-piguet]
