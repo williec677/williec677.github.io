@@ -42,6 +42,7 @@
         <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
         <a href="{{ site.instagram_url }}" rel="me noopener" target="_blank">@mrtictoctalk</a>
       </p>
+      {% if site.affiliates.amazon_tag != "" %}<p class="fine">As an Amazon Associate I earn from qualifying purchases.</p>{% endif %}
       <p class="fine">Independent collector content. Not affiliated with, sponsored by, or endorsed by Rolex, Tudor, Omega, Seiko, or any brand mentioned. Brand and model names are used only to identify the watches discussed. © {{ site.time | date: "%Y" }} MrTicTocTalk.</p>
     </div>
   </footer>

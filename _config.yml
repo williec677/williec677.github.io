@@ -53,7 +53,7 @@ exclude:
 # ---------------------------------------------------------------
 affiliates:
   # Amazon Associates tracking ID, looks like "mrtictoc-20"
-  amazon_tag: ""
+  amazon_tag: "mrtictoctalk-20"
   # eBay Partner Network campaign ID (10 digits, from EPN > Campaigns)
   ebay_campid: ""
   # Awin publisher ID + Chrono24 advertiser ID (both shown in your Awin dashboard after Chrono24 approves you)

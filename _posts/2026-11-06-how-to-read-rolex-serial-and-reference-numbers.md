@@ -87,7 +87,7 @@ This is where buyers get burned. Correct numbers prove only that the case has co
 * **Numbers say nothing about the movement, dial, or hands.** A correct case can hold a replica movement.
 * **Polishing can soften the lug engravings.** Heavily blurred numbers on a watch that is "unpolished" is a contradiction.
 
-The final check is always the same: a qualified watchmaker opens the case. Before that, I use a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=watch+spring+bar+tool" text="spring bar tool" %} only on my own watches, and I ask sellers for a lug shot rather than removing bracelets on somebody else's watch.
+The final check is always the same: a qualified watchmaker opens the case. Before that, I use a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=watch+spring+bar+tool" text="spring bar tool" %} only on my own watches, and I ask sellers for a lug shot rather than removing bracelets on somebody else's watch. A good {% include aff.html network="amazon" url="https://www.amazon.com/s?k=vintage+rolex+book" text="vintage Rolex reference book" %} on the shelf also helps you see what a correct watch from that era should look like.
 
 ## A buyer's sequence that works
 

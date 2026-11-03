@@ -10,7 +10,7 @@ Some links on this site may be affiliate links. If you click one and make a purc
 
 **Programs this site may participate in:**
 
-* **Amazon Associates.** Links to tools, straps, watch winders, and books may point to Amazon. As an Amazon Associate, the site owner earns from qualifying purchases once enrolled in the program.
+* **Amazon Associates.** Links to tools, straps, watch winders, and books may point to Amazon. As an Amazon Associate I earn from qualifying purchases.
 * **eBay Partner Network.** Links to eBay searches or listings may earn a commission on qualifying purchases.
 * **Chrono24 (via the Awin network).** Links to Chrono24 listings may earn a commission on qualifying purchases.
 * **Google AdSense.** The site may display ads served by Google. See the [Privacy Policy](/privacy/) for how that works.

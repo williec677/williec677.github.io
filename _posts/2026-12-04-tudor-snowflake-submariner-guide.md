@@ -57,6 +57,8 @@ The same article notes that Rolex's spare parts commitment runs for at least 35 
 4. **Ask about service history** and whether any part was replaced, and by whom.
 5. **Check the movement** matches the reference, ETA 2483 family for the 7016 and 7021, and 2776 or 2784 for the 9401 and 9411.
 
+Once you own one, a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=20mm+nylon+watch+strap" text="20mm nylon strap" %} in the Navy style suits the watch and saves the original bracelet from daily wear.
+
 ## Modern alternatives
 
 Tudor brought the Snowflake hand back in 2012 with the Pelagos, and it appears on several current models ([Tudor](https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999)). If you love the look but want a modern warranty and water resistance, a current Pelagos is the obvious place to start. If you want the vintage original, plan on patience. Good examples do not come up every week.
