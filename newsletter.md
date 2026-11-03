@@ -4,7 +4,7 @@ title: Follow the Journal
 permalink: /newsletter/
 description: "Get new MrTicTocTalk Journal articles by RSS or email, free."
 ---
-New articles go up every **Tuesday and Friday at 9 AM Eastern**. Pick whichever way of following is easiest for you.
+New guides and release coverage added regularly. Pick whichever way of following is easiest for you.
 
 {% if site.newsletter.followit_url != "" %}
 ## By email
@@ -24,4 +24,4 @@ Copy this feed address into any reader app (Feedly, Inoreader, NetNewsWire, Reed
 
 ## On Instagram
 
-Daily watch talk lives at [@mrtictoctalk](https://www.instagram.com/mrtictoctalk/).
+More watch talk lives at [@mrtictoctalk](https://www.instagram.com/mrtictoctalk/).

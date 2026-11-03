@@ -6,7 +6,21 @@ description: "Who writes the MrTicTocTalk Journal, and how it researches vintage
 ---
 **MrTicTocTalk Journal** is the long form companion to the [MrTicTocTalk Instagram](https://www.instagram.com/mrtictoctalk/). Same motto: *Talking Time. One Watch at a Time.*
 
-I'm Will, a Rolex collector. My own rotation includes a Sea Dweller 126600, a Datejust 36 with a black diamond dial, a Yacht Master 37 in Everose with the chocolate dial, and a GMT Master II 16710 in Coke. The one still on the wish list is a steel Sky Dweller.
+I'm Will, a collector with five Rolexes in the box and a soft spot for great watches at every price. Here is the full rotation:
+
+* Rolex Sea Dweller (2024)
+* Rolex Datejust (2024)
+* Rolex GMT Master II Coke (1989)
+* Rolex Yacht Master 40mm
+* Rolex Oyster Perpetual 100th anniversary 41mm
+* Mido Multifort, brown dial
+* Christopher Ward GMT, blue dial
+* TAG Heuer 911 Carrera 02
+* Hamilton Khaki Field Mechanical
+* Fossil chronograph
+* Omega x Swatch Snoopy Snowflake limited edition
+
+The one still on the wish list is a steel Sky Dweller.
 
 ## What you'll find here
 

@@ -8,7 +8,7 @@ category_label: Reference Guide
 tags: [rolex, datejust, 1601, vintage, dials]
 ig_caption: "The Datejust 1601 might be the best value way into vintage Rolex, and the dials are where the fun is. Pie pan, sigma, linen, Buckley, wide boy. Here is how to tell them apart and how to spot a redial. Full guide on the Journal, link in bio. #rolex #datejust #1601 #piepan #vintagerolex #mrtictoctalk"
 ---
-I wear a modern Datejust 36 with a black diamond dial, and it taught me how good the 36mm Oyster case is on the wrist. The vintage 1601 is where that formula grew up. It is also one of the friendliest ways into vintage Rolex, because Rolex made a lot of them and the dial choices are endless.
+I wear a 2024 Datejust, and it taught me how good the Oyster case is on the wrist. The vintage 1601 is where that formula grew up. It is also one of the friendliest ways into vintage Rolex, because Rolex made a lot of them and the dial choices are endless.
 
 That second part is both the joy and the risk.
 
