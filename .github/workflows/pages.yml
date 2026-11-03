@@ -50,15 +50,21 @@ jobs:
     if: needs.deploy.result == 'success'
     runs-on: ubuntu-latest
     continue-on-error: true
-    permissions: {}
+    permissions:
+      contents: read
     steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
       - name: Ping IndexNow
         env:
           INDEXNOW_KEY: 5908965c96dc3e71d77eefc66b4d9099
           SITE_HOST: mrtictoctalk.com
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
         run: |
           python3 - <<'PY' || echo "IndexNow step failed; ignoring"
-          import datetime, json, os, re, sys, time, urllib.request
+          import datetime, json, os, re, subprocess, sys, time, urllib.request
           key, host = os.environ["INDEXNOW_KEY"], os.environ["SITE_HOST"]
           event = os.environ.get("GITHUB_EVENT_NAME", "")
           time.sleep(60)  # give the Pages CDN a moment to serve the new build
@@ -73,13 +79,15 @@ jobs:
               sys.exit(0)
           entries = re.findall(r"<loc>([^<]+)</loc>(?:\s*<lastmod>([^<]+)</lastmod>)?", xml)
           live = {u for u, _ in entries}
+          print(f"{len(live)} URLs in the live sitemap")
           if event == "workflow_dispatch":
               urls = sorted(live)
           elif event == "push":
-              payload = json.load(open(os.environ["GITHUB_EVENT_PATH"]))
-              changed = set()
-              for c in payload.get("commits", []):
-                  changed.update(c.get("added", []) + c.get("modified", []))
+              before, after = os.environ.get("BEFORE_SHA", ""), os.environ["AFTER_SHA"]
+              rng = [after + "~1", after] if not before or set(before) == {"0"} else [before, after]
+              changed = set(subprocess.run(["git", "diff", "--name-only", "--diff-filter=AM", *rng],
+                                           capture_output=True, text=True).stdout.split())
+              print("Changed files:", sorted(changed))
               urls = []
               for path in sorted(changed):
                   m = re.match(r"_posts/\d{4}-\d{2}-\d{2}-(.+)\.(md|markdown|html)$", path)
