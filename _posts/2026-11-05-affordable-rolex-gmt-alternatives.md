@@ -12,7 +12,7 @@ ig_caption: "The GMT Master II look for a fraction of the price. Seiko, Citizen,
 ---
 Let's get one thing straight. I own a 1989 Rolex GMT Master II Coke, and it is the watch I grab when I get on a plane. I love it. I also know that most people who fall for that two color bezel are not about to drop five figures on a steel sports watch. Good news: you do not have to. An affordable Rolex GMT alternative can give you the 24 hour hand, the bezel, and the travel tool attitude for under $1,000, and a couple of these even copy the way the Rolex actually works.
 
-One honest note before we go. I have not worn the watches below. Everything here comes from the makers' own spec pages and published reviews, every price was checked on the maker's site on November 3, 2026, and each source is named.
+One honest note before we go. Everything below comes from the makers' own spec pages and published reviews, every price was checked on the maker's site on November 3, 2026, and each source is named.
 
 ## Why the GMT Master II costs what it does
 

@@ -21,7 +21,7 @@ I'm Will, a collector with five Rolexes in the box and a soft spot for great wat
 * Citizen Tsuyosa, pink dial
 * Citizen Tsuyosa, Tiffany blue style dial
 * Bulova Precisionist chronograph
-* Grand Seiko GMT
+* Grand Seiko GMT SBGM221
 * Omega x Swatch Snoopy Snowflake limited edition
 
 The one still on the wish list is a steel Sky Dweller.
