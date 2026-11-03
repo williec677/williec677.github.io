@@ -45,6 +45,7 @@ exclude:
   - README.md
   - SETUP.md
   - content-calendar.md   # internal planning file, never publish
+  - release-log.md        # internal news check log, never publish
   - Gemfile
   - Gemfile.lock
   - vendor
