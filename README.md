@@ -1,6 +1,6 @@
 # MrTicTocTalk Journal
 
-Vintage watch buying guides from the collector behind [@mrtictoctalk](https://www.instagram.com/mrtictoctalk/). Live at https://williec677.github.io
+Vintage watch buying guides from the collector behind [@mrtictoctalk](https://www.instagram.com/mrtictoctalk/). Live at https://mrtictoctalk.com
 
 Built with Jekyll on GitHub Pages. See [SETUP.md](SETUP.md) for how to add affiliate IDs, AdSense, and the newsletter from your phone.
 

@@ -6,7 +6,7 @@ description: "Privacy policy for the MrTicTocTalk Journal."
 ---
 _Last updated: November 2, 2026_
 
-This policy explains what happens to information when you visit the MrTicTocTalk Journal (williec677.github.io).
+This policy explains what happens to information when you visit the MrTicTocTalk Journal (mrtictoctalk.com).
 
 ## The short version
 

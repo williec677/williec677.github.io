@@ -25,7 +25,7 @@ Then create a file named `ads.txt` in the repo root containing one line:
 (Use your number without the `ca-` prefix.) If you get EU visitors, turn on Google's free consent message (Privacy & messaging) in AdSense.
 
 ## 5. Newsletter (follow.it, free)
-Create a free follow.it account using the feed `https://williec677.github.io/feed.xml`. Copy your subscribe page URL into:
+Create a free follow.it account using the feed `https://mrtictoctalk.com/feed.xml`. Copy your subscribe page URL into:
 `followit_url: "https://follow.it/..."`
 A subscribe button then appears on the Newsletter page and under every post.
 
