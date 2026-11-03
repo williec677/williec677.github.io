@@ -18,11 +18,7 @@ The site is hosted on GitHub Pages. GitHub may log technical information such as
 
 ## Affiliate links
 
-Some links go to partner sites such as Amazon (through Amazon Associates), eBay (through the eBay Partner Network), or Chrono24 (through the Awin network). If you click one, that site and its affiliate network may set cookies to credit the referral. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner, I may be compensated if you make a purchase through eBay links. Their own privacy policies apply once you leave this site.
-
-## Advertising
-
-If advertising is enabled, the site uses Google AdSense. Third party vendors, including Google, use cookies to serve ads based on your prior visits to this and other websites. Google's use of advertising cookies enables it and its partners to serve ads based on your visits to this site and other sites on the internet. You can opt out of personalized advertising at [Google Ads Settings](https://adssettings.google.com/) and learn more at [How Google uses information from sites that use its services](https://policies.google.com/technologies/partner-sites). You can also opt out of some third party vendors' cookies at [aboutads.info](https://www.aboutads.info/choices/).
+Some links go to partner sites: Amazon (through Amazon Associates) and eBay (through the eBay Partner Network). If you click one, that site and its affiliate network may set cookies to credit the referral. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner, I may be compensated if you make a purchase through eBay links. Their own privacy policies apply once you leave this site.
 
 ## Newsletter
 
