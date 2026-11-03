@@ -18,6 +18,8 @@ I'm Will, a collector with five Rolexes in the box and a soft spot for great wat
 * TAG Heuer 911 Carrera 02
 * Hamilton Khaki Field Mechanical
 * Fossil chronograph
+* Citizen Tsuyosa, pink dial
+* Citizen Tsuyosa, Tiffany blue style dial
 * Omega x Swatch Snoopy Snowflake limited edition
 
 The one still on the wish list is a steel Sky Dweller.
