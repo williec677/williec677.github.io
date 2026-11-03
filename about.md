@@ -14,7 +14,7 @@ I'm Will, a collector with five Rolexes in the box and a soft spot for great wat
 * Rolex Yacht Master 40mm
 * Rolex Oyster Perpetual 100th anniversary 41mm
 * Mido Multifort, brown dial
-* Christopher Ward GMT, blue dial
+* Christopher Ward C60 Trident GMT 300, blue dial
 * TAG Heuer 911 Carrera 02
 * Hamilton Khaki Field Mechanical
 * Fossil chronograph
