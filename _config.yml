@@ -17,16 +17,16 @@ social:
   links:
     - https://www.instagram.com/mrtictoctalk/
 instagram_url: https://www.instagram.com/mrtictoctalk/
-logo: /assets/img/logo.png
+logo: /assets/img/brand/logo-full.png   # Organization logo in jekyll-seo-tag JSON-LD (output as an absolute https URL)
 defaults:
   - scope: { path: "", type: posts }
     values:
       layout: post
-      image: /assets/img/og-default.png
+      image: /assets/img/brand/logo-full.png   # default og:image / twitter:image; a post's own image: overrides it
       affiliate: true
   - scope: { path: "" }
     values:
-      image: /assets/img/og-default.png
+      image: /assets/img/brand/logo-full.png   # default og:image / twitter:image; a post's own image: overrides it
 
 permalink: /:title/
 future: false          # posts dated in the future are NOT built; the daily workflow publishes them on their date

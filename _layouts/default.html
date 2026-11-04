@@ -12,7 +12,7 @@
   <title>{{ title_full | escape }}</title>
   {% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
   {% feed_meta %}
-  <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
+  {% include head-icons.html %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% include adsense-head.html %}
 </head>
@@ -21,9 +21,7 @@
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="brand" href="{{ '/' | relative_url }}">
-        <span class="brand-mark" aria-hidden="true">
-          <svg viewBox="0 0 32 32" width="28" height="28"><circle cx="16" cy="16" r="13" fill="none" stroke="currentColor" stroke-width="2.5"/><path d="M16 8v8l5 3" fill="none" stroke="#c8102e" stroke-width="2.5" stroke-linecap="round"/></svg>
-        </span>
+        <img class="brand-logo" src="{{ '/assets/img/brand/logo-mark.png' | relative_url }}" alt="MrTicTocTalk logo" width="44" height="44">
         <span class="brand-text">MrTicTocTalk <em>Journal</em></span>
       </a>
       <nav class="nav" aria-label="Main">

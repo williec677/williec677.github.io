@@ -55,7 +55,7 @@ image:
   alt: "Rolex GMT Master II 16710 with the Coke bezel on the wrist"
 ```
 
-Posts without an `image:` use the site default card (`/assets/img/og-default.png`). To show an image inside the post, use Markdown with alt text: `![Rolex GMT Master II 16710 on the wrist](/assets/img/posts/rolex-gmt-master-ii-16710-buyers-guide.jpg)`.
+Posts without an `image:` use the site default card, the MrTicTocTalk logo (`/assets/img/brand/logo-full.png`). To show an image inside the post, use Markdown with alt text: `![Rolex GMT Master II 16710 on the wrist](/assets/img/posts/rolex-gmt-master-ii-16710-buyers-guide.jpg)`.
 
 ## IndexNow
 After each successful deploy, the workflow tells IndexNow (used by Bing and others, not Google) about new or changed posts. The key is the file `5908965c96dc3e71d77eefc66b4d9099.txt` in the repo root; do not delete or rename it. If the ping fails, the deploy still counts as a success. To resubmit every URL, run the workflow by hand from the Actions tab (Run workflow).

@@ -10,9 +10,10 @@ a:hover{color:var(--red)}
 .site-header{background:var(--navy);color:#fff;border-bottom:3px solid var(--red)}
 .header-inner{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.4rem 1rem;padding-top:.8rem;padding-bottom:.8rem}
 .brand{display:flex;align-items:center;gap:.5rem;color:#fff;text-decoration:none;font:700 1.15rem/1.1 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;letter-spacing:.01em}
+.brand-logo{display:block;flex:none;width:44px;height:44px;border-radius:10px;box-shadow:0 0 0 1px rgba(255,255,255,.18)}
 .brand em{font-style:normal;color:var(--gold);font-weight:600}
 .brand:hover{color:#fff}
-.nav{display:flex;gap:1rem;font:500 .9rem system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.nav{display:flex;flex-wrap:wrap;gap:.35rem 1rem;font:500 .9rem system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 .nav a{color:#e8e8ee;text-decoration:none}.nav a:hover{color:#fff;text-decoration:underline}
 main{padding-top:1.6rem;padding-bottom:2.5rem}
 h1,h2,h3{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.2;color:var(--navy)}
@@ -49,6 +50,7 @@ h3{font-size:1.1rem;margin:1.5rem 0 .4rem}
 .fine{font-size:.78rem}
 .button{display:inline-block;background:var(--red);color:#fff;padding:.6rem 1rem;border-radius:8px;text-decoration:none;font:600 .95rem system-ui,sans-serif}
 .button:hover{color:#fff;background:#a50d26}
-@media (min-width:700px){body{font-size:19px}h1{font-size:2.3rem}.hero h1{font-size:2.5rem}}
+@media (max-width:380px){.brand-logo{width:40px;height:40px}.brand{font-size:1.05rem}}
+@media (min-width:700px){body{font-size:19px}.brand-logo{width:48px;height:48px;border-radius:11px}h1{font-size:2.3rem}.hero h1{font-size:2.5rem}}
 @media (prefers-color-scheme:dark){:root{--ink:#e9e6df;--muted:#a9adb6;--paper:#111318;--card:#181b22;--line:#2a2e38;--navy:#9fb4e8}
  .site-header{background:#0b1226}.disclosure{background:#1d2028}.shop-callout{background:#1d2028;border-color:#2b2f38}.post-body th,.post-body code{background:#20242d}.post-body blockquote{background:#181b22;color:#d6d3cc}.post-cta{background:#0b1226}}
