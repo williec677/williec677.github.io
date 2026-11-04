@@ -46,6 +46,7 @@ exclude:
   - SETUP.md
   - content-calendar.md   # internal planning file, never publish
   - release-log.md        # internal news check log, never publish
+  - STRAP-FINDER-SOURCES.md  # strap finder source list, kept in the repo only
   - Gemfile
   - Gemfile.lock
   - vendor

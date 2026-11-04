@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{%- assign m = site.data.straps | where: "id", page.strap_id | first -%}
+{%- assign fid = "strap-finder" -%}
+<article class="page strap-model">
+  <p class="kicker"><a href="{{ '/strap-finder/' | relative_url }}">Watch Strap Finder</a></p>
+  <h1>{{ m.brand }} {{ m.model }} strap size</h1>
+  <p class="disclosure">This page contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
+  <p class="strap-answer">{% if m.fit == "standard" %}<strong>{{ m.lug }}mm</strong> lug width.{% elsif m.fit == "integrated" %}<strong>Integrated bracelet.</strong>{% else %}<strong>Proprietary fit.</strong>{% endif %} {{ m.line }}</p>
+  <table class="strap-specs">
+    <tr><th scope="row">Brand</th><td>{{ m.brand }}</td></tr>
+    <tr><th scope="row">Model</th><td>{{ m.model }}</td></tr>
+    <tr><th scope="row">References</th><td>{{ m.refs | join: ", " }}</td></tr>
+    {% if m.case %}<tr><th scope="row">Case size</th><td>{{ m.case }}</td></tr>{% endif %}
+    <tr><th scope="row">Lug width</th><td>{% if m.lug %}{{ m.lug }}mm{% else %}{% if m.fit == "integrated" %}Integrated bracelet{% else %}Proprietary fit{% endif %}{% endif %}</td></tr>
+    <tr><th scope="row">Stock bracelet or strap</th><td>{{ m.stock }}</td></tr>
+    <tr><th scope="row">Strap styles that work</th><td>{{ m.styles | join: ", " }}</td></tr>
+  </table>
+  <h2>Fit notes</h2>
+  <p>{{ m.notes }}</p>
+  <h2>Shop straps that fit</h2>
+  <ul class="strap-shop">
+    {%- for s in m.shop -%}
+    {%- capture u -%}https://www.amazon.com/s?k={{ s.q }}{%- endcapture -%}
+    {%- capture t -%}{{ s.t }} on Amazon{%- endcapture %}
+    <li>{% include aff.html network="amazon" url=u text=t %}</li>
+    {%- endfor %}
+    {%- capture u -%}https://www.ebay.com/sch/i.html?_nkw={{ m.ebay_q }}{%- endcapture -%}
+    {%- capture t -%}{{ m.model | split: " (" | first }} straps on eBay{%- endcapture %}
+    <li>{% include aff.html network="ebay" url=u text=t customid=fid %}</li>
+  </ul>
+  {% if m.fit == "standard" %}<p>Want more options? See every <a href="{{ '/strap-finder/' | relative_url }}#size-{{ m.lug }}">{{ m.lug }}mm watch</a> in the finder.</p>{% else %}<p>See all <a href="{{ '/strap-finder/' | relative_url }}#special-fits">special fit watches</a> in the finder.</p>{% endif %}
+  <h2>Sources</h2>
+  <p class="meta">We checked this lug width against these sources. Always confirm your exact reference before you buy.</p>
+  <ul class="strap-sources">
+    {%- for u in m.sources %}
+    <li><a href="{{ u }}" rel="nofollow noopener" target="_blank">{{ u | remove: "https://" | remove: "www." | split: "/" | first }}</a></li>
+    {%- endfor %}
+  </ul>
+  <p><a class="button" href="{{ '/strap-finder/' | relative_url }}#{{ m.id }}">Back to the Strap Finder</a></p>
+</article>

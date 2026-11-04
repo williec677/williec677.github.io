@@ -1,0 +1,112 @@
+{
+ "sizes": [
+  {
+   "mm": 18,
+   "ids": [
+    "seiko-5-snk809"
+   ]
+  },
+  {
+   "mm": 19,
+   "ids": [
+    "cartier-tank-must-large",
+    "grand-seiko-sbgm221",
+    "omega-aqua-terra-38",
+    "rolex-explorer-36",
+    "tudor-black-bay-36"
+   ]
+  },
+  {
+   "mm": 20,
+   "ids": [
+    "christopher-ward-c60-trident-pro-300",
+    "citizen-promaster-bn0150",
+    "citizen-promaster-fugu",
+    "hamilton-khaki-field-auto-38",
+    "hamilton-khaki-field-mechanical",
+    "iwc-pilot-mark-xviii",
+    "iwc-pilot-mark-xx",
+    "omega-seamaster-300m-2531-80",
+    "omega-aqua-terra-41",
+    "omega-seamaster-300m",
+    "omega-speedmaster-professional",
+    "omega-swatch-moonswatch",
+    "orient-bambino-38",
+    "oris-divers-sixty-five-40",
+    "rolex-air-king-116900",
+    "rolex-daytona",
+    "rolex-datejust-36",
+    "rolex-explorer-39",
+    "rolex-gmt-master-ii-126710",
+    "rolex-gmt-master-ii-116710",
+    "rolex-gmt-master-ii-16710",
+    "rolex-oyster-perpetual-36",
+    "rolex-submariner-40",
+    "rolex-submariner-16610",
+    "rolex-yacht-master-40",
+    "seiko-presage-srpb43",
+    "seiko-alpinist-spb121",
+    "seiko-spb143",
+    "seiko-skx013",
+    "sinn-556",
+    "tag-heuer-carrera-39",
+    "tudor-black-bay-54",
+    "tudor-black-bay-58",
+    "tudor-ranger"
+   ]
+  },
+  {
+   "mm": 21,
+   "ids": [
+    "longines-hydroconquest-41",
+    "longines-spirit-40",
+    "omega-seamaster-300-heritage",
+    "omega-planet-ocean-43-5",
+    "rolex-datejust-41",
+    "rolex-deepsea-136660",
+    "rolex-explorer-40",
+    "rolex-explorer-ii-216570",
+    "rolex-oyster-perpetual-41",
+    "rolex-submariner-41",
+    "rolex-yacht-master-42",
+    "tag-heuer-aquaracer-300",
+    "tissot-gentleman",
+    "tudor-pelagos-39"
+   ]
+  },
+  {
+   "mm": 22,
+   "ids": [
+    "breitling-navitimer-43",
+    "casio-duro-mdv106",
+    "hamilton-khaki-field-auto-42",
+    "mido-multifort",
+    "orient-kamasu",
+    "rolex-sea-dweller-126600",
+    "seiko-5-sports-srpd",
+    "seiko-turtle",
+    "seiko-skx007",
+    "tudor-black-bay-41-master-chronometer",
+    "tudor-black-bay-41",
+    "tudor-black-bay-gmt",
+    "tudor-black-bay-pro",
+    "tudor-pelagos-42"
+   ]
+  },
+  {
+   "mm": 24,
+   "ids": [
+    "bulova-precisionist-96b131",
+    "panerai-luminor-44"
+   ]
+  }
+ ],
+ "special": [
+  "cartier-santos-medium",
+  "casio-g-shock-dw-5600",
+  "casio-g-shock-ga-2100",
+  "citizen-tsuyosa",
+  "tissot-prx-powermatic-80",
+  "tissot-prx-quartz"
+ ]
+}

@@ -1,0 +1,106 @@
+---
+layout: default
+title: "Watch Strap Finder: Lug Width for 76 Popular Watches"
+seo_title: "Watch Strap Finder: Lug Width and Strap Size by Model"
+description: "Find the lug width and strap size for 76 popular watches from Rolex, Omega, Tudor, Seiko, Casio and more. Search by model, filter by size, and shop straps that fit."
+permalink: /strap-finder/
+---
+{%- assign straps = site.data.straps -%}
+{%- assign fid = "strap-finder" -%}
+<article class="page strap-finder">
+  <p class="kicker">Tool</p>
+  <h1>Watch Strap Finder</h1>
+  <p class="disclosure">This page contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
+  <p>Buying a strap is way more fun when it actually fits. Look up your watch below to get its lug width, the strap it came on, and the styles that look killer on it. Every lug width here was checked against the brand or a trusted watch database, and each model page lists its sources. {{ straps.size }} watches so far, from Rolex and Omega down to Casio and Seiko.</p>
+
+  <div class="sf-controls" hidden>
+    <label for="sf-q">Search a brand, model or reference</label>
+    <input id="sf-q" type="search" placeholder="Try Submariner, SKX007 or 126710" autocomplete="off">
+    <label for="sf-w">Lug width</label>
+    <select id="sf-w">
+      <option value="">All sizes</option>
+      {%- for s in site.data.strap_sizes.sizes %}
+      <option value="{{ s.mm }}">{{ s.mm }}mm</option>
+      {%- endfor %}
+      <option value="special">Integrated or proprietary</option>
+    </select>
+    <p class="meta" id="sf-count" aria-live="polite"></p>
+  </div>
+
+  <p class="sf-jump">Jump to a size:{% for s in site.data.strap_sizes.sizes %} <a href="#size-{{ s.mm }}">{{ s.mm }}mm</a>{% endfor %} <a href="#special-fits">Special fits</a></p>
+
+  <h2 id="models">Lug width by watch</h2>
+  <ul class="sf-list" id="sf-list">
+    {%- for m in straps %}
+    <li class="sf-item" id="{{ m.id }}" data-w="{% if m.fit == 'standard' %}{{ m.lug }}{% else %}special{% endif %}" data-s="{{ m.brand | downcase }} {{ m.model | downcase }} {{ m.refs | join: ' ' | downcase }}">
+      <h3><a href="{{ '/strap-finder/' | append: m.id | append: '/' | relative_url }}">{{ m.brand }} {{ m.model }}</a> <span class="sf-badge">{% if m.fit == "standard" %}{{ m.lug }}mm{% elsif m.fit == "integrated" %}Integrated{% else %}Proprietary{% endif %}</span></h3>
+      <p>{{ m.line }}</p>
+      <p class="meta">Stock: {{ m.stock }}. Try: {{ m.styles | join: ", " }}.</p>
+      <p class="meta">{{ m.notes }} <a href="{% if m.fit == 'standard' %}#size-{{ m.lug }}{% else %}#special-fits{% endif %}">Shop straps that fit</a></p>
+    </li>
+    {%- endfor %}
+  </ul>
+  <p class="meta" id="sf-none" hidden>No match yet. Try a shorter search, or measure your lugs with the tips below.</p>
+
+  <h2>Shop straps by lug width</h2>
+  {%- for s in site.data.strap_sizes.sizes %}
+  <section class="sf-size" id="size-{{ s.mm }}">
+    <h3>{{ s.mm }}mm watch straps</h3>
+    <p>These watches take {{ s.mm }}mm straps:{% for id in s.ids %}{% assign m = straps | where: "id", id | first %} <a href="#{{ m.id }}">{{ m.brand }} {{ m.model }}</a>{% unless forloop.last %},{% endunless %}{% endfor %}.</p>
+    <p class="shop-callout"><span class="shop-lead">Shop straps in this size:</span>
+      {% capture u %}https://www.amazon.com/s?k={{ s.mm }}mm+nato+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm NATO straps{% endcapture %}{% include aff.html network="amazon" url=u text=t %},
+      {% capture u %}https://www.amazon.com/s?k={{ s.mm }}mm+rubber+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm rubber straps{% endcapture %}{% include aff.html network="amazon" url=u text=t %},
+      {% capture u %}https://www.amazon.com/s?k={{ s.mm }}mm+leather+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm leather straps{% endcapture %}{% include aff.html network="amazon" url=u text=t %}
+      or {% capture u %}https://www.ebay.com/sch/i.html?_nkw={{ s.mm }}mm+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm straps on eBay{% endcapture %}{% include aff.html network="ebay" url=u text=t customid=fid %}.</p>
+  </section>
+  {%- endfor %}
+  <section class="sf-size" id="special-fits">
+    <h3>Integrated and proprietary fits</h3>
+    <p>These watches do not take regular spring bar straps. Buy straps or adapters made for the exact model.</p>
+    <ul>
+      {%- for id in site.data.strap_sizes.special %}{% assign m = straps | where: "id", id | first %}
+      <li><a href="#{{ m.id }}">{{ m.brand }} {{ m.model }}</a>: {% for s in m.shop %}{% capture u %}https://www.amazon.com/s?k={{ s.q }}{% endcapture %}{% capture t %}{{ s.t }} on Amazon{% endcapture %}{% include aff.html network="amazon" url=u text=t %}{% endfor %}</li>
+      {%- endfor %}
+    </ul>
+  </section>
+
+  <h2 id="measure">How to measure lug width</h2>
+  <p>Grab a caliper or a ruler marked in millimeters. Measure the gap on the inside of the lugs, right where the strap goes in. Round to the nearest whole millimeter. Most watches land on an even number like 18, 20 or 22, but plenty of modern watches use odd sizes like 19 or 21, so do not assume.</p>
+
+  <h2 id="faq">Watch strap FAQ</h2>
+  {%- capture faq -%}
+What is lug width?|Lug width is the distance between the inside edges of the two lugs, where the strap attaches. It is measured in millimeters, and it is the number you need to buy a strap that fits.
+How do I find my watch's lug width?|Search your model or reference in the finder above. If your watch is not listed, measure the inside gap between the lugs with a caliper and round to the nearest millimeter.
+Can I put a 20mm strap on a 21mm watch?|It will go on, but you will see a small gap at each side and the strap can slide around. A 22mm strap usually will not fit 21mm lugs at all. Buy the exact size whenever you can.
+Why do newer Rolex watches use 21mm straps?|Rolex moved several models to 21mm, including the Submariner 41, Datejust 41, Explorer 40 and Oyster Perpetual 41. Older versions of some of these were 20mm, so always check your exact reference.
+Do integrated bracelet watches take normal straps?|Usually not. Watches like the Tissot PRX and Citizen Tsuyosa need straps made for that model. G-Shocks like the DW-5600 and GA-2100 need an adapter first.
+What is a curved end strap?|A curved end strap is shaped to sit flush against the case, with no gap between the strap and the watch. They are popular on Rolex and Omega divers where the lug holes sit close to the case.
+  {%- endcapture -%}
+  {%- assign qs = faq | strip | newline_to_br | split: "<br />" -%}
+  {%- for q in qs -%}{%- assign p = q | strip | split: "|" %}
+  <h3>{{ p[0] }}</h3>
+  <p>{{ p[1] }}</p>
+  {%- endfor %}
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{%- for q in qs -%}{%- assign p = q | strip | split: "|" -%}{"@type":"Question","name":{{ p[0] | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ p[1] | jsonify }}}}{% unless forloop.last %},{% endunless %}{%- endfor -%}]}
+  </script>
+
+  <p class="meta">Spotted a wrong number, or want your watch added? <a href="{{ '/about/' | relative_url }}">Get in touch</a>. Every model page lists where its lug width came from.</p>
+</article>
+<script>
+(function(){
+  var c=document.querySelector('.sf-controls'),q=document.getElementById('sf-q'),w=document.getElementById('sf-w'),
+      items=[].slice.call(document.querySelectorAll('.sf-item')),n=document.getElementById('sf-count'),none=document.getElementById('sf-none');
+  if(!c)return; c.hidden=false;
+  function run(){
+    var t=q.value.toLowerCase().trim().split(/\s+/),v=w.value,k=0;
+    items.forEach(function(el){
+      var s=el.getAttribute('data-s'),ok=(!v||el.getAttribute('data-w')===v)&&t.every(function(x){return s.indexOf(x)>-1;});
+      el.hidden=!ok; if(ok)k++;
+    });
+    n.textContent='Showing '+k+' of '+items.length+' watches';
+    none.hidden=k>0;
+  }
+  q.addEventListener('input',run); w.addEventListener('change',run); run();
+})();
+</script>

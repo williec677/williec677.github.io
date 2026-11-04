@@ -121,7 +121,7 @@ If you are coming to this from vintage pieces like the {% assign sw = site.posts
 
 The PRX is one of the few integrated bracelet watches that rewards a strap swap. Here is what I would actually spend on:
 
-* **A PRX compatible strap.** Thanks to the quick release system, a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=tissot+prx+rubber+strap" text="PRX compatible rubber strap" %} turns it into a summer beach watch in seconds. Check that the listing names the PRX case size you own.
+* **A PRX compatible strap.** Thanks to the quick release system, a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=tissot+prx+rubber+strap" text="PRX compatible rubber strap" %} turns it into a summer beach watch in seconds. Check that the listing names the PRX case size you own. Shopping for straps for the rest of your box too? My [Watch Strap Finder](/strap-finder/) lists the lug width for 76 popular watches.
 * **A link removal tool.** Sizing the bracelet yourself saves a trip to a jeweler. A basic {% include aff.html network="amazon" url="https://www.amazon.com/s?k=watch+link+removal+tool" text="watch link removal tool" %} does the job if you go slowly.
 * **Skip the winder.** With 80 hours of reserve, most people who rotate two or three watches will never need one. Spend that money on the strap.
 

@@ -54,3 +54,22 @@ h3{font-size:1.1rem;margin:1.5rem 0 .4rem}
 @media (min-width:700px){body{font-size:19px}.brand-logo{width:48px;height:48px;border-radius:11px}h1{font-size:2.3rem}.hero h1{font-size:2.5rem}}
 @media (prefers-color-scheme:dark){:root{--ink:#e9e6df;--muted:#a9adb6;--paper:#111318;--card:#181b22;--line:#2a2e38;--navy:#9fb4e8}
  .site-header{background:#0b1226}.disclosure{background:#1d2028}.shop-callout{background:#1d2028;border-color:#2b2f38}.post-body th,.post-body code{background:#20242d}.post-body blockquote{background:#181b22;color:#d6d3cc}.post-cta{background:#0b1226}}
+/* Strap Finder: works without JS; the search box only appears when JS runs */
+[hidden]{display:none!important}
+.sf-controls{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.8rem 1rem;margin:1.2rem 0;font:.9rem system-ui,sans-serif}
+.sf-controls label{display:block;font-weight:600;margin:.3rem 0 .2rem;color:var(--navy)}
+.sf-controls input,.sf-controls select{width:100%;font:1rem system-ui,sans-serif;padding:.55rem .6rem;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink)}
+.sf-jump{font:.9rem/1.8 system-ui,sans-serif}.sf-jump a{margin-right:.35rem}
+.sf-list{list-style:none;padding:0;margin:0}
+.sf-item{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.8rem 1rem;margin:0 0 .8rem;scroll-margin-top:1rem}
+.sf-item:target{border-color:var(--gold);box-shadow:0 0 0 2px var(--gold)}
+.sf-item h3{margin:.1rem 0 .3rem;font-size:1.05rem}.sf-item h3 a{text-decoration:none}
+.sf-item p{margin:.25rem 0;font-size:.95rem}
+.sf-badge{display:inline-block;background:var(--navy);color:#fff;font:700 .75rem system-ui,sans-serif;padding:.15rem .45rem;border-radius:999px;vertical-align:middle;margin-left:.2rem}
+.sf-size{scroll-margin-top:1rem}.sf-size p{font-size:.95rem}
+.strap-answer{font-size:1.1rem}
+.strap-specs{width:100%;border-collapse:collapse;font:.92rem/1.4 system-ui,sans-serif;margin:1rem 0}
+.strap-specs th,.strap-specs td{border:1px solid var(--line);padding:.45rem .55rem;text-align:left;vertical-align:top}
+.strap-specs th{background:#f1ece2;width:38%}
+.strap-sources{font-size:.88rem;color:var(--muted)}
+@media (prefers-color-scheme:dark){.sf-badge{background:#2c3a5e}.strap-specs th{background:#20242d}}

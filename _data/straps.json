@@ -1,0 +1,2851 @@
+[
+ {
+  "id": "breitling-navitimer-43",
+  "brand": "Breitling",
+  "model": "Navitimer B01 Chronograph 43",
+  "refs": [
+   "AB0138"
+  ],
+  "case": "43mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Steel bracelet or leather strap",
+  "styles": [
+   "Leather",
+   "Alligator style leather"
+  ],
+  "notes": "The 43mm Navitimer is 22mm. We have not confirmed the 41mm and 46mm sizes yet.",
+  "sources": [
+   "https://watchbase.com/breitling/x/ab0138211b1a1"
+  ],
+  "line": "The Breitling Navitimer B01 Chronograph 43 (AB0138) has a 22mm lug width and a 43mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm leather strap",
+    "q": "22mm+leather+watch+strap"
+   },
+   {
+    "t": "22mm alligator grain leather strap",
+    "q": "22mm+alligator+grain+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "breitling+navitimer+b01+chronograph+43+strap"
+ },
+ {
+  "id": "bulova-precisionist-96b131",
+  "brand": "Bulova",
+  "model": "Precisionist Champlain",
+  "refs": [
+   "96B131"
+  ],
+  "case": null,
+  "lug": 24,
+  "fit": "standard",
+  "stock": "Steel bracelet",
+  "styles": [
+   "Rubber",
+   "Leather"
+  ],
+  "notes": "A big 24mm, so look for wide rubber or leather straps.",
+  "sources": [
+   "https://wristsushi.proboards.com/thread/13558/bulova-precisionist-champlain-96b131",
+   "https://www.bablas.co.uk/bulova-precisionist-gents-watch-96b131.html"
+  ],
+  "line": "The Bulova Precisionist Champlain (96B131) has a 24mm lug width, so it takes 24mm straps.",
+  "shop": [
+   {
+    "t": "24mm rubber strap",
+    "q": "24mm+rubber+watch+strap"
+   },
+   {
+    "t": "24mm leather strap",
+    "q": "24mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "bulova+precisionist+champlain+strap"
+ },
+ {
+  "id": "cartier-santos-medium",
+  "brand": "Cartier",
+  "model": "Santos de Cartier Medium",
+  "refs": [
+   "WSSA0029"
+  ],
+  "case": "35mm",
+  "lug": null,
+  "fit": "proprietary",
+  "stock": "Steel bracelet plus leather strap (QuickSwitch)",
+  "styles": [
+   "Cartier QuickSwitch leather",
+   "Cartier QuickSwitch rubber"
+  ],
+  "notes": "Uses Cartier's QuickSwitch system, about 18mm at the case. Regular spring bar straps do not fit, and Medium and Large QuickSwitch straps are not interchangeable.",
+  "sources": [
+   "https://ateliertaha.com/blogs/journal/cartier-santos-quickswitch-strap-guide"
+  ],
+  "line": "The Cartier Santos de Cartier Medium (WSSA0029) uses a proprietary strap fitting and a 35mm case, so standard spring bar straps do not fit without a model specific strap or adapter.",
+  "shop": [
+   {
+    "t": "Santos de Cartier Medium compatible straps",
+    "q": "cartier+santos+quickswitch+strap"
+   }
+  ],
+  "ebay_q": "cartier+santos+de+cartier+medium+strap"
+ },
+ {
+  "id": "cartier-tank-must-large",
+  "brand": "Cartier",
+  "model": "Tank Must Large",
+  "refs": [
+   "WSTA0041"
+  ],
+  "case": "33.7 x 25.5mm",
+  "lug": 19,
+  "fit": "standard",
+  "stock": "Leather strap",
+  "styles": [
+   "Leather",
+   "Suede",
+   "Alligator style leather"
+  ],
+  "notes": "The Tank Must Large is 19mm. A slim leather strap keeps the dressy look.",
+  "sources": [
+   "https://www.cortinawatch.com/th/en/cartier/tank/wsta0041/",
+   "https://helvetus.com/blogs/cartier-strap-guide/cartier-tank-must-wsta0041-strap-guide"
+  ],
+  "line": "The Cartier Tank Must Large (WSTA0041) has a 19mm lug width and a 33.7 x 25.5mm case, so it takes 19mm straps.",
+  "shop": [
+   {
+    "t": "19mm leather strap",
+    "q": "19mm+leather+watch+strap"
+   },
+   {
+    "t": "19mm suede strap",
+    "q": "19mm+suede+watch+strap"
+   },
+   {
+    "t": "19mm alligator grain leather strap",
+    "q": "19mm+alligator+grain+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "cartier+tank+must+large+strap"
+ },
+ {
+  "id": "casio-duro-mdv106",
+  "brand": "Casio",
+  "model": "Duro MDV106",
+  "refs": [
+   "MDV106",
+   "MDV-106"
+  ],
+  "case": "44mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Resin strap",
+  "styles": [
+   "NATO",
+   "Rubber",
+   "Jubilee style bracelet"
+  ],
+  "notes": "The Duro is 22mm and might be the best value strap monster on this list.",
+  "sources": [
+   "https://watchthedetails.com/watches/casio/mdv-106",
+   "https://12and60.com/casio-duro-mdv-106-watch-review/"
+  ],
+  "line": "The Casio Duro MDV106 (MDV106, MDV-106) has a 22mm lug width and a 44mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   },
+   {
+    "t": "22mm rubber strap",
+    "q": "22mm+rubber+watch+strap"
+   },
+   {
+    "t": "22mm jubilee style bracelet",
+    "q": "22mm+jubilee+style+watch+bracelet"
+   }
+  ],
+  "ebay_q": "casio+duro+mdv106+strap"
+ },
+ {
+  "id": "casio-g-shock-dw-5600",
+  "brand": "Casio",
+  "model": "G-Shock DW-5600",
+  "refs": [
+   "DW-5600E"
+  ],
+  "case": null,
+  "lug": null,
+  "fit": "proprietary",
+  "stock": "Resin strap",
+  "styles": [
+   "G-Shock adapter plus NATO",
+   "G-Shock adapter plus rubber"
+  ],
+  "notes": "Proprietary 16mm resin mount. Use a DW-5600 adapter kit, then a 22mm or 24mm strap.",
+  "sources": [
+   "https://www.strapify.com.au/products/g-shock-16mm-to-22mm-adapter",
+   "https://www.strapmod.com/guides/watch-lug-width-chart/"
+  ],
+  "line": "The Casio G-Shock DW-5600 (DW-5600E) uses a proprietary strap fitting, so standard spring bar straps do not fit without a model specific strap or adapter.",
+  "shop": [
+   {
+    "t": "G-Shock DW-5600 compatible straps",
+    "q": "dw5600+strap+adapter"
+   }
+  ],
+  "ebay_q": "casio+g+shock+dw+5600+strap"
+ },
+ {
+  "id": "casio-g-shock-ga-2100",
+  "brand": "Casio",
+  "model": "G-Shock GA-2100 (CasiOak)",
+  "refs": [
+   "GA-2100",
+   "GA-B2100"
+  ],
+  "case": "45.4mm",
+  "lug": null,
+  "fit": "proprietary",
+  "stock": "Resin strap",
+  "styles": [
+   "G-Shock adapter plus NATO",
+   "G-Shock adapter plus rubber"
+  ],
+  "notes": "Proprietary mount with 16mm spring bar holes. Casio and others sell adapters that let you use 20mm or 22mm straps.",
+  "sources": [
+   "https://www.g-central.com/how-to-get-official-strap-adapters-for-g-shock-dw-5600-ga-2100-ga-b2100-gm-2100/",
+   "https://watchstrapsize.com/casio-g-shock-ga-2100-casioak-strap-size/"
+  ],
+  "line": "The Casio G-Shock GA-2100 (CasiOak) (GA-2100, GA-B2100) uses a proprietary strap fitting and a 45.4mm case, so standard spring bar straps do not fit without a model specific strap or adapter.",
+  "shop": [
+   {
+    "t": "G-Shock GA-2100 compatible straps",
+    "q": "ga2100+strap+adapter"
+   }
+  ],
+  "ebay_q": "casio+g+shock+ga+2100+strap"
+ },
+ {
+  "id": "christopher-ward-c60-trident-pro-300",
+  "brand": "Christopher Ward",
+  "model": "C60 Trident Pro 300 (40mm)",
+  "refs": [
+   "C60-40ADA31S0KK1"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet or rubber strap",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Sailcloth"
+  ],
+  "notes": "Christopher Ward lists 20mm for the 40mm case.",
+  "sources": [
+   "https://www.christopherward.com/trident-pro-300-watches/c60-trident-pro-300/C60-40ADA31S0KK1-B0.html"
+  ],
+  "line": "The Christopher Ward C60 Trident Pro 300 (40mm) (C60-40ADA31S0KK1) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm sailcloth strap",
+    "q": "20mm+sailcloth+watch+strap"
+   }
+  ],
+  "ebay_q": "christopher+ward+c60+trident+pro+300+strap"
+ },
+ {
+  "id": "citizen-promaster-bn0150",
+  "brand": "Citizen",
+  "model": "Promaster Diver BN0150",
+  "refs": [
+   "BN0150-28E",
+   "BN0150"
+  ],
+  "case": "44mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Rubber strap",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Canvas"
+  ],
+  "notes": "Citizen lists a 20mm lug width on the official product page.",
+  "sources": [
+   "https://www.citizenwatch.com/us/en/product/BN0150-28E.html"
+  ],
+  "line": "The Citizen Promaster Diver BN0150 (BN0150-28E, BN0150) has a 20mm lug width and a 44mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm canvas strap",
+    "q": "20mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "citizen+promaster+diver+bn0150+strap"
+ },
+ {
+  "id": "citizen-promaster-fugu",
+  "brand": "Citizen",
+  "model": "Promaster Fugu NY0040",
+  "refs": [
+   "NY0040-09E",
+   "NY0040"
+  ],
+  "case": null,
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Rubber strap",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Jubilee style bracelet"
+  ],
+  "notes": "The Fugu takes 20mm, and Citizen's own replacement bracelet for it is 20mm.",
+  "sources": [
+   "https://rolliponiz.it/en/products/bracciale-59-r00684-20mm-per-citizen-promaster-ny0040-ny0084-ny0085-ny0086-fugu",
+   "https://timevibe.fi/product/citizen-ny0040-09e-promaster-fugu/"
+  ],
+  "line": "The Citizen Promaster Fugu NY0040 (NY0040-09E, NY0040) has a 20mm lug width, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm jubilee style bracelet",
+    "q": "20mm+jubilee+style+watch+bracelet"
+   }
+  ],
+  "ebay_q": "citizen+promaster+fugu+ny0040+strap"
+ },
+ {
+  "id": "citizen-tsuyosa",
+  "brand": "Citizen",
+  "model": "Tsuyosa",
+  "refs": [
+   "NJ0150"
+  ],
+  "case": "40mm",
+  "lug": null,
+  "fit": "integrated",
+  "stock": "Integrated bracelet",
+  "styles": [
+   "Integrated bracelet only"
+  ],
+  "notes": "The Tsuyosa uses an integrated bracelet. Citizen lists the lug width as just 9.1mm, so normal straps do not fit without a model specific adapter.",
+  "sources": [
+   "https://www.citizenwatch.com/us/en/product/NJ0150-56W.html"
+  ],
+  "line": "The Citizen Tsuyosa (NJ0150) uses an integrated bracelet and a 40mm case, so standard spring bar straps do not fit without a model specific strap or adapter.",
+  "shop": [
+   {
+    "t": "Tsuyosa compatible straps",
+    "q": null
+   }
+  ],
+  "ebay_q": "citizen+tsuyosa+strap"
+ },
+ {
+  "id": "grand-seiko-sbgm221",
+  "brand": "Grand Seiko",
+  "model": "SBGM221 GMT",
+  "refs": [
+   "SBGM221"
+  ],
+  "case": "39.5mm",
+  "lug": 19,
+  "fit": "standard",
+  "stock": "Leather strap",
+  "styles": [
+   "Leather",
+   "Suede",
+   "Alligator style leather"
+  ],
+  "notes": "The cream dial GS GMT is 19mm. It is a dress watch at heart, so stick with slim leather.",
+  "sources": [
+   "https://tempuseuropa.com/en/reference/grand-seiko-elegance-gmt-sbgm221",
+   "https://www.theseikoguy.com/watches/sbgm221",
+   "https://grandseikoboutique.us/products/watch-automatic-gmt-strap-sbgm221"
+  ],
+  "line": "The Grand Seiko SBGM221 GMT (SBGM221) has a 19mm lug width and a 39.5mm case, so it takes 19mm straps.",
+  "shop": [
+   {
+    "t": "19mm leather strap",
+    "q": "19mm+leather+watch+strap"
+   },
+   {
+    "t": "19mm suede strap",
+    "q": "19mm+suede+watch+strap"
+   },
+   {
+    "t": "19mm alligator grain leather strap",
+    "q": "19mm+alligator+grain+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "grand+seiko+sbgm221+gmt+strap"
+ },
+ {
+  "id": "hamilton-khaki-field-auto-38",
+  "brand": "Hamilton",
+  "model": "Khaki Field Auto 38",
+  "refs": [
+   "H70455533",
+   "H70455"
+  ],
+  "case": "38mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet, leather or fabric strap",
+  "styles": [
+   "NATO",
+   "Leather",
+   "Canvas"
+  ],
+  "notes": "The 38mm Khaki Field Auto is 20mm.",
+  "sources": [
+   "https://watchbase.com/hamilton/x/h70455533"
+  ],
+  "line": "The Hamilton Khaki Field Auto 38 (H70455533, H70455) has a 20mm lug width and a 38mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm canvas strap",
+    "q": "20mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "hamilton+khaki+field+auto+38+strap"
+ },
+ {
+  "id": "hamilton-khaki-field-auto-42",
+  "brand": "Hamilton",
+  "model": "Khaki Field Auto 42",
+  "refs": [
+   "H70555533",
+   "H70555"
+  ],
+  "case": "42mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Steel bracelet, leather or fabric strap",
+  "styles": [
+   "NATO",
+   "Leather",
+   "Canvas"
+  ],
+  "notes": "The 42mm Khaki Field Auto steps up to 22mm.",
+  "sources": [
+   "https://watchbase.com/hamilton/x/h70555533"
+  ],
+  "line": "The Hamilton Khaki Field Auto 42 (H70555533, H70555) has a 22mm lug width and a 42mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   },
+   {
+    "t": "22mm leather strap",
+    "q": "22mm+leather+watch+strap"
+   },
+   {
+    "t": "22mm canvas strap",
+    "q": "22mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "hamilton+khaki+field+auto+42+strap"
+ },
+ {
+  "id": "hamilton-khaki-field-mechanical",
+  "brand": "Hamilton",
+  "model": "Khaki Field Mechanical 38",
+  "refs": [
+   "H69439931",
+   "H69439"
+  ],
+  "case": "38mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Fabric (NATO style) or leather strap",
+  "styles": [
+   "NATO",
+   "Canvas",
+   "Leather"
+  ],
+  "notes": "Hamilton's field watch is 20mm and lives on NATO straps.",
+  "sources": [
+   "https://watchbase.com/hamilton/x/h69439931"
+  ],
+  "line": "The Hamilton Khaki Field Mechanical 38 (H69439931, H69439) has a 20mm lug width and a 38mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm canvas strap",
+    "q": "20mm+canvas+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "hamilton+khaki+field+mechanical+38+strap"
+ },
+ {
+  "id": "iwc-pilot-mark-xviii",
+  "brand": "IWC",
+  "model": "Pilot's Watch Mark XVIII",
+  "refs": [
+   "IW327001"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Leather strap",
+  "styles": [
+   "Leather",
+   "NATO",
+   "Canvas"
+  ],
+  "notes": "The Mark XVIII is 20mm, same as the Mark XX.",
+  "sources": [
+   "https://watchbase.com/iwc/x/iw327001"
+  ],
+  "line": "The IWC Pilot's Watch Mark XVIII (IW327001) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm canvas strap",
+    "q": "20mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "iwc+pilot+s+watch+mark+xviii+strap"
+ },
+ {
+  "id": "iwc-pilot-mark-xx",
+  "brand": "IWC",
+  "model": "Pilot's Watch Mark XX",
+  "refs": [
+   "IW328201"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Leather strap or steel bracelet",
+  "styles": [
+   "Leather",
+   "NATO",
+   "Canvas"
+  ],
+  "notes": "The Mark XX is 20mm.",
+  "sources": [
+   "https://watchbase.com/iwc/x/iw328201"
+  ],
+  "line": "The IWC Pilot's Watch Mark XX (IW328201) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm canvas strap",
+    "q": "20mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "iwc+pilot+s+watch+mark+xx+strap"
+ },
+ {
+  "id": "longines-hydroconquest-41",
+  "brand": "Longines",
+  "model": "HydroConquest 41mm",
+  "refs": [
+   "L3.781"
+  ],
+  "case": "41mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Steel bracelet or rubber strap",
+  "styles": [
+   "Rubber",
+   "NATO"
+  ],
+  "notes": "The 41mm HydroConquest is 21mm.",
+  "sources": [
+   "https://watchbase.com/longines/x/l3-781-4-56-6"
+  ],
+  "line": "The Longines HydroConquest 41mm (L3.781) has a 21mm lug width and a 41mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm rubber strap",
+    "q": "21mm+rubber+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "longines+hydroconquest+41mm+strap"
+ },
+ {
+  "id": "longines-spirit-40",
+  "brand": "Longines",
+  "model": "Spirit 40mm",
+  "refs": [
+   "L3.810"
+  ],
+  "case": "40mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Steel bracelet or leather strap",
+  "styles": [
+   "Leather",
+   "NATO",
+   "Canvas"
+  ],
+  "notes": "The 40mm Spirit pilot watch is 21mm.",
+  "sources": [
+   "https://watchbase.com/longines/x/l3-810-4-73-6",
+   "https://watchstrapsize.com/longines-spirit-40-strap-size/"
+  ],
+  "line": "The Longines Spirit 40mm (L3.810) has a 21mm lug width and a 40mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm leather strap",
+    "q": "21mm+leather+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   },
+   {
+    "t": "21mm canvas strap",
+    "q": "21mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "longines+spirit+40mm+strap"
+ },
+ {
+  "id": "mido-multifort",
+  "brand": "Mido",
+  "model": "Multifort Automatic",
+  "refs": [
+   "M005.430"
+  ],
+  "case": "42mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Steel bracelet",
+  "styles": [
+   "Leather",
+   "NATO",
+   "Rubber"
+  ],
+  "notes": "The 42mm Multifort is 22mm.",
+  "sources": [
+   "https://watchbase.com/mido/x/m005-430-11-031-80"
+  ],
+  "line": "The Mido Multifort Automatic (M005.430) has a 22mm lug width and a 42mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm leather strap",
+    "q": "22mm+leather+watch+strap"
+   },
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   },
+   {
+    "t": "22mm rubber strap",
+    "q": "22mm+rubber+watch+strap"
+   }
+  ],
+  "ebay_q": "mido+multifort+automatic+strap"
+ },
+ {
+  "id": "omega-seamaster-300-heritage",
+  "brand": "Omega",
+  "model": "Seamaster 300 (41mm)",
+  "refs": [
+   "234.30.41.21.01.001"
+  ],
+  "case": "41mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Steel bracelet",
+  "styles": [
+   "Leather",
+   "NATO",
+   "Rubber"
+  ],
+  "notes": "The heritage style Seamaster 300 uses 21mm lugs.",
+  "sources": [
+   "https://watchbase.com/omega/x/234-30-41-21-01-001"
+  ],
+  "line": "The Omega Seamaster 300 (41mm) (234.30.41.21.01.001) has a 21mm lug width and a 41mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm leather strap",
+    "q": "21mm+leather+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   },
+   {
+    "t": "21mm rubber strap",
+    "q": "21mm+rubber+watch+strap"
+   }
+  ],
+  "ebay_q": "omega+seamaster+300+strap"
+ },
+ {
+  "id": "omega-seamaster-300m-2531-80",
+  "brand": "Omega",
+  "model": "Seamaster 300M 2531.80 (41mm)",
+  "refs": [
+   "2531.80"
+  ],
+  "case": "41mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Leather"
+  ],
+  "notes": "The Bond era wave dial Seamaster is 20mm, same as the current one.",
+  "sources": [
+   "https://www.omegawatches.com/en-us/watch-omega-seamaster-300-m-chronometer-25318000",
+   "https://www.bernardwatch.com/Omega/Seamaster-Professional/OMG4521"
+  ],
+  "line": "The Omega Seamaster 300M 2531.80 (41mm) (2531.80) has a 20mm lug width and a 41mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "omega+seamaster+300m+2531+80+strap"
+ },
+ {
+  "id": "omega-aqua-terra-38",
+  "brand": "Omega",
+  "model": "Seamaster Aqua Terra 38mm",
+  "refs": [
+   "220.10.38.20.01.001",
+   "220.10.38.20.10.001"
+  ],
+  "case": "38mm",
+  "lug": 19,
+  "fit": "standard",
+  "stock": "Steel bracelet or leather strap",
+  "styles": [
+   "Leather",
+   "Suede",
+   "Rubber"
+  ],
+  "notes": "The 38mm Aqua Terra is 19mm, a size that is harder to find than 20mm.",
+  "sources": [
+   "https://watchbase.com/omega/x/220-10-38-20-01-001",
+   "https://www.omegawatches.com/media/pdf/watches/product-sheet/us/en-us/22010382010001-en-us.pdf"
+  ],
+  "line": "The Omega Seamaster Aqua Terra 38mm (220.10.38.20.01.001, 220.10.38.20.10.001) has a 19mm lug width and a 38mm case, so it takes 19mm straps.",
+  "shop": [
+   {
+    "t": "19mm leather strap",
+    "q": "19mm+leather+watch+strap"
+   },
+   {
+    "t": "19mm suede strap",
+    "q": "19mm+suede+watch+strap"
+   },
+   {
+    "t": "19mm rubber strap",
+    "q": "19mm+rubber+watch+strap"
+   }
+  ],
+  "ebay_q": "omega+seamaster+aqua+terra+38mm+strap"
+ },
+ {
+  "id": "omega-aqua-terra-41",
+  "brand": "Omega",
+  "model": "Seamaster Aqua Terra 41mm",
+  "refs": [
+   "220.10.41.21.01.001",
+   "220.10.41.21.03.001"
+  ],
+  "case": "41mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet, leather or rubber strap",
+  "styles": [
+   "Leather",
+   "Rubber",
+   "NATO"
+  ],
+  "notes": "Omega lists 20mm between the lugs on the 41mm Aqua Terra.",
+  "sources": [
+   "https://watchbase.com/omega/x/220-10-41-21-01-001",
+   "https://www.omegawatches.com/media/pdf/watches/product-sheet/us/en-us/22010412103004-en-us.pdf"
+  ],
+  "line": "The Omega Seamaster Aqua Terra 41mm (220.10.41.21.01.001, 220.10.41.21.03.001) has a 20mm lug width and a 41mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "omega+seamaster+aqua+terra+41mm+strap"
+ },
+ {
+  "id": "omega-seamaster-300m",
+  "brand": "Omega",
+  "model": "Seamaster Diver 300M (42mm)",
+  "refs": [
+   "210.30.42.20.01.001",
+   "210.30.42.20.03.001"
+  ],
+  "case": "42mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet or rubber strap",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Leather",
+   "Mesh"
+  ],
+  "notes": "The current Seamaster 300M is 20mm. The lugs are fairly long and curved, so curved end rubber hugs it nicely.",
+  "sources": [
+   "https://watchbase.com/omega/x/210-30-42-20-01-001",
+   "https://watchbase.com/omega/x/210-30-42-20-03-001"
+  ],
+  "line": "The Omega Seamaster Diver 300M (42mm) (210.30.42.20.01.001, 210.30.42.20.03.001) has a 20mm lug width and a 42mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "omega+seamaster+diver+300m+strap"
+ },
+ {
+  "id": "omega-planet-ocean-43-5",
+  "brand": "Omega",
+  "model": "Seamaster Planet Ocean 43.5mm",
+  "refs": [
+   "215.30.44.21.01.001"
+  ],
+  "case": "43.5mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Steel bracelet or rubber strap",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Sailcloth"
+  ],
+  "notes": "The 43.5mm Planet Ocean is 21mm.",
+  "sources": [
+   "https://watchbase.com/omega/x/215-30-44-21-01-001"
+  ],
+  "line": "The Omega Seamaster Planet Ocean 43.5mm (215.30.44.21.01.001) has a 21mm lug width and a 43.5mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm rubber strap",
+    "q": "21mm+rubber+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   },
+   {
+    "t": "21mm sailcloth strap",
+    "q": "21mm+sailcloth+watch+strap"
+   }
+  ],
+  "ebay_q": "omega+seamaster+planet+ocean+43+5mm+strap"
+ },
+ {
+  "id": "omega-speedmaster-professional",
+  "brand": "Omega",
+  "model": "Speedmaster Professional Moonwatch",
+  "refs": [
+   "310.30.42.50.01.001",
+   "310.30.42.50.01.002",
+   "311.30.42.30.01.005"
+  ],
+  "case": "42mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet",
+  "styles": [
+   "NATO",
+   "Leather",
+   "Velcro",
+   "Rubber"
+  ],
+  "notes": "The Moonwatch is 20mm and one of the best strap swap watches ever made. Older 3570.50 and 311 references are also 20mm.",
+  "sources": [
+   "https://watchbase.com/omega/x/310-30-42-50-01-001",
+   "https://watchbase.com/omega/x/311-30-42-30-01-005"
+  ],
+  "line": "The Omega Speedmaster Professional Moonwatch (310.30.42.50.01.001, 310.30.42.50.01.002, 311.30.42.30.01.005) has a 20mm lug width and a 42mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm velcro strap",
+    "q": "20mm+velcro+watch+strap"
+   }
+  ],
+  "ebay_q": "omega+speedmaster+professional+moonwatch+strap"
+ },
+ {
+  "id": "omega-swatch-moonswatch",
+  "brand": "Omega x Swatch",
+  "model": "MoonSwatch",
+  "refs": [
+   "SO33M100 and all Mission models"
+  ],
+  "case": "42mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Velcro strap",
+  "styles": [
+   "Velcro",
+   "NATO",
+   "Rubber"
+  ],
+  "notes": "20mm, but the bioceramic lugs are short and the case is light, so thin NATO or Velcro straps work better than thick leather. Use quick release spring bars to avoid scratching the lugs.",
+  "sources": [
+   "https://watchbase.com/swatch/x/so33m100"
+  ],
+  "line": "The Omega x Swatch MoonSwatch (SO33M100 and all Mission models) has a 20mm lug width and a 42mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm velcro strap",
+    "q": "20mm+velcro+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   }
+  ],
+  "ebay_q": "swatch+moonswatch+strap"
+ },
+ {
+  "id": "orient-bambino-38",
+  "brand": "Orient",
+  "model": "Bambino 38 (Version 7)",
+  "refs": [
+   "RA-AC0M"
+  ],
+  "case": "38.4mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Leather strap or steel bracelet",
+  "styles": [
+   "Leather",
+   "Suede",
+   "Mesh"
+  ],
+  "notes": "Orient lists 20mm for the 38.4mm Bambino. The bigger 40.5mm Bambino versions use a different width, so check your case size.",
+  "sources": [
+   "https://www.orientwatchusa.com/products/ra-ac0m04y30b",
+   "https://www.orientwatchusa.com/products/ra-ac0m03s30b"
+  ],
+  "line": "The Orient Bambino 38 (Version 7) (RA-AC0M) has a 20mm lug width and a 38.4mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm suede strap",
+    "q": "20mm+suede+watch+strap"
+   },
+   {
+    "t": "20mm mesh bracelet",
+    "q": "20mm+mesh+watch+bracelet"
+   }
+  ],
+  "ebay_q": "orient+bambino+38+strap"
+ },
+ {
+  "id": "orient-kamasu",
+  "brand": "Orient",
+  "model": "Kamasu",
+  "refs": [
+   "RA-AA0004",
+   "RA-AA0001"
+  ],
+  "case": "41.8mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Steel bracelet",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Leather"
+  ],
+  "notes": "Orient lists 22mm for the Kamasu.",
+  "sources": [
+   "https://www.orientwatchusa.com/products/ra-aa0004e39b",
+   "https://www.orientwatch.co.uk/or/en_GB/c/orient-mako/p/RA-AA0004E"
+  ],
+  "line": "The Orient Kamasu (RA-AA0004, RA-AA0001) has a 22mm lug width and a 41.8mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm rubber strap",
+    "q": "22mm+rubber+watch+strap"
+   },
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   },
+   {
+    "t": "22mm leather strap",
+    "q": "22mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "orient+kamasu+strap"
+ },
+ {
+  "id": "oris-divers-sixty-five-40",
+  "brand": "Oris",
+  "model": "Divers Sixty-Five 40mm",
+  "refs": [
+   "01 733 7707 4053"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet or leather strap",
+  "styles": [
+   "Leather",
+   "NATO",
+   "Rubber"
+  ],
+  "notes": "Oris lists 20mm on the 40mm Divers Sixty-Five.",
+  "sources": [
+   "https://www.oris.ch/en-US/product/watch/divers/divers-sixty-five/01-733-7707-4053-07-8-20-18"
+  ],
+  "line": "The Oris Divers Sixty-Five 40mm (01 733 7707 4053) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   }
+  ],
+  "ebay_q": "oris+divers+sixty+five+40mm+strap"
+ },
+ {
+  "id": "panerai-luminor-44",
+  "brand": "Panerai",
+  "model": "Luminor 44mm",
+  "refs": [
+   "PAM01312",
+   "PAM00510"
+  ],
+  "case": "44mm",
+  "lug": 24,
+  "fit": "standard",
+  "stock": "Leather strap",
+  "styles": [
+   "Leather",
+   "Rubber",
+   "Canvas",
+   "Sailcloth"
+  ],
+  "notes": "The 44mm Luminor is 24mm. Panerai straps use a tube and screw system on many cases, so check your lug hardware before buying.",
+  "sources": [
+   "https://watchbase.com/panerai/x/pam01312",
+   "https://watchbase.com/panerai/x/pam00510"
+  ],
+  "line": "The Panerai Luminor 44mm (PAM01312, PAM00510) has a 24mm lug width and a 44mm case, so it takes 24mm straps.",
+  "shop": [
+   {
+    "t": "24mm leather strap",
+    "q": "24mm+leather+watch+strap"
+   },
+   {
+    "t": "24mm rubber strap",
+    "q": "24mm+rubber+watch+strap"
+   },
+   {
+    "t": "24mm canvas strap",
+    "q": "24mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "panerai+luminor+44mm+strap"
+ },
+ {
+  "id": "rolex-air-king-116900",
+  "brand": "Rolex",
+  "model": "Air-King 116900",
+  "refs": [
+   "116900"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "NATO",
+   "Leather",
+   "Rubber"
+  ],
+  "notes": "This is the 116900. We have not confirmed the newer 126900 yet, so it is not listed.",
+  "sources": [
+   "https://watchbase.com/rolex/x/116900"
+  ],
+  "line": "The Rolex Air-King 116900 (116900) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+air+king+116900+strap"
+ },
+ {
+  "id": "rolex-daytona",
+  "brand": "Rolex",
+  "model": "Cosmograph Daytona (steel)",
+  "refs": [
+   "126500LN",
+   "116500LN"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Rubber (curved end)",
+   "Leather",
+   "Oyster style bracelet"
+  ],
+  "notes": "Both recent steel Daytonas are 20mm. Leather racing straps look sharp on them.",
+  "sources": [
+   "https://watchbase.com/rolex/daytona/126500ln-0001",
+   "https://watchbase.com/rolex/daytona/116500ln-0001",
+   "https://www.modacommunities.com/glossary/guides/rolex-bracelets"
+  ],
+  "line": "The Rolex Cosmograph Daytona (steel) (126500LN, 116500LN) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm curved end rubber strap",
+    "q": "20mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm oyster style bracelet",
+    "q": "20mm+oyster+style+watch+bracelet"
+   }
+  ],
+  "ebay_q": "rolex+cosmograph+daytona+strap"
+ },
+ {
+  "id": "rolex-datejust-36",
+  "brand": "Rolex",
+  "model": "Datejust 36",
+  "refs": [
+   "126200",
+   "126234",
+   "116234"
+  ],
+  "case": "36mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Jubilee or Oyster bracelet",
+  "styles": [
+   "Jubilee style bracelet",
+   "Leather",
+   "Suede",
+   "Oyster style bracelet"
+  ],
+  "notes": "The 36mm Datejust has been 20mm for generations. A dressy leather or suede strap looks great on it.",
+  "sources": [
+   "https://watchbase.com/rolex/datejust/126200-0001",
+   "https://watchbase.com/rolex/datejust/126234-0011",
+   "https://watchbase.com/rolex/datejust/116234-0078"
+  ],
+  "line": "The Rolex Datejust 36 (126200, 126234, 116234) has a 20mm lug width and a 36mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm jubilee style bracelet",
+    "q": "20mm+jubilee+style+watch+bracelet"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm suede strap",
+    "q": "20mm+suede+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+datejust+36+strap"
+ },
+ {
+  "id": "rolex-datejust-41",
+  "brand": "Rolex",
+  "model": "Datejust 41",
+  "refs": [
+   "126300",
+   "126334"
+  ],
+  "case": "41mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Jubilee or Oyster bracelet",
+  "styles": [
+   "Leather",
+   "Rubber (curved end)",
+   "Suede",
+   "Jubilee style bracelet"
+  ],
+  "notes": "The 41mm Datejust is 21mm, not 20mm. Plenty of cheap straps only come in 20mm or 22mm, so check the size before you buy.",
+  "sources": [
+   "https://watchbase.com/rolex/datejust-41/126300-0001",
+   "https://watchbase.com/rolex/datejust-41/126334-0001",
+   "https://www.modacommunities.com/glossary/guides/rolex-bracelets"
+  ],
+  "line": "The Rolex Datejust 41 (126300, 126334) has a 21mm lug width and a 41mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm leather strap",
+    "q": "21mm+leather+watch+strap"
+   },
+   {
+    "t": "21mm curved end rubber strap",
+    "q": "21mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "21mm suede strap",
+    "q": "21mm+suede+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+datejust+41+strap"
+ },
+ {
+  "id": "rolex-deepsea-136660",
+  "brand": "Rolex",
+  "model": "Deepsea 44",
+  "refs": [
+   "136660"
+  ],
+  "case": "44mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Rubber (curved end)",
+   "FKM rubber",
+   "NATO"
+  ],
+  "notes": "A huge watch with 21mm lugs. Thick rubber suits its tool watch vibe best.",
+  "sources": [
+   "https://watchbase.com/rolex/sea-dweller/136660-0003"
+  ],
+  "line": "The Rolex Deepsea 44 (136660) has a 21mm lug width and a 44mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm curved end rubber strap",
+    "q": "21mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "21mm fkm rubber strap",
+    "q": "21mm+fkm+rubber+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+deepsea+44+strap"
+ },
+ {
+  "id": "rolex-explorer-36",
+  "brand": "Rolex",
+  "model": "Explorer 36 (2021)",
+  "refs": [
+   "124270"
+  ],
+  "case": "36mm",
+  "lug": 19,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Leather",
+   "Suede",
+   "NATO",
+   "Canvas"
+  ],
+  "notes": "Heads up: the current 36mm Explorer is 19mm. The older 114270 and 14270 were 20mm, so check your reference.",
+  "sources": [
+   "https://wornandwound.com/review/rolex-looks-the-new-explorer-124270-review/",
+   "https://www.fratellowatches.com/strap-width-an-oft-forgotten-spec-that-makes-a-world-of-difference/",
+   "https://www.twostitchstraps.com/en-us/blogs/strap-guides/rolex-explorer-1-strap-guide"
+  ],
+  "line": "The Rolex Explorer 36 (2021) (124270) has a 19mm lug width and a 36mm case, so it takes 19mm straps.",
+  "shop": [
+   {
+    "t": "19mm leather strap",
+    "q": "19mm+leather+watch+strap"
+   },
+   {
+    "t": "19mm suede strap",
+    "q": "19mm+suede+watch+strap"
+   },
+   {
+    "t": "19mm nato strap",
+    "q": "19mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+explorer+36+strap"
+ },
+ {
+  "id": "rolex-explorer-39",
+  "brand": "Rolex",
+  "model": "Explorer 39",
+  "refs": [
+   "214270"
+  ],
+  "case": "39mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Leather",
+   "NATO",
+   "Suede",
+   "Canvas"
+  ],
+  "notes": "The 39mm Explorer is 20mm, which opens up a huge world of straps.",
+  "sources": [
+   "https://watchbase.com/rolex/explorer/214270-0001",
+   "https://www.twostitchstraps.com/en-us/blogs/strap-guides/rolex-explorer-1-strap-guide"
+  ],
+  "line": "The Rolex Explorer 39 (214270) has a 20mm lug width and a 39mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm suede strap",
+    "q": "20mm+suede+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+explorer+39+strap"
+ },
+ {
+  "id": "rolex-explorer-40",
+  "brand": "Rolex",
+  "model": "Explorer 40",
+  "refs": [
+   "224270"
+  ],
+  "case": "40mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Leather",
+   "Suede",
+   "NATO",
+   "Canvas"
+  ],
+  "notes": "The 40mm Explorer uses 21mm lugs, so straps from the 39mm Explorer will not fit.",
+  "sources": [
+   "https://tempuseuropa.com/en/reference/rolex-explorer-40-224270",
+   "https://www.twostitchstraps.com/en-us/blogs/strap-guides/rolex-explorer-1-strap-guide"
+  ],
+  "line": "The Rolex Explorer 40 (224270) has a 21mm lug width and a 40mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm leather strap",
+    "q": "21mm+leather+watch+strap"
+   },
+   {
+    "t": "21mm suede strap",
+    "q": "21mm+suede+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+explorer+40+strap"
+ },
+ {
+  "id": "rolex-explorer-ii-216570",
+  "brand": "Rolex",
+  "model": "Explorer II 216570",
+  "refs": [
+   "216570"
+  ],
+  "case": "42mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Leather",
+   "Rubber (curved end)",
+   "NATO",
+   "Canvas"
+  ],
+  "notes": "The 216570 is 21mm. Sources disagree on the newer 226570, so we left that one out until we can confirm it.",
+  "sources": [
+   "https://watchbase.com/rolex/explorer-2/216570-0001",
+   "https://cnswatchbands.com/blog/best-straps-for-the-rolex-explorer-i-ii/"
+  ],
+  "line": "The Rolex Explorer II 216570 (216570) has a 21mm lug width and a 42mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm leather strap",
+    "q": "21mm+leather+watch+strap"
+   },
+   {
+    "t": "21mm curved end rubber strap",
+    "q": "21mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+explorer+ii+216570+strap"
+ },
+ {
+  "id": "rolex-gmt-master-ii-126710",
+  "brand": "Rolex",
+  "model": "GMT-Master II (current 126710)",
+  "refs": [
+   "126710BLRO",
+   "126710BLNR",
+   "126710GRNR",
+   "126720VTNR"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster or Jubilee bracelet",
+  "styles": [
+   "Jubilee style bracelet",
+   "Rubber (curved end)",
+   "NATO",
+   "Leather"
+  ],
+  "notes": "Every steel GMT-Master II in the 40mm case is 20mm. Rolex sells it on Oyster and Jubilee, and the Jubilee look is the one people chase.",
+  "sources": [
+   "https://watchbase.com/rolex/gmt-master/126710blro-0001",
+   "https://www.modacommunities.com/glossary/guides/rolex-bracelets"
+  ],
+  "line": "The Rolex GMT-Master II (current 126710) (126710BLRO, 126710BLNR, 126710GRNR, 126720VTNR) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm jubilee style bracelet",
+    "q": "20mm+jubilee+style+watch+bracelet"
+   },
+   {
+    "t": "20mm curved end rubber strap",
+    "q": "20mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+gmt+master+ii+strap"
+ },
+ {
+  "id": "rolex-gmt-master-ii-116710",
+  "brand": "Rolex",
+  "model": "GMT-Master II 116710",
+  "refs": [
+   "116710LN",
+   "116710BLNR"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Rubber (curved end)",
+   "NATO",
+   "Jubilee style bracelet",
+   "Leather"
+  ],
+  "notes": "The ceramic Maxi case GMT. Still 20mm, so anything that fits the current GMT fits here too.",
+  "sources": [
+   "https://watchbase.com/rolex/x/116710ln"
+  ],
+  "line": "The Rolex GMT-Master II 116710 (116710LN, 116710BLNR) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm curved end rubber strap",
+    "q": "20mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm jubilee style bracelet",
+    "q": "20mm+jubilee+style+watch+bracelet"
+   }
+  ],
+  "ebay_q": "rolex+gmt+master+ii+116710+strap"
+ },
+ {
+  "id": "rolex-gmt-master-ii-16710",
+  "brand": "Rolex",
+  "model": "GMT-Master II 16710",
+  "refs": [
+   "16710"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster or Jubilee bracelet",
+  "styles": [
+   "Jubilee style bracelet",
+   "NATO",
+   "Leather",
+   "Rubber"
+  ],
+  "notes": "The aluminum bezel GMT people love. 20mm lugs with drilled holes on most examples, which makes it a fantastic NATO watch.",
+  "sources": [
+   "https://watchbase.com/rolex/x/16710"
+  ],
+  "line": "The Rolex GMT-Master II 16710 (16710) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm jubilee style bracelet",
+    "q": "20mm+jubilee+style+watch+bracelet"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+gmt+master+ii+16710+strap"
+ },
+ {
+  "id": "rolex-oyster-perpetual-36",
+  "brand": "Rolex",
+  "model": "Oyster Perpetual 36",
+  "refs": [
+   "126000"
+  ],
+  "case": "36mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Leather",
+   "Suede",
+   "NATO",
+   "Rubber"
+  ],
+  "notes": "A 20mm OP 36 on a colorful NATO or a suede strap is a fun summer look.",
+  "sources": [
+   "https://watchbase.com/rolex/oyster-perpetual-36/126000-0001"
+  ],
+  "line": "The Rolex Oyster Perpetual 36 (126000) has a 20mm lug width and a 36mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm suede strap",
+    "q": "20mm+suede+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+oyster+perpetual+36+strap"
+ },
+ {
+  "id": "rolex-oyster-perpetual-41",
+  "brand": "Rolex",
+  "model": "Oyster Perpetual 41",
+  "refs": [
+   "124300"
+  ],
+  "case": "41mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Leather",
+   "Rubber (curved end)",
+   "NATO",
+   "Suede"
+  ],
+  "notes": "The OP 41 shares the 21mm width of the Datejust 41 and Submariner 41.",
+  "sources": [
+   "https://watchbase.com/rolex/oyster-perpetual/124300-0001"
+  ],
+  "line": "The Rolex Oyster Perpetual 41 (124300) has a 21mm lug width and a 41mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm leather strap",
+    "q": "21mm+leather+watch+strap"
+   },
+   {
+    "t": "21mm curved end rubber strap",
+    "q": "21mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+oyster+perpetual+41+strap"
+ },
+ {
+  "id": "rolex-sea-dweller-126600",
+  "brand": "Rolex",
+  "model": "Sea-Dweller 43",
+  "refs": [
+   "126600"
+  ],
+  "case": "43mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Rubber (curved end)",
+   "FKM rubber",
+   "NATO",
+   "Sailcloth"
+  ],
+  "notes": "The 43mm Sea-Dweller jumped to 22mm. The older 40mm Sea-Dweller 116600 was 20mm, so do not mix them up.",
+  "sources": [
+   "https://tempuseuropa.com/en/reference/rolex-sea-dweller-126600",
+   "https://www.modacommunities.com/glossary/guides/rolex-bracelets",
+   "https://www.bobswatches.com/pre-owned-red-writing-rolex-sea-dweller-ref-126600-black-dial.html"
+  ],
+  "line": "The Rolex Sea-Dweller 43 (126600) has a 22mm lug width and a 43mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm curved end rubber strap",
+    "q": "22mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "22mm fkm rubber strap",
+    "q": "22mm+fkm+rubber+watch+strap"
+   },
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+sea+dweller+43+strap"
+ },
+ {
+  "id": "rolex-submariner-40",
+  "brand": "Rolex",
+  "model": "Submariner 40 (2010 to 2020)",
+  "refs": [
+   "114060",
+   "116610LN",
+   "116610LV"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Rubber (curved end)",
+   "NATO",
+   "Leather",
+   "Oyster style bracelet"
+  ],
+  "notes": "The Maxi case Submariner is a true 20mm, the easiest Sub to shop straps for. Same 20mm as the Sub before it, but different from the 21mm Sub that replaced it.",
+  "sources": [
+   "https://watchbase.com/rolex/x/116610ln",
+   "https://watchbase.com/rolex/x/114060"
+  ],
+  "line": "The Rolex Submariner 40 (2010 to 2020) (114060, 116610LN, 116610LV) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm curved end rubber strap",
+    "q": "20mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+submariner+40+strap"
+ },
+ {
+  "id": "rolex-submariner-41",
+  "brand": "Rolex",
+  "model": "Submariner 41",
+  "refs": [
+   "124060",
+   "126610LN",
+   "126610LV"
+  ],
+  "case": "41mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Rubber (curved end)",
+   "FKM rubber",
+   "NATO",
+   "Leather"
+  ],
+  "notes": "The 2020 Submariner moved to 21mm, so your old 20mm Sub straps will not fit. Rolex lug holes sit close to the case, so curved spring bars or curved end rubber give the cleanest look.",
+  "sources": [
+   "https://watchbase.com/rolex/x/126610ln",
+   "https://watchbase.com/rolex/x/124060",
+   "https://www.modacommunities.com/glossary/guides/rolex-bracelets"
+  ],
+  "line": "The Rolex Submariner 41 (124060, 126610LN, 126610LV) has a 21mm lug width and a 41mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm curved end rubber strap",
+    "q": "21mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "21mm fkm rubber strap",
+    "q": "21mm+fkm+rubber+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+submariner+41+strap"
+ },
+ {
+  "id": "rolex-submariner-16610",
+  "brand": "Rolex",
+  "model": "Submariner Date 16610",
+  "refs": [
+   "16610"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "NATO",
+   "Rubber",
+   "Leather",
+   "Oyster style bracelet"
+  ],
+  "notes": "The classic five digit Sub. 20mm between the lugs with drilled lug holes on most cases, which makes strap swaps easy.",
+  "sources": [
+   "https://watchbase.com/rolex/submariner/16610-comex",
+   "https://www.modacommunities.com/glossary/guides/rolex-bracelets"
+  ],
+  "line": "The Rolex Submariner Date 16610 (16610) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+submariner+date+16610+strap"
+ },
+ {
+  "id": "rolex-yacht-master-40",
+  "brand": "Rolex",
+  "model": "Yacht-Master 40 (steel)",
+  "refs": [
+   "126622"
+  ],
+  "case": "40mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Oyster bracelet",
+  "styles": [
+   "Rubber (curved end)",
+   "Leather",
+   "NATO",
+   "Sailcloth"
+  ],
+  "notes": "The Rolesium Yacht-Master 40 is a straight 20mm. Note that gold Yacht-Masters on Oysterflex use a fitted strap, not standard spring bars.",
+  "sources": [
+   "https://watchbase.com/rolex/yacht-master/126622-0001"
+  ],
+  "line": "The Rolex Yacht-Master 40 (steel) (126622) has a 20mm lug width and a 40mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm curved end rubber strap",
+    "q": "20mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+yacht+master+40+strap"
+ },
+ {
+  "id": "rolex-yacht-master-42",
+  "brand": "Rolex",
+  "model": "Yacht-Master 42",
+  "refs": [
+   "226659"
+  ],
+  "case": "42mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Oysterflex",
+  "styles": [
+   "Rubber (curved end)",
+   "FKM rubber",
+   "Sailcloth"
+  ],
+  "notes": "Comes on Rolex's Oysterflex, a rubber covered metal blade. Aftermarket 21mm curved end rubber is the closest swap.",
+  "sources": [
+   "https://helvetus.com/blogs/rolex-strap-guide/rolex-yacht-master-42-226659-rubber-strap-guide",
+   "https://delugs.com/pages/rolex-yacht-master-42-226659-0004"
+  ],
+  "line": "The Rolex Yacht-Master 42 (226659) has a 21mm lug width and a 42mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm curved end rubber strap",
+    "q": "21mm+curved+end+rubber+watch+strap"
+   },
+   {
+    "t": "21mm fkm rubber strap",
+    "q": "21mm+fkm+rubber+watch+strap"
+   },
+   {
+    "t": "21mm sailcloth strap",
+    "q": "21mm+sailcloth+watch+strap"
+   }
+  ],
+  "ebay_q": "rolex+yacht+master+42+strap"
+ },
+ {
+  "id": "seiko-5-sports-srpd",
+  "brand": "Seiko",
+  "model": "5 Sports (SRPD)",
+  "refs": [
+   "SRPD55",
+   "SRPD51",
+   "SRPD63"
+  ],
+  "case": "42.5mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Steel bracelet or silicone strap",
+  "styles": [
+   "NATO",
+   "Rubber",
+   "Jubilee style bracelet",
+   "Canvas"
+  ],
+  "notes": "Seiko lists 22mm between the lugs on the SRPD 5 Sports. This is the modding king, and it takes the same 22mm straps as the SKX.",
+  "sources": [
+   "https://www.seikowatches.com/us-en/products/5sports/srpd55"
+  ],
+  "line": "The Seiko 5 Sports (SRPD) (SRPD55, SRPD51, SRPD63) has a 22mm lug width and a 42.5mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   },
+   {
+    "t": "22mm rubber strap",
+    "q": "22mm+rubber+watch+strap"
+   },
+   {
+    "t": "22mm jubilee style bracelet",
+    "q": "22mm+jubilee+style+watch+bracelet"
+   }
+  ],
+  "ebay_q": "seiko+5+sports+strap"
+ },
+ {
+  "id": "seiko-presage-srpb43",
+  "brand": "Seiko",
+  "model": "Presage Cocktail Time SRPB43",
+  "refs": [
+   "SRPB43"
+  ],
+  "case": "40.5mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet",
+  "styles": [
+   "Leather",
+   "Suede",
+   "Mesh"
+  ],
+  "notes": "Seiko lists 20mm between the lugs. A blue or brown leather strap turns this into a killer dress watch.",
+  "sources": [
+   "https://www.seikowatches.com/us-en/products/presage/srpb43j1",
+   "https://www.seikowatch.us/presage/presage-cocktail-time-srpb43/"
+  ],
+  "line": "The Seiko Presage Cocktail Time SRPB43 (SRPB43) has a 20mm lug width and a 40.5mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm suede strap",
+    "q": "20mm+suede+watch+strap"
+   },
+   {
+    "t": "20mm mesh bracelet",
+    "q": "20mm+mesh+watch+bracelet"
+   }
+  ],
+  "ebay_q": "seiko+presage+cocktail+time+srpb43+strap"
+ },
+ {
+  "id": "seiko-alpinist-spb121",
+  "brand": "Seiko",
+  "model": "Prospex Alpinist SPB121",
+  "refs": [
+   "SPB121"
+  ],
+  "case": "39.5mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Leather strap or steel bracelet",
+  "styles": [
+   "Leather",
+   "NATO",
+   "Canvas"
+  ],
+  "notes": "Seiko lists 20mm between the lugs on the Alpinist.",
+  "sources": [
+   "https://www.seikowatches.com/uk-en/products/prospex/spb121j1",
+   "https://www.theseikoguy.com/watches/spb121"
+  ],
+  "line": "The Seiko Prospex Alpinist SPB121 (SPB121) has a 20mm lug width and a 39.5mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm canvas strap",
+    "q": "20mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "seiko+prospex+alpinist+spb121+strap"
+ },
+ {
+  "id": "seiko-spb143",
+  "brand": "Seiko",
+  "model": "Prospex SPB143 (62MAS reissue)",
+  "refs": [
+   "SPB143",
+   "SPB149"
+  ],
+  "case": "40.5mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Leather",
+   "Fabric"
+  ],
+  "notes": "The SPB143 is 20mm, which makes it easy to dress up or down.",
+  "sources": [
+   "https://www.seikowatches.com/no-en/products/prospex/spb143j1",
+   "https://tempuseuropa.com/en/reference/seiko-prospex-1965-divers-spb143j1",
+   "https://strapsco.com/seiko-prospex-spb143-62mas-lug-width-strap-size/"
+  ],
+  "line": "The Seiko Prospex SPB143 (62MAS reissue) (SPB143, SPB149) has a 20mm lug width and a 40.5mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "seiko+prospex+spb143+strap"
+ },
+ {
+  "id": "seiko-turtle",
+  "brand": "Seiko",
+  "model": "Prospex Turtle",
+  "refs": [
+   "SRPE93",
+   "SRP777"
+  ],
+  "case": "45mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Silicone strap or steel bracelet",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "FKM rubber"
+  ],
+  "notes": "The Turtle is 22mm. Seiko lists it on the official page.",
+  "sources": [
+   "https://www.seikowatches.com/us-en/products/prospex/srpe93",
+   "https://watchbase.com/seiko/x/srp777"
+  ],
+  "line": "The Seiko Prospex Turtle (SRPE93, SRP777) has a 22mm lug width and a 45mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm rubber strap",
+    "q": "22mm+rubber+watch+strap"
+   },
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   },
+   {
+    "t": "22mm fkm rubber strap",
+    "q": "22mm+fkm+rubber+watch+strap"
+   }
+  ],
+  "ebay_q": "seiko+prospex+turtle+strap"
+ },
+ {
+  "id": "seiko-skx007",
+  "brand": "Seiko",
+  "model": "SKX007 / SKX009",
+  "refs": [
+   "SKX007",
+   "SKX009"
+  ],
+  "case": "42mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Rubber strap or steel bracelet",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Jubilee style bracelet",
+   "FKM rubber"
+  ],
+  "notes": "The legendary SKX is 22mm. Aftermarket bracelets and straps for it are everywhere.",
+  "sources": [
+   "https://watchbase.com/seiko/mechanical/skx007k1"
+  ],
+  "line": "The Seiko SKX007 / SKX009 (SKX007, SKX009) has a 22mm lug width and a 42mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm rubber strap",
+    "q": "22mm+rubber+watch+strap"
+   },
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   },
+   {
+    "t": "22mm jubilee style bracelet",
+    "q": "22mm+jubilee+style+watch+bracelet"
+   }
+  ],
+  "ebay_q": "seiko+skx007+skx009+strap"
+ },
+ {
+  "id": "seiko-skx013",
+  "brand": "Seiko",
+  "model": "SKX013",
+  "refs": [
+   "SKX013"
+  ],
+  "case": null,
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Rubber strap or steel bracelet",
+  "styles": [
+   "Rubber",
+   "NATO",
+   "Jubilee style bracelet"
+  ],
+  "notes": "The midsize SKX is 20mm, so it does not share straps with the 22mm SKX007.",
+  "sources": [
+   "https://strapsco.com/seiko-skx013-lug-width-strap-size/",
+   "https://www.watchsleuth.com/seikodiverfinder/search/?MOD=SKX013"
+  ],
+  "line": "The Seiko SKX013 (SKX013) has a 20mm lug width, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm jubilee style bracelet",
+    "q": "20mm+jubilee+style+watch+bracelet"
+   }
+  ],
+  "ebay_q": "seiko+skx013+strap"
+ },
+ {
+  "id": "seiko-5-snk809",
+  "brand": "Seiko",
+  "model": "Seiko 5 SNK809",
+  "refs": [
+   "SNK809",
+   "SNK807",
+   "SNK805"
+  ],
+  "case": "37mm",
+  "lug": 18,
+  "fit": "standard",
+  "stock": "Canvas strap",
+  "styles": [
+   "NATO",
+   "Canvas",
+   "Leather"
+  ],
+  "notes": "The little SNK is 18mm. A cheap watch that looks great on a two piece leather or a NATO.",
+  "sources": [
+   "https://strapsco.com/seiko-5-skn805-snk807-snk809-lug-width-strap-size/",
+   "https://www.watchsleuth.com/seiko5finder/search/?MOD=SNK809"
+  ],
+  "line": "The Seiko Seiko 5 SNK809 (SNK809, SNK807, SNK805) has a 18mm lug width and a 37mm case, so it takes 18mm straps.",
+  "shop": [
+   {
+    "t": "18mm nato strap",
+    "q": "18mm+nato+watch+strap"
+   },
+   {
+    "t": "18mm canvas strap",
+    "q": "18mm+canvas+watch+strap"
+   },
+   {
+    "t": "18mm leather strap",
+    "q": "18mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "seiko+seiko+5+snk809+strap"
+ },
+ {
+  "id": "sinn-556",
+  "brand": "Sinn",
+  "model": "556",
+  "refs": [
+   "556.010"
+  ],
+  "case": "38.5mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet or leather strap",
+  "styles": [
+   "NATO",
+   "Leather",
+   "Canvas"
+  ],
+  "notes": "The Sinn 556 is 20mm.",
+  "sources": [
+   "https://watchbase.com/sinn/x/556-010"
+  ],
+  "line": "The Sinn 556 (556.010) has a 20mm lug width and a 38.5mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm canvas strap",
+    "q": "20mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "sinn+556+strap"
+ },
+ {
+  "id": "tag-heuer-aquaracer-300",
+  "brand": "TAG Heuer",
+  "model": "Aquaracer Professional 300 (43mm)",
+  "refs": [
+   "WBP201A"
+  ],
+  "case": "43mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Steel bracelet or rubber strap",
+  "styles": [
+   "Rubber",
+   "NATO"
+  ],
+  "notes": "21mm. The factory rubber strap is fitted to the case, so for aftermarket straps order 21mm.",
+  "sources": [
+   "https://delugs.com/pages/straps-for-tag-heuer-aquaracer-watches"
+  ],
+  "line": "The TAG Heuer Aquaracer Professional 300 (43mm) (WBP201A) has a 21mm lug width and a 43mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm rubber strap",
+    "q": "21mm+rubber+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "tag+heuer+aquaracer+professional+300+strap"
+ },
+ {
+  "id": "tag-heuer-carrera-39",
+  "brand": "TAG Heuer",
+  "model": "Carrera Chronograph 39mm",
+  "refs": [
+   "CBS2210"
+  ],
+  "case": "39mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Leather strap or steel bracelet",
+  "styles": [
+   "Leather",
+   "Rally leather",
+   "Rubber"
+  ],
+  "notes": "TAG lists the original strap at 20mm where it meets the case.",
+  "sources": [
+   "https://www.tagheuer.com/int/en/timepieces/collections/tag-heuer-carrera/39-mm-th20-00/CBS2210.BA0048.html",
+   "https://tempuseuropa.com/en/reference/tag-heuer-carrera-chronograph-39-cbs2210-fc6534"
+  ],
+  "line": "The TAG Heuer Carrera Chronograph 39mm (CBS2210) has a 20mm lug width and a 39mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   },
+   {
+    "t": "20mm rally leather strap",
+    "q": "20mm+rally+leather+watch+strap"
+   },
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   }
+  ],
+  "ebay_q": "tag+heuer+carrera+chronograph+39mm+strap"
+ },
+ {
+  "id": "tissot-gentleman",
+  "brand": "Tissot",
+  "model": "Gentleman Powermatic 80",
+  "refs": [
+   "T127.407"
+  ],
+  "case": "40mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Steel bracelet or leather strap",
+  "styles": [
+   "Leather",
+   "Rubber",
+   "NATO"
+  ],
+  "notes": "The Gentleman is 21mm.",
+  "sources": [
+   "https://watchbase.com/tissot/x/t127-407-11-041-00"
+  ],
+  "line": "The Tissot Gentleman Powermatic 80 (T127.407) has a 21mm lug width and a 40mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm leather strap",
+    "q": "21mm+leather+watch+strap"
+   },
+   {
+    "t": "21mm rubber strap",
+    "q": "21mm+rubber+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "tissot+gentleman+powermatic+80+strap"
+ },
+ {
+  "id": "tissot-prx-powermatic-80",
+  "brand": "Tissot",
+  "model": "PRX Powermatic 80 (40mm)",
+  "refs": [
+   "T137.407"
+  ],
+  "case": "40mm",
+  "lug": null,
+  "fit": "integrated",
+  "stock": "Integrated bracelet",
+  "styles": [
+   "PRX specific rubber",
+   "PRX specific leather"
+  ],
+  "notes": "Integrated bracelet with a 12mm attachment. Regular straps do not fit. Buy straps made for the PRX and your case size.",
+  "sources": [
+   "https://watchbase.com/tissot/x/t137-407-11-041-00"
+  ],
+  "line": "The Tissot PRX Powermatic 80 (40mm) (T137.407) uses an integrated bracelet and a 40mm case, so standard spring bar straps do not fit without a model specific strap or adapter.",
+  "shop": [
+   {
+    "t": "PRX Powermatic 80 compatible straps",
+    "q": "tissot+prx+40mm+strap"
+   }
+  ],
+  "ebay_q": "tissot+prx+powermatic+80+strap"
+ },
+ {
+  "id": "tissot-prx-quartz",
+  "brand": "Tissot",
+  "model": "PRX Quartz (40mm)",
+  "refs": [
+   "T137.410"
+  ],
+  "case": "40mm",
+  "lug": null,
+  "fit": "integrated",
+  "stock": "Integrated bracelet",
+  "styles": [
+   "PRX specific rubber",
+   "PRX specific leather"
+  ],
+  "notes": "Same 12mm integrated attachment as the automatic. Look for PRX specific straps.",
+  "sources": [
+   "https://watchbase.com/tissot/x/t137-410-11-041-00"
+  ],
+  "line": "The Tissot PRX Quartz (40mm) (T137.410) uses an integrated bracelet and a 40mm case, so standard spring bar straps do not fit without a model specific strap or adapter.",
+  "shop": [
+   {
+    "t": "PRX Quartz compatible straps",
+    "q": "tissot+prx+40mm+strap"
+   }
+  ],
+  "ebay_q": "tissot+prx+quartz+strap"
+ },
+ {
+  "id": "tudor-black-bay-36",
+  "brand": "Tudor",
+  "model": "Black Bay 36",
+  "refs": [
+   "M79500"
+  ],
+  "case": "36mm",
+  "lug": 19,
+  "fit": "standard",
+  "stock": "Steel bracelet, leather or fabric strap",
+  "styles": [
+   "Leather",
+   "Fabric",
+   "NATO"
+  ],
+  "notes": "The BB36 is 19mm, so 20mm straps will not sit right.",
+  "sources": [
+   "https://watchbase.com/tudor/black-bay-one/79500-0013"
+  ],
+  "line": "The Tudor Black Bay 36 (M79500) has a 19mm lug width and a 36mm case, so it takes 19mm straps.",
+  "shop": [
+   {
+    "t": "19mm leather strap",
+    "q": "19mm+leather+watch+strap"
+   },
+   {
+    "t": "19mm fabric strap",
+    "q": "19mm+fabric+watch+strap"
+   },
+   {
+    "t": "19mm nato strap",
+    "q": "19mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+black+bay+36+strap"
+ },
+ {
+  "id": "tudor-black-bay-41-master-chronometer",
+  "brand": "Tudor",
+  "model": "Black Bay 41 (2023 Master Chronometer)",
+  "refs": [
+   "M7941A1A0RU"
+  ],
+  "case": "41mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Steel bracelet or rubber strap",
+  "styles": [
+   "Rubber",
+   "Fabric",
+   "Leather",
+   "NATO"
+  ],
+  "notes": "The updated Black Bay with the MT5602-U movement is still 22mm.",
+  "sources": [
+   "https://watchbase.com/tudor/x/m7941a1a0ru-0001"
+  ],
+  "line": "The Tudor Black Bay 41 (2023 Master Chronometer) (M7941A1A0RU) has a 22mm lug width and a 41mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm rubber strap",
+    "q": "22mm+rubber+watch+strap"
+   },
+   {
+    "t": "22mm fabric strap",
+    "q": "22mm+fabric+watch+strap"
+   },
+   {
+    "t": "22mm leather strap",
+    "q": "22mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+black+bay+41+strap"
+ },
+ {
+  "id": "tudor-black-bay-41",
+  "brand": "Tudor",
+  "model": "Black Bay 41 (M79230)",
+  "refs": [
+   "M79230N",
+   "M79230R",
+   "M79230B"
+  ],
+  "case": "41mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Steel bracelet, leather or fabric strap",
+  "styles": [
+   "Fabric",
+   "Leather",
+   "NATO",
+   "Rubber"
+  ],
+  "notes": "The classic Black Bay 41 is 22mm. Thick distressed leather looks great on this chunky case.",
+  "sources": [
+   "https://dialsize.com/tudor/black-bay/79230n/",
+   "https://watchbase.com/tudor/black-bay/79230n-0008"
+  ],
+  "line": "The Tudor Black Bay 41 (M79230) (M79230N, M79230R, M79230B) has a 22mm lug width and a 41mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm fabric strap",
+    "q": "22mm+fabric+watch+strap"
+   },
+   {
+    "t": "22mm leather strap",
+    "q": "22mm+leather+watch+strap"
+   },
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+black+bay+41+strap"
+ },
+ {
+  "id": "tudor-black-bay-54",
+  "brand": "Tudor",
+  "model": "Black Bay 54",
+  "refs": [
+   "M79000N"
+  ],
+  "case": "37mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet or rubber strap",
+  "styles": [
+   "Rubber",
+   "Fabric",
+   "NATO",
+   "Leather"
+  ],
+  "notes": "The small BB54 is 20mm, same as the BB58.",
+  "sources": [
+   "https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001",
+   "https://tempuseuropa.com/en/reference/tudor-black-bay-54-m79000n-0001"
+  ],
+  "line": "The Tudor Black Bay 54 (M79000N) has a 20mm lug width and a 37mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm rubber strap",
+    "q": "20mm+rubber+watch+strap"
+   },
+   {
+    "t": "20mm fabric strap",
+    "q": "20mm+fabric+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+black+bay+54+strap"
+ },
+ {
+  "id": "tudor-black-bay-58",
+  "brand": "Tudor",
+  "model": "Black Bay 58",
+  "refs": [
+   "M79030N",
+   "M79030B"
+  ],
+  "case": "39mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet, leather or fabric strap",
+  "styles": [
+   "Fabric",
+   "NATO",
+   "Leather",
+   "Rubber"
+  ],
+  "notes": "The BB58 is 20mm, which makes it one of the easiest luxury divers to strap up. Tudor's own fabric straps are a fan favorite.",
+  "sources": [
+   "https://watchbase.com/tudor/x/m79030n-0001"
+  ],
+  "line": "The Tudor Black Bay 58 (M79030N, M79030B) has a 20mm lug width and a 39mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm fabric strap",
+    "q": "20mm+fabric+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm leather strap",
+    "q": "20mm+leather+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+black+bay+58+strap"
+ },
+ {
+  "id": "tudor-black-bay-gmt",
+  "brand": "Tudor",
+  "model": "Black Bay GMT",
+  "refs": [
+   "M79830RB"
+  ],
+  "case": "41mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Steel bracelet, leather or fabric strap",
+  "styles": [
+   "Fabric",
+   "Leather",
+   "NATO",
+   "Rubber"
+  ],
+  "notes": "The Pepsi Black Bay GMT is 22mm.",
+  "sources": [
+   "https://watchbase.com/tudor/x/m79830rb-0001"
+  ],
+  "line": "The Tudor Black Bay GMT (M79830RB) has a 22mm lug width and a 41mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm fabric strap",
+    "q": "22mm+fabric+watch+strap"
+   },
+   {
+    "t": "22mm leather strap",
+    "q": "22mm+leather+watch+strap"
+   },
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+black+bay+gmt+strap"
+ },
+ {
+  "id": "tudor-black-bay-pro",
+  "brand": "Tudor",
+  "model": "Black Bay Pro",
+  "refs": [
+   "M79470"
+  ],
+  "case": "39mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Steel bracelet, fabric or rubber strap",
+  "styles": [
+   "Fabric",
+   "Rubber",
+   "NATO"
+  ],
+  "notes": "Small 39mm case, big 22mm lugs. It gives the Pro its chunky tool watch look.",
+  "sources": [
+   "https://watchbase.com/tudor/x/m79470-0001"
+  ],
+  "line": "The Tudor Black Bay Pro (M79470) has a 22mm lug width and a 39mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm fabric strap",
+    "q": "22mm+fabric+watch+strap"
+   },
+   {
+    "t": "22mm rubber strap",
+    "q": "22mm+rubber+watch+strap"
+   },
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+black+bay+pro+strap"
+ },
+ {
+  "id": "tudor-pelagos-39",
+  "brand": "Tudor",
+  "model": "Pelagos 39",
+  "refs": [
+   "M25407N"
+  ],
+  "case": "39mm",
+  "lug": 21,
+  "fit": "standard",
+  "stock": "Titanium bracelet plus rubber strap",
+  "styles": [
+   "Rubber",
+   "Fabric",
+   "NATO"
+  ],
+  "notes": "The Pelagos 39 is 21mm, not 20mm or 22mm like its siblings.",
+  "sources": [
+   "https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001",
+   "https://jamieson-carry.com/tudor-pelagos-39-25407n-0001"
+  ],
+  "line": "The Tudor Pelagos 39 (M25407N) has a 21mm lug width and a 39mm case, so it takes 21mm straps.",
+  "shop": [
+   {
+    "t": "21mm rubber strap",
+    "q": "21mm+rubber+watch+strap"
+   },
+   {
+    "t": "21mm fabric strap",
+    "q": "21mm+fabric+watch+strap"
+   },
+   {
+    "t": "21mm nato strap",
+    "q": "21mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+pelagos+39+strap"
+ },
+ {
+  "id": "tudor-pelagos-42",
+  "brand": "Tudor",
+  "model": "Pelagos 42",
+  "refs": [
+   "M25600TN",
+   "M25600TB"
+  ],
+  "case": "42mm",
+  "lug": 22,
+  "fit": "standard",
+  "stock": "Titanium bracelet plus rubber strap",
+  "styles": [
+   "Rubber",
+   "Fabric",
+   "NATO"
+  ],
+  "notes": "The Pelagos 42 is 22mm and ships with both a titanium bracelet and a rubber strap. The Pelagos FXD has fixed bars and needs a one piece pass through strap instead.",
+  "sources": [
+   "https://watchbase.com/tudor/x/m25600tn-0001"
+  ],
+  "line": "The Tudor Pelagos 42 (M25600TN, M25600TB) has a 22mm lug width and a 42mm case, so it takes 22mm straps.",
+  "shop": [
+   {
+    "t": "22mm rubber strap",
+    "q": "22mm+rubber+watch+strap"
+   },
+   {
+    "t": "22mm fabric strap",
+    "q": "22mm+fabric+watch+strap"
+   },
+   {
+    "t": "22mm nato strap",
+    "q": "22mm+nato+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+pelagos+42+strap"
+ },
+ {
+  "id": "tudor-ranger",
+  "brand": "Tudor",
+  "model": "Ranger",
+  "refs": [
+   "M79950"
+  ],
+  "case": "39mm",
+  "lug": 20,
+  "fit": "standard",
+  "stock": "Steel bracelet, fabric, leather or rubber strap",
+  "styles": [
+   "Fabric",
+   "NATO",
+   "Canvas",
+   "Leather"
+  ],
+  "notes": "The Ranger is 20mm and made for field straps.",
+  "sources": [
+   "https://watchbase.com/tudor/x/m79950-0001"
+  ],
+  "line": "The Tudor Ranger (M79950) has a 20mm lug width and a 39mm case, so it takes 20mm straps.",
+  "shop": [
+   {
+    "t": "20mm fabric strap",
+    "q": "20mm+fabric+watch+strap"
+   },
+   {
+    "t": "20mm nato strap",
+    "q": "20mm+nato+watch+strap"
+   },
+   {
+    "t": "20mm canvas strap",
+    "q": "20mm+canvas+watch+strap"
+   }
+  ],
+  "ebay_q": "tudor+ranger+strap"
+ }
+]

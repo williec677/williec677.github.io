@@ -50,6 +50,8 @@ A few running changes help you confirm that the parts agree with each other.
 
 None of these is a pass or fail test on its own, because bracelets get swapped and serviced. Taken together they tell you whether the watch is consistent or assembled.
 
+Want to try your 16710 on a strap? It takes 20mm, and my [16710 strap size guide](/strap-finder/rolex-gmt-master-ii-16710/) has the styles that work best plus every other model in the [Watch Strap Finder](/strap-finder/).
+
 ## Calibre 3185 vs 3186
 
 Almost every 16710 has calibre 3185: 31 jewels, 28,800 vibrations per hour, hacking seconds, and the independent hour hand. At the very end of production, on some late Z and M serial watches, Rolex fitted calibre 3186. The main change is the blue Parachrom hairspring, which resists shocks and magnetism better ([BezelBase](https://bezelbase.org/wiki/Reference:16710), [The Gentleman's Reference](https://gentlemansreference.com/rolex/gmt-master-ii/16710/)).
