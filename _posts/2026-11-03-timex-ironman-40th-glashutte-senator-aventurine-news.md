@@ -57,6 +57,8 @@ Why care? Because Oceanus is one of the best kept secrets in watches: titanium, 
 
 If the Ironman has you thinking about a first "real" watch, my {% assign px = site.posts | where: "slug", "tissot-prx-powermatic-80-buyers-guide" | first %}{% if px %}[Tissot PRX Powermatic 80 buyer's guide]({{ px.url | absolute_url }}){% else %}Tissot PRX Powermatic 80 buyer's guide (publishing November 4){% endif %} is the natural next step up. And if you travel and want a second time zone without spending Rolex money, check out {% assign ga = site.posts | where: "slug", "affordable-rolex-gmt-alternatives" | first %}{% if ga %}[affordable Rolex GMT alternatives under $1,000]({{ ga.url | absolute_url }}){% else %}my list of affordable Rolex GMT alternatives under $1,000 (publishing November 5){% endif %}.
 
+And if the Glashütte has you dreaming bigger, my {% assign gm = site.posts | where: "slug", "rolex-gmt-master-ii-16710-buyers-guide" | first %}{% if gm %}[Rolex GMT Master II 16710 buyer's guide]({{ gm.url | absolute_url }}){% else %}Rolex GMT Master II 16710 buyer's guide{% endif %} covers one of the best vintage values in luxury right now.
+
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 
