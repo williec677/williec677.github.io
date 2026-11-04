@@ -61,7 +61,7 @@ A quick word on the legend. The Speedmasters that went to the Moon were 321 powe
 
 Early 861 movements used a steel chronograph brake. In 1971 Omega switched to a Delrin brake, a nylon part chosen for wear resistance. Ask your watchmaker about the brake when you service the watch.
 
-Period bracelets include the 1039 with flexible links (until 1971), the famous 1171, and the 1116 and 1175. In the 1980s Omega also used the Holzer made 1171/1, which uses pins rather than screws. A correct era bracelet adds value and comfort. A stretched bracelet is a negotiating point, not a deal breaker.
+Period bracelets include the 1039 with flexible links (until 1971), the famous 1171, and the 1116 and 1175. In the 1980s Omega also used the Holzer made 1171/1, which uses pins rather than screws. A correct era bracelet adds value and comfort. A stretched bracelet is a negotiating point, not a deal breaker. If you would rather wear yours on a strap while the bracelet rests, it takes 20mm, the same as the modern Moonwatch, and my [Speedmaster Professional strap page](/strap-finder/omega-speedmaster-professional/) has the styles that suit it.
 
 ## Paperwork: Extract of the Archives
 

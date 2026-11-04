@@ -74,7 +74,7 @@ Tells I check with a {% include aff.html network="amazon" url="https://www.amazo
 
 The 1601 case is often polished. Look at the lugs: crisp edges and a visible bevel suggest light polishing at most. Soft, rounded lugs mean heavy polishing.
 
-Jubilee bracelets from this era stretch. Some stretch is normal and fine. Heavy stretch makes the bracelet floppy and lowers value. Replacing it is possible, though period correct bracelets cost real money. In the meantime, a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=20mm+leather+watch+strap" text="20mm leather strap" %} is a cheap way to wear the watch while you hunt.
+Jubilee bracelets from this era stretch. Some stretch is normal and fine. Heavy stretch makes the bracelet floppy and lowers value. Replacing it is possible, though period correct bracelets cost real money. In the meantime, a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=20mm+leather+watch+strap" text="20mm leather strap" %} is a cheap way to wear the watch while you hunt. The 36mm Datejust has stayed at 20mm for generations, so the leather and suede picks on my [Datejust 36 strap page](/strap-finder/rolex-datejust-36/) suit a 1601 too.
 
 ## Buying a 1601 for daily wear
 

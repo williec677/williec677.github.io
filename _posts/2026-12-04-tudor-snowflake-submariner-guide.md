@@ -63,7 +63,7 @@ Once you own one, a {% include aff.html network="amazon" url="https://www.amazon
 
 ## Modern alternatives
 
-Tudor brought the Snowflake hand back in 2012 with the Pelagos, and it appears on several current models ([Tudor](https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999)). If you love the look but want a modern warranty and water resistance, a current Pelagos is the obvious place to start. If you want the vintage original, plan on patience. Good examples do not come up every week.
+Tudor brought the Snowflake hand back in 2012 with the Pelagos, and it appears on several current models ([Tudor](https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999)). If you love the look but want a modern warranty and water resistance, a current Pelagos is the obvious place to start. Check the size before you buy straps for one, because the [Pelagos 39](/strap-finder/tudor-pelagos-39/) takes 21mm and the [Pelagos 42](/strap-finder/tudor-pelagos-42/) takes 22mm. If you want the vintage original, plan on patience. Good examples do not come up every week.
 
 ## Where to look
 
