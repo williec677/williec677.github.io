@@ -3,7 +3,7 @@ layout: post
 title: "Watch News: Klokers' First Automatic Disc Watch, Briston's Compressor Diver, Praesidus Montar, and Trafford's Austin Sunset Dial"
 seo_title: "Klokers KLOK03 Automatic, Briston Compressor, Praesidus Montar, Trafford Violet Crown"
 description: "Klokers launches its first mechanical disc watch, the KLOK03 Automatic, from EUR 790. Briston's Clubmaster Legend Compressor hits EUR 590. Praesidus Montar Ana-Digi and GMT are $275. Trafford's Daytripper Violet Crown is $799."
-date: 2026-11-06 12:30:00 -0500
+date: 2026-11-06 12:20:00 -0500
 category_label: News
 cluster: news
 tags: [news, klokers, briston, praesidus, trafford, automatic, dive, microbrand]
