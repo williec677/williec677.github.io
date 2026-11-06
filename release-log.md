@@ -92,3 +92,69 @@ Internal file. Excluded in _config.yml and kept out of git. Times are America/Ne
 | 2026-11-05 | WatchPro feed | RSS | 403 |
 | 2026-11-04 | Build for d7d538a failed on Pages deploy timeout (transient); today's build 42035083032 succeeded and redeployed | GitHub Actions | Note |
 | 2026-11-05 | Seiko 5 Sports SKX GMT HDB016 'Dr Pepper' US LE (5,500 pcs, $525, released Nov 2) | Teddy Baldassarre, Notebookcheck, Montre24, retailers | Covered: seiko-5-sports-skx-gmt-hdb016-dr-pepper-news |
+
+## Check run 2026-11-05 12:18 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-05 | Serica Travel Chronometer Golden Green Ref. 8315-3: 39 x 12.30 x 46.5mm, 20mm lugs, 200m, olive enamel dial, golden green/ivory ceramic GMT bezel, Soprod C125 COSC caller GMT, 40h (brand; press often 42h), EUR 2,090 (Monochrome USD 2,450); 3h crown in stock, 9h waitlist | Serica product page, Monochrome, Fratello, W&W, Time and Tide | Covered (standalone): serica-8315-3-golden-green-travel-chronometer-news, commit 49980e1, build 42073620833 passed, live |
+| 2026-11-05 | Hodinkee: Ateliers Associés independent watchmaking incubator | Hodinkee | Skipped: industry feature, not a release |
+| 2026-11-05 | Hodinkee Geneva Fall Auctions mega preview part 2 | Hodinkee | Skipped: auction preview |
+| 2026-11-05 | Fossil holiday curated selection | aBlogtoWatch | Skipped: sponsored retail roundup |
+| 2026-11-05 | IAMWATCH 2026 Singapore independent watchmaking event | Deployant | Skipped: event |
+| 2026-11-05 | X news search (6h) | X | Nothing actionable watch release news (JLC Friend of the House already logged morning; LV/Graff fashion not watches) |
+| 2026-11-05 | WatchPro feed | RSS | 403 again |
+| 2026-10-30 | Spinnaker Dumas GMT Inkdial on sale Nov 5 11:30 PM ET | Prior log | Pending tonight; revisit Nov 6 morning if sellout/news |
+| 2026-11-05 | Follow ups still open: GPHG winners Nov 7, Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+## Check run 2026-11-06 8:25 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-06 | Omega Seamaster Diver 300M blue ceramic/titanium ref. 210.92.44.20.03.001 ($10,000 US / EUR 9,700) and brown ceramic/Sedna Gold ref. 210.62.44.20.13.001 ($15,500 US / EUR 15,000); 43.5 x 14.27mm, 21mm lugs, cal. 8806, 300m; silent site drop | Omega US, Fratello, Gear Patrol | Covered (lead) in omega-seamaster-ceramic-yema-senans-gshock-2500-news, commit 517da10, build 42225524208 passed, live ~8:28 AM ET |
+| 2026-11-05 | Yema Senans Grande Lune CMM.22: 38.5 x 8.7 x 46.4mm, luminous 3D Grade X SLN moon at 7 o'clock with rotating bilobe, cal. CMM.22 micro rotor 70h, 200 pcs/color, EUR 2,470 leather / 2,570 mesh | Monochrome, Time and Tide | Covered (grouped) |
+| 2026-10-22 / US sale 2026-11-06 | G-Shock 2500 Series (GAC-2500 $145, GMC-2500 $280-$300, GMC-2500D $350); first pure analog Basic G-Shock; US web today ~10 AM-noon ET, Soho Nov 7; Japan Nov 7; JP preorders mostly sold out except white/yellow resin | Casio America PR, G-Central, Casio Japan | Covered (grouped); timed to US on-sale day |
+| 2026-11-05 | Spinnaker Dumas GMT Inkdial SP-5188: on sale since Nov 5 11:30 PM ET; still listed available at $495, 450/color, not sold out | Spinnaker site, prior log | Skipped: already covered in g-shock-union-spinnaker-inkdial-gmt-gphg-2026-news; no sellout drama |
+| 2026-11-06 | Breguet Classique Souscription Platinum 2026PT/28/9W6, CHF 58,000 / EUR 68,000; platinum colorway of 2025 anniversary / GPHG 2025 winner | Monochrome, Fratello | Skipped: niche white-metal variant of known piece |
+| 2026-11-06 | Andersen Geneve Communication 45 Supersonic London x Justin Hast, platinum, 20 pcs, price on request | Monochrome | Skipped: ultra niche indie LE |
+| 2026-11-05 | Louis Vuitton Tambour Convergence Mirror Steel W9ST11, 37 x 8mm hardened steel, $25,200 | Hodinkee | Skipped: fashion/luxury guichet, thin for audience |
+| 2026-11-06 | Fossil Signature CS-1 Swiss-made | aBlogtoWatch | Skipped: sponsored retail launch |
+| 2026-11-06 | Breguet Marine hands-on video; Fratello Top 5 October; T+T GPHG picks; SJX JM Fleury; Hodinkee Ateliers Associés / auction preview (already logged Nov 5) | Fratello, T+T, SJX, Hodinkee | Skipped: hands-ons, lists, features |
+| 2026-11-06 | WatchPro feed | RSS | 403 again |
+| 2026-11-06 | Nov 6 calendar guide How to Read Rolex Serial (9 AM ET) already scheduled; news post separate, does not crowd | content-calendar | Note |
+| 2026-11-06 | Follow ups still open: GPHG winners post Nov 7 (do not post early), Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-05 08:20 AM ET (last successful morning coverage) through 2026-11-06 08:25 AM ET; also absorbed Nov 5 12:18 PM Serica coverage and overnight Nov 5-6.
+
+## Check run 2026-11-06 ~12:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-06 | Klokers KLOK03 Automatic (LEAD): first mechanical Klokers after two bankruptcies; stacked clockwise discs; Miyota 82S0; 40 x 13.9 x 45mm L2L; 316L; sapphire; 30m; 20mm textile QR; six colorways (Yellow Dot, Blue Note, Yuri, Desert Storm, Orange Dot, Kaki K); EUR 890 incl VAT / launch EUR 790 until 20 Dec 2026; made in HK; 2yr warranty; available now klokers.com (~1 week delivery) | Monochrome (specs table authoritative), klokers.com Yellow Dot product | Covered (lead) in klokers-klok03-briston-compressor-praesidus-montar-trafford-violet-news |
+| 2026-11-06 | Briston Clubmaster Legend Compressor: dual crown (2 o'clock inner bezel, 4 o'clock time/date); 42 x 14.65mm cushion; steel OR Italian tortoiseshell acetate; 200m; K1 2.8mm domed; Seiko NH35 41h; black/navy; FKM 20→18mm; refs 26642.SA.T.1.FB / .15.FNB / 26642.PS.DC.1.FB / .15.FNB; EUR 590 acetate / EUR 610 steel | Monochrome, briston-watches.com | Covered (grouped) |
+| 2026-11-06 | Praesidus Montar Ranger Ana-Digi (44mm steel matte black, compass bezel, ana-digi, alarm/stopwatch, sapphire-coated mineral, 100m) and GMT (43mm polycarbonate, 24h bezel, field dial, 100m); both $275; 50 pcs/colorway (Ana-Digi: Flint/Graphite/Canyon/Cinder; GMT: Lichen/Dune/Signal/Basalt); caliber not named in source | Worn & Wound, praesidus.com/collections/montar | Covered (grouped); no invented caliber |
+| 2026-11-06 | Trafford Watch Co. Daytripper Violet Crown: Austin sunset gradient; 39.5 x 12 x 46mm L2L; 316L hardened; double-domed sapphire + exhibition; 100m; 20mm purple Italian leather (bracelet +$149); modified Miyota 9075 GMT hand removed; ±10s claimed; 42h; 200 numbered; US$799 / £725. T+T shop line says 20 pcs for T+T Shop/Discovery Studios (allocation, not total run) | Time and Tide (prefer brand + main table = 200), traffordwatchco.com | Covered (grouped) |
+| 2026-11-06 | Hodinkee Bring a Loupe | Hodinkee | Skipped: vintage auction pieces |
+| 2026-11-06 | Hodinkee Watches of Switzerland GPHG winners London exhibit | Hodinkee | Skipped: event; winners post is Nov 7 (do not post early) |
+| 2026-11-06 | Deployant Champagne Journal | Deployant | Skipped |
+| 2026-11-06 | X news search | X | Nothing actionable watch-release related |
+| 2026-11-06 | WatchPro feed | RSS | 403 again |
+| 2026-11-06 | Fratello / Revolution / SJX / aBlogtoWatch | Feeds | Nothing new in this window |
+| 2026-11-06 | Publish note: first push commit 15f1982 dated 12:30 ET ran while build clock was ~12:27 ET so future:false hid the post (404). Fix commit 187c5bc set date to 12:20 ET; rebuild 42262465277 passed; live 200 | GitHub Actions | Note |
+| 2026-11-06 | Follow ups still open: GPHG winners Nov 7, Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-06 8:25 AM ET (Omega morning roundup) through ~12:25 PM ET.
+
+## Check run 2026-11-06 ~6:15 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-06 | CWC Navy Eighty CD-1 (LEAD/standalone): 41mm (45mm w/ crown) x 12.7mm x 47mm L2L, 20mm fixed bars, polished steel 1980 pattern, sapphire, ceramic 60-click luminous bezel (Hodinkee: first ceramic on CWC RN Diver), Sellita SW200-1 Top Grade, X1 SLN, applied markers; 5 dial/lume configs (blue Vintage/BGW9; black Light Vintage); £2,500 incl VAT / £2,083.33 ex VAT (~$2,700 Hodinkee); small batches not numbered LE; brand page showed Unavailable at check | cwcwatch.com product page, Hodinkee Introducing (15:25 ET) | Covered (standalone): cwc-navy-eighty-cd1-news |
+| 2026-11-06 | Hodinkee Tudor Hero Era Rally dispatch | Hodinkee | Skipped: feature/event, not a release |
+| 2026-11-06 | Hodinkee Watches for ELA charity auction picks | Hodinkee | Skipped: auction |
+| 2026-11-06 | W&W eBay Finds (vintage Bulova / Zenith / Seiko 5) | Worn & Wound | Skipped: retail roundup |
+| 2026-11-06 | W&W G-Shock GMC2500 write up | Worn & Wound | Skipped: already covered in omega-seamaster-ceramic-yema-senans-gshock-2500-news morning |
+| 2026-11-06 | Monochrome Klokers KLOK03 | Monochrome | Already covered in noon klokers roundup |
+| 2026-11-06 | Teddy Baldassarre Seiko SSK059 Polar review | Teddy | Skipped: review, not a release |
+| 2026-11-06 | Fratello (Breguet Marine video, Top 5 Oct, Souscription Pt, Omega Seamaster already covered) | Fratello RSS | Nothing new worth a post in this window |
+| 2026-11-06 | X news / recent search | X MCP | No actionable watch-release stories (celebrity fashion, unrelated) |
+| 2026-11-06 | WatchPro feed | RSS | 403 again |
+| 2026-11-06 | Follow ups still open: GPHG winners Nov 7 (do not post early), Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-06 12:25 PM ET through ~6:15 PM ET.
