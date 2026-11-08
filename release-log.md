@@ -231,7 +231,7 @@ Window checked: ~2026-11-08 8:20 AM ET through ~2026-11-08 12:30 PM ET.
 ## Check run 2026-11-08 ~6:30 PM ET
 | Date | Story | Sources | Status |
 |---|---|---|---|
-| 2026-11-08 | Citizen Sorcerer Mickey's 100th Anniversary Macy's Parade AW1696-03W: 40 mm x 9.29 mm two tone steel, sapphire, J810 Eco-Drive with date, WR50, blue leather strap (Notebookcheck says black; Citizen page says blue), 500 numbered pieces, $395, Macy's and citizenwatch.com exclusive, orderable | citizenwatch.com product JSON, The Gadgeteer, Notebookcheck | Covered standalone in citizen-sorcerer-mickey-macys-parade-aw1696-news |
+| 2026-11-08 | Citizen Sorcerer Mickey's 100th Anniversary Macy's Parade AW1696-03W: 40 mm x 9.29 mm two tone steel, sapphire, J810 Eco-Drive with date, WR50, blue leather strap (Notebookcheck says black; Citizen page says blue), 500 numbered pieces, $395, Macy's and citizenwatch.com exclusive, orderable | citizenwatch.com product JSON, The Gadgeteer, Notebookcheck | Covered standalone in citizen-sorcerer-mickey-macys-parade-aw1696-news, commits 51d9474 + 1101d31 (date fix), build 42535038889 passed, live 200 |
 | 2025-12-04 | Ressence TYPE 3 MN Marc Newson (designwanted Nov 8 recap) | designwanted, W&W Dec 2025 | Skipped: launched Dec 4 2025, old |
 | 2026-11-08 | Casio CMK-100 (Antara wire), G-Shock Mudman Earthwatch (webChronos), Gear Patrol recap | Various | Already covered or skipped |
 | 2026-11-08 | RSS feeds (Hodinkee, Monochrome, Fratello, W&W, aBTW, T+T, Revolution, SJX, Deployant) | RSS 7h window | 0 new items; WatchPro 403 |
