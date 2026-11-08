@@ -158,3 +158,83 @@ Window checked: ~2026-11-06 8:25 AM ET (Omega morning roundup) through ~12:25 PM
 | 2026-11-06 | Follow ups still open: GPHG winners Nov 7 (do not post early), Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-06 12:25 PM ET through ~6:15 PM ET.
+
+## Check run 2026-11-07 ~8:20 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-07 | Horologically Unique HU-02 (LEAD/standalone): Singapore indie; Robert Cart Chronoscope wandering jump hour; 38 x 38 L2L x 11.5mm (10.1 w/o crystal), lugless Disco Volante case, concealed crown; Classic naval brass cream dial USD 3,850; Silver Speciale steel USD 3,980; modified ETA 2824-2, 25j, 28,800 vph, 32h; 30m; 18mm QR; limited allocation window TBC (run size not stated) | Monochrome spec table, horologicallyunique.com | Covered (standalone): horologically-unique-hu-02-wandering-jump-hour-news, commit 6c02234, build 42376517965 passed, live 200 |
+| 2026-11-07 | Fratello Favre Leuba Chief Skeleton hands-on | Fratello | Skipped: hands-on, not a new launch in window |
+| 2026-11-07 | Monochrome Petrolhead Corner Cavën Hommage 26 | Monochrome | Skipped: car |
+| 2026-11-07 | aBlogtoWatch Peacock Black Hole tourbillon review; T+T Yacht-Master RLX Ti vs Land-Dweller video; T+T VC Sydney event | aBTW, T+T | Skipped: review/video/event |
+| 2026-11-07 | WatchPro feed | RSS | 403 again |
+| 2026-11-07 | GPHG 2026 ceremony today 12:30 PM ET; winners post at noon/6 PM run, not before results | Prior | Open |
+| 2026-11-07 | Follow ups still open: GPHG winners today, Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-06 6:15 PM ET through ~2026-11-07 8:20 AM ET.
+
+## Check run 2026-11-07 ~12:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-07 | GPHG 2026 livestream posts (ceremony starts 12:30 PM ET, results not out yet) | Hodinkee, Monochrome | Open: write winners post at 6 PM run once results are published |
+| 2026-11-07 | T+T Last Week in Watches (Andersen, Roger Dubuis, Louis Vuitton) | T+T | Skipped: recap of items already logged/skipped Nov 4 to 6 |
+| 2026-11-07 | W&W Watches, Stories & Gear (new Fossil, watch-shaped ring, knives) | Worn & Wound | Skipped: gear roundup; Fossil CS-1 already skipped Nov 6 |
+| 2026-11-07 | Fratello Strap Review 74 StrapKlub | Fratello | Skipped: strap review |
+| 2026-11-07 | Deployant Nomos Club Sport 34 All Silver | Deployant | Already covered Nov 5 roundup |
+| 2026-11-07 | WatchPro feed | RSS | 403 again |
+| 2026-11-07 | Follow ups still open: GPHG winners (6 PM run), Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-07 8:20 AM ET through ~12:25 PM ET.
+
+## Check run 2026-11-07 ~6:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-07 | GPHG 2026 winners (LEAD): Rexhep Rexhepi RRCHF Chronograph Flyback Aiguille d'Or; full list of 20 prizes (GS Ushio 300 Diver Sports, Parmigiani Tonda PF Chronographe Mystérieux, Chopard L.U.C 1860 + Mystery Nut, AP RD#5 + 150 Heritage, Cleguer, Otsuka Lotec No.8, SpaceOne X Baltic, etc.) | Revolution full list, Monochrome | Covered (standalone): gphg-2026-winners-rexhep-rexhepi-aiguille-dor-news, commit e6f0d8b, build 42424767853 passed, live 200 |
+| 2026-11-07 | Archi Works X AVW The Diplomat 1.87: 35mm x 10.05mm, 19mm lugs, LJP D100 Soigné, 50h, 50m, Aurora/Azure 100 pcs each, EUR 2,250 ex VAT, ships next week | Fratello | Grouped into GPHG post as "Also new today" |
+| 2026-11-07 | aBTW podcast #246; T+T Baume & Mercier NYC event | aBTW, T+T | Skipped: podcast/event |
+| 2026-11-07 | WatchPro feed | RSS | 403 again |
+| 2026-11-07 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | GPHG closed |
+
+Window checked: ~2026-11-07 12:25 PM ET through ~6:20 PM ET.
+
+## Check run 2026-11-08 ~8:20 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-05 | Timex Atelier Marine M1a blue (TW6A20500 $950 NBR / TW6A20400 $1,050 bracelet) and GMT24 M1a red and blue (TW6A20700 $1,350 NBR / TW6A20600 $1,450 bracelet). Official blog Nov 5; missed by earlier RSS-only runs; weekend writeups Nov 7-8. Specs from Timex product pages (Marine reserve ~38h on product pages vs 36h on the blog). | timex.com blog + product JS prices (in stock), The Gadgeteer | Covered (lead) in timex-atelier-marine-gmt24-m1a-gshock-mudman-earthwatch-news, commit c5219d7, build 42484530823 passed, live 200 |
+| 2026-11-07 | G-Shock Mudman Earthwatch Japan GW-9503KJ-2JR shoebill collab, ¥64,900 incl. tax, Japan, retailers list on sale Nov 13 2026, 56.7 x 52.7 x 14.8 mm, 88 g, module 3553, Tough Solar, Multiband 6 | Gadgeteer Nov 7, Notebookcheck, webChronos Nov 8, Clock House, oomiya | Covered (grouped, also new) |
+| 2026-11-07 | GPHG 2026 winners recaps (Hodinkee, Fratello, Monochrome, Revolution) | Main feeds | Already covered Nov 7 6 PM: gphg-2026-winners-rexhep-rexhepi-aiguille-dor-news |
+| 2026-11-07 | Archi Works x AVW Diplomat 1.87 (Fratello recap still in window) | Fratello | Already grouped into GPHG post |
+| 2026-11-08 | Monochrome racing chronograph buying guide; Fratello Breguet pocket watch mystery; Fratello Sinn U50 vs Oris Aquis Date; T+T wave dials | Monochrome, Fratello, T+T | Skipped: guides, features, not releases |
+| 2026-11-08 | aBTW hands-on Moser Pioneer Cylindrical Tourbillon Saquon Barkley | aBlogtoWatch | Skipped: launched Oct 19, already logged |
+| 2026-11-08 | Klokers KLOK-03 (Gadgeteer recap); Casio CMK-100 (wire recaps); Formex Essence Ceramica Redshift (updated page) | Various | Already covered or previously skipped |
+| 2026-11-08 | Omega Speedmaster Masters Green 310.60.42.50.10.002 | Gear Patrol, HiConsumption, Haute Time | Skipped: quiet catalog add covered around July 2026, old |
+| 2026-11-08 | Fossil Signature CS-1 | W&W earlier | Already skipped Nov 6/7 |
+| 2026-11-08 | X news / r/Watches | X search_news (18h); reddit JSON 403 | No actionable watch-release stories (G-Shock 2500 Singapore celebrity launch already covered; unrelated celebrity/political items) |
+| 2026-11-08 | WatchPro feed | RSS | 403 again |
+| 2026-11-08 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-07 6:20 PM ET through ~2026-11-08 8:20 AM ET.
+
+## Check run 2026-11-08 ~12:30 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-06 | Davosa Cupex Automatic (LEAD): 40.0 x 10.2 x 45.6 mm L2L, 23.8 mm integrated bracelet, 132 g, sapphire, 100 m, DAV 3021 (Sellita SW200-1) with date and hacking. Steel refs 161.597.10 silver / 161.597.40 blue / 161.597.50 black $1,150 on Davosa USA and €1,150 on davosa.com; bicolor gold IP 161.598.10 silver / 161.598.50 black $1,200 / €1,200. In stock both shops. WhoWatchWear (Nov 8) reports ~38h reserve and 28,800 vph; brand pages checked do not list those two figures. Quiet early Nov launch (Chronoscout tracked from Nov 6); missed by earlier RSS-only runs. | davosa.com, davosa-usa.com product JSON, WhoWatchWear | Covered (lead) in davosa-cupex-auret-mederi-news, commit dcd0322, build 42505072176 passed, live 200 |
+| 2026-11-08 | Auret Mederi (Origin black, Horizon blue, Legacy burgundy): T+T Micro Mondays today; announced ~Sep 19. Official auret.co countdown to Nov 9 2026 launch (first 100 collectors signup), no price on splash page. T+T: 40 x 10.5 x 46 mm L2L, 20 mm lugs, 12 sided bezel, 100 m, sapphire both sides, Sellita SW260 D4, 31 jewels, 41h, small seconds, no date window, US$2,200 from Nov 9. Earlier Sept coverage cited €1,750. | Time and Tide, auret.co | Covered (grouped, also new) |
+| 2026-10-29 | Raymond Weil Freelancer RW1212 Anthracite Skeleton 40 mm (2786-STC-60000 leather £3,395 / 2786-ST-60000 bracelet £3,495 per Oracle of Time) | Oracle of Time Oct 29, Texture.press Nov 8 | Skipped: launched Oct 29, old; Texture is a late writeup |
+| 2026-11-08 | Gear Patrol "28 New Watches You Missed" recap | Gear Patrol | Skipped: recap of already covered or previously skipped items (Timex Atelier, Yema Senans, Serica 8315-3, Omega ceramic Seamasters, Praesidus Montar, GPHG adjacent, Orient Star Skeleton, Casio CMK-100, etc.) |
+| 2026-11-08 | Deployant "The Grail Watch" essay; Monochrome racing chrono guide; Fratello GPHG recap; Fratello Breguet pocket watch mystery | Deployant, Monochrome, Fratello | Skipped: features/already covered (same as 8 AM run for the Fratello/Monochrome items) |
+| 2026-11-08 | WatchPro feed | RSS | 403 again |
+| 2026-11-08 | r/Watches new.json | reddit | Fetch returned empty/non-JSON |
+| 2026-11-08 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-08 8:20 AM ET through ~2026-11-08 12:30 PM ET.
+
+## Check run 2026-11-08 ~6:30 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-08 | Citizen Sorcerer Mickey's 100th Anniversary Macy's Parade AW1696-03W: 40 mm x 9.29 mm two tone steel, sapphire, J810 Eco-Drive with date, WR50, blue leather strap (Notebookcheck says black; Citizen page says blue), 500 numbered pieces, $395, Macy's and citizenwatch.com exclusive, orderable | citizenwatch.com product JSON, The Gadgeteer, Notebookcheck | Covered standalone in citizen-sorcerer-mickey-macys-parade-aw1696-news |
+| 2025-12-04 | Ressence TYPE 3 MN Marc Newson (designwanted Nov 8 recap) | designwanted, W&W Dec 2025 | Skipped: launched Dec 4 2025, old |
+| 2026-11-08 | Casio CMK-100 (Antara wire), G-Shock Mudman Earthwatch (webChronos), Gear Patrol recap | Various | Already covered or skipped |
+| 2026-11-08 | RSS feeds (Hodinkee, Monochrome, Fratello, W&W, aBTW, T+T, Revolution, SJX, Deployant) | RSS 7h window | 0 new items; WatchPro 403 |
+| 2026-11-08 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-08 12:30 PM ET through ~2026-11-08 6:30 PM ET.
