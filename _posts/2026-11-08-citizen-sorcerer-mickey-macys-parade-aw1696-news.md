@@ -3,7 +3,7 @@ layout: post
 title: "Watch News: Citizen's Sorcerer Mickey Eco-Drive Celebrates the 100th Macy's Parade"
 seo_title: "Citizen Sorcerer Mickey Macy's Parade AW1696-03W News"
 description: "Citizen's AW1696-03W Sorcerer Mickey 100th Anniversary Macy's Parade watch is a 40 mm Eco-Drive with sapphire, limited to 500 numbered pieces at $395, sold only at Macy's and Citizen US."
-date: 2026-11-08 18:45:00 -0500
+date: 2026-11-08 18:20:00 -0500
 category_label: News
 cluster: news
 tags: [news, citizen, eco-drive, disney, mickey, limited-edition, affordable]
