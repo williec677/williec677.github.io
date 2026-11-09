@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Watch News: Citizen's Sorcerer Mickey Eco-Drive Celebrates the 100th Macy's Parade"
+title: "Only 500 Made: Citizen Unveils a $395 Sorcerer Mickey Watch for Macy's 100th Parade"
 seo_title: "Citizen Sorcerer Mickey Macy's Parade AW1696-03W News"
 description: "Citizen's AW1696-03W Sorcerer Mickey 100th Anniversary Macy's Parade watch is a 40 mm Eco-Drive with sapphire, limited to 500 numbered pieces at $395, sold only at Macy's and Citizen US."
 date: 2026-11-08 18:20:00 -0500
@@ -11,6 +11,8 @@ affiliate: true
 ig_caption: "Mickey is flying over Manhattan on a new Citizen. The Sorcerer Mickey 100th Anniversary Macy's Parade watch (AW1696-03W) is a 40 mm, 9.29 mm Eco-Drive with sapphire and a numbered caseback, limited to 500 pieces at $395. Only at Macy's and Citizen's US site. Specs checked on Citizen's product page. Full story on the Journal, link in bio. #citizen #ecodrive #mickeymouse #macysparade #watchnews #mrtictoctalk"
 ---
 Five hundred pieces. That is the entire run of Citizen's new Sorcerer Mickey's 100th Anniversary Macy's Parade watch, reference AW1696-03W, and it is built for the one parade every New Yorker has either stood on Central Park West for or watched from the couch with coffee. It costs $395, it runs on light, and it is sold in exactly two places: Macy's and [Citizen's US site](https://www.citizenwatch.com/us/en/product/AW1696-03W). I checked the price, the edition size, and every spec below against Citizen's own product page on November 8, 2026, when it was listed at $395 and still orderable.
+
+**Verdict:** At $395, this is worth it if the Macy's Thanksgiving Day Parade or Disney is already part of your story. You get sapphire, a numbered caseback, a slim 40 mm Eco-Drive case, and dial art made for the parade's centennial. It is a licensed collectible you buy to wear and keep, not a piece that belongs in a portfolio. If that sounds like you, keep reading. If you want a daily driver Citizen instead, skip to the Tsuyosa and Promaster notes later.
 
 ## Mickey over Manhattan
 
@@ -39,11 +41,17 @@ Citizen notes that Eco-Drive turns 50 this year, and on a watch like this the te
 
 Citizen did not publish a lug width on the product page, so measure before you buy a spare strap. If you already wear Citizen, the [Citizen Tsuyosa strap guide](https://mrtictoctalk.com/strap-finder/citizen-tsuyosa/) in our Strap Finder shows how the brand's own straps and bracelets are set up on a modern 40 mm three hander, and the full [Watch Strap Finder](https://mrtictoctalk.com/strap-finder/) covers 76 models.
 
+## Collectible versus investment
+
+Be clear about the category. This is a legitimate limited edition collectible: 500 numbered pieces, parade specific dial art, exclusive retail, sapphire, and Eco-Drive so the movement does not age out of a dead cell. That is enough to make it a keepable piece for parade fans, Disney collectors, and Citizen Disney fans who want one anniversary watch they will actually wear on Thanksgiving.
+
+It is not an investment thesis. Licensed character quartz solar watches rarely behave like mechanical Rolex or Omega references on the secondary market. Buy it because the dial hits you, because the parade is family tradition, or because $395 for sapphire and a numbered caseback feels fair for a gift. Do not buy it expecting appreciation. Keep the box, the papers, and the edition number photo for provenance if you ever sell, and treat any future resale as a bonus, not the plan.
+
+If you are hunting for a Citizen to wear every day of the week instead, a Tsuyosa or a Promaster is the stronger daily driver, and the eBay links below are a good place to compare older Citizen Disney pieces.
+
 ## Should you grab one?
 
 My take: if the Macy's parade is part of your family's Thanksgiving, or you have a Disney fan on your gift list, this is an easy yes at $395. You get sapphire, a numbered caseback, a slim case and a movement that never needs a battery, wrapped around artwork made specifically for this edition. The parade itself steps off on Thanksgiving, November 26, 2026, and with only 500 pieces split between Macy's and one website, I would not wait for Black Friday hoping for a markdown.
-
-Be honest with yourself about what it is, though. This is a licensed collectible with a quartz based solar movement, not a mechanical investment piece. Buy it because you love the dial. If you are hunting for a Citizen to wear every day of the week instead, a Tsuyosa or a Promaster is the stronger daily driver, and the eBay links below are a good place to compare older Citizen Disney pieces.
 
 {% include ebay-shop.html lead="Shopping Citizen Disney watches?" q="citizen+disney+mickey+watch" label="Citizen Disney Mickey watches" q2="citizen+eco+drive+limited+edition" label2="Citizen Eco-Drive limited editions" %}
 
@@ -58,8 +66,9 @@ For more affordable releases that landed this weekend, see the {% assign tx = si
 * Limited to 500 numbered pieces worldwide, with the edition number engraved on the caseback and a custom gift box.
 * $395, sold only at Macy's and citizenwatch.com, listed as orderable on Citizen's US site on November 8, 2026.
 * Dial art by Disney artists John and Shelley Loter, made for the centennial of the Macy's Thanksgiving Day Parade, which runs November 26, 2026.
+* Verdict: worth $395 as a wear and keep collectible for parade or Disney fans; not an investment play.
 </div>
 
 <div class="sources" markdown="1">
-**Sources:** [Citizen AW1696-03W product page](https://www.citizenwatch.com/us/en/product/AW1696-03W) · [The Gadgeteer on the Sorcerer Mickey watch](https://the-gadgeteer.com/2026/11/08/citizen-sorcerer-mickey-aw1696-macys-parade/) · [Notebookcheck on the AW1696-03W](https://www.notebookcheck.net/Citizen-releases-new-colorful-EcoDrive-watch-featuring-Mickey-Mouse.1445282.0.html). Accessed November 8, 2026.
+**Sources:** [Citizen AW1696-03W product page](https://www.citizenwatch.com/us/en/product/AW1696-03W) · [Macy's listing for the Citizen Disney Sorcerer Mickey watch](https://www.macys.com/shop/product/citizen-disney-macys-100th-thanksgiving-day-parade-2026-disneys-sorcerers-apprentice-mickey-mouse-balloon-unisex-leather-blue-strap-watch-40mm?ID=26714680) · [The Gadgeteer on the Sorcerer Mickey watch](https://the-gadgeteer.com/2026/11/08/citizen-sorcerer-mickey-aw1696-macys-parade/) · [Notebookcheck on the AW1696-03W](https://www.notebookcheck.net/Citizen-releases-new-colorful-EcoDrive-watch-featuring-Mickey-Mouse.1445282.0.html). Accessed November 8, 2026.
 </div>
