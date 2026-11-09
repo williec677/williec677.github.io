@@ -238,3 +238,16 @@ Window checked: ~2026-11-08 8:20 AM ET through ~2026-11-08 12:30 PM ET.
 | 2026-11-08 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-08 12:30 PM ET through ~2026-11-08 6:30 PM ET.
+
+## Check run 2026-11-09 ~8:20 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-09 | Ming 51.01 Halo (LEAD): crystallised grade 5 titanium with 5N rose gold tone coating, 37 x 8 mm, 43 mm L2L, 50 m (SJX), LJP 7380.M1 hand wound 2.7 mm, 3 Hz, 90h, no lume, 20 mm Jean Rousseau strap, 150 pcs, CHF 10,900 excl tax, orders Nov 10 1 PM GMT | Hodinkee, Monochrome, SJX (all Nov 9), ming.watch homepage features it | Covered (lead) in ming-51-01-halo-awake-son-mai-garrick-s8-news, commit 81c1872, build 42624503287 passed, live 200 |
+| 2026-11-09 | Awake Sơn Mài Silver Leaf Vignette dials: Java Green, Gentian Blue, Indian Red (~100/yr each), Purple Viola 200 pcs; 38 x 44.75 x 11.5 mm, 100 m, LJP G101 68h, €2,640 incl VAT (~$2,950 per Hodinkee), deliveries late Nov | Hodinkee, Time and Tide | Covered (grouped) |
+| 2026-11-09 | Garrick S8: 39 x 8 mm 904L, 100 m, Garrick S8 caliber 21,600 vph ~60h, 5/yr, from GBP 59,500 steel / GBP 73,000 precious metal excl VAT, debuts IAMWATCH Singapore Nov 12 to 15 | Monochrome, garrick.co.uk | Covered (grouped) |
+| 2026-09 | Glashütte Original 70s (T+T hands on Nov 9) | T+T, Monochrome Sep 16 | Skipped: launched Sept 2026 |
+| 2026-11-09 | Fratello hands on Rado DiaStar Original Skeleton (two) and Sinn EZM 19; aBTW Ariel CEO column; Revolution independents feature; SJX tourbillon history | Fratello, aBTW, Revolution, SJX | Skipped: hands ons and features, not fresh launch news |
+| 2026-11-09 | WatchPro feed 403; Deployant timeout | RSS | Not checked |
+| 2026-11-09 | Follow ups still open: Ming Halo orders open Nov 10, Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-08 6:30 PM ET through ~2026-11-09 8:20 AM ET.
