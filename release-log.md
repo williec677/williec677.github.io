@@ -251,3 +251,16 @@ Window checked: ~2026-11-08 12:30 PM ET through ~2026-11-08 6:30 PM ET.
 | 2026-11-09 | Follow ups still open: Ming Halo orders open Nov 10, Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-08 6:30 PM ET through ~2026-11-09 8:20 AM ET.
+
+## Check run 2026-11-09 ~12:30 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-09 | Timex Marlin California Dial LE TW6A28700 (LEAD): 34 mm polished steel, domed acrylic, black California dial (Roman 10/11/1/2, Arabic 4/5/7/8, sticks 3/6/9), hand wound, 30 m, 33.2 g, brown leather QR, 200 numbered pcs, $299; 1 to 100 at Windup Watch Fair NYC, 101 to 200 timex.com only from Nov 9. Timex lists 13.5 mm height; Windup lists 10.5 mm, 41 mm L2L, 18 mm lugs, Seagull movement | timex.com product page and blog, Windup Watch Shop, Gizmochina | Covered (lead) in timex-marlin-california-dial-gshock-monochrome-mtm-news, commit 7462059, build 42664458270 passed, live 200 |
+| 2026-11 | G-Shock monochrome MTM: DW-5600MTM-8 / DW-5900MTM-8 ¥15,950, DW-6900MTM-8 ¥17,050, DWE-5600MTM-8 multi material band ¥28,050 (Japan, Nov 2026) | Oomiya, Notebookcheck x2, Gizmochina | Covered (grouped, also new) |
+| 2026-09 | Orient Bambino Version 7 36.4 mm RA-BB0101S etc. | orient-watch.com (Launch Sep 2026), Orient USA | Skipped: launched Sept 2026 |
+| 2026-10-29 | Bell & Ross BR-05 Chrono Snow Rocket (250 pcs, $7,200 rubber / $7,700 steel) | bellross.com, Haberdasher Oct 29, webChronos Nov 9 | Skipped: announced Oct 29, old |
+| 2026-11-09 | Gadgeteer weekly recap (Oris oxblood, Oceanus Manta MOP, CRW-002 already logged); Monochrome Auret Mederi first look; Hodinkee happy hour photo report; RSS rest repeats of morning items | Various | Skipped: already covered or features |
+| 2026-11-09 | WatchPro feed 403 | RSS | Not checked |
+| 2026-11-09 | Follow ups still open: Ming Halo orders open Nov 10, Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-09 8:20 AM ET through ~2026-11-09 12:30 PM ET.
