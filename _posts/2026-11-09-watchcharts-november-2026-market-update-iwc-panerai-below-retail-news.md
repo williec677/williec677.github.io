@@ -3,7 +3,7 @@ layout: post
 title: "IWC and Panerai Are Trading 40% Under Retail: The November 2026 Watch Market Report"
 seo_title: "Watch Market November 2026: IWC and Panerai Trade 40% Below Retail"
 description: "WatchCharts' November 2026 market update: the overall index slipped 0.8% in October, Rolex fell 1.1%, Ming and Parmigiani led, and in production IWC and Panerai models now trade about 40% below retail."
-date: 2026-11-09 18:25:00 -0500
+date: 2026-11-09 18:15:00 -0500
 category_label: News
 cluster: news
 tags: [news, market, prices, iwc, panerai, rolex, patek-philippe, tudor, omega, ming, secondary-market]
