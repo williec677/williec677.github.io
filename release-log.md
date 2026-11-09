@@ -264,3 +264,16 @@ Window checked: ~2026-11-08 6:30 PM ET through ~2026-11-09 8:20 AM ET.
 | 2026-11-09 | Follow ups still open: Ming Halo orders open Nov 10, Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-09 8:20 AM ET through ~2026-11-09 12:30 PM ET.
+
+## Check run 2026-11-09 ~6:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-09 | WatchCharts November 2026 Market Update (LEAD): Oct overall index down 0.8%, Rolex down 1.1%, Patek down 0.4%, AP up 0.2%, Patek up 15.6% YoY, overall up 7.5% YoY; Ming up 3.1%, Parmigiani up 1.7%, Omega down 1.7%; Tudor Sub up 2.7%, Rolex GMT Master down 1.8%; IWC and Panerai ~40% below retail (IW371605 ~$5,100 vs $9,200, IW389101 ~$5,900 vs $10,200, PAM422 ~$5,500 vs $13,200, PAM01109 ~$6,100 vs $10,800) | watchcharts.com (Nov 9) | Covered standalone in watchcharts-november-2026-market-update-iwc-panerai-below-retail-news |
+| 2026-08-12 | Boldr x Windup Venture LE V3 Sand ($429, 100 pcs) via CasebackChron Nov 9 | Windup chronicle Aug 12, Gear Patrol, IMBOLDN | Skipped: announced Aug 12, now unavailable |
+| 2026-09-29 | Benlywatch Desktop 95 ($159, 500 pcs, Swiss quartz, 39 mm) via Gadgeteer Nov 9 | benlywatch.com product JSON (published Sep 29) | Skipped: listed since Sept, preorder not new |
+| 2026-11-09 | Fulton x Kamen Rider 55th Anniversary chronograph (1,971 pcs, ¥49,500, Japan) | Mantanweb | Skipped: minor, Japan only licensed piece |
+| 2026-11-09 | Junghans Windup showroom open house (W&W); Fratello Awake and W&W Ming repeats; Teddy SSK059 review and vintage Fifty Fathoms feature | RSS | Skipped: event or already covered or features |
+| 2026-11-09 | WatchPro feed 403 | RSS | Not checked |
+| 2026-11-09 | Follow ups still open: Ming Halo orders open Nov 10, Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-09 12:30 PM ET through ~2026-11-09 6:25 PM ET.
