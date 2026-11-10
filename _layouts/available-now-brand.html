@@ -7,7 +7,7 @@ layout: default
   <p class="kicker"><a href="{{ '/tools/' | relative_url }}">Watch tools</a> · <a href="{{ '/available-now/' | relative_url }}">Available now</a></p>
   <h1>{{ page.brand_name }} watches you can buy now</h1>
   <p class="disclosure">This page contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
-  <p>These {{ page.brand_name }} models have official list prices and are sold by the brand or authorized retailers without an allocation list. Stock can still sell out. Prices were checked on {{ site.data.available_now.checked_label }}.</p>
+  <p>These {{ page.brand_name }} models have a published MSRP and are sold by the brand or authorized retailers without an allocation list. Stock can still sell out. Prices were checked on {{ site.data.available_now.checked_label }}.</p>
   {%- for item in models %}
   {%- assign wimg = site.data.watch_images[item.strap_id] -%}
   <section class="avail-card" id="{{ item.id }}">
@@ -20,7 +20,7 @@ layout: default
       {%- endif -%}
       <div class="sf-item-copy">
         <h2>{{ item.name }}</h2>
-        <p class="avail-price"><strong>{{ item.list_price_label }}</strong> official list price{% if item.sale_price %} · {{ item.sale_price_label }} showing on the official page when checked{% endif %}</p>
+        <p class="avail-price"><strong>{{ item.list_price_label }}</strong> MSRP{% if item.sale_price %} · {{ item.sale_price_label }} showing on the official page when checked{% endif %}</p>
         <p>Reference {{ item.ref }}.{% if item.fit == "standard" and item.lug %} Lug width {{ item.lug }}mm.{% elsif item.fit == "integrated" %} Integrated bracelet.{% elsif item.fit == "proprietary" %} Proprietary strap fit.{% endif %}</p>
         <p>{{ item.availability }}</p>
         <p class="meta">Source: <a href="{{ item.source_url }}" rel="noopener" target="_blank">{{ item.source_label }}</a>, checked {{ site.data.available_now.checked_label }}.</p>
@@ -38,6 +38,6 @@ layout: default
     </div>
   </section>
   {%- endfor %}
-  <p class="meta">Sale prices change. The official list price is the number to compare against, and the live brand page wins if the two disagree.</p>
+  <p class="meta">Sale prices change. The MSRP is the number to compare against, and the live brand page wins if the two disagree.</p>
   <p><a class="button button-secondary" href="{{ '/available-now/' | relative_url }}">All available now watches</a></p>
 </article>
