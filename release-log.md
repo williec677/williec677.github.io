@@ -296,3 +296,16 @@ Window checked: ~2026-11-09 12:30 PM ET through ~2026-11-09 6:25 PM ET.
 | 2026-11-10 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-10 8:15 AM ET through ~2026-11-10 12:25 PM ET.
+
+## Check run 2026-11-10 ~6:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-10 | Luminox Pacific Diver Automatic LE XS.3109.N (LEAD): 42 mm steel, burnt orange ceramic insert, black wave dial, Sellita SW200-1 ~38h, 200 m, 16 LLT, 24 mm rubber, 400 pcs, $1,745 / £1,489 / €1,395 / CAD 2,550 (store page live since Nov 5, official announcement Nov 10) | Luminox EU news, luminox.com, ca.luminox.com, Watch Insider, Gadgeteer Nov 6 | Covered (lead) in luminox-pacific-diver-orange-citizen-promaster-uncharted-waters-news |
+| 2026-11-10 | Citizen Promaster Dive Uncharted Waters US launch (Peter Miller): BN0251-04L 44 mm strap $425; BN0276-54L and BN0270-51E 40.6 mm bracelet $450; Citizen pages list conflicting calibers E118/E168, caliber not named | citizenwatch.com x3, Gizmochina | Covered (grouped) |
+| 2026-11-05 | Jack Mason Strat-o-timer GMT Triton Meteorite ($1,449, Miyota 9075) | jackmasonbrand.com (published Nov 6, sold out), Gear Patrol Nov 5 | Skipped: announced Nov 5, sold out |
+| 2026-10-29 | Norqain Wild ONE Skeleton X-Lite Turquoise ($13,900) | norqain.com, Time and Tide | Skipped: launched Oct 29 |
+| 2026-11-10 | W&W HU-02 (covered Nov 7), Nomos All Silver (covered Nov 5), Fratello On Air, Teddy Fiftysix (covered) | RSS | Skipped: already covered or features |
+| 2026-11-10 | WatchPro feed 403; Reddit JSON blocked | RSS | Not checked |
+| 2026-11-10 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-10 12:25 PM ET through ~2026-11-10 6:25 PM ET.
