@@ -3,7 +3,7 @@ layout: post
 title: "Watch News: Vacheron Constantin Goes Grey on the Fiftysix in Steel, Plus MB&F's Enamel Jungle LM101s"
 seo_title: "Vacheron Fiftysix Grey Two Tone Dial News, Nov 2026"
 description: "Vacheron Constantin's Fiftysix Self Winding 4600E/000A-H177 ($14,300) and Complete Calendar 4000E/000A-H178 ($33,900) get grey two tone sector dials in 40 mm steel. Plus MB&F's LM101 Gabriel Colliard cloisonné enamel trilogy at $131,000."
-date: 2026-11-10 08:30:00 -0500
+date: 2026-11-10 08:15:00 -0500
 category_label: News
 cluster: news
 tags: [news, vacheron constantin, fiftysix, dress watch, complete calendar, mbf, enamel, independent]
