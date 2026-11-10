@@ -7,6 +7,9 @@ date: 2026-11-20 09:00:00 -0500
 category_label: Collector Basics
 tags: [lume, tritium, luminova, patina, rolex]
 ig_caption: "Cream lume looks great, but is it real? T SWISS T, SWISS, SWISS MADE: the tiny text at 6 tells you what glows on that dial. Plus a 10 second UV test that exposes relume. Full guide on the Journal, link in bio. #patina #tritium #vintagerolex #lume #watchcollector #mrtictoctalk"
+image: "/assets/img/watches/rolex-explorer.webp"
+image_alt: "A current Rolex Explorer with a black dial and an orange seconds hand"
+image_credit: "Rolex"
 ---
 Patina sells watches. A creamy, even tone on the hour markers can make a common reference feel special, and buyers pay for it. That is exactly why lume is one of the most manipulated parts of a vintage watch. Here is how I read it.
 

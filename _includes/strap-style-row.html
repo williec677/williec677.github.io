@@ -1,0 +1,16 @@
+{%- assign row_ids = include.ids | default: "leather,nato,rubber,sailcloth,suede,mesh" | split: "," -%}
+<ul class="strap-style-row">
+  {%- for sid in row_ids -%}
+  {%- assign style = site.data.strap_styles[sid] -%}
+  {%- if style and style.image -%}
+  <li>
+    <figure class="strap-shot">
+      <img src="{{ style.image | relative_url }}" alt="{{ style.image_alt | escape }}" width="240" height="240" loading="lazy">
+      <figcaption>Image: {{ style.image_credit }}</figcaption>
+    </figure>
+    <p class="strap-style-label">{{ style.label }}</p>
+  </li>
+  {%- endif -%}
+  {%- endfor -%}
+</ul>
+<p class="meta">These are official product photos from strap makers, shown as examples. Shop links on this site go to Amazon or eBay searches, not to these exact straps.</p>

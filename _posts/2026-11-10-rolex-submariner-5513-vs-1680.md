@@ -7,6 +7,9 @@ date: 2026-11-10 09:00:00 -0500
 category_label: Head to Head
 tags: [rolex, submariner, 5513, 1680, vintage]
 ig_caption: "5513 or 1680? Same 40mm case, same acrylic crystal, very different watches. One is the purist's tool diver, the other gave the Sub its first date and the famous red text. Which side are you on? Full comparison on the Journal, link in bio. #rolex #submariner #5513 #1680 #redsub #vintagerolex #mrtictoctalk"
+image: "/assets/img/watches/rolex-submariner.webp"
+image_alt: "A current Rolex Submariner Date in steel and yellow gold with a blue bezel"
+image_credit: "Rolex"
 ---
 If you want a vintage Submariner you can actually wear, the conversation usually ends with two references: the 5513 and the 1680. Both sit in a 40mm case with an acrylic crystal and tritium lume, and both are rated to 200 meters. From across a room they look like siblings. Up close they are built for different people.
 

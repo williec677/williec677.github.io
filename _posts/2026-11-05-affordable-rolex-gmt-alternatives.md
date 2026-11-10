@@ -9,6 +9,9 @@ cluster: alternatives
 tags: [gmt, affordable, rolex-alternatives]
 affiliate: true
 ig_caption: "The GMT Master II look for a fraction of the price. Seiko, Citizen, Spinnaker, Lorier and Vaer, true GMT vs caller GMT explained, and the real reasons to save up for the Rolex instead. Every price checked on the maker's site. Full guide on the Journal, link in bio. #gmt #rolexgmt #seiko5gmt #affordablewatches #pepsigmt #mrtictoctalk"
+image: "/assets/img/watches/seiko-ssk001.webp"
+image_alt: "A Seiko 5 Sports SSK001 GMT with a green bezel and a black dial"
+image_credit: "Seiko"
 ---
 Let's get one thing straight. I own a 1989 Rolex GMT Master II Coke, and it is the watch I grab when I get on a plane. I love it. I also know that most people who fall for that two color bezel are not about to drop five figures on a steel sports watch. Good news: you do not have to. An affordable Rolex GMT alternative can give you the 24 hour hand, the bezel, and the travel tool attitude for under $1,000, and a couple of these even copy the way the Rolex actually works.
 

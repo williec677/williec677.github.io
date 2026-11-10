@@ -33,16 +33,29 @@ permalink: /strap-finder/
   <ul class="sf-list" id="sf-list">
     {%- for m in straps %}
     <li class="sf-item" id="{{ m.id }}" data-w="{% if m.fit == 'standard' %}{{ m.lug }}{% else %}special{% endif %}" data-s="{{ m.brand | downcase }} {{ m.model | downcase }} {{ m.refs | join: ' ' | downcase }}">
-      <h3><a href="{{ '/strap-finder/' | append: m.id | append: '/' | relative_url }}">{{ m.brand }} {{ m.model }}</a> <span class="sf-badge">{% if m.fit == "standard" %}{{ m.lug }}mm{% elsif m.fit == "integrated" %}Integrated{% else %}Proprietary{% endif %}</span></h3>
-      <p>{{ m.line }}</p>
-      <p class="meta">Stock: {{ m.stock }}. Try: {{ m.styles | join: ", " }}.</p>
-      <p class="meta">{{ m.notes }} <a href="{% if m.fit == 'standard' %}#size-{{ m.lug }}{% else %}#special-fits{% endif %}">Shop straps that fit</a></p>
+      {%- assign wimg = site.data.watch_images[m.id] -%}
+      <div class="sf-item-inner">
+        {%- if wimg and wimg.image -%}
+        <figure class="sf-thumb">
+          <img src="{{ wimg.image | relative_url }}" alt="{{ wimg.image_alt | escape }}" width="120" height="120" loading="lazy">
+          <figcaption>Image: {{ wimg.image_credit }}</figcaption>
+        </figure>
+        {%- endif -%}
+        <div class="sf-item-copy">
+          <h3><a href="{{ '/strap-finder/' | append: m.id | append: '/' | relative_url }}">{{ m.brand }} {{ m.model }}</a> <span class="sf-badge">{% if m.fit == "standard" %}{{ m.lug }}mm{% elsif m.fit == "integrated" %}Integrated{% else %}Proprietary{% endif %}</span></h3>
+          <p>{{ m.line }}</p>
+          <p class="meta">Stock: {{ m.stock }}. Try: {{ m.styles | join: ", " }}.</p>
+          <p class="meta">{{ m.notes }} <a href="{% if m.fit == 'standard' %}#size-{{ m.lug }}{% else %}#special-fits{% endif %}">Shop straps that fit</a></p>
+        </div>
+      </div>
     </li>
     {%- endfor %}
   </ul>
   <p class="meta" id="sf-none" hidden>No match yet. Try a shorter search, or measure your lugs with the tips below.</p>
 
   <h2>Shop straps by lug width</h2>
+  <p>Here are official example photos from strap makers. The shop links under each size are searches, not links to these exact straps.</p>
+  {% include strap-style-row.html %}
   {%- for s in site.data.strap_sizes.sizes %}
   <section class="sf-size" id="size-{{ s.mm }}">
     <h3>{{ s.mm }}mm watch straps</h3>

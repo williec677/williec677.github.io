@@ -9,6 +9,9 @@ cluster: luxury
 tags: [news, audemars-piguet, farer, ifl-watches, laphont, stone-dials]
 affiliate: true
 ig_caption: "Rocks are the hottest dial material in watches and nobody is leaning in harder than AP. Two new 38mm Code 11.59s with gold obsidian and black onyx dials, a Farer moonphase with a moon so detailed it looks photographed, and three hand painted $399 art watches. Every spec checked. Full story on the Journal, link in bio. #audemarspiguet #code1159 #farer #stonedial #watchnews #mrtictoctalk"
+image: "/assets/img/watches/farer-stratton.webp"
+image_alt: "A Farer Stratton with a dark marbled dial and a black suede strap"
+image_credit: "Farer"
 ---
 Stone dials just will not slow down, and this week proved it at two very different price points. Audemars Piguet put volcanic glass and onyx inside its smallest Code 11.59, while British brand Farer brought back its best selling moonphase on a slab of iron veined quartz for about the price of a nice weekend away. Then IFL Watches threw in three hand painted art dials for under $400. Every number below was checked against the brand or a named outlet on November 4, 2026.
 

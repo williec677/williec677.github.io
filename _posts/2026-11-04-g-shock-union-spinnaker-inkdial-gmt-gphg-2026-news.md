@@ -9,6 +9,9 @@ cluster: affordable
 tags: [news, g-shock, casio, union, spinnaker, inkdial, gphg]
 affiliate: true
 ig_caption: "Three things to put on your calendar this week. A $165 G-Shock x UNION in Pan African colors, a hand drawn $495 GMT from Spinnaker and illustrator Ben Li with only 450 of each color, and the GPHG, aka the Oscars of watches, on Saturday. Release times and specs checked. Full story on the Journal, link in bio. #gshock #union #spinnaker #inkdial #gphg #watchnews #mrtictoctalk"
+image: "/assets/img/watches/gshock-union.webp"
+image_alt: "The UNION x G-Shock DW-5600RBG in black, red, and green"
+image_credit: "UNION"
 ---
 Clear your calendar, because the next 72 hours are stacked. A G-Shock collab with one of the most respected streetwear shops on the planet drops Friday, a hand drawn GMT from a micro brand favorite goes live Thursday night, and on Saturday the watch world finds out who wins the Grand Prix d'Horlogerie de Genève. Two of these are cheap enough to actually buy, and both are limited, so here's exactly when and where. Every date, price and spec below was checked against the brand or a named outlet on November 4, 2026.
 

@@ -9,6 +9,9 @@ cluster: news
 tags: [news, timex, marlin, california-dial, limited-edition, affordable, casio, g-shock]
 affiliate: true
 ig_caption: "Timex just put a California dial on the Marlin. TW6A28700: 34 mm steel, black dial with Roman numerals up top and Arabic below, domed acrylic, hand wound, 200 numbered pieces at $299. Half sold at the Windup Watch Fair in NYC, the rest on timex.com now. Specs checked on Timex's own page. Full story on the Journal, link in bio. #timex #timexmarlin #californiadial #watchnews #mrtictoctalk"
+image: "/assets/img/watches/timex-marlin-california.webp"
+image_alt: "A Timex Marlin California Dial Limited Edition on a brown leather strap"
+image_credit: "Timex"
 ---
 **Update, November 9, 2026, 11:45 PM ET:** Sold out. Timex's [TW6A28700 product page](https://timex.com/products/marlin-california-dial-limited-edition-34mm-leather-strap-watch-tw6a28700) now shows the Marlin California Dial as sold out. If you still want one, hit the Notify Me button on that page to get an email from Timex if it comes back, or check the eBay links below for sold prices on the secondary market.
 

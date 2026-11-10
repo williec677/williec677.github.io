@@ -7,6 +7,13 @@ layout: default
   <p class="kicker"><a href="{{ '/strap-finder/' | relative_url }}">Watch Strap Finder</a></p>
   <h1>{{ m.brand }} {{ m.model }} strap size</h1>
   <p class="disclosure">This page contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
+  {%- assign wimg = site.data.watch_images[page.strap_id] -%}
+  {%- if wimg and wimg.image -%}
+  <figure class="post-hero strap-watch-hero">
+    <img src="{{ wimg.image | relative_url }}" alt="{{ wimg.image_alt | escape }}" width="800" height="800">
+    <figcaption>Image: {{ wimg.image_credit }}</figcaption>
+  </figure>
+  {%- endif -%}
   <p class="strap-answer">{% if m.fit == "standard" %}<strong>{{ m.lug }}mm</strong> lug width.{% elsif m.fit == "integrated" %}<strong>Integrated bracelet.</strong>{% else %}<strong>Proprietary fit.</strong>{% endif %} {{ m.line }}</p>
   <table class="strap-specs">
     <tr><th scope="row">Brand</th><td>{{ m.brand }}</td></tr>
@@ -20,15 +27,16 @@ layout: default
   <h2>Fit notes</h2>
   <p>{{ m.notes }}</p>
   <h2>Shop straps that fit</h2>
+  <p class="meta">The photos are official product shots from strap makers, shown as examples. Each shop link is a search, not a link to that exact strap.</p>
   <ul class="strap-shop">
     {%- for s in m.shop -%}
     {%- capture u -%}https://www.amazon.com/s?k={{ s.q }}{%- endcapture -%}
     {%- capture t -%}{{ s.t }} on Amazon{%- endcapture %}
-    <li>{% include aff.html network="amazon" url=u text=t %}</li>
+    <li class="strap-shop-item">{% include strap-shot.html style=s.style %}<div class="strap-shop-copy">{% include aff.html network="amazon" url=u text=t %}</div></li>
     {%- endfor %}
     {%- capture u -%}https://www.ebay.com/sch/i.html?_nkw={{ m.ebay_q }}{%- endcapture -%}
     {%- capture t -%}{{ m.model | split: " (" | first }} straps on eBay{%- endcapture %}
-    <li>{% include aff.html network="ebay" url=u text=t customid=fid %}</li>
+    <li class="strap-shop-item"><div class="strap-shot strap-shot-ph" aria-hidden="true"></div><div class="strap-shop-copy">{% include aff.html network="ebay" url=u text=t customid=fid %}</div></li>
   </ul>
   {% if m.fit == "standard" %}<p>Want more options? See every <a href="{{ '/strap-finder/' | relative_url }}#size-{{ m.lug }}">{{ m.lug }}mm watch</a> in the finder.</p>{% else %}<p>See all <a href="{{ '/strap-finder/' | relative_url }}#special-fits">special fit watches</a> in the finder.</p>{% endif %}
   <h2>Sources</h2>

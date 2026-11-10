@@ -1,0 +1,882 @@
+{
+  "watches": {
+    "rolex-gmt-master-ii": {
+      "credit": "Rolex",
+      "alt": "A current Rolex GMT-Master II with a blue and black bezel on a stainless steel bracelet",
+      "page": "https://www.rolex.com/watches/gmt-master-ii",
+      "source_image": "https://media.rolex.com/ (official GMT-Master II collection share image)",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-gmt-master-ii.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 40956,
+      "src_format": "AVIF",
+      "src_bytes": 22013
+    },
+    "rolex-submariner": {
+      "credit": "Rolex",
+      "alt": "A current Rolex Submariner Date in steel and yellow gold with a blue bezel",
+      "page": "https://www.rolex.com/watches/submariner",
+      "source_image": "https://media.rolex.com/ (official Submariner collection share image)",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-submariner.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 50972,
+      "src_format": "AVIF",
+      "src_bytes": 30402
+    },
+    "rolex-datejust": {
+      "credit": "Rolex",
+      "alt": "A current Rolex Datejust with a green dial, a fluted bezel, and a jubilee bracelet",
+      "page": "https://www.rolex.com/watches/datejust",
+      "source_image": "https://media.rolex.com/ (official Datejust collection share image)",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-datejust.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 41448,
+      "src_format": "AVIF",
+      "src_bytes": 23725
+    },
+    "rolex-explorer": {
+      "credit": "Rolex",
+      "alt": "A current Rolex Explorer with a black dial and an orange seconds hand",
+      "page": "https://www.rolex.com/watches/explorer",
+      "source_image": "https://media.rolex.com/ (official Explorer collection share image)",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-explorer.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 38776,
+      "src_format": "AVIF",
+      "src_bytes": 23236
+    },
+    "rolex-daytona": {
+      "credit": "Rolex",
+      "alt": "A current Rolex Cosmograph Daytona with a light blue dial on a stainless steel bracelet",
+      "page": "https://www.rolex.com/watches/cosmograph-daytona",
+      "source_image": "https://media.rolex.com/ (official Daytona collection share image)",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-daytona.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 55186,
+      "src_format": "AVIF",
+      "src_bytes": 37771
+    },
+    "rolex-air-king": {
+      "credit": "Rolex",
+      "alt": "A current Rolex Air-King with a black dial on a stainless steel bracelet",
+      "page": "https://www.rolex.com/watches/air-king",
+      "source_image": "https://media.rolex.com/ (official Air-King collection share image)",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-air-king.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 25004,
+      "src_format": "AVIF",
+      "src_bytes": 12995
+    },
+    "rolex-sea-dweller": {
+      "credit": "Rolex",
+      "alt": "A current Rolex Sea-Dweller in steel and yellow gold with a black bezel",
+      "page": "https://www.rolex.com/watches/sea-dweller",
+      "source_image": "https://media.rolex.com/ (official Sea-Dweller collection share image)",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-sea-dweller.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 49916,
+      "src_format": "AVIF",
+      "src_bytes": 30267
+    },
+    "rolex-yacht-master": {
+      "credit": "Rolex",
+      "alt": "A current Rolex Yacht-Master with a black dial and a rubber strap",
+      "page": "https://www.rolex.com/watches/yacht-master",
+      "source_image": "https://media.rolex.com/ (official Yacht-Master collection share image)",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-yacht-master.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 40142,
+      "src_format": "AVIF",
+      "src_bytes": 22384
+    },
+    "rolex-oyster-perpetual": {
+      "credit": "Rolex",
+      "alt": "A current Rolex Oyster Perpetual with a dark grey dial on a stainless steel bracelet",
+      "page": "https://www.rolex.com/watches/oyster-perpetual",
+      "source_image": "https://media.rolex.com/ (official Oyster Perpetual collection share image)",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-oyster-perpetual.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 34310,
+      "src_format": "AVIF",
+      "src_bytes": 17861
+    },
+    "rolex-deepsea": {
+      "credit": "Rolex",
+      "alt": "A current Rolex Deepsea with a blue dial and a black bezel on a stainless steel bracelet",
+      "page": "https://www.rolex.com/watches/deepsea",
+      "source_image": "https://media.rolex.com/q_auto/f_auto/rolexcom/collection/family-pages/professional-watches/rolex-deepsea/landing/2026/professional-watches-deepsea-landing-share.jpg",
+      "kind": "official Rolex collection share photo from media.rolex.com",
+      "asset": "/assets/img/watches/rolex-deepsea.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 46550,
+      "src_format": "AVIF",
+      "src_bytes": 28918
+    },
+    "tissot-prx-40": {
+      "credit": "Tissot",
+      "alt": "A Tissot PRX Powermatic 80 with a blue dial on an integrated steel bracelet",
+      "page": "https://www.tissotwatches.com/",
+      "source_image": "official Tissot product image (PRX 40 Powermatic 80)",
+      "kind": "official Tissot product photo",
+      "asset": "/assets/img/watches/tissot-prx-40.webp",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 110272,
+      "src_format": "WEBP",
+      "src_bytes": 248444
+    },
+    "tissot-gentleman": {
+      "credit": "Tissot",
+      "alt": "A Tissot Gentleman with a blue dial on a stainless steel bracelet",
+      "page": "https://www.tissotwatches.com/",
+      "source_image": "official Tissot product image (Gentleman)",
+      "kind": "official Tissot product photo",
+      "asset": "/assets/img/watches/tissot-gentleman.webp",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 79150,
+      "src_format": "WEBP",
+      "src_bytes": 211128
+    },
+    "tissot-prx-quartz": {
+      "credit": "Tissot",
+      "alt": "A Tissot PRX Quartz with a blue sunburst dial on an integrated steel bracelet",
+      "page": "https://www.tissotwatches.com/",
+      "source_image": "official Tissot product image (PRX Quartz)",
+      "kind": "official Tissot product photo",
+      "asset": "/assets/img/watches/tissot-prx-quartz.webp",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 87140,
+      "src_format": "WEBP",
+      "src_bytes": 201192
+    },
+    "seiko-ssk001": {
+      "credit": "Seiko",
+      "alt": "A Seiko 5 Sports SSK001 GMT with a green bezel and a black dial",
+      "page": "https://www.seikowatches.com/",
+      "source_image": "official Seiko product image (SSK001)",
+      "kind": "official Seiko product photo",
+      "asset": "/assets/img/watches/seiko-ssk001.webp",
+      "width": 1102,
+      "height": 1102,
+      "bytes": 85838,
+      "src_format": "PNG",
+      "src_bytes": 1025939
+    },
+    "seiko-spb143": {
+      "credit": "Seiko",
+      "alt": "A Seiko Prospex SPB143 62MAS reissue with a black dial on a steel bracelet",
+      "page": "https://www.seikowatches.com/",
+      "source_image": "official Seiko product image (SPB143)",
+      "kind": "official Seiko product photo of the current 62MAS reissue",
+      "asset": "/assets/img/watches/seiko-spb143.webp",
+      "width": 1102,
+      "height": 1102,
+      "bytes": 80092,
+      "src_format": "PNG",
+      "src_bytes": 1069066
+    },
+    "seiko-turtle": {
+      "credit": "Seiko",
+      "alt": "A Seiko Prospex Turtle diver with a black dial and a black rubber strap",
+      "page": "https://www.seikowatches.com/",
+      "source_image": "official Seiko product image (Prospex Turtle)",
+      "kind": "official Seiko product photo",
+      "asset": "/assets/img/watches/seiko-turtle.webp",
+      "width": 1102,
+      "height": 1102,
+      "bytes": 71454,
+      "src_format": "PNG",
+      "src_bytes": 1338140
+    },
+    "seiko-srpd": {
+      "credit": "Seiko",
+      "alt": "A Seiko 5 Sports SRPD with a black dial and a day date window on a steel bracelet",
+      "page": "https://www.seikowatches.com/",
+      "source_image": "official Seiko product image (5 Sports SRPD)",
+      "kind": "official Seiko product photo",
+      "asset": "/assets/img/watches/seiko-srpd.webp",
+      "width": 1102,
+      "height": 1102,
+      "bytes": 74732,
+      "src_format": "PNG",
+      "src_bytes": 895171
+    },
+    "seiko-presage-srpb43": {
+      "credit": "Seiko",
+      "alt": "A Seiko Presage Cocktail Time with a light blue dial and a black leather strap",
+      "page": "https://www.seikowatches.com/",
+      "source_image": "official Seiko product image (Presage SRPB43)",
+      "kind": "official Seiko product photo",
+      "asset": "/assets/img/watches/seiko-presage-srpb43.webp",
+      "width": 1102,
+      "height": 1102,
+      "bytes": 133654,
+      "src_format": "PNG",
+      "src_bytes": 1139034
+    },
+    "citizen-mickey": {
+      "credit": "Citizen",
+      "alt": "Official Citizen product photo of the Mickey Mouse watch on a leather strap, shown in profile with the caseback in view",
+      "page": "https://www.citizenwatch.com/",
+      "source_image": "https://citizenwatch.widen.net/ (official Citizen product image)",
+      "kind": "official Citizen product photo (profile and caseback view, not a dial-front packshot)",
+      "asset": "/assets/img/watches/citizen-mickey.webp",
+      "width": 1011,
+      "height": 1400,
+      "bytes": 63844,
+      "src_format": "WEBP",
+      "src_bytes": 149892
+    },
+    "davosa-cupex": {
+      "credit": "Davosa",
+      "alt": "A Davosa Cupex with a silver dial on a stainless steel bracelet",
+      "page": "https://davosa.com/",
+      "source_image": "official Davosa product image (Cupex)",
+      "kind": "official Davosa product photo",
+      "asset": "/assets/img/watches/davosa-cupex.webp",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 89102,
+      "src_format": "WEBP",
+      "src_bytes": 276130
+    },
+    "farer-stratton": {
+      "credit": "Farer",
+      "alt": "A Farer Stratton with a dark marbled dial and a black suede strap",
+      "page": "https://www.farer.com/",
+      "source_image": "official Farer product image (Stratton)",
+      "kind": "official Farer product photo",
+      "asset": "/assets/img/watches/farer-stratton.webp",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 113496,
+      "src_format": "WEBP",
+      "src_bytes": 267484
+    },
+    "timex-atelier-marine": {
+      "credit": "Timex",
+      "alt": "A Timex Atelier Marine with a blue dial and a blue rubber strap",
+      "page": "https://timex.com/",
+      "source_image": "official Timex product image (Atelier Marine)",
+      "kind": "official Timex product photo",
+      "asset": "/assets/img/watches/timex-atelier-marine.webp",
+      "width": 1000,
+      "height": 1200,
+      "bytes": 52840,
+      "src_format": "WEBP",
+      "src_bytes": 75764
+    },
+    "timex-marlin-california": {
+      "credit": "Timex",
+      "alt": "A Timex Marlin California Dial Limited Edition on a brown leather strap",
+      "page": "https://timex.com/products/marlin-california-dial-limited-edition-34mm-leather-strap-watch-tw6a28700",
+      "source_image": "https://timex.com/cdn/shop/files/TW6A28700.png?v=1794238240",
+      "kind": "official Timex product photo of reference TW6A28700",
+      "asset": "/assets/img/watches/timex-marlin-california.webp",
+      "width": 1000,
+      "height": 1200,
+      "bytes": 50994,
+      "src_format": "PNG",
+      "src_bytes": 634806
+    },
+    "timex-ironman-40th": {
+      "credit": "Timex",
+      "alt": "A Timex Ironman 40th Anniversary Edition in blue and red with a resin strap",
+      "page": "https://timex.com/products/timex-ironman-40th-anniversary-edition-39mm-resin-strap-watch-tw5m75900",
+      "source_image": "https://timex.com/cdn/shop/files/TW5M75900.png?v=1793280361",
+      "kind": "official Timex product photo of reference TW5M75900",
+      "asset": "/assets/img/watches/timex-ironman-40th.webp",
+      "width": 1000,
+      "height": 1200,
+      "bytes": 47966,
+      "src_format": "PNG",
+      "src_bytes": 716836
+    },
+    "casio-cmk-100": {
+      "credit": "Casio",
+      "alt": "A Casio CMK-100 titanium automatic field watch, official Casio press photo",
+      "page": "https://www.prnewswire.com/news-releases/casio-unleashes-the-cmk100-series--a-titanium-automatic-built-to-go-the-distance-302922796.html",
+      "source_image": "https://mmx.prnewswire.com/media/MS2022879/CASIO-CMK-100TD-1A.jpg?id=OA3045299&p=original",
+      "kind": "official Casio America press photo distributed through PR Newswire",
+      "asset": "/assets/img/watches/casio-cmk-100.webp",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 223798,
+      "src_format": "JPEG",
+      "src_bytes": 893170
+    },
+    "gshock-union": {
+      "credit": "UNION",
+      "alt": "The UNION x G-Shock DW-5600RBG in black, red, and green",
+      "page": "https://www.uniontokyo.jp/products/union-original-un-x-gshock-5600-rgb-202621226071300162",
+      "source_image": "https://www.uniontokyo.jp/cdn/shop/files/DW-5600RBG-1JR_202621226071300162_RGB_ofcl_01.jpg?v=1793769951",
+      "kind": "official UNION Tokyo product photo of the UNION x G-Shock collaboration",
+      "asset": "/assets/img/watches/gshock-union.webp",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 44590,
+      "src_format": "JPEG",
+      "src_bytes": 87455
+    },
+    "tudor-bb58": {
+      "credit": "Tudor",
+      "alt": "A current Tudor Black Bay 58 with snowflake hands, a burgundy bezel, and a steel bracelet",
+      "page": "https://www.tudorwatch.com/en/pressroom/new-watches/black-bay-58",
+      "source_image": "https://media.tudorwatch.com/image/upload/tudorwatch/09d6x9svgwnds/pressroom/black-bay-58/M7939A1A0NU-0001_FF_sRGB_BGW.jpg",
+      "kind": "official Tudor press product photo (Black Bay 58, reference M7939A1A0NU-0001)",
+      "asset": "/assets/img/watches/tudor-bb58.webp",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 48434,
+      "src_format": "JPEG",
+      "src_bytes": 955590
+    },
+    "oris-divers-65": {
+      "credit": "Oris",
+      "alt": "An Oris Divers Sixty Five with a green bezel and a teal dial on a steel bracelet",
+      "page": "https://www.oris.ch/",
+      "source_image": "official Oris product image (Divers Sixty-Five)",
+      "kind": "official Oris product photo",
+      "asset": "/assets/img/watches/oris-divers-65.webp",
+      "width": 906,
+      "height": 600,
+      "bytes": 36086,
+      "src_format": "PNG",
+      "src_bytes": 133435
+    },
+    "orient-kamasu": {
+      "credit": "Orient",
+      "alt": "An Orient Kamasu diver with a green bezel, shown in an official product photo on a rock",
+      "page": "https://www.orientwatchusa.com/",
+      "source_image": "official Orient product image (Kamasu)",
+      "kind": "official Orient product photo (lifestyle setting on a rock)",
+      "asset": "/assets/img/watches/orient-kamasu.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 167226,
+      "src_format": "WEBP",
+      "src_bytes": 196608
+    }
+  },
+  "straps": {
+    "leather": {
+      "id": "leather",
+      "image": "/assets/img/straps/leather.webp",
+      "image_alt": "An espresso brown quick release leather watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "Leather strap",
+      "page": "https://www.bartonwatchbands.com/products/espresso-brown-leather-quick-release-watch-band-strap",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/products/espresso-leather-espresso-stitching-quick-release-leather-watch-bands-barton-watch-bands-18mm-stainless-steel-standard-823158.jpg?v=1762439494",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1392,
+      "height": 1400,
+      "bytes": 86994,
+      "src_format": "WEBP",
+      "src_bytes": 294660
+    },
+    "nato": {
+      "id": "nato",
+      "image": "/assets/img/straps/nato.webp",
+      "image_alt": "A black and beige NATO style nylon watch strap",
+      "image_credit": "WatchGecko",
+      "label": "NATO strap",
+      "page": "https://www.watchgecko.com/products/watchgecko-signature-military-nylon-watch-strap-black-beige",
+      "source_image": "https://www.watchgecko.com/cdn/shop/products/watch-straps-watchgecko-signature-nato-strap-black-beige-34686482153635.jpg?v=1661987532",
+      "kind": "official WatchGecko product photo",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 193970,
+      "src_format": "JPEG",
+      "src_bytes": 206763
+    },
+    "nylon": {
+      "id": "nylon",
+      "image": "/assets/img/straps/nylon.webp",
+      "image_alt": "A navy blue NATO style nylon watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "Nylon strap",
+      "page": "https://www.bartonwatchbands.com/products/navy-blue-nylon-nato-style-watch-band-strap",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/products/navy-blue-nylon-nato-style-nato-style-nylon-strap-barton-watch-bands-885870.jpg?v=1762439478",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1400,
+      "height": 1292,
+      "bytes": 54182,
+      "src_format": "WEBP",
+      "src_bytes": 129858
+    },
+    "rubber": {
+      "id": "rubber",
+      "image": "/assets/img/straps/rubber.webp",
+      "image_alt": "A black quick release silicone rubber watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "Rubber strap",
+      "page": "https://www.bartonwatchbands.com/products/black-quick-release-silicone-rubber-watch-band-strap",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/products/black-soft-silicone-quick-release-silicone-watch-band-barton-watch-bands-227044.jpg?v=1762439478",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1392,
+      "height": 1400,
+      "bytes": 24448,
+      "src_format": "WEBP",
+      "src_bytes": 107132
+    },
+    "canvas": {
+      "id": "canvas",
+      "image": "/assets/img/straps/canvas.webp",
+      "image_alt": "A black premium canvas watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "Canvas strap",
+      "page": "https://www.bartonwatchbands.com/products/black-premium-canvas",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/products/black-crafted-canvas-canvas-quick-release-barton-watch-bands-798782.jpg?v=1762439609",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 53448,
+      "src_format": "WEBP",
+      "src_bytes": 92298
+    },
+    "suede": {
+      "id": "suede",
+      "image": "/assets/img/straps/suede.webp",
+      "image_alt": "A chocolate brown suede watch strap with beige stitching",
+      "image_credit": "Barton Watch Bands",
+      "label": "Suede strap",
+      "page": "https://www.bartonwatchbands.com/products/chocolate-brown-suede-beige-stitching",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/products/SUQR-CHOC-SS-DT1-15.jpg?v=1762444859",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 147210,
+      "src_format": "WEBP",
+      "src_bytes": 333122
+    },
+    "mesh": {
+      "id": "mesh",
+      "image": "/assets/img/straps/mesh.webp",
+      "image_alt": "A silver Milanese mesh watch bracelet",
+      "image_credit": "Barton Watch Bands",
+      "label": "Mesh bracelet",
+      "page": "https://www.bartonwatchbands.com/products/mesh-milanese-quick-release-band",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/files/MeshBracletQuickReleaseLoop.jpg?v=1762446054",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 99572,
+      "src_format": "WEBP",
+      "src_bytes": 192626
+    },
+    "gshock": {
+      "id": "gshock",
+      "image": "/assets/img/straps/gshock.webp",
+      "image_alt": "A Barton Elite silicone G-Shock strap, shown on a black digital G-Shock watch",
+      "image_credit": "Barton Watch Bands",
+      "label": "G-Shock compatible strap",
+      "page": "https://www.bartonwatchbands.com/products/black-elite-silicone-casio-g-shock-watch-band",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/files/BlackEliteSiliconeGShockRender_BB.jpg?v=1759344170",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1392,
+      "height": 1400,
+      "bytes": 65490,
+      "src_format": "WEBP",
+      "src_bytes": 165380
+    },
+    "sailcloth": {
+      "id": "sailcloth",
+      "image": "/assets/img/straps/sailcloth.webp",
+      "image_alt": "A royal blue sailcloth watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "Sailcloth strap",
+      "page": "https://www.bartonwatchbands.com/products/royal-blue-sailcloth-quick-release",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/products/royal-blue-sailcloth-quick-release-sailcloth-quick-release-barton-watch-bands-19mm-stainless-steel-103941.jpg?v=1762442539",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1392,
+      "height": 1400,
+      "bytes": 147272,
+      "src_format": "WEBP",
+      "src_bytes": 364116
+    },
+    "fkm": {
+      "id": "fkm",
+      "image": "/assets/img/straps/fkm.webp",
+      "image_alt": "A black Elite FKM rubber watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "FKM rubber strap",
+      "page": "https://www.bartonwatchbands.com/products/black-elite-fkm-rubber",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/files/FKM_BlackSS.jpg?v=1762445628",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1392,
+      "height": 1400,
+      "bytes": 25416,
+      "src_format": "WEBP",
+      "src_bytes": 90678
+    },
+    "tropic": {
+      "id": "tropic",
+      "image": "/assets/img/straps/tropic.webp",
+      "image_alt": "A black tropical style rubber watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "Tropical rubber strap",
+      "page": "https://www.bartonwatchbands.com/products/black-tropical-style",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/files/BlackLoopImage.png?v=1780528163",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 83810,
+      "src_format": "WEBP",
+      "src_bytes": 92974
+    },
+    "alligator": {
+      "id": "alligator",
+      "image": "/assets/img/straps/alligator.webp",
+      "image_alt": "A coffee brown alligator grain leather watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "Alligator grain leather strap",
+      "page": "https://www.bartonwatchbands.com/products/coffee-brown-alligator-grain-leather",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/products/coffee-brown-alligator-grain-leather-quick-release-leather-watch-bands-barton-watch-bands-18mm-stainless-steel-standard-393356.jpg?v=1762439983",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1392,
+      "height": 1400,
+      "bytes": 87656,
+      "src_format": "WEBP",
+      "src_bytes": 304366
+    },
+    "rally": {
+      "id": "rally",
+      "image": "/assets/img/straps/rally.webp",
+      "image_alt": "A black Horween leather rally watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "Rally leather strap",
+      "page": "https://www.bartonwatchbands.com/products/black-rally-horween-leather",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/products/BlackRallyMainLoop_largeholes_SS.jpg?v=1762442961",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1392,
+      "height": 1400,
+      "bytes": 53064,
+      "src_format": "WEBP",
+      "src_bytes": 166880
+    },
+    "fabric": {
+      "id": "fabric",
+      "image": "/assets/img/straps/fabric.webp",
+      "image_alt": "A black Cordura fabric and silicone hybrid watch strap",
+      "image_credit": "Barton Watch Bands",
+      "label": "Fabric strap",
+      "page": "https://www.bartonwatchbands.com/products/black-cordura-fabric-and-silicone-hybrid",
+      "source_image": "https://www.bartonwatchbands.com/cdn/shop/products/BlackCorduraHybridMainLoop_SS.jpg?v=1762443252",
+      "kind": "official Barton Watch Bands product photo",
+      "width": 1400,
+      "height": 1400,
+      "bytes": 49302,
+      "src_format": "WEBP",
+      "src_bytes": 96396
+    }
+  },
+  "posts": {
+    "2026-11-02-rolex-gmt-master-ii-16710-buyers-guide": {
+      "watch": "rolex-gmt-master-ii",
+      "note": "Current official GMT-Master II collection photo used for a 16710 guide. The photo is not a 16710.",
+      "asset": "/assets/img/watches/rolex-gmt-master-ii.webp"
+    },
+    "2026-11-03-casio-cmk-100-omega-x-33-watch-news-roundup": {
+      "watch": "casio-cmk-100",
+      "note": "Official Casio press photo of the CMK-100, the lead watch in this news roundup.",
+      "asset": "/assets/img/watches/casio-cmk-100.webp"
+    },
+    "2026-11-03-rolex-service-prices-official-price-list": {
+      "watch": "rolex-datejust",
+      "note": "Official Rolex Datejust collection photo used as a representative Rolex image for a service price article.",
+      "asset": "/assets/img/watches/rolex-datejust.webp"
+    },
+    "2026-11-03-timex-ironman-40th-glashutte-senator-aventurine-news": {
+      "watch": "timex-ironman-40th",
+      "note": "Official Timex product photo of the Ironman 40th Anniversary Edition, TW5M75900.",
+      "asset": "/assets/img/watches/timex-ironman-40th.webp"
+    },
+    "2026-11-04-audemars-piguet-code-11-59-stone-dials-farer-stratton-ii-news": {
+      "watch": "farer-stratton",
+      "note": "Official Farer Stratton product photo. An official Audemars Piguet Code 11.59 image was not available from this environment, so the Farer subject of the same news post is used.",
+      "asset": "/assets/img/watches/farer-stratton.webp"
+    },
+    "2026-11-04-g-shock-union-spinnaker-inkdial-gmt-gphg-2026-news": {
+      "watch": "gshock-union",
+      "note": "Official UNION Tokyo product photo of the UNION x G-Shock DW-5600RBG.",
+      "asset": "/assets/img/watches/gshock-union.webp"
+    },
+    "2026-11-04-tissot-prx-powermatic-80-buyers-guide": {
+      "watch": "tissot-prx-40",
+      "note": "Official Tissot PRX Powermatic 80 product photo.",
+      "asset": "/assets/img/watches/tissot-prx-40.webp"
+    },
+    "2026-11-05-affordable-rolex-gmt-alternatives": {
+      "watch": "seiko-ssk001",
+      "note": "Official Seiko 5 Sports SSK001 GMT product photo, the lead affordable GMT in the article.",
+      "asset": "/assets/img/watches/seiko-ssk001.webp"
+    },
+    "2026-11-06-how-to-read-rolex-serial-and-reference-numbers": {
+      "watch": "rolex-explorer",
+      "note": "Official Rolex Explorer collection photo used as a representative Rolex image for a serial number guide.",
+      "asset": "/assets/img/watches/rolex-explorer.webp"
+    },
+    "2026-11-07-watch-lug-width-chart": {
+      "watch": "rolex-gmt-master-ii",
+      "note": "Official Rolex GMT-Master II collection photo used as the lead sports watch image for the lug width chart.",
+      "asset": "/assets/img/watches/rolex-gmt-master-ii.webp"
+    },
+    "2026-11-08-citizen-sorcerer-mickey-macys-parade-aw1696-news": {
+      "watch": "citizen-mickey",
+      "note": "Official Citizen product photo. It is a profile and caseback view, not a dial-front packshot.",
+      "asset": "/assets/img/watches/citizen-mickey.webp"
+    },
+    "2026-11-08-davosa-cupex-auret-mederi-news": {
+      "watch": "davosa-cupex",
+      "note": "Official Davosa Cupex product photo, the lead watch in this news post.",
+      "asset": "/assets/img/watches/davosa-cupex.webp"
+    },
+    "2026-11-08-timex-atelier-marine-gmt24-m1a-gshock-mudman-earthwatch-news": {
+      "watch": "timex-atelier-marine",
+      "note": "Official Timex Atelier Marine product photo, the lead watch in this news post.",
+      "asset": "/assets/img/watches/timex-atelier-marine.webp"
+    },
+    "2026-11-09-timex-marlin-california-dial-gshock-monochrome-mtm-news": {
+      "watch": "timex-marlin-california",
+      "note": "Official Timex product photo of the Marlin California Dial Limited Edition, TW6A28700.",
+      "asset": "/assets/img/watches/timex-marlin-california.webp"
+    },
+    "2026-11-10-rolex-submariner-5513-vs-1680": {
+      "watch": "rolex-submariner",
+      "note": "Current official Submariner collection photo of a Rolesor blue-bezel Date, used for a vintage 5513 vs 1680 article. The photo is not a 5513 or a 1680.",
+      "asset": "/assets/img/watches/rolex-submariner.webp"
+    },
+    "2026-11-13-how-to-find-real-sold-prices-for-vintage-watches": {
+      "watch": "rolex-datejust",
+      "note": "Official Rolex Datejust collection photo used as a representative image for a sold-prices methodology article.",
+      "asset": "/assets/img/watches/rolex-datejust.webp"
+    },
+    "2026-11-20-tritium-vs-luminova-patina-guide": {
+      "watch": "rolex-explorer",
+      "note": "Official Rolex Explorer collection photo used as a representative lume-and-dial image. The photo is a current model, not a tritium-era watch.",
+      "asset": "/assets/img/watches/rolex-explorer.webp"
+    },
+    "2026-11-24-rolex-datejust-1601-dial-variations": {
+      "watch": "rolex-datejust",
+      "note": "Current official Datejust collection photo used for a vintage 1601 dial guide. The photo is not a 1601.",
+      "asset": "/assets/img/watches/rolex-datejust.webp"
+    },
+    "2026-11-27-vintage-seiko-6105-buyers-guide": {
+      "watch": "seiko-spb143",
+      "note": "Official Seiko Prospex SPB143 (62MAS reissue) product photo used for a vintage 6105 guide. The photo is the current reissue, not a 6105.",
+      "asset": "/assets/img/watches/seiko-spb143.webp"
+    },
+    "2026-12-01-original-vs-service-parts-vintage-rolex": {
+      "watch": "rolex-datejust",
+      "note": "Official Rolex Datejust collection photo used as a representative Rolex image for a parts authenticity article.",
+      "asset": "/assets/img/watches/rolex-datejust.webp"
+    },
+    "2026-12-04-tudor-snowflake-submariner-guide": {
+      "watch": "tudor-bb58",
+      "note": "Official Tudor press photo of a current Black Bay 58 with snowflake hands, used for a snowflake Submariner guide. The photo is a current BB58, not a vintage Tudor Submariner.",
+      "asset": "/assets/img/watches/tudor-bb58.webp"
+    }
+  },
+  "gaps": {
+    "posts": [
+      {
+        "post": "2026-11-05-piaget-warhol-camouflage-nomos-club-sport-34-dwc-terra-news",
+        "reason": "Official Piaget page only yielded a brand wordmark, not a product photo of the Warhol camouflage watch. Left as a clean placeholder."
+      },
+      {
+        "post": "2026-11-05-seiko-5-sports-skx-gmt-hdb016-dr-pepper-news",
+        "reason": "No official Seiko product photo of the HDB016 was found on Seiko pages. A generic Seiko 5 photo was not used, to keep the caption honest."
+      },
+      {
+        "post": "2026-11-05-serica-8315-3-golden-green-travel-chronometer-news",
+        "reason": "The official Serica social image was a lifestyle flatlay of three watches, not a clean single product shot. Left as a placeholder."
+      },
+      {
+        "post": "2026-11-06-cwc-navy-eighty-cd1-news",
+        "reason": "No confirmed official CWC product photo could be downloaded from this environment."
+      },
+      {
+        "post": "2026-11-06-klokers-klok03-briston-compressor-praesidus-montar-trafford-violet-news",
+        "reason": "No confirmed official Klokers (or other subject) product photo could be downloaded from this environment."
+      },
+      {
+        "post": "2026-11-06-omega-seamaster-ceramic-yema-senans-gshock-2500-news",
+        "reason": "Official Omega product and media URLs were found, but the Omega CDN timed out or blocked downloads from this environment. Left as a placeholder rather than using a third-party copy."
+      },
+      {
+        "post": "2026-11-07-gphg-2026-winners-rexhep-rexhepi-aiguille-dor-news",
+        "reason": "The official page image was a title card, not a product photo of the winning watch. Left as a placeholder."
+      },
+      {
+        "post": "2026-11-07-horologically-unique-hu-02-wandering-jump-hour-news",
+        "reason": "No confirmed official Horologically Unique product photo could be downloaded from this environment."
+      },
+      {
+        "post": "2026-11-09-ming-51-01-halo-awake-son-mai-garrick-s8-news",
+        "reason": "No confirmed official Ming product photo could be downloaded from this environment."
+      },
+      {
+        "post": "2026-11-09-watchcharts-november-2026-market-update-iwc-panerai-below-retail-news",
+        "reason": "IWC and Panerai official sites blocked automated fetches from this environment. Left as a placeholder."
+      },
+      {
+        "post": "2026-11-17-omega-speedmaster-145-022-buyers-guide",
+        "reason": "The official Omega Speedmaster product image URL was confirmed on omegawatches.com, but the file could not be downloaded from this environment (connection timeout). Left as a placeholder rather than using a third-party copy."
+      }
+    ],
+    "strap_styles": [
+      {
+        "id": "velcro",
+        "reason": "No official maker product photo of a velcro or hook and loop strap was downloaded. Shop links stay as searches, with a clean placeholder."
+      },
+      {
+        "id": "jubilee-style",
+        "reason": "Aftermarket jubilee-style bracelet photos were not taken from Amazon or eBay. No official bracelet-maker packshot was sourced. Clean placeholder used."
+      },
+      {
+        "id": "oyster-style",
+        "reason": "Aftermarket oyster-style bracelet photos were not taken from Amazon or eBay. No official bracelet-maker packshot was sourced. Clean placeholder used."
+      },
+      {
+        "id": "model-specific-integrated",
+        "reason": "Tissot PRX, Citizen Tsuyosa, and Cartier Santos compatible strap searches have no official brand strap packshot in the library. Clean placeholder used."
+      }
+    ],
+    "strap_models_without_watch_photo": [
+      "breitling-navitimer-43",
+      "bulova-precisionist-96b131",
+      "cartier-santos-medium",
+      "cartier-tank-must-large",
+      "casio-duro-mdv106",
+      "casio-g-shock-dw-5600",
+      "casio-g-shock-ga-2100",
+      "christopher-ward-c60-trident-pro-300",
+      "citizen-promaster-bn0150",
+      "citizen-promaster-fugu",
+      "citizen-tsuyosa",
+      "grand-seiko-sbgm221",
+      "hamilton-khaki-field-auto-38",
+      "hamilton-khaki-field-auto-42",
+      "hamilton-khaki-field-mechanical",
+      "iwc-pilot-mark-xviii",
+      "iwc-pilot-mark-xx",
+      "longines-hydroconquest-41",
+      "longines-spirit-40",
+      "mido-multifort",
+      "omega-seamaster-300-heritage",
+      "omega-seamaster-300m-2531-80",
+      "omega-aqua-terra-38",
+      "omega-aqua-terra-41",
+      "omega-seamaster-300m",
+      "omega-planet-ocean-43-5",
+      "omega-speedmaster-professional",
+      "omega-swatch-moonswatch",
+      "orient-bambino-38",
+      "panerai-luminor-44",
+      "rolex-explorer-ii-216570",
+      "seiko-alpinist-spb121",
+      "seiko-skx007",
+      "seiko-skx013",
+      "seiko-5-snk809",
+      "sinn-556",
+      "tag-heuer-aquaracer-300",
+      "tag-heuer-carrera-39",
+      "tudor-black-bay-36",
+      "tudor-black-bay-41-master-chronometer",
+      "tudor-black-bay-41",
+      "tudor-black-bay-54",
+      "tudor-black-bay-gmt",
+      "tudor-black-bay-pro",
+      "tudor-pelagos-39",
+      "tudor-pelagos-42",
+      "tudor-ranger"
+    ]
+  },
+  "strap_shop_items_with_photo": 196,
+  "strap_shop_items_placeholder": [
+    {
+      "model": "cartier-santos-medium",
+      "title": "Santos de Cartier Medium compatible straps"
+    },
+    {
+      "model": "casio-duro-mdv106",
+      "title": "22mm jubilee style bracelet"
+    },
+    {
+      "model": "citizen-promaster-fugu",
+      "title": "20mm jubilee style bracelet"
+    },
+    {
+      "model": "citizen-tsuyosa",
+      "title": "Tsuyosa compatible straps"
+    },
+    {
+      "model": "omega-speedmaster-professional",
+      "title": "20mm velcro strap"
+    },
+    {
+      "model": "omega-swatch-moonswatch",
+      "title": "20mm velcro strap"
+    },
+    {
+      "model": "rolex-daytona",
+      "title": "20mm oyster style bracelet"
+    },
+    {
+      "model": "rolex-datejust-36",
+      "title": "20mm jubilee style bracelet"
+    },
+    {
+      "model": "rolex-gmt-master-ii-126710",
+      "title": "20mm jubilee style bracelet"
+    },
+    {
+      "model": "rolex-gmt-master-ii-116710",
+      "title": "20mm jubilee style bracelet"
+    },
+    {
+      "model": "rolex-gmt-master-ii-16710",
+      "title": "20mm jubilee style bracelet"
+    },
+    {
+      "model": "seiko-5-sports-srpd",
+      "title": "22mm jubilee style bracelet"
+    },
+    {
+      "model": "seiko-skx007",
+      "title": "22mm jubilee style bracelet"
+    },
+    {
+      "model": "seiko-skx013",
+      "title": "20mm jubilee style bracelet"
+    },
+    {
+      "model": "tissot-prx-powermatic-80",
+      "title": "PRX Powermatic 80 compatible straps"
+    },
+    {
+      "model": "tissot-prx-quartz",
+      "title": "PRX Quartz compatible straps"
+    }
+  ]
+}

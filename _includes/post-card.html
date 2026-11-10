@@ -11,14 +11,15 @@
 {%- endif -%}
 <article class="card card-{{ kind }}{% if include.featured %} card-feature{% endif %}">
   <a class="card-link" href="{{ p.url | relative_url }}">
-    <div class="card-media{% unless has_photo %} card-media-mark{% endunless %}" aria-hidden="true">
+    <div class="card-media{% unless has_photo %} card-media-mark{% endunless %}"{% unless has_photo %} aria-hidden="true"{% endunless %}>
       {% if has_photo %}
-      <img src="{{ p.image | relative_url }}" alt="" width="800" height="500" loading="lazy">
+      <img src="{{ p.image | relative_url }}" alt="{{ p.image_alt | default: p.title | escape }}" width="800" height="500" loading="lazy">
       {% else %}
       <span class="card-dial"></span>
       <img class="card-logo" src="{{ '/assets/img/brand/logo-mark.png' | relative_url }}" alt="" width="96" height="96">
       {% endif %}
     </div>
+    {% if has_photo and p.image_credit %}<p class="card-credit">Image: {{ p.image_credit }}</p>{% endif %}
     <div class="card-body">
       {% if p.category_label %}<p class="kicker">{{ p.category_label }}</p>{% endif %}
       <h2 class="card-title">{{ p.title }}</h2>

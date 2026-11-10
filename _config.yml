@@ -17,6 +17,7 @@ social:
   links:
     - https://www.instagram.com/mrtictoctalk/
 instagram_url: https://www.instagram.com/mrtictoctalk/
+x_url: https://x.com/mrtictoctalk
 logo: /assets/img/brand/logo-full.png   # Organization logo in jekyll-seo-tag JSON-LD (output as an absolute https URL)
 defaults:
   - scope: { path: "", type: posts }

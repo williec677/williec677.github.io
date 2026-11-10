@@ -1,0 +1,5 @@
+<form class="site-search" action="{{ '/search/' | relative_url }}" method="get" role="search">
+  <label class="visually-hidden" for="{{ include.input_id | default: 'q' }}">Search the Journal</label>
+  <input type="search" id="{{ include.input_id | default: 'q' }}" name="q" placeholder="Search guides and news" value="">
+  <button type="submit">Search</button>
+</form>

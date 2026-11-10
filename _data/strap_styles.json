@@ -1,0 +1,100 @@
+{
+  "leather": {
+    "id": "leather",
+    "image": "/assets/img/straps/leather.webp",
+    "image_alt": "An espresso brown quick release leather watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "Leather strap"
+  },
+  "nato": {
+    "id": "nato",
+    "image": "/assets/img/straps/nato.webp",
+    "image_alt": "A black and beige NATO style nylon watch strap",
+    "image_credit": "WatchGecko",
+    "label": "NATO strap"
+  },
+  "nylon": {
+    "id": "nylon",
+    "image": "/assets/img/straps/nylon.webp",
+    "image_alt": "A navy blue NATO style nylon watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "Nylon strap"
+  },
+  "rubber": {
+    "id": "rubber",
+    "image": "/assets/img/straps/rubber.webp",
+    "image_alt": "A black quick release silicone rubber watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "Rubber strap"
+  },
+  "canvas": {
+    "id": "canvas",
+    "image": "/assets/img/straps/canvas.webp",
+    "image_alt": "A black premium canvas watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "Canvas strap"
+  },
+  "suede": {
+    "id": "suede",
+    "image": "/assets/img/straps/suede.webp",
+    "image_alt": "A chocolate brown suede watch strap with beige stitching",
+    "image_credit": "Barton Watch Bands",
+    "label": "Suede strap"
+  },
+  "mesh": {
+    "id": "mesh",
+    "image": "/assets/img/straps/mesh.webp",
+    "image_alt": "A silver Milanese mesh watch bracelet",
+    "image_credit": "Barton Watch Bands",
+    "label": "Mesh bracelet"
+  },
+  "gshock": {
+    "id": "gshock",
+    "image": "/assets/img/straps/gshock.webp",
+    "image_alt": "A Barton Elite silicone G-Shock strap, shown on a black digital G-Shock watch",
+    "image_credit": "Barton Watch Bands",
+    "label": "G-Shock compatible strap"
+  },
+  "sailcloth": {
+    "id": "sailcloth",
+    "image": "/assets/img/straps/sailcloth.webp",
+    "image_alt": "A royal blue sailcloth watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "Sailcloth strap"
+  },
+  "fkm": {
+    "id": "fkm",
+    "image": "/assets/img/straps/fkm.webp",
+    "image_alt": "A black Elite FKM rubber watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "FKM rubber strap"
+  },
+  "tropic": {
+    "id": "tropic",
+    "image": "/assets/img/straps/tropic.webp",
+    "image_alt": "A black tropical style rubber watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "Tropical rubber strap"
+  },
+  "alligator": {
+    "id": "alligator",
+    "image": "/assets/img/straps/alligator.webp",
+    "image_alt": "A coffee brown alligator grain leather watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "Alligator grain leather strap"
+  },
+  "rally": {
+    "id": "rally",
+    "image": "/assets/img/straps/rally.webp",
+    "image_alt": "A black Horween leather rally watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "Rally leather strap"
+  },
+  "fabric": {
+    "id": "fabric",
+    "image": "/assets/img/straps/fabric.webp",
+    "image_alt": "A black Cordura fabric and silicone hybrid watch strap",
+    "image_credit": "Barton Watch Bands",
+    "label": "Fabric strap"
+  }
+}

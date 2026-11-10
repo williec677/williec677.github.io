@@ -9,6 +9,9 @@ cluster: affordable
 tags: [news, casio, omega, oris, audemars-piguet]
 affiliate: true
 ig_caption: "Big week. Casio made a titanium automatic with sapphire for $320, Omega pulled the last digital Speedmaster from its catalog, Oris dropped an oxblood Pointer Date, and AP built a titanium Royal Oak that chimes. Every spec checked. Full roundup on the Journal, link in bio. #casio #cmk100 #omegax33 #oris #audemarspiguet #watchnews #mrtictoctalk"
+image: "/assets/img/watches/casio-cmk-100.webp"
+image_alt: "A Casio CMK-100 titanium automatic field watch, official Casio press photo"
+image_credit: "Casio"
 ---
 Four stories, four completely different corners of the watch world, and every one of them is worth your time. A $320 titanium automatic from the company that made the F-91W famous. A space watch quietly walking off the stage. A classic Swiss pilot style watch in the best fall color there is. And a Royal Oak that rings. Every spec below was checked against the brand or a named outlet on November 3, 2026.
 

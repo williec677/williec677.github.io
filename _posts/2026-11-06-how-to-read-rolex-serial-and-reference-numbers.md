@@ -7,6 +7,9 @@ date: 2026-11-06 09:00:00 -0500
 category_label: Reference Guide
 tags: [rolex, serial-numbers, reference-numbers, authentication]
 ig_caption: "Your Rolex has two numbers that matter: the reference at 12 and the serial at 6. One tells you what it is, the other tells you roughly when. Here is how to read both without falling for the classic tricks. Full guide on the Journal, link in bio. #rolex #rolexserial #vintagerolex #watchcollector #mrtictoctalk"
+image: "/assets/img/watches/rolex-explorer.webp"
+image_alt: "A current Rolex Explorer with a black dial and an orange seconds hand"
+image_credit: "Rolex"
 ---
 Every Rolex conversation I have on Instagram eventually lands on the same question: "What year is it?" The answer lives in two engravings, and most buyers only half read them. Learn to read both properly and you will catch a surprising number of problems before a watchmaker ever opens a case.
 

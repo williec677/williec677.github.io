@@ -25,3 +25,9 @@ Copy this feed address into any reader app (Feedly, Inoreader, NetNewsWire, Reed
 ## On Instagram
 
 More watch talk lives at [@mrtictoctalk](https://www.instagram.com/mrtictoctalk/).
+
+{% if site.x_url != "" %}
+## On X
+
+New posts are also shared on [X @mrtictoctalk]({{ site.x_url }}).
+{% endif %}

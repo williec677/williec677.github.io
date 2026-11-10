@@ -9,6 +9,9 @@ cluster: affordable
 tags: [news, timex, glashutte-original, casio, oceanus]
 affiliate: true
 ig_caption: "The watch that timed your first mile just turned 40. Timex dropped an Ironman 40th Anniversary Edition for $129, Glashütte Original put real Murano aventurine glass in the Senator, and Casio gave the Oceanus Manta a mother of pearl dial. Every spec checked. Full story on the Journal, link in bio. #timex #ironman #glashutteoriginal #oceanus #watchnews #mrtictoctalk"
+image: "/assets/img/watches/timex-ironman-40th.webp"
+image_alt: "A Timex Ironman 40th Anniversary Edition in blue and red with a resin strap"
+image_credit: "Timex"
 ---
 Tuesday night news, and it covers the whole price ladder. At one end, a $129 digital that basically raised a generation of runners. At the other, a platinum dress watch with a dial made from glass that was invented by accident in Venice. And right in the middle, a Casio that most Americans can't even buy yet. Everything below was checked against the brand or a named outlet on November 3, 2026.
 

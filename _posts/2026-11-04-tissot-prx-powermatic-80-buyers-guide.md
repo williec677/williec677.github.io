@@ -8,7 +8,9 @@ category_label: Buying Guide
 tags: [tissot, prx, powermatic-80, integrated-bracelet, affordable]
 ig_caption: "A Swiss automatic with an integrated bracelet, a waffle dial, and a three day power reserve, all for well under four figures. The Tissot PRX Powermatic 80 is the watch I tell every new collector to try on first. 40mm or 35mm? Real prices, real flaws, full guide on the Journal, link in bio. #tissot #tissotprx #powermatic80 #integratedbracelet #swisswatch #mrtictoctalk"
 verdict: "The PRX Powermatic 80 is the first Swiss automatic I would tell a new collector to try on. Tissot lists the 40mm at $850 and the 35mm at $795 as of November 2026. The used market median sits near $480, so buy used when you can."
-
+image: "/assets/img/watches/tissot-prx-40.webp"
+image_alt: "A Tissot PRX Powermatic 80 with a blue dial on an integrated steel bracelet"
+image_credit: "Tissot"
 ---
 Let me say the quiet part out loud. Most people who fall for the integrated bracelet look will never spend Royal Oak money, and they should not have to. The Tissot PRX Powermatic 80 is the reason that does not matter anymore. Flat tonneau case, bracelet that flows straight out of it like liquid steel, a dial that throws light around the room, and a Swiss automatic movement that runs for more than three days off the wrist. For the money, nothing else in the category gives you this much watch.
 

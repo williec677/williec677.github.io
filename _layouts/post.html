@@ -1,6 +1,33 @@
 ---
 layout: default
 ---
+{%- assign crumb_section = "Guides" -%}
+{%- assign crumb_url = "/guides/" -%}
+{%- if page.category_label == "Buying Guide" or page.category_label == "Head to Head" -%}
+  {%- assign crumb_section = "Reviews" -%}
+  {%- assign crumb_url = "/reviews/" -%}
+{%- elsif page.category_label == "News" -%}
+  {%- assign crumb_section = "News" -%}
+  {%- assign crumb_url = "/news/" -%}
+{%- endif -%}
+<nav class="crumbs" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    <li><a href="{{ crumb_url | relative_url }}">{{ crumb_section }}</a></li>
+    <li aria-current="page">{{ page.seo_title | default: page.title }}</li>
+  </ol>
+</nav>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": {{ "/" | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 2, "name": {{ crumb_section | jsonify }}, "item": {{ crumb_url | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 3, "name": {{ page.seo_title | default: page.title | jsonify }}, "item": {{ page.url | absolute_url | jsonify }}}
+  ]
+}
+</script>
 <article class="post">
   <header class="post-header">
     {% if page.category_label %}<p class="kicker">{{ page.category_label }}</p>{% endif %}
@@ -12,6 +39,13 @@ layout: default
       · by <a href="{{ site.instagram_url }}" rel="author noopener" target="_blank">Will, @mrtictoctalk</a>
     </p>
   </header>
+  {%- assign default_img = "/assets/img/brand/logo-full.png" -%}
+  {%- if page.image and page.image != "" and page.image != default_img -%}
+  <figure class="post-hero">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}" width="1200" height="750">
+    {% if page.image_credit %}<figcaption>Image: {{ page.image_credit }}</figcaption>{% endif %}
+  </figure>
+  {%- endif -%}
   {% if page.verdict %}
   <aside class="verdict" aria-label="Verdict">
     <p class="kicker">The verdict</p>
@@ -28,6 +62,23 @@ layout: default
   <aside class="post-cta">
     <p><strong>Talk watches with me.</strong> Questions about a reference, or a watch you are thinking of buying? Send a DM on <a href="{{ site.instagram_url }}" rel="noopener" target="_blank">Instagram @mrtictoctalk</a>, or <a href="{{ '/newsletter/' | relative_url }}">follow the Journal</a> to get new articles automatically.</p>
   </aside>
+  <aside class="author-box">
+    <img src="{{ '/assets/img/brand/logo-mark.png' | relative_url }}" alt="MrTicTocTalk logo" width="64" height="64">
+    <div>
+      <p class="kicker">About the author</p>
+      <p><strong>Will Camacho</strong> writes the MrTicTocTalk Journal. Sold prices over asking prices, always.</p>
+      <p class="author-links">
+        <a href="{{ site.instagram_url }}" rel="noopener" target="_blank">Instagram</a>
+        {% if site.x_url != "" %}<a href="{{ site.x_url }}" rel="noopener" target="_blank">X</a>{% endif %}
+        <a href="{{ '/about/' | relative_url }}">More about Will</a>
+      </p>
+    </div>
+  </aside>
+  <p class="share">
+    Share this article:
+    <a href="https://x.com/intent/tweet?url={{ page.url | absolute_url | url_encode }}&amp;text={{ page.title | url_encode }}" rel="noopener" target="_blank">X</a>
+    <a href="mailto:?subject={{ page.title | url_encode }}&amp;body={{ page.url | absolute_url | url_encode }}">Email</a>
+  </p>
   {%- comment -%} Related posts: same cluster first, then the newest other posts as filler. Posts with no cluster keep the old newest first list. {%- endcomment -%}
   {% assign others = site.posts | where_exp: "p", "p.url != page.url" %}
   {% if page.cluster %}

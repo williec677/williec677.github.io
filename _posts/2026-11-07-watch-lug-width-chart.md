@@ -7,6 +7,9 @@ date: 2026-11-07 09:00:00 -0500
 category_label: Reference Guide
 tags: [straps, lug-width, strap-guide, rolex, omega, tudor, seiko]
 ig_caption: "Ordered a strap, waited a week, and it rattled between the lugs? Been there. I built a lug width chart for 20 of the most popular watches out there, Submariner, Speedmaster, Black Bay 58, SKX007 and more, with every size checked against real sources. Save it before your next strap order. Link in bio. #watchstraps #lugwidth #natostrap #watchcollector #strapswap #mrtictoctalk"
+image: "/assets/img/watches/rolex-gmt-master-ii.webp"
+image_alt: "A current Rolex GMT-Master II with a blue and black bezel on a stainless steel bracelet"
+image_credit: "Rolex"
 ---
 Here is the cheapest way to make a watch feel brand new: put it on a different strap. Here is the fastest way to waste money: buy that strap in the wrong size. One millimeter sounds like nothing until you see a gap at each end of the lugs, or you are wrestling a strap that bunches up and refuses to sit flat.
 
@@ -89,7 +92,10 @@ These are hugely popular, and a standard strap will not fit any of them straight
 
 ## My strap picks by size
 
-Now the good part. Here is how I would spend money on the most common sizes from the chart.
+Now the good part. Here is how I would spend money on the most common sizes from the chart. The photos below are official product shots from strap makers, shown as examples. The shop links are searches, not links to these exact straps.
+
+{% include strap-style-row.html ids="leather,nato,rubber,sailcloth,suede,tropic" %}
+
 
 **20mm.** This is the jackpot size. A Navy style NATO on a GMT Master II or a Black Bay 58, a racing style leather on a Daytona, a canvas strap on a Khaki Field. Want proof the GMT wears straps like a champ? My {% assign gm = site.posts | where: "slug", "rolex-gmt-master-ii-16710-buyers-guide" | first %}{% if gm %}[Rolex GMT Master II 16710 buyer's guide]({{ gm.url | relative_url }}){% else %}Rolex GMT Master II 16710 buyer's guide{% endif %} covers the older 20mm Coke and Pepsi references that started it all. Start with a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=20mm+nato+watch+strap" text="20mm NATO strap" %} and go from there.
 

@@ -9,6 +9,9 @@ cluster: news
 tags: [news, timex, atelier, marine-m1a, gmt, g-shock, mudman, casio]
 affiliate: true
 ig_caption: "Timex just painted its Swiss made Atelier line the way collectors wanted. Marine M1a in blue enamel from $950. GMT24 M1a with a red and blue 24 hour scale from $1,350. Casio's Japan only shoebill Mudman GW-9503KJ-2JR is also here at ¥64,900. Specs checked against the brands. Full story on the Journal, link in bio. #timex #atelier #gshock #mudman #watchnews #mrtictoctalk"
+image: "/assets/img/watches/timex-atelier-marine.webp"
+image_alt: "A Timex Atelier Marine with a blue dial and a blue rubber strap"
+image_credit: "Timex"
 ---
 Timex just gave its Swiss made Atelier line the two colorways collectors have been waiting for. The Marine M1a now wears a polished blue enamel dial and a matching blue ceramic bezel, and the GMT24 M1a finally gets a red and blue 24 hour scale with a red GMT hand. Both are on sale now at Timex. Casio also launched this year's Love The Sea And The Earth Mudman in Japan, a shoebill inspired collaboration with Earthwatch Japan. I checked every size, price, and spec below against [Timex product pages](https://timex.com/blogs/the-timex-blog/timex-atelier-new-expressions-of-modern-watchmaking) and Japanese retailer listings on November 8, 2026.
 

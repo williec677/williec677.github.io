@@ -7,6 +7,9 @@ date: 2026-12-04 09:00:00 -0500
 category_label: Reference Guide
 tags: [tudor, snowflake, submariner, marine-nationale, vintage]
 ig_caption: "Square hands, square markers, and a story that starts with French Navy divers asking for a more legible dial. The Tudor Snowflake Sub is one of the coolest vintage divers out there. 7016, 7021, 9401, 9411: here is the guide. Link in bio. #tudor #snowflake #tudorsubmariner #marinenationale #vintagediver #mrtictoctalk"
+image: "/assets/img/watches/tudor-bb58.webp"
+image_alt: "A current Tudor Black Bay 58 with snowflake hands, a burgundy bezel, and a steel bracelet"
+image_credit: "Tudor"
 ---
 The vintage Tudor Submariner gets less attention than its Rolex cousin, and that is part of the appeal. The Snowflake versions in particular have a look no other diver of the era had: square markers and a square tipped hour hand that stays legible in poor light. Tudor still uses that hand today. If you are thinking about one, here is what the references mean, why the French Navy matters, and the two problems that can cost you the most money.
 

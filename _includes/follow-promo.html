@@ -1,0 +1,12 @@
+<aside class="promo promo-follow">
+  <div class="promo-copy">
+    <p class="kicker">Follow</p>
+    <h2>Get new guides automatically</h2>
+    <p>New reviews, buying guides, and news, by RSS or on Instagram and X.</p>
+  </div>
+  <p class="promo-actions">
+    <a class="button" href="{{ '/newsletter/' | relative_url }}">How to follow</a>
+    <a class="button button-ghost" href="{{ site.instagram_url }}" rel="me noopener" target="_blank">Instagram</a>
+    {% if site.x_url != "" %}<a class="button button-ghost" href="{{ site.x_url }}" rel="me noopener" target="_blank">X</a>{% endif %}
+  </p>
+</aside>

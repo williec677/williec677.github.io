@@ -19,10 +19,12 @@
 {%- assign body_class = page.body_class | default: page.layout -%}
 {%- assign nav_reviews = false -%}
 {%- assign nav_guides = false -%}
+{%- assign nav_news = false -%}
 {%- assign nav_strap = false -%}
 {%- assign nav_about = false -%}
 {%- if page.url == "/reviews/" or page.category_label == "Buying Guide" or page.category_label == "Head to Head" -%}{%- assign nav_reviews = true -%}{%- endif -%}
 {%- if page.url == "/guides/" or page.category_label == "Reference Guide" or page.category_label == "Collector Basics" or page.category_label == "Market Know How" -%}{%- assign nav_guides = true -%}{%- endif -%}
+{%- if page.url == "/news/" or page.category_label == "News" -%}{%- assign nav_news = true -%}{%- endif -%}
 {%- if page.url == "/strap-finder/" or page.layout == "strap-model" -%}{%- assign nav_strap = true -%}{%- endif -%}
 {%- if page.url == "/about/" -%}{%- assign nav_about = true -%}{%- endif %}
 <body class="page-{{ body_class }}">
@@ -36,16 +38,22 @@
       <nav class="nav nav-desktop" aria-label="Main">
         <a href="{{ '/reviews/' | relative_url }}"{% if nav_reviews %} aria-current="page"{% endif %}>Reviews</a>
         <a href="{{ '/guides/' | relative_url }}"{% if nav_guides %} aria-current="page"{% endif %}>Guides</a>
+        <a href="{{ '/news/' | relative_url }}"{% if nav_news %} aria-current="page"{% endif %}>News</a>
         <a href="{{ '/strap-finder/' | relative_url }}"{% if nav_strap %} aria-current="page"{% endif %}>Strap Finder</a>
         <a href="{{ '/about/' | relative_url }}"{% if nav_about %} aria-current="page"{% endif %}>About</a>
       </nav>
+      <div class="header-tools">
+        {% include search-form.html input_id="header-q" %}
+      </div>
       <details class="nav-wrap">
         <summary class="nav-toggle">Menu</summary>
         <nav class="nav nav-mobile" aria-label="Main mobile">
           <a href="{{ '/reviews/' | relative_url }}"{% if nav_reviews %} aria-current="page"{% endif %}>Reviews</a>
           <a href="{{ '/guides/' | relative_url }}"{% if nav_guides %} aria-current="page"{% endif %}>Guides</a>
+          <a href="{{ '/news/' | relative_url }}"{% if nav_news %} aria-current="page"{% endif %}>News</a>
           <a href="{{ '/strap-finder/' | relative_url }}"{% if nav_strap %} aria-current="page"{% endif %}>Strap Finder</a>
           <a href="{{ '/about/' | relative_url }}"{% if nav_about %} aria-current="page"{% endif %}>About</a>
+          <a href="{{ '/search/' | relative_url }}">Search</a>
         </nav>
       </details>
     </div>
@@ -71,11 +79,13 @@
         <a href="{{ '/affiliate-disclosure/' | relative_url }}">Affiliate disclosure</a>
         <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
         <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
-        <a href="{{ site.instagram_url }}" rel="me noopener" target="_blank">@mrtictoctalk</a>
+        <a href="{{ site.instagram_url }}" rel="me noopener" target="_blank">Instagram</a>
+        {% if site.x_url != "" %}<a href="{{ site.x_url }}" rel="me noopener" target="_blank">X</a>{% endif %}
       </p>
       {% if site.affiliates.amazon_tag != "" or site.affiliates.ebay_campid != "" %}<p class="fine">{% if site.affiliates.amazon_tag != "" %}As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>{% endif %}
       <p class="fine">Independent collector content. Not affiliated with, sponsored by, or endorsed by Rolex, Tudor, Omega, Seiko, or any brand mentioned. Brand and model names are used only to identify the watches discussed. © {{ site.time | date: "%Y" }} MrTicTocTalk.</p>
     </div>
   </footer>
+  <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
 </body>
 </html>

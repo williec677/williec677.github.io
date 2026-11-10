@@ -10,7 +10,9 @@ tags: [news, citizen, eco-drive, disney, mickey, limited-edition, affordable]
 affiliate: true
 ig_caption: "Mickey is flying over Manhattan on a new Citizen. The Sorcerer Mickey 100th Anniversary Macy's Parade watch (AW1696-03W) is a 40 mm, 9.29 mm Eco-Drive with sapphire and a numbered caseback, limited to 500 pieces at $395. Only at Macy's and Citizen's US site. Specs checked on Citizen's product page. Full story on the Journal, link in bio. #citizen #ecodrive #mickeymouse #macysparade #watchnews #mrtictoctalk"
 verdict: "At $395, this is worth buying if the Macy's Thanksgiving Day Parade or Disney is already part of your story. It is a wear and keep collectible, not an investment play."
-
+image: "/assets/img/watches/citizen-mickey.webp"
+image_alt: "Official Citizen product photo of the Mickey Mouse watch on a leather strap, shown in profile with the caseback in view"
+image_credit: "Citizen"
 ---
 Five hundred pieces. That is the entire run of Citizen's new Sorcerer Mickey's 100th Anniversary Macy's Parade watch, reference AW1696-03W, and it is built for the one parade every New Yorker has either stood on Central Park West for or watched from the couch with coffee. It costs $395, it runs on light, and it is sold in exactly two places: Macy's and [Citizen's US site](https://www.citizenwatch.com/us/en/product/AW1696-03W). I checked the price, the edition size, and every spec below against Citizen's own product page on November 8, 2026, when it was listed at $395 and still orderable.
 

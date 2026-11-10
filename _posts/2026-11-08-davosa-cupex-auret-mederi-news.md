@@ -9,6 +9,9 @@ cluster: news
 tags: [news, davosa, cupex, auret, mederi, integrated, sports, microbrand]
 affiliate: true
 ig_caption: "Davosa just joined the integrated sports watch fight with the Cupex Automatic. It is 40 mm across, 10.2 mm thick, and 100 m rated, from $1,150 in the US. Colombian newcomer Auret also puts its first watch, the 12 sided Mederi, on sale November 9. Time and Tide lists it at $2,200. Specs checked against the brands and Time and Tide. Full story on the Journal, link in bio. #davosa #cupex #auret #mederi #watchnews #mrtictoctalk"
+image: "/assets/img/watches/davosa-cupex.webp"
+image_alt: "A Davosa Cupex with a silver dial on a stainless steel bracelet"
+image_credit: "Davosa"
 ---
 Davosa just walked into the most crowded fight in watchmaking under $1,500: the slim integrated sports watch. The new Cupex Automatic is 40 mm across, 10.2 mm thick, and rated to 100 m, with a Swiss automatic and a bracelet that grows out of the case. All five references are in stock on Davosa USA and on Davosa's own shop. I checked every size, price, and spec below against those product pages on November 8, 2026. Colombian newcomer Auret is also opening the shop tomorrow for its first watch, the 12 sided Mederi. [Time and Tide](https://www.timeandtidewatches.com/auret-mederi-micro-mondays/) published the full first look today.
 

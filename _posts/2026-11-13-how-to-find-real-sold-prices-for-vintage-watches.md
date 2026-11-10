@@ -7,6 +7,9 @@ date: 2026-11-13 09:00:00 -0500
 category_label: Market Know How
 tags: [prices, ebay, chrono24, auctions, buying-guide]
 ig_caption: "Asking price is a wish. Sold price is a fact. Here is how I pull real comps before I buy anything: eBay sold filter, auction results with the premium added, and Chrono24 only for supply. Save this one. Full guide on the Journal, link in bio. #watchmarket #vintagewatches #rolex #watchcollector #mrtictoctalk"
+image: "/assets/img/watches/rolex-datejust.webp"
+image_alt: "A current Rolex Datejust with a green dial, a fluted bezel, and a jubilee bracelet"
+image_credit: "Rolex"
 ---
 The most expensive mistake in vintage watches is not buying a fake. It is paying an asking price because it looked normal next to other asking prices. Listings anchor each other. A dealer prices against the dealer down the street, who priced against a listing that has been sitting for six months.
 

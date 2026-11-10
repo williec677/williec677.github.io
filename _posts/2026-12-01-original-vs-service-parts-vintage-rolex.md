@@ -7,6 +7,9 @@ date: 2026-12-01 09:00:00 -0500
 category_label: Collector Basics
 tags: [rolex, service-parts, originality, vintage, buying-guide]
 ig_caption: "A service dial is not a fake dial. But it is not the same watch as an untouched original either. Here is how I spot service dials, hands, inserts, and crystals on vintage Rolex, and how it should change the price. Full guide on the Journal, link in bio. #vintagerolex #rolexservice #watchcollector #originality #mrtictoctalk"
+image: "/assets/img/watches/rolex-datejust.webp"
+image_alt: "A current Rolex Datejust with a green dial, a fluted bezel, and a jubilee bracelet"
+image_credit: "Rolex"
 ---
 Here is a sentence that confuses new collectors: a watch can be 100 percent genuine Rolex and still be the wrong watch to buy at the price on the tag. The reason is service parts.
 

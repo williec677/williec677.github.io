@@ -1,0 +1,11 @@
+{%- if include.style and include.style != "" -%}
+  {%- assign style = site.data.strap_styles[include.style] -%}
+{%- endif -%}
+{%- if style and style.image -%}
+<figure class="strap-shot">
+  <img src="{{ style.image | relative_url }}" alt="{{ style.image_alt | escape }}" width="240" height="240" loading="lazy">
+  <figcaption>Image: {{ style.image_credit }}</figcaption>
+</figure>
+{%- else -%}
+<div class="strap-shot strap-shot-ph" aria-hidden="true"></div>
+{%- endif -%}

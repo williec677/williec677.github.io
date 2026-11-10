@@ -7,6 +7,9 @@ date: 2026-11-27 09:00:00 -0500
 category_label: Buying Guide
 tags: [seiko, 6105, captain-willard, vintage, divers]
 ig_caption: "Not every great vintage diver wears a crown. The Seiko 6105 earned its nickname on Martin Sheen's wrist in Apocalypse Now and still wears like a tool. 8000 or 8110? Here is what to check. Full guide on the Journal, link in bio. #seiko #seiko6105 #captainwillard #vintageseiko #divewatch #mrtictoctalk"
+image: "/assets/img/watches/seiko-spb143.webp"
+image_alt: "A Seiko Prospex SPB143 62MAS reissue with a black dial on a steel bracelet"
+image_credit: "Seiko"
 ---
 My collection leans Rolex, but the watch I recommend most to friends starting out in vintage is a Seiko 6105. It has real history, a design that still looks modern, and a movement that keeps going. It is also one of the most frankenstein prone watches you can buy, because aftermarket parts are everywhere.
 
