@@ -1,0 +1,42 @@
+---
+layout: default
+title: "Watches You Can Buy Now: Official List Prices"
+seo_title: "Watches You Can Buy Now"
+description: "Official list prices for watches you can usually buy without a waitlist, checked on November 10, 2026, with sources and shop links."
+permalink: /available-now/
+tool: true
+searchable: true
+---
+{%- assign fid = "available-now" -%}
+<article class="page tool-page">
+  <p class="kicker"><a href="{{ '/tools/' | relative_url }}">Watch tools</a></p>
+  <h1>Watches you can buy now</h1>
+  <p class="disclosure">This page contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
+  <p>These models have official list prices and are sold by the brand or authorized retailers without an allocation list. That is different from sports Rolex and similar pieces that often require a wait. Stock can still sell out, so treat this as a priced shortlist, not a live inventory count.</p>
+  <p>Prices were checked on {{ site.data.available_now.checked_label }}. If a brand page later disagrees, trust the brand page.</p>
+  <h2>Browse by brand</h2>
+  <ul class="tool-brand-list">
+    <li><a href="{{ '/available-now/seiko/' | relative_url }}">Seiko</a></li>
+    <li><a href="{{ '/available-now/citizen/' | relative_url }}">Citizen</a></li>
+    <li><a href="{{ '/available-now/tissot/' | relative_url }}">Tissot</a></li>
+    <li><a href="{{ '/available-now/hamilton/' | relative_url }}">Hamilton</a></li>
+  </ul>
+  <h2>All checked models</h2>
+  <table class="strap-specs tool-table">
+    <thead>
+      <tr><th scope="col">Watch</th><th scope="col">Reference</th><th scope="col">Official list price</th><th scope="col">Lug width</th><th scope="col">Source</th></tr>
+    </thead>
+    <tbody>
+      {%- for item in site.data.available_now.models %}
+      <tr>
+        <td><a href="{{ '/available-now/' | append: item.brand_slug | append: '/#' | append: item.id | relative_url }}">{{ item.name }}</a></td>
+        <td>{{ item.ref }}</td>
+        <td>{{ item.list_price_label }}{% if item.sale_price %} <span class="meta">(official page showed {{ item.sale_price_label }} when checked)</span>{% endif %}</td>
+        <td>{% if item.fit == "standard" and item.lug %}{{ item.lug }}mm{% elsif item.fit == "integrated" %}Integrated{% else %}See page{% endif %}</td>
+        <td><a href="{{ item.source_url }}" rel="noopener" target="_blank">Official page</a></td>
+      </tr>
+      {%- endfor %}
+    </tbody>
+  </table>
+  <p class="meta">Models left out of this first batch include Casio, Orient, Longines, the Citizen Promaster Fugu, the Hamilton Khaki Field Auto 42, the Tissot Gentleman, and discontinued Seiko references such as the SKX007, because an official current list price was not confirmed on November 10, 2026.</p>
+</article>

@@ -1,0 +1,51 @@
+---
+layout: default
+title: "Watch Lug Widths by Brand and Size"
+seo_title: "Watch Lug Width Chart by Brand"
+description: "Look up lug widths by brand or by millimeter for popular Rolex, Omega, Tudor, Seiko, Casio and other watches. Every size is tied to the Strap Finder sources."
+permalink: /lug-width/
+tool: true
+searchable: true
+---
+{%- assign strap_count = site.data.straps.size -%}
+<article class="page tool-page">
+  <p class="kicker"><a href="{{ '/tools/' | relative_url }}">Watch tools</a></p>
+  <h1>Lug widths by brand</h1>
+  <p>These charts reuse the {{ strap_count }} watches already checked for the <a href="{{ '/strap-finder/' | relative_url }}">Watch Strap Finder</a>. Pick a brand to see every model we have, or jump to a strap size if you already measured your lugs.</p>
+  <details class="sf-helper">
+    <summary>Not sure of your lug width?</summary>
+    <p>Measure the inside gap between the lugs, right where the strap goes in, with a ruler or caliper marked in millimeters. Round to the nearest whole millimeter. Do not assume an even number, because 19mm and 21mm are common on modern watches.</p>
+    <p class="sf-actions"><a class="button" href="{{ '/strap-finder/#measure' | relative_url }}">See how to measure</a></p>
+  </details>
+  <h2>By brand</h2>
+  <ul class="tool-brand-list">
+    <li><a href="{{ '/lug-width/rolex/' | relative_url }}">Rolex</a></li>
+    <li><a href="{{ '/lug-width/tudor/' | relative_url }}">Tudor</a></li>
+    <li><a href="{{ '/lug-width/omega/' | relative_url }}">Omega</a></li>
+    <li><a href="{{ '/lug-width/seiko/' | relative_url }}">Seiko</a></li>
+    <li><a href="{{ '/lug-width/casio/' | relative_url }}">Casio</a></li>
+    <li><a href="{{ '/lug-width/citizen/' | relative_url }}">Citizen</a></li>
+    <li><a href="{{ '/lug-width/hamilton/' | relative_url }}">Hamilton</a></li>
+    <li><a href="{{ '/lug-width/tissot/' | relative_url }}">Tissot</a></li>
+    <li><a href="{{ '/lug-width/cartier/' | relative_url }}">Cartier</a></li>
+    <li><a href="{{ '/lug-width/iwc/' | relative_url }}">IWC</a></li>
+    <li><a href="{{ '/lug-width/longines/' | relative_url }}">Longines</a></li>
+    <li><a href="{{ '/lug-width/orient/' | relative_url }}">Orient</a></li>
+    <li><a href="{{ '/lug-width/tag-heuer/' | relative_url }}">TAG Heuer</a></li>
+    <li><a href="{{ '/lug-width/breitling/' | relative_url }}">Breitling</a></li>
+    <li><a href="{{ '/lug-width/bulova/' | relative_url }}">Bulova</a></li>
+    <li><a href="{{ '/lug-width/christopher-ward/' | relative_url }}">Christopher Ward</a></li>
+    <li><a href="{{ '/lug-width/grand-seiko/' | relative_url }}">Grand Seiko</a></li>
+    <li><a href="{{ '/lug-width/mido/' | relative_url }}">Mido</a></li>
+    <li><a href="{{ '/lug-width/oris/' | relative_url }}">Oris</a></li>
+    <li><a href="{{ '/lug-width/panerai/' | relative_url }}">Panerai</a></li>
+    <li><a href="{{ '/lug-width/sinn/' | relative_url }}">Sinn</a></li>
+  </ul>
+  <h2>By strap size</h2>
+  <ul class="tool-brand-list">
+    {%- for s in site.data.strap_sizes.sizes %}
+    <li><a href="{{ '/lug-width/' | append: s.mm | append: 'mm/' | relative_url }}">{{ s.mm }}mm straps</a></li>
+    {%- endfor %}
+  </ul>
+  <p class="sf-actions"><a class="button" href="{{ '/strap-finder/' | relative_url }}">Search every watch</a></p>
+</article>

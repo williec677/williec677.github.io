@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{%- assign models = site.data.available_now.models | where: "brand_slug", page.brand_slug -%}
+{%- assign fid = "available-now" -%}
+<article class="page tool-page">
+  <p class="kicker"><a href="{{ '/tools/' | relative_url }}">Watch tools</a> · <a href="{{ '/available-now/' | relative_url }}">Available now</a></p>
+  <h1>{{ page.brand_name }} watches you can buy now</h1>
+  <p class="disclosure">This page contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
+  <p>These {{ page.brand_name }} models have official list prices and are sold by the brand or authorized retailers without an allocation list. Stock can still sell out. Prices were checked on {{ site.data.available_now.checked_label }}.</p>
+  {%- for item in models %}
+  {%- assign wimg = site.data.watch_images[item.strap_id] -%}
+  <section class="avail-card" id="{{ item.id }}">
+    <div class="sf-item-inner">
+      {%- if wimg and wimg.image -%}
+      <figure class="sf-thumb avail-thumb">
+        <img src="{{ wimg.image | relative_url }}" alt="{{ wimg.image_alt | escape }}" width="160" height="160" loading="lazy">
+        <figcaption>Image: {{ wimg.image_credit }}</figcaption>
+      </figure>
+      {%- endif -%}
+      <div class="sf-item-copy">
+        <h2>{{ item.name }}</h2>
+        <p class="avail-price"><strong>{{ item.list_price_label }}</strong> official list price{% if item.sale_price %} · {{ item.sale_price_label }} showing on the official page when checked{% endif %}</p>
+        <p>Reference {{ item.ref }}.{% if item.fit == "standard" and item.lug %} Lug width {{ item.lug }}mm.{% elsif item.fit == "integrated" %} Integrated bracelet.{% elsif item.fit == "proprietary" %} Proprietary strap fit.{% endif %}</p>
+        <p>{{ item.availability }}</p>
+        <p class="meta">Source: <a href="{{ item.source_url }}" rel="noopener" target="_blank">{{ item.source_label }}</a>, checked {{ site.data.available_now.checked_label }}.</p>
+        <p class="sf-actions">
+          {%- if item.strap_id -%}<a class="button button-secondary" href="{{ '/strap-finder/' | append: item.strap_id | append: '/' | relative_url }}">Strap size</a>{%- endif %}
+          {%- capture u -%}https://www.amazon.com/s?k={{ item.amazon_q }}{%- endcapture -%}
+          {%- capture t -%}Shop {{ item.ref }} on Amazon{%- endcapture -%}
+          {% include aff.html network="amazon" url=u text=t class="button sf-shop-btn" %}
+          {%- capture u -%}https://www.ebay.com/sch/i.html?_nkw={{ item.ebay_q }}{%- endcapture -%}
+          {%- capture t -%}Shop {{ item.ref }} on eBay{%- endcapture -%}
+          {% include aff.html network="ebay" url=u text=t class="button button-secondary" customid=fid %}
+          <a class="button button-secondary" href="{{ item.source_url }}" rel="noopener" target="_blank">Official page</a>
+        </p>
+      </div>
+    </div>
+  </section>
+  {%- endfor %}
+  <p class="meta">Sale prices change. The official list price is the number to compare against, and the live brand page wins if the two disagree.</p>
+  <p><a class="button button-secondary" href="{{ '/available-now/' | relative_url }}">All available now watches</a></p>
+</article>

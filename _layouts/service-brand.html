@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{%- assign brand = site.data.service_costs.brands | where: "slug", page.brand_slug | first -%}
+<article class="page tool-page">
+  <p class="kicker"><a href="{{ '/tools/' | relative_url }}">Watch tools</a> · <a href="{{ '/service-costs/' | relative_url }}">Service costs</a></p>
+  <h1>{{ brand.name }} service costs</h1>
+  <p>{{ brand.intro }}</p>
+  {%- for g in brand.groups %}
+  <h2>{{ g.name }}</h2>
+  <table class="strap-specs tool-table">
+    <thead><tr><th scope="col">Models</th><th scope="col">Complete service</th></tr></thead>
+    <tbody>
+      {%- for r in g.rows %}
+      <tr><td>{{ r.models }}</td><td>{{ r.price_label }}</td></tr>
+      {%- endfor %}
+    </tbody>
+  </table>
+  {%- endfor %}
+  <h2>What to know</h2>
+  <ul>
+    {%- for n in brand.notes %}
+    <li>{{ n }}</li>
+    {%- endfor %}
+  </ul>
+  <p class="meta">Source: <a href="{{ brand.source_url }}" rel="noopener" target="_blank">{{ brand.source_label }}</a>, checked {{ brand.checked_label }}. I also wrote a longer breakdown in the <a href="{{ brand.journal_url | relative_url }}">Rolex service prices journal post</a>.</p>
+  <p class="sf-actions"><a class="button" href="{{ brand.source_url }}" rel="noopener" target="_blank">Check the live Rolex page</a> <a class="button button-secondary" href="{{ '/service-costs/' | relative_url }}">All service guides</a></p>
+</article>

@@ -1,0 +1,37 @@
+---
+layout: default
+title: "Watch Tools: Strap Finder, Lug Widths, Prices and Service Costs"
+seo_title: "Watch Tools from MrTicTocTalk"
+description: "Free watch tools from MrTicTocTalk: look up lug widths, find watches you can buy now at official list prices, and check published service costs."
+permalink: /tools/
+tool: true
+searchable: true
+---
+{%- assign strap_count = site.data.straps.size -%}
+<article class="page tool-page">
+  <p class="kicker">Tools</p>
+  <h1>Watch tools</h1>
+  <p>Practical lookups for buying and wearing watches. Every number is tied to an official source or the checked Strap Finder data. Nothing here is a live inventory feed.</p>
+  <ul class="tool-index">
+    <li>
+      <h2><a href="{{ '/strap-finder/' | relative_url }}">Watch Strap Finder</a></h2>
+      <p>Search {{ strap_count }} watches by brand or model, filter by lug width and strap type, and shop a size that fits.</p>
+      <p class="sf-actions"><a class="button" href="{{ '/strap-finder/' | relative_url }}">Open the Strap Finder</a></p>
+    </li>
+    <li>
+      <h2><a href="{{ '/lug-width/' | relative_url }}">Lug width by brand</a></h2>
+      <p>The same checked sizes, sorted by brand and by millimeter, so you can scan a whole box at once.</p>
+      <p class="sf-actions"><a class="button" href="{{ '/lug-width/' | relative_url }}">Browse lug widths</a></p>
+    </li>
+    <li>
+      <h2><a href="{{ '/available-now/' | relative_url }}">Watches you can buy now</a></h2>
+      <p>Official list prices for models that are sold without an allocation list, with the date we checked each page.</p>
+      <p class="sf-actions"><a class="button" href="{{ '/available-now/' | relative_url }}">See available now</a></p>
+    </li>
+    <li>
+      <h2><a href="{{ '/service-costs/' | relative_url }}">Service cost guides</a></h2>
+      <p>Published complete service prices from brands that post them. If a brand does not publish a number, we leave it out.</p>
+      <p class="sf-actions"><a class="button" href="{{ '/service-costs/' | relative_url }}">See service costs</a></p>
+    </li>
+  </ul>
+</article>

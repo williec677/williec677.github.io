@@ -43,7 +43,7 @@ That sapphire crystal is the quiet win here. Plenty of licensed character watche
 
 Citizen notes that Eco-Drive turns 50 this year, and on a watch like this the tech is not just a talking point. A light powered movement means no dead battery when you pull it out of the gift box next November, and no trip to a jeweler for a cell swap that risks the caseback you are supposed to keep pristine. Leave it near a window and it keeps running. For a piece many people will wear on special occasions and store the rest of the year, that is the right movement choice.
 
-Citizen did not publish a lug width on the product page, so measure before you buy a spare strap. If you already wear Citizen, the [Citizen Tsuyosa strap guide](https://mrtictoctalk.com/strap-finder/citizen-tsuyosa/) in our Strap Finder shows how the brand's own straps and bracelets are set up on a modern 40 mm three hander, and the full [Watch Strap Finder](https://mrtictoctalk.com/strap-finder/) covers 76 models.
+Citizen did not publish a lug width on the product page, so measure before you buy a spare strap. If you already wear Citizen, the [Citizen Tsuyosa strap guide](https://mrtictoctalk.com/strap-finder/citizen-tsuyosa/) in our Strap Finder shows how the brand's own straps and bracelets are set up on a modern 40 mm three hander, and the full [Watch Strap Finder](/strap-finder/) covers {{ site.data.straps.size }} models.
 
 ## Collectible versus investment
 

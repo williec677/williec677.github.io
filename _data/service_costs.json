@@ -1,0 +1,103 @@
+{
+  "brands": [
+    {
+      "slug": "rolex",
+      "name": "Rolex",
+      "checked": "2026-11-03",
+      "checked_label": "November 3, 2026",
+      "source_url": "https://www.rolex.com/en-us/watch-care-and-service/servicing-prices",
+      "source_label": "Rolex US page, pricing for a complete service",
+      "journal_url": "/rolex-service-prices-official-price-list/",
+      "currency": "USD",
+      "intro": "Rolex publishes official complete service prices on its US site. The numbers below were copied from that page on November 3, 2026. Rolex can change them, and prices differ by country, so check the live page before you book.",
+      "groups": [
+        {
+          "name": "Modern models (six digit references)",
+          "rows": [
+            {
+              "models": "1908, Air-King, Date, Datejust, Datejust II, Day-Date, Day-Date II, Explorer, Lady-Datejust, Land-Dweller, Milgauss, Perpetual",
+              "price": 660,
+              "price_label": "$660"
+            },
+            {
+              "models": "Explorer II, GMT-Master II, Deepsea, Sea-Dweller, Submariner, Submariner Date, Yacht-Master",
+              "price": 770,
+              "price_label": "$770"
+            },
+            {
+              "models": "Cosmograph Daytona, Deepsea Challenge, Padellone, Sky-Dweller, Yacht-Master II",
+              "price": 940,
+              "price_label": "$940"
+            },
+            {
+              "models": "Optional polishing and satin finishing of case and bracelet",
+              "price": 170,
+              "price_label": "$170"
+            }
+          ]
+        },
+        {
+          "name": "Classic models (five digit references)",
+          "rows": [
+            {
+              "models": "Classic, Date, Datejust, Datejust TOG, Day-Date, Dual Time, Explorer, Lady-Datejust, Moonphase, Pearlmaster, Perpetual, Special Edition, Time, Vintage",
+              "price": 990,
+              "price_label": "$990"
+            },
+            {
+              "models": "Explorer II, GMT-Master, GMT-Master II, Sea-Dweller, Submariner, Submariner Date, Yacht-Master",
+              "price": 1210,
+              "price_label": "$1,210"
+            },
+            {
+              "models": "Cosmograph Daytona",
+              "price": 1430,
+              "price_label": "$1,430"
+            },
+            {
+              "models": "Optional polishing and satin finishing",
+              "price": 170,
+              "price_label": "$170"
+            }
+          ]
+        },
+        {
+          "name": "Vintage models (four digit references)",
+          "rows": [
+            {
+              "models": "Cellini, Date, Datejust, Day-Date, Explorer, GMT-Master, Lady Oyster, Oyster Perpetual, Milgauss, Sea-Dweller, Submariner",
+              "price": 1650,
+              "price_label": "$1,650"
+            },
+            {
+              "models": "Datejust ref. 6305, non Oyster ref. 2780, Oyster Perpetual ref. 6098, Oysterquartz ref. 5100",
+              "price": 3850,
+              "price_label": "$3,850"
+            },
+            {
+              "models": "Listed early sports and chronograph references that Rolex routes to the Restoration Atelier in Geneva, including Cosmograph refs. 6239 to 6270 and early Submariners such as 5510 and 6538",
+              "price": 5500,
+              "price_label": "$5,500"
+            },
+            {
+              "models": "Twenty listed vintage Chronograph refs., from 2508 to 6238, and the Moonphase refs. 6062 and 8171",
+              "price": 8810,
+              "price_label": "$8,810"
+            },
+            {
+              "models": "Optional polishing and satin finishing",
+              "price": 330,
+              "price_label": "$330"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "For six and five digit watches, the complete service covers movement servicing and a waterproofness test. Rolex lists included parts such as screws, springs, wheels, lubricants, acrylic crystals, gaskets and tubes.",
+        "Case and bracelet repairs are not included. Other spare parts are billed separately. Bracelet sizing is free. Estimates for modern and classic watches are free.",
+        "Vintage service covers the movement only, with wear components subject to availability. If you decline after Rolex looks at the watch, there is a $280 analysis fee.",
+        "The $3,850, $5,500 and $8,810 vintage tiers are marked for the Rolex Restoration Atelier in Geneva."
+      ]
+    }
+  ]
+}

@@ -13,7 +13,7 @@ image_credit: "Rolex"
 ---
 Here is the cheapest way to make a watch feel brand new: put it on a different strap. Here is the fastest way to waste money: buy that strap in the wrong size. One millimeter sounds like nothing until you see a gap at each end of the lugs, or you are wrestling a strap that bunches up and refuses to sit flat.
 
-So I made you a cheat sheet. Twenty of the most popular watches people actually wear and actually strap up, each with its lug width pulled from my [Watch Strap Finder](/strap-finder/), where every size was checked against a brand page or a trusted watch database. No guessing, no forum folklore. Bookmark this, screenshot it, send it to the friend who keeps asking.
+So I made you a cheat sheet. Twenty of the most popular watches people actually wear and actually strap up, each with its lug width pulled from my [Watch Strap Finder](/strap-finder/), where every size was checked against a brand page or a trusted watch database. No guessing, no forum folklore. If you want the full set by brand, open the [lug width charts](/lug-width/). Bookmark this, screenshot it, send it to the friend who keeps asking.
 
 ## The watch lug width chart
 

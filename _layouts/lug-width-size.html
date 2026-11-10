@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{%- assign mm = page.lug_mm -%}
+{%- assign models = site.data.straps | where: "lug", mm -%}
+{%- assign fid = "lug-width" -%}
+<article class="page tool-page">
+  <p class="kicker"><a href="{{ '/tools/' | relative_url }}">Watch tools</a> · <a href="{{ '/lug-width/' | relative_url }}">Lug widths</a></p>
+  <h1>{{ mm }}mm watch straps</h1>
+  <p class="disclosure">This page contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
+  <p>These watches take a {{ mm }}mm strap. The list comes from the <a href="{{ '/strap-finder/' | relative_url }}">Watch Strap Finder</a>, where every size was checked against the brand or a trusted watch database.</p>
+  <p class="shop-callout"><span class="shop-lead">Shop {{ mm }}mm straps:</span>
+    {% capture u %}https://www.amazon.com/s?k={{ mm }}mm+nato+watch+strap{% endcapture %}{% include aff.html network="amazon" url=u text="NATO on Amazon" class="button sf-shop-btn" %}
+    {% capture u %}https://www.amazon.com/s?k={{ mm }}mm+rubber+watch+strap{% endcapture %}{% include aff.html network="amazon" url=u text="Rubber on Amazon" class="button sf-shop-btn" %}
+    {% capture u %}https://www.amazon.com/s?k={{ mm }}mm+leather+watch+strap{% endcapture %}{% include aff.html network="amazon" url=u text="Leather on Amazon" class="button sf-shop-btn" %}
+    {% capture u %}https://www.ebay.com/sch/i.html?_nkw={{ mm }}mm+watch+strap{% endcapture %}{% include aff.html network="ebay" url=u text="Shop on eBay" class="button button-secondary" customid=fid %}
+  </p>
+  <ul class="sf-list">
+    {%- for m in models %}
+    {%- assign wimg = site.data.watch_images[m.id] -%}
+    <li class="sf-item">
+      <div class="sf-item-inner">
+        {%- if wimg and wimg.image -%}
+        <figure class="sf-thumb">
+          <img src="{{ wimg.image | relative_url }}" alt="{{ wimg.image_alt | escape }}" width="120" height="120" loading="lazy">
+          <figcaption>Image: {{ wimg.image_credit }}</figcaption>
+        </figure>
+        {%- endif -%}
+        <div class="sf-item-copy">
+          <h3><a href="{{ '/strap-finder/' | append: m.id | append: '/' | relative_url }}">{{ m.brand }} {{ m.model }}</a> <span class="sf-badge">{{ mm }}mm</span></h3>
+          <p>{{ m.line }}</p>
+          <p class="sf-actions">
+            <a class="button" href="{{ '/strap-finder/' | append: m.id | append: '/' | relative_url }}">See strap page</a>
+            <a class="button button-secondary" href="{{ '/lug-width/' | append: m.brand | downcase | replace: ' ', '-' | replace: 'omega-x-swatch', 'omega' | append: '/' | relative_url }}">More from {{ m.brand | replace: 'Omega x Swatch', 'Omega' }}</a>
+          </p>
+        </div>
+      </div>
+    </li>
+    {%- endfor %}
+  </ul>
+  <p><a class="button button-secondary" href="{{ '/lug-width/' | relative_url }}">Back to all lug widths</a></p>
+</article>

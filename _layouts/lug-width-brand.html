@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{%- assign names = page.brand_names -%}
+{%- assign fid = "lug-width" -%}
+<article class="page tool-page">
+  <p class="kicker"><a href="{{ '/tools/' | relative_url }}">Watch tools</a> · <a href="{{ '/lug-width/' | relative_url }}">Lug widths</a></p>
+  <h1>{{ page.brand_name }} lug widths</h1>
+  <p class="disclosure">This page contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
+  <p>Every lug width here comes from the <a href="{{ '/strap-finder/' | relative_url }}">Watch Strap Finder</a>, where each model was checked against the brand or a trusted watch database.{% if page.brand_slug == "omega" %} This page also includes the Omega x Swatch MoonSwatch.{% endif %}</p>
+  <p class="sf-actions"><a class="button" href="{{ '/strap-finder/' | relative_url }}">Open the Strap Finder</a> <a class="button button-secondary" href="{{ '/lug-width/' | relative_url }}">All brands</a></p>
+  <table class="strap-specs tool-table">
+    <thead>
+      <tr><th scope="col">Watch</th><th scope="col">References</th><th scope="col">Case</th><th scope="col">Lug width</th><th scope="col">Strap page</th></tr>
+    </thead>
+    <tbody>
+      {%- for m in site.data.straps %}
+      {%- if names contains m.brand %}
+      <tr>
+        <td>{{ m.brand }} {{ m.model }}</td>
+        <td>{{ m.refs | join: ", " }}</td>
+        <td>{% if m.case %}{{ m.case }}{% else %}Not listed{% endif %}</td>
+        <td>{% if m.fit == "standard" %}<a href="{{ '/lug-width/' | append: m.lug | append: 'mm/' | relative_url }}">{{ m.lug }}mm</a>{% elsif m.fit == "integrated" %}Integrated{% else %}Proprietary{% endif %}</td>
+        <td><a href="{{ '/strap-finder/' | append: m.id | append: '/' | relative_url }}">Shop straps</a></td>
+      </tr>
+      {%- endif %}
+      {%- endfor %}
+    </tbody>
+  </table>
+  <h2>How to use this chart</h2>
+  <p>Match your reference number first, not just the model name. Rolex and Tudor especially reuse names across sizes. If your watch is not here, see <a href="{{ '/strap-finder/#measure' | relative_url }}">how to measure lug width</a>.</p>
+  <p>Want a strap recommendation with photos? Each model page in the finder has a best match pick and shop buttons.</p>
+</article>
