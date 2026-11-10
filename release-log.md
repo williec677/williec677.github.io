@@ -277,3 +277,22 @@ Window checked: ~2026-11-09 8:20 AM ET through ~2026-11-09 12:30 PM ET.
 | 2026-11-09 | Follow ups still open: Ming Halo orders open Nov 10, Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-09 12:30 PM ET through ~2026-11-09 6:25 PM ET.
+
+## Check run 2026-11-10 ~8:15 AM ET (entry restored at noon run; the original row was missing from this file)
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-10 | Vacheron Constantin Fiftysix Self Winding 4600E/000A-H177 $14,300 and Complete Calendar 4000E/000A-H178 $33,900, grey two tone dials (LEAD); MB&F LM101 Gabriel Colliard enamel trilogy $131,000 | Hodinkee, Monochrome, Fratello, SJX | Covered in vacheron-constantin-fiftysix-grey-two-tone-mbf-lm101-colliard-news, commits 2ae5bf9 + fc5f726, build 42823493691 passed, live |
+| 2026-11 | Yema Senans; Laurent Ferrier Iceberg | Prior | Skipped at 8 AM run (Yema covered Nov 6) |
+
+## Check run 2026-11-10 ~12:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-10 | Albishorn Voisin Aérosport (LEAD): first time only Albishorn, 38 x 9.6 mm steel, 45.2 mm L2L, crown at 10, 50 m, three level sector dial Classic / Ice Blue, ALB04 M (AMT base) hand wound COSC, 4 Hz, 60h, 20 mm lugs, 99 per color over three years, CHF 3,450 straps / CHF 3,900 bracelet excl tax, albishorn-watches.ch only from Nov 11 | SJX, Monochrome, W&W review (all Nov 10) | Covered (lead) in albishorn-voisin-aerosport-jlc-collectibles-angelier-news |
+| 2026-11-10 | Jaeger-LeCoultre The Collectibles VIII (US market vintage capsule, Madison Ave boutique until Nov 20, no prices) | Time and Tide | Covered (grouped) |
+| 2026-11-10 | Angelier dress watch Kickstarter: 37.2 x 8.7 mm, Miyota 9039, EUR 479 pledge / EUR 699 retail, delivery Apr 2027 | Monochrome | Covered (grouped) |
+| 2026-11-10 | Nomos Club Sport neomatik 34 All Silver (W&W) | W&W | Skipped: already covered Nov 5 |
+| 2026-11-10 | Hodinkee Geneva auction takeaways; Fratello best Speedmaster 2026; T+T best time only; Revolution Chaykin SC02C; Teddy anOrdain review; Vacheron Fiftysix and MB&F repeats | RSS | Skipped: features or already covered |
+| 2026-11-10 | WatchPro feed 403 | RSS | Not checked |
+| 2026-11-10 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-10 8:15 AM ET through ~2026-11-10 12:25 PM ET.
