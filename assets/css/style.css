@@ -343,3 +343,19 @@ h3{font-size:1.1rem;margin:1.5rem 0 .4rem}
   .sf-suggest button:hover,.sf-suggest button:focus{background:#20242d}
   .sf-best,.sf-helper,.tool-index li,.avail-card,.tool-brand-list a{background:#181b22}
 }
+
+/* Dark mode readability: navy text was invisible on dark backgrounds */
+@media (prefers-color-scheme:dark){
+  a{color:#9cc3ff}
+  a:hover,.crumbs a:hover{color:#ff8a9b}
+  .toc a,.disclosure a{color:#9cc3ff}
+  .button,.button:hover,.post-cta a,.promo a.button{color:#fff}
+  .footer-brand,.footer-tag{color:#e9e6df}
+  .sf-controls label,.sf-types legend,.sf-helper summary,.sf-best-label,.sf-suggest button{color:#dfe5f4}
+  .button-secondary{color:#dfe5f4;border-color:#9cc3ff}
+  .button-secondary:hover{background:#9cc3ff;color:#111318}
+  .sf-chip{color:#dfe5f4}
+  .sf-chip.is-on{background:#9cc3ff;color:#111318;border-color:#9cc3ff}
+  .card-title{color:#dfe5f4}
+  .toc li::marker{color:#a9adb6}
+}
