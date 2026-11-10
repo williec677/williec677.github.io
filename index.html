@@ -5,7 +5,14 @@ title: "MrTicTocTalk Journal: Vintage Watch Buying Guides and Sold Price Researc
 seo_title: "MrTicTocTalk Journal: Rolex and Vintage Watch Guides"
 description: "Vintage watch buying guides, reference histories, and sold price research from the collector behind MrTicTocTalk."
 ---
-{%- assign featured = site.posts | first -%}
+{%- assign default_img = "/assets/img/brand/logo-full.png" -%}
+{%- assign featured = nil -%}
+{%- for post in site.posts -%}
+  {%- if post.image and post.image != "" and post.image != default_img -%}
+    {%- assign featured = post -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
 <section class="hero">
   <div class="hero-intro">
     <p class="kicker">Talking Time. One Watch at a Time.</p>
