@@ -39,6 +39,8 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v5
+        with:
+          timeout: 1200000
   # Tells IndexNow (Bing, Yandex, Seznam, Naver; Google does not use it) about new or changed URLs.
   # Runs only after a successful deploy and can never fail the workflow.
   #   push:              posts added or changed in the pushed commits (only if they are live in the sitemap)
