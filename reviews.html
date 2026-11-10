@@ -1,0 +1,20 @@
+---
+layout: default
+body_class: listing
+title: "Watch Reviews and Buyer's Guides"
+seo_title: "Watch Reviews and Buyer's Guides"
+description: "Buyer's guides and head to head watch comparisons from the MrTicTocTalk Journal, with the specs and sold prices that matter before you buy."
+permalink: /reviews/
+---
+<section class="listing-intro">
+  <p class="kicker">The Journal</p>
+  <h1>Reviews</h1>
+  <p>Buyer's guides and head to head comparisons, with the specs and sold prices that matter before you buy.</p>
+</section>
+<div class="card-grid">
+  {% for post in site.posts %}
+    {% if post.category_label == "Buying Guide" or post.category_label == "Head to Head" %}
+      {% include post-card.html post=post %}
+    {% endif %}
+  {% endfor %}
+</div>

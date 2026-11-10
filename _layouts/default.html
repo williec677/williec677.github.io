@@ -16,7 +16,16 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% include adsense-head.html %}
 </head>
-<body>
+{%- assign body_class = page.body_class | default: page.layout -%}
+{%- assign nav_reviews = false -%}
+{%- assign nav_guides = false -%}
+{%- assign nav_strap = false -%}
+{%- assign nav_about = false -%}
+{%- if page.url == "/reviews/" or page.category_label == "Buying Guide" or page.category_label == "Head to Head" -%}{%- assign nav_reviews = true -%}{%- endif -%}
+{%- if page.url == "/guides/" or page.category_label == "Reference Guide" or page.category_label == "Collector Basics" or page.category_label == "Market Know How" -%}{%- assign nav_guides = true -%}{%- endif -%}
+{%- if page.url == "/strap-finder/" or page.layout == "strap-model" -%}{%- assign nav_strap = true -%}{%- endif -%}
+{%- if page.url == "/about/" -%}{%- assign nav_about = true -%}{%- endif %}
+<body class="page-{{ body_class }}">
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="wrap header-inner">
@@ -24,24 +33,41 @@
         <img class="brand-logo" src="{{ '/assets/img/brand/logo-mark.png' | relative_url }}" alt="MrTicTocTalk logo" width="44" height="44">
         <span class="brand-text">MrTicTocTalk <em>Journal</em></span>
       </a>
-      <nav class="nav" aria-label="Main">
-        <a href="{{ '/' | relative_url }}">Articles</a>
-        <a href="{{ '/strap-finder/' | relative_url }}">Strap Finder</a>
-        <a href="{{ '/about/' | relative_url }}">About</a>
-        <a href="{{ '/newsletter/' | relative_url }}">Follow</a>
-        <a href="{{ site.instagram_url }}" rel="me noopener" target="_blank">Instagram</a>
+      <nav class="nav nav-desktop" aria-label="Main">
+        <a href="{{ '/reviews/' | relative_url }}"{% if nav_reviews %} aria-current="page"{% endif %}>Reviews</a>
+        <a href="{{ '/guides/' | relative_url }}"{% if nav_guides %} aria-current="page"{% endif %}>Guides</a>
+        <a href="{{ '/strap-finder/' | relative_url }}"{% if nav_strap %} aria-current="page"{% endif %}>Strap Finder</a>
+        <a href="{{ '/about/' | relative_url }}"{% if nav_about %} aria-current="page"{% endif %}>About</a>
       </nav>
+      <details class="nav-wrap">
+        <summary class="nav-toggle">Menu</summary>
+        <nav class="nav nav-mobile" aria-label="Main mobile">
+          <a href="{{ '/reviews/' | relative_url }}"{% if nav_reviews %} aria-current="page"{% endif %}>Reviews</a>
+          <a href="{{ '/guides/' | relative_url }}"{% if nav_guides %} aria-current="page"{% endif %}>Guides</a>
+          <a href="{{ '/strap-finder/' | relative_url }}"{% if nav_strap %} aria-current="page"{% endif %}>Strap Finder</a>
+          <a href="{{ '/about/' | relative_url }}"{% if nav_about %} aria-current="page"{% endif %}>About</a>
+        </nav>
+      </details>
     </div>
   </header>
   <main id="main" class="wrap">
     {{ content }}
   </main>
   <footer class="site-footer">
-    <div class="wrap">
+    <div class="wrap footer-inner">
       {% include ad.html slot=site.adsense.slot_footer %}
-      <p class="footer-tag">{{ site.tagline }} <span aria-hidden="true">⌚</span></p>
+      <a class="footer-brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/img/brand/logo-mark.png' | relative_url }}" alt="MrTicTocTalk logo" width="40" height="40">
+        <span>MrTicTocTalk <em>Journal</em></span>
+      </a>
+      <p class="footer-tag">{{ site.tagline }}</p>
       <p class="footer-links">
+        <a href="{{ '/reviews/' | relative_url }}">Reviews</a>
+        <a href="{{ '/guides/' | relative_url }}">Guides</a>
+        <a href="{{ '/news/' | relative_url }}">News</a>
+        <a href="{{ '/strap-finder/' | relative_url }}">Strap Finder</a>
         <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/newsletter/' | relative_url }}">Follow</a>
         <a href="{{ '/affiliate-disclosure/' | relative_url }}">Affiliate disclosure</a>
         <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
         <a href="{{ '/feed.xml' | relative_url }}">RSS</a>

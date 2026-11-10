@@ -1,0 +1,29 @@
+{%- assign p = include.post -%}
+{%- assign default_img = "/assets/img/brand/logo-full.png" -%}
+{%- assign has_photo = false -%}
+{%- if p.image and p.image != "" and p.image != default_img -%}
+  {%- assign has_photo = true -%}
+{%- endif -%}
+{%- assign kind = "story" -%}
+{%- if p.category_label == "News" -%}{%- assign kind = "news" -%}
+{%- elsif p.category_label == "Buying Guide" or p.category_label == "Head to Head" -%}{%- assign kind = "review" -%}
+{%- elsif p.category_label == "Reference Guide" or p.category_label == "Collector Basics" or p.category_label == "Market Know How" -%}{%- assign kind = "guide" -%}
+{%- endif -%}
+<article class="card card-{{ kind }}{% if include.featured %} card-feature{% endif %}">
+  <a class="card-link" href="{{ p.url | relative_url }}">
+    <div class="card-media{% unless has_photo %} card-media-mark{% endunless %}" aria-hidden="true">
+      {% if has_photo %}
+      <img src="{{ p.image | relative_url }}" alt="" width="800" height="500" loading="lazy">
+      {% else %}
+      <span class="card-dial"></span>
+      <img class="card-logo" src="{{ '/assets/img/brand/logo-mark.png' | relative_url }}" alt="" width="96" height="96">
+      {% endif %}
+    </div>
+    <div class="card-body">
+      {% if p.category_label %}<p class="kicker">{{ p.category_label }}</p>{% endif %}
+      <h2 class="card-title">{{ p.title }}</h2>
+      {% if p.description %}<p class="card-dek">{{ p.description }}</p>{% endif %}
+      <p class="meta"><time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%B %-d, %Y" }}</time></p>
+    </div>
+  </a>
+</article>

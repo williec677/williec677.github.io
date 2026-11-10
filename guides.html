@@ -1,0 +1,20 @@
+---
+layout: default
+body_class: listing
+title: "Watch Guides and Reference Notes"
+seo_title: "Watch Guides and Reference Notes"
+description: "Reference notes, lug widths, serial numbers, and collector basics from the MrTicTocTalk Journal."
+permalink: /guides/
+---
+<section class="listing-intro">
+  <p class="kicker">The Journal</p>
+  <h1>Guides</h1>
+  <p>Reference notes, lug widths, serial numbers, and collector basics from the Journal.</p>
+</section>
+<div class="card-grid">
+  {% for post in site.posts %}
+    {% if post.category_label == "Reference Guide" or post.category_label == "Collector Basics" or post.category_label == "Market Know How" %}
+      {% include post-card.html post=post %}
+    {% endif %}
+  {% endfor %}
+</div>

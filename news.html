@@ -1,0 +1,20 @@
+---
+layout: default
+body_class: listing
+title: "Watch News"
+seo_title: "Watch News"
+description: "New releases, market notes, and watch world coverage from the MrTicTocTalk Journal, checked against named sources."
+permalink: /news/
+---
+<section class="listing-intro">
+  <p class="kicker">The Journal</p>
+  <h1>News</h1>
+  <p>New releases, market notes, and watch world coverage, checked against named sources.</p>
+</section>
+<div class="card-grid">
+  {% for post in site.posts %}
+    {% if post.category_label == "News" %}
+      {% include post-card.html post=post %}
+    {% endif %}
+  {% endfor %}
+</div>

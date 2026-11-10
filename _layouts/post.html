@@ -12,6 +12,12 @@ layout: default
       · by <a href="{{ site.instagram_url }}" rel="author noopener" target="_blank">Will, @mrtictoctalk</a>
     </p>
   </header>
+  {% if page.verdict %}
+  <aside class="verdict" aria-label="Verdict">
+    <p class="kicker">The verdict</p>
+    <p>{{ page.verdict }}</p>
+  </aside>
+  {% endif %}
   {% if page.affiliate %}
   <p class="disclosure">This post contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
   {% endif %}
@@ -34,9 +40,11 @@ layout: default
   {% if related.size > 0 %}
   <nav class="related" aria-label="More articles">
     <h2>Keep reading</h2>
-    <ul>
-      {% for p in related limit: 3 %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>{% endfor %}
-    </ul>
+    <div class="card-grid card-grid-related">
+      {% for p in related limit: 3 %}
+        {% include post-card.html post=p %}
+      {% endfor %}
+    </div>
   </nav>
   {% endif %}
 </article>

@@ -1,23 +1,68 @@
 ---
 layout: default
+body_class: home
 title: "MrTicTocTalk Journal: Vintage Watch Buying Guides and Sold Price Research"
 seo_title: "MrTicTocTalk Journal: Rolex and Vintage Watch Guides"
 description: "Vintage watch buying guides, reference histories, and sold price research from the collector behind MrTicTocTalk."
 ---
+{%- assign featured = site.posts | first -%}
 <section class="hero">
-  <p class="kicker">Talking Time. One Watch at a Time. ⌚</p>
-  <h1>MrTicTocTalk Journal</h1>
-  <p>Reference histories, buying guides, and fake spotting notes on vintage Rolex, Tudor, Omega, and Seiko. Written by a collector who trusts sold prices, not asking prices.</p>
-  <p>New: the <a href="{{ '/strap-finder/' | relative_url }}">Watch Strap Finder</a>. Look up the lug width for 76 popular watches before you buy a strap.</p>
+  <div class="hero-intro">
+    <p class="kicker">Talking Time. One Watch at a Time.</p>
+    <h1>MrTicTocTalk Journal</h1>
+    <p>Reference histories, buying guides, and fake spotting notes on vintage Rolex, Tudor, Omega, and Seiko. Written by a collector who trusts sold prices, not asking prices.</p>
+  </div>
+  {% if featured %}
+  <div class="hero-feature">
+    <p class="kicker">Featured</p>
+    {% include post-card.html post=featured featured=true %}
+  </div>
+  {% endif %}
 </section>
-<ul class="post-list">
-  {% for post in site.posts %}
-  <li>
-    {% if post.category_label %}<p class="kicker">{{ post.category_label }}</p>{% endif %}
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p>{{ post.description }}</p>
-    <p class="meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
-  </li>
-  {% endfor %}
-</ul>
-<p class="meta">New guides and release coverage added regularly. <a href="{{ '/newsletter/' | relative_url }}">Get them automatically</a>.</p>
+
+<aside class="promo">
+  <div class="promo-copy">
+    <p class="kicker">Tool</p>
+    <h2>Watch Strap Finder</h2>
+    <p>Look up the lug width for 76 popular watches before you buy a strap.</p>
+  </div>
+  <a class="button" href="{{ '/strap-finder/' | relative_url }}">Open the Strap Finder</a>
+</aside>
+
+{%- assign evergreen_count = 0 -%}
+<section class="section">
+  <div class="section-head">
+    <h2>Guides and reviews</h2>
+    <p class="section-links"><a href="{{ '/reviews/' | relative_url }}">All reviews</a> · <a href="{{ '/guides/' | relative_url }}">All guides</a></p>
+  </div>
+  <div class="card-grid">
+    {% for post in site.posts %}
+      {% if featured and post.url == featured.url %}{% continue %}{% endif %}
+      {% if post.category_label == "Buying Guide" or post.category_label == "Head to Head" or post.category_label == "Reference Guide" or post.category_label == "Collector Basics" or post.category_label == "Market Know How" %}
+        {% include post-card.html post=post %}
+        {% assign evergreen_count = evergreen_count | plus: 1 %}
+        {% if evergreen_count >= 6 %}{% break %}{% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+{%- assign news_count = 0 -%}
+<section class="section">
+  <div class="section-head">
+    <h2>Latest news</h2>
+    <p class="section-links"><a href="{{ '/news/' | relative_url }}">All news</a></p>
+  </div>
+  <div class="card-grid">
+    {% for post in site.posts %}
+      {% if featured and post.url == featured.url %}{% continue %}{% endif %}
+      {% if post.category_label == "News" %}
+        {% include post-card.html post=post %}
+        {% assign news_count = news_count | plus: 1 %}
+        {% if news_count >= 6 %}{% break %}{% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<p class="home-follow meta">New guides and release coverage added regularly. <a href="{{ '/newsletter/' | relative_url }}">Get them automatically</a>.</p>
