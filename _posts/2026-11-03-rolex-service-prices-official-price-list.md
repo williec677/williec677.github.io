@@ -15,7 +15,7 @@ image_credit: "Rolex"
 ---
 For decades, the Rolex service counter worked like a mystery box. You handed over your watch, waited for an estimate, and hoped. That era is over. Rolex now lists its prices for a complete service right on rolex.com, broken out by model family and by how many digits are in your reference number. Gear Patrol reported the new page on October 29, 2026 ([Gear Patrol](https://www.gearpatrol.com/watches/rolex-service-pricing/)), and Rolex Magazine called it a first for the brand on November 1 ([Rolex Magazine](https://www.rolexmagazine.com/2026/11/)).
 
-I pulled every number below straight from the US page on November 3, 2026 ([Rolex](https://www.rolex.com/en-us/watch-care-and-service/servicing-prices)). If you own a Rolex, or you are about to buy one used, this is the most useful thing the brand has published in years.
+I pulled every number below straight from the US page on November 3, 2026 ([Rolex](https://www.rolex.com/en-us/watch-care-and-service/servicing-prices)). If you own a Rolex, or you are about to buy one used, this is the most useful thing the brand has published in years. I also turned the official list into a bookmarkable [Rolex service cost guide](/service-costs/rolex/).
 
 ## The three tiers, decoded
 

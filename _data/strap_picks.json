@@ -1,0 +1,982 @@
+{
+  "breitling-navitimer-43": {
+    "types": [
+      "leather"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "22mm leather strap",
+    "shop_q": "22mm+leather+watch+strap"
+  },
+  "bulova-precisionist-96b131": {
+    "types": [
+      "rubber",
+      "leather"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "24mm rubber strap",
+    "shop_q": "24mm+rubber+watch+strap"
+  },
+  "cartier-santos-medium": {
+    "types": [
+      "leather",
+      "rubber"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "Santos de Cartier Medium compatible straps",
+    "shop_q": "cartier+santos+quickswitch+strap"
+  },
+  "cartier-tank-must-large": {
+    "types": [
+      "leather"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "19mm leather strap",
+    "shop_q": "19mm+leather+watch+strap"
+  },
+  "casio-duro-mdv106": {
+    "types": [
+      "nato",
+      "rubber",
+      "bracelet"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm rubber strap",
+    "shop_q": "22mm+rubber+watch+strap"
+  },
+  "casio-g-shock-dw-5600": {
+    "types": [
+      "nato",
+      "rubber"
+    ],
+    "best_type": "rubber",
+    "best_style": "gshock",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "G-Shock DW-5600 compatible straps",
+    "shop_q": "dw5600+strap+adapter"
+  },
+  "casio-g-shock-ga-2100": {
+    "types": [
+      "nato",
+      "rubber"
+    ],
+    "best_type": "rubber",
+    "best_style": "gshock",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "G-Shock GA-2100 compatible straps",
+    "shop_q": "ga2100+strap+adapter"
+  },
+  "christopher-ward-c60-trident-pro-300": {
+    "types": [
+      "rubber",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "citizen-promaster-bn0150": {
+    "types": [
+      "rubber",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "citizen-promaster-fugu": {
+    "types": [
+      "rubber",
+      "nato",
+      "bracelet"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "citizen-tsuyosa": {
+    "types": [
+      "bracelet"
+    ],
+    "best_type": "bracelet",
+    "best_style": "mesh",
+    "best_label": "bracelet",
+    "why": "A bracelet keeps the factory look and is the toughest option for daily wear.",
+    "shop_t": "Tsuyosa compatible straps",
+    "shop_q": null
+  },
+  "grand-seiko-sbgm221": {
+    "types": [
+      "leather"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "19mm leather strap",
+    "shop_q": "19mm+leather+watch+strap"
+  },
+  "hamilton-khaki-field-auto-38": {
+    "types": [
+      "nato",
+      "leather",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "hamilton-khaki-field-auto-42": {
+    "types": [
+      "nato",
+      "leather",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "22mm nato strap",
+    "shop_q": "22mm+nato+watch+strap"
+  },
+  "hamilton-khaki-field-mechanical": {
+    "types": [
+      "nato",
+      "fabric",
+      "leather"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "iwc-pilot-mark-xviii": {
+    "types": [
+      "leather",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "iwc-pilot-mark-xx": {
+    "types": [
+      "leather",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "longines-hydroconquest-41": {
+    "types": [
+      "rubber",
+      "nato"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "21mm rubber strap",
+    "shop_q": "21mm+rubber+watch+strap"
+  },
+  "longines-spirit-40": {
+    "types": [
+      "leather",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "21mm nato strap",
+    "shop_q": "21mm+nato+watch+strap"
+  },
+  "mido-multifort": {
+    "types": [
+      "leather",
+      "nato",
+      "rubber"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "22mm nato strap",
+    "shop_q": "22mm+nato+watch+strap"
+  },
+  "omega-seamaster-300-heritage": {
+    "types": [
+      "leather",
+      "nato",
+      "rubber"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "21mm rubber strap",
+    "shop_q": "21mm+rubber+watch+strap"
+  },
+  "omega-seamaster-300m-2531-80": {
+    "types": [
+      "rubber",
+      "nato",
+      "leather"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "omega-aqua-terra-38": {
+    "types": [
+      "leather",
+      "rubber"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "19mm rubber strap",
+    "shop_q": "19mm+rubber+watch+strap"
+  },
+  "omega-aqua-terra-41": {
+    "types": [
+      "leather",
+      "rubber",
+      "nato"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "omega-seamaster-300m": {
+    "types": [
+      "rubber",
+      "nato",
+      "leather",
+      "bracelet"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "omega-planet-ocean-43-5": {
+    "types": [
+      "rubber",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "21mm rubber strap",
+    "shop_q": "21mm+rubber+watch+strap"
+  },
+  "omega-speedmaster-professional": {
+    "types": [
+      "nato",
+      "leather",
+      "fabric",
+      "rubber"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "20mm leather strap",
+    "shop_q": "20mm+leather+watch+strap"
+  },
+  "omega-swatch-moonswatch": {
+    "types": [
+      "fabric",
+      "nato",
+      "rubber"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "orient-bambino-38": {
+    "types": [
+      "leather",
+      "bracelet"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "20mm leather strap",
+    "shop_q": "20mm+leather+watch+strap"
+  },
+  "orient-kamasu": {
+    "types": [
+      "rubber",
+      "nato",
+      "leather"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm rubber strap",
+    "shop_q": "22mm+rubber+watch+strap"
+  },
+  "oris-divers-sixty-five-40": {
+    "types": [
+      "leather",
+      "nato",
+      "rubber"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "panerai-luminor-44": {
+    "types": [
+      "leather",
+      "rubber",
+      "fabric"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "24mm rubber strap",
+    "shop_q": "24mm+rubber+watch+strap"
+  },
+  "rolex-air-king-116900": {
+    "types": [
+      "nato",
+      "leather",
+      "rubber"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "rolex-daytona": {
+    "types": [
+      "rubber",
+      "leather",
+      "bracelet"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "20mm leather strap",
+    "shop_q": "20mm+leather+watch+strap"
+  },
+  "rolex-datejust-36": {
+    "types": [
+      "bracelet",
+      "leather"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "20mm leather strap",
+    "shop_q": "20mm+leather+watch+strap"
+  },
+  "rolex-datejust-41": {
+    "types": [
+      "leather",
+      "rubber",
+      "bracelet"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "21mm leather strap",
+    "shop_q": "21mm+leather+watch+strap"
+  },
+  "rolex-deepsea-136660": {
+    "types": [
+      "rubber",
+      "nato"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "21mm curved end rubber strap",
+    "shop_q": "21mm+curved+end+rubber+watch+strap"
+  },
+  "rolex-explorer-36": {
+    "types": [
+      "leather",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "19mm nato strap",
+    "shop_q": "19mm+nato+watch+strap"
+  },
+  "rolex-explorer-39": {
+    "types": [
+      "leather",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "rolex-explorer-40": {
+    "types": [
+      "leather",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "21mm nato strap",
+    "shop_q": "21mm+nato+watch+strap"
+  },
+  "rolex-explorer-ii-216570": {
+    "types": [
+      "leather",
+      "rubber",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "21mm nato strap",
+    "shop_q": "21mm+nato+watch+strap"
+  },
+  "rolex-gmt-master-ii-126710": {
+    "types": [
+      "bracelet",
+      "rubber",
+      "nato",
+      "leather"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "rolex-gmt-master-ii-116710": {
+    "types": [
+      "rubber",
+      "nato",
+      "bracelet",
+      "leather"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "rolex-gmt-master-ii-16710": {
+    "types": [
+      "bracelet",
+      "nato",
+      "leather",
+      "rubber"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "rolex-oyster-perpetual-36": {
+    "types": [
+      "leather",
+      "nato",
+      "rubber"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "20mm leather strap",
+    "shop_q": "20mm+leather+watch+strap"
+  },
+  "rolex-oyster-perpetual-41": {
+    "types": [
+      "leather",
+      "rubber",
+      "nato"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "21mm leather strap",
+    "shop_q": "21mm+leather+watch+strap"
+  },
+  "rolex-sea-dweller-126600": {
+    "types": [
+      "rubber",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm curved end rubber strap",
+    "shop_q": "22mm+curved+end+rubber+watch+strap"
+  },
+  "rolex-submariner-40": {
+    "types": [
+      "rubber",
+      "nato",
+      "leather",
+      "bracelet"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm curved end rubber strap",
+    "shop_q": "20mm+curved+end+rubber+watch+strap"
+  },
+  "rolex-submariner-41": {
+    "types": [
+      "rubber",
+      "nato",
+      "leather"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "21mm curved end rubber strap",
+    "shop_q": "21mm+curved+end+rubber+watch+strap"
+  },
+  "rolex-submariner-16610": {
+    "types": [
+      "nato",
+      "rubber",
+      "leather",
+      "bracelet"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "rolex-yacht-master-40": {
+    "types": [
+      "rubber",
+      "leather",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "rolex-yacht-master-42": {
+    "types": [
+      "rubber",
+      "fabric"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "21mm curved end rubber strap",
+    "shop_q": "21mm+curved+end+rubber+watch+strap"
+  },
+  "seiko-5-sports-srpd": {
+    "types": [
+      "nato",
+      "rubber",
+      "bracelet",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "22mm nato strap",
+    "shop_q": "22mm+nato+watch+strap"
+  },
+  "seiko-presage-srpb43": {
+    "types": [
+      "leather",
+      "bracelet"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "20mm leather strap",
+    "shop_q": "20mm+leather+watch+strap"
+  },
+  "seiko-alpinist-spb121": {
+    "types": [
+      "leather",
+      "nato",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "seiko-spb143": {
+    "types": [
+      "rubber",
+      "nato",
+      "leather",
+      "fabric"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "seiko-turtle": {
+    "types": [
+      "rubber",
+      "nato"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm rubber strap",
+    "shop_q": "22mm+rubber+watch+strap"
+  },
+  "seiko-skx007": {
+    "types": [
+      "rubber",
+      "nato",
+      "bracelet"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm rubber strap",
+    "shop_q": "22mm+rubber+watch+strap"
+  },
+  "seiko-skx013": {
+    "types": [
+      "rubber",
+      "nato",
+      "bracelet"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "seiko-5-snk809": {
+    "types": [
+      "nato",
+      "fabric",
+      "leather"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "18mm nato strap",
+    "shop_q": "18mm+nato+watch+strap"
+  },
+  "sinn-556": {
+    "types": [
+      "nato",
+      "leather",
+      "fabric"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  },
+  "tag-heuer-aquaracer-300": {
+    "types": [
+      "rubber",
+      "nato"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "21mm rubber strap",
+    "shop_q": "21mm+rubber+watch+strap"
+  },
+  "tag-heuer-carrera-39": {
+    "types": [
+      "leather",
+      "rubber"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "20mm leather strap",
+    "shop_q": "20mm+leather+watch+strap"
+  },
+  "tissot-gentleman": {
+    "types": [
+      "leather",
+      "rubber",
+      "nato"
+    ],
+    "best_type": "leather",
+    "best_style": "leather",
+    "best_label": "leather strap",
+    "why": "A leather strap dresses the watch up and keeps the case looking balanced.",
+    "shop_t": "21mm leather strap",
+    "shop_q": "21mm+leather+watch+strap"
+  },
+  "tissot-prx-powermatic-80": {
+    "types": [
+      "rubber",
+      "leather"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "PRX Powermatic 80 compatible straps",
+    "shop_q": "tissot+prx+40mm+strap"
+  },
+  "tissot-prx-quartz": {
+    "types": [
+      "rubber",
+      "leather"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "PRX Quartz compatible straps",
+    "shop_q": "tissot+prx+40mm+strap"
+  },
+  "tudor-black-bay-36": {
+    "types": [
+      "leather",
+      "fabric",
+      "nato"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "19mm nato strap",
+    "shop_q": "19mm+nato+watch+strap"
+  },
+  "tudor-black-bay-41-master-chronometer": {
+    "types": [
+      "rubber",
+      "fabric",
+      "leather",
+      "nato"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm rubber strap",
+    "shop_q": "22mm+rubber+watch+strap"
+  },
+  "tudor-black-bay-41": {
+    "types": [
+      "fabric",
+      "leather",
+      "nato",
+      "rubber"
+    ],
+    "best_type": "rubber",
+    "best_style": "fabric",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm fabric strap",
+    "shop_q": "22mm+fabric+watch+strap"
+  },
+  "tudor-black-bay-54": {
+    "types": [
+      "rubber",
+      "fabric",
+      "nato",
+      "leather"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm rubber strap",
+    "shop_q": "20mm+rubber+watch+strap"
+  },
+  "tudor-black-bay-58": {
+    "types": [
+      "fabric",
+      "nato",
+      "leather",
+      "rubber"
+    ],
+    "best_type": "rubber",
+    "best_style": "fabric",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "20mm fabric strap",
+    "shop_q": "20mm+fabric+watch+strap"
+  },
+  "tudor-black-bay-gmt": {
+    "types": [
+      "fabric",
+      "leather",
+      "nato",
+      "rubber"
+    ],
+    "best_type": "rubber",
+    "best_style": "fabric",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm fabric strap",
+    "shop_q": "22mm+fabric+watch+strap"
+  },
+  "tudor-black-bay-pro": {
+    "types": [
+      "fabric",
+      "rubber",
+      "nato"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm rubber strap",
+    "shop_q": "22mm+rubber+watch+strap"
+  },
+  "tudor-pelagos-39": {
+    "types": [
+      "rubber",
+      "fabric",
+      "nato"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "21mm rubber strap",
+    "shop_q": "21mm+rubber+watch+strap"
+  },
+  "tudor-pelagos-42": {
+    "types": [
+      "rubber",
+      "fabric",
+      "nato"
+    ],
+    "best_type": "rubber",
+    "best_style": "rubber",
+    "best_label": "rubber strap",
+    "why": "This is a sporty watch, so a rubber strap keeps the look and handles water better than leather.",
+    "shop_t": "22mm rubber strap",
+    "shop_q": "22mm+rubber+watch+strap"
+  },
+  "tudor-ranger": {
+    "types": [
+      "fabric",
+      "nato",
+      "leather"
+    ],
+    "best_type": "nato",
+    "best_style": "nato",
+    "best_label": "NATO strap",
+    "why": "A NATO strap is easy to swap, stays put, and gives the watch a more casual daily look.",
+    "shop_t": "20mm nato strap",
+    "shop_q": "20mm+nato+watch+strap"
+  }
+}

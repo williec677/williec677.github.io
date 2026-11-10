@@ -49,7 +49,7 @@ The tradeoffs are honest ones for $299. Acrylic scratches more easily than sapph
 
 ## Strap swaps
 
-If the 18 mm lug width Windup lists holds, you have a huge pool of vintage style leather, suede and fabric straps to play with, and the quick release bars make swaps a 30 second job. The [Watch Strap Finder](https://mrtictoctalk.com/strap-finder/) has fit notes for 76 models, including other 18 mm watches, and our [lug width chart](https://mrtictoctalk.com/watch-lug-width-chart/) explains how to measure your own pieces before you order. A slim black or tan leather strap is the obvious move for a California dial, and you can browse {% include aff.html network="amazon" url="https://www.amazon.com/s?k=18mm+quick+release+leather+watch+strap" text="18 mm quick release leather straps on Amazon" %}.
+If the 18 mm lug width Windup lists holds, you have a huge pool of vintage style leather, suede and fabric straps to play with, and the quick release bars make swaps a 30 second job. The [Watch Strap Finder](/strap-finder/) has fit notes for {{ site.data.straps.size }} models, including other 18 mm watches, and our [lug width chart](/watch-lug-width-chart/) explains how to measure your own pieces before you order. A slim black or tan leather strap is the obvious move for a California dial, and you can browse {% include aff.html network="amazon" url="https://www.amazon.com/s?k=18mm+quick+release+leather+watch+strap" text="18 mm quick release leather straps on Amazon" %}.
 
 ## Also new: four monochrome G-Shocks in Japan
 

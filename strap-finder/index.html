@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Watch Strap Finder: Lug Width for 76 Popular Watches"
+title: "Watch Strap Finder: Lug Width and Strap Size by Model"
 seo_title: "Watch Strap Finder: Lug Width and Strap Size by Model"
-description: "Find the lug width and strap size for 76 popular watches from Rolex, Omega, Tudor, Seiko, Casio and more. Search by model, filter by size, and shop straps that fit."
+description: "Find the lug width and strap size for popular watches from Rolex, Omega, Tudor, Seiko, Casio and more. Search by model, filter by size or strap type, and shop straps that fit."
 permalink: /strap-finder/
 ---
 {%- assign straps = site.data.straps -%}
@@ -11,28 +11,67 @@ permalink: /strap-finder/
   <p class="kicker">Tool</p>
   <h1>Watch Strap Finder</h1>
   <p class="disclosure">This page contains affiliate links. I earn a commission if you buy through them, at no extra cost to you. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.{% if site.affiliates.amazon_tag != "" %} As an Amazon Associate I earn from qualifying purchases.{% endif %}{% if site.affiliates.ebay_campid != "" %} As an eBay Partner, I may be compensated if you make a purchase through eBay links.{% endif %}</p>
-  <p>Buying a strap is way more fun when it actually fits. Look up your watch below to get its lug width, the strap it came on, and the styles that look killer on it. Every lug width here was checked against the brand or a trusted watch database, and each model page lists its sources. {{ straps.size }} watches so far, from Rolex and Omega down to Casio and Seiko.</p>
+  <p>Buying a strap is way more fun when it actually fits. Look up your watch below to get its lug width, a best match strap pick, and shop buttons in the right size. Every lug width here was checked against the brand or a trusted watch database, and each model page lists its sources. {{ straps.size }} watches so far, from Rolex and Omega down to Casio and Seiko.</p>
 
   <div class="sf-controls" hidden>
-    <label for="sf-q">Search a brand, model or reference</label>
-    <input id="sf-q" type="search" placeholder="Try Submariner, SKX007 or 126710" autocomplete="off">
-    <label for="sf-w">Lug width</label>
-    <select id="sf-w">
-      <option value="">All sizes</option>
-      {%- for s in site.data.strap_sizes.sizes %}
-      <option value="{{ s.mm }}">{{ s.mm }}mm</option>
-      {%- endfor %}
-      <option value="special">Integrated or proprietary</option>
-    </select>
+    <div class="sf-search-wrap">
+      <label for="sf-q">Search a brand, model or reference</label>
+      <input id="sf-q" type="search" placeholder="Try Submariner, SKX007 or 126710" autocomplete="off" aria-autocomplete="list" aria-controls="sf-suggest" aria-expanded="false">
+      <ul id="sf-suggest" class="sf-suggest" hidden role="listbox"></ul>
+    </div>
+    <div class="sf-filter-grid">
+      <div>
+        <label for="sf-w">Lug width</label>
+        <select id="sf-w">
+          <option value="">All sizes</option>
+          {%- for s in site.data.strap_sizes.sizes %}
+          <option value="{{ s.mm }}">{{ s.mm }}mm</option>
+          {%- endfor %}
+          <option value="special">Integrated or proprietary</option>
+        </select>
+      </div>
+      <div>
+        <label for="sf-p">Price band</label>
+        <select id="sf-p">
+          <option value="">Any price</option>
+          <option value="0-3000">Under $30</option>
+          <option value="3000-8000">$30 to $80</option>
+          <option value="8000-">$80 and up</option>
+        </select>
+      </div>
+    </div>
+    <fieldset class="sf-types">
+      <legend>Strap type</legend>
+      <div class="sf-type-row">
+        <button type="button" class="sf-chip is-on" data-type="" aria-pressed="true">All types</button>
+        <button type="button" class="sf-chip" data-type="nato" aria-pressed="false">NATO</button>
+        <button type="button" class="sf-chip" data-type="rubber" aria-pressed="false">Rubber</button>
+        <button type="button" class="sf-chip" data-type="leather" aria-pressed="false">Leather</button>
+        <button type="button" class="sf-chip" data-type="bracelet" aria-pressed="false">Bracelet</button>
+        <button type="button" class="sf-chip" data-type="fabric" aria-pressed="false">Fabric</button>
+      </div>
+    </fieldset>
+    <p class="meta">Price bands refine the Amazon search. Listed prices on Amazon change, so check the final price before you buy.</p>
     <p class="meta" id="sf-count" aria-live="polite"></p>
   </div>
 
-  <p class="sf-jump">Jump to a size:{% for s in site.data.strap_sizes.sizes %} <a href="#size-{{ s.mm }}">{{ s.mm }}mm</a>{% endfor %} <a href="#special-fits">Special fits</a></p>
+  <details class="sf-helper">
+    <summary>Not sure of your lug width?</summary>
+    <p>Measure the inside gap between the lugs, right where the strap goes in, with a ruler or caliper marked in millimeters. Round to the nearest whole millimeter. Most watches land on 18, 20 or 22, but plenty of modern watches use 19 or 21, so do not assume.</p>
+    <p class="sf-actions">
+      <a class="button" href="#measure">See how to measure</a>
+      <a class="button button-secondary" href="{{ '/lug-width/' | relative_url }}">Browse by brand</a>
+    </p>
+  </details>
+
+  <p class="sf-jump">Jump to a size:{% for s in site.data.strap_sizes.sizes %} <a href="#size-{{ s.mm }}">{{ s.mm }}mm</a>{% endfor %} <a href="#special-fits">Special fits</a> · <a href="{{ '/lug-width/' | relative_url }}">All brands</a></p>
 
   <h2 id="models">Lug width by watch</h2>
   <ul class="sf-list" id="sf-list">
     {%- for m in straps %}
-    <li class="sf-item" id="{{ m.id }}" data-w="{% if m.fit == 'standard' %}{{ m.lug }}{% else %}special{% endif %}" data-s="{{ m.brand | downcase }} {{ m.model | downcase }} {{ m.refs | join: ' ' | downcase }}">
+    {%- assign pick = site.data.strap_picks[m.id] -%}
+    {%- assign pstyle = site.data.strap_styles[pick.best_style] -%}
+    <li class="sf-item" id="{{ m.id }}" data-w="{% if m.fit == 'standard' %}{{ m.lug }}{% else %}special{% endif %}" data-s="{{ m.brand | downcase }} {{ m.model | downcase }} {{ m.refs | join: ' ' | downcase }}" data-types="{{ pick.types | join: ' ' }}">
       {%- assign wimg = site.data.watch_images[m.id] -%}
       <div class="sf-item-inner">
         {%- if wimg and wimg.image -%}
@@ -45,7 +84,28 @@ permalink: /strap-finder/
           <h3><a href="{{ '/strap-finder/' | append: m.id | append: '/' | relative_url }}">{{ m.brand }} {{ m.model }}</a> <span class="sf-badge">{% if m.fit == "standard" %}{{ m.lug }}mm{% elsif m.fit == "integrated" %}Integrated{% else %}Proprietary{% endif %}</span></h3>
           <p>{{ m.line }}</p>
           <p class="meta">Stock: {{ m.stock }}. Try: {{ m.styles | join: ", " }}.</p>
-          <p class="meta">{{ m.notes }} <a href="{% if m.fit == 'standard' %}#size-{{ m.lug }}{% else %}#special-fits{% endif %}">Shop straps that fit</a></p>
+          {%- if pick -%}
+          <div class="sf-best">
+            {%- if pstyle and pstyle.image -%}
+            <figure class="sf-best-shot">
+              <img src="{{ pstyle.image | relative_url }}" alt="{{ pstyle.image_alt | escape }}" width="88" height="88" loading="lazy">
+              <figcaption>Image: {{ pstyle.image_credit }}</figcaption>
+            </figure>
+            {%- endif -%}
+            <div>
+              <p class="sf-best-label">Best match: {{ pick.best_label }}</p>
+              <p>{{ pick.why }}</p>
+            </div>
+          </div>
+          {%- endif -%}
+          <p class="sf-actions">
+            {%- if pick and pick.shop_q -%}
+            {%- capture u -%}https://www.amazon.com/s?k={{ pick.shop_q }}{%- endcapture -%}
+            {%- capture t -%}Shop {{ pick.shop_t }}{%- endcapture -%}
+            {% include aff.html network="amazon" url=u text=t class="button sf-shop-btn" %}
+            {%- endif -%}
+            <a class="button button-secondary" href="{{ '/strap-finder/' | append: m.id | append: '/' | relative_url }}">See strap page</a>
+          </p>
         </div>
       </div>
     </li>
@@ -60,11 +120,13 @@ permalink: /strap-finder/
   <section class="sf-size" id="size-{{ s.mm }}">
     <h3>{{ s.mm }}mm watch straps</h3>
     <p>These watches take {{ s.mm }}mm straps:{% for id in s.ids %}{% assign m = straps | where: "id", id | first %} <a href="#{{ m.id }}">{{ m.brand }} {{ m.model }}</a>{% unless forloop.last %},{% endunless %}{% endfor %}.</p>
-    <p class="shop-callout"><span class="shop-lead">Shop straps in this size:</span>
-      {% capture u %}https://www.amazon.com/s?k={{ s.mm }}mm+nato+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm NATO straps{% endcapture %}{% include aff.html network="amazon" url=u text=t %},
-      {% capture u %}https://www.amazon.com/s?k={{ s.mm }}mm+rubber+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm rubber straps{% endcapture %}{% include aff.html network="amazon" url=u text=t %},
-      {% capture u %}https://www.amazon.com/s?k={{ s.mm }}mm+leather+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm leather straps{% endcapture %}{% include aff.html network="amazon" url=u text=t %}
-      or {% capture u %}https://www.ebay.com/sch/i.html?_nkw={{ s.mm }}mm+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm straps on eBay{% endcapture %}{% include aff.html network="ebay" url=u text=t customid=fid %}.</p>
+    <p class="shop-callout sf-size-shop"><span class="shop-lead">Shop straps in this size:</span>
+      {% capture u %}https://www.amazon.com/s?k={{ s.mm }}mm+nato+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm NATO straps{% endcapture %}{% include aff.html network="amazon" url=u text=t class="button sf-shop-btn" %}
+      {% capture u %}https://www.amazon.com/s?k={{ s.mm }}mm+rubber+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm rubber straps{% endcapture %}{% include aff.html network="amazon" url=u text=t class="button sf-shop-btn" %}
+      {% capture u %}https://www.amazon.com/s?k={{ s.mm }}mm+leather+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm leather straps{% endcapture %}{% include aff.html network="amazon" url=u text=t class="button sf-shop-btn" %}
+      {% capture u %}https://www.ebay.com/sch/i.html?_nkw={{ s.mm }}mm+watch+strap{% endcapture %}{% capture t %}{{ s.mm }}mm straps on eBay{% endcapture %}{% include aff.html network="ebay" url=u text=t class="button button-secondary" customid=fid %}
+    </p>
+    <p><a href="{{ '/lug-width/' | append: s.mm | append: 'mm/' | relative_url }}">See every {{ s.mm }}mm watch</a></p>
   </section>
   {%- endfor %}
   <section class="sf-size" id="special-fits">
@@ -72,7 +134,7 @@ permalink: /strap-finder/
     <p>These watches do not take regular spring bar straps. Buy straps or adapters made for the exact model.</p>
     <ul>
       {%- for id in site.data.strap_sizes.special %}{% assign m = straps | where: "id", id | first %}
-      <li><a href="#{{ m.id }}">{{ m.brand }} {{ m.model }}</a>: {% for s in m.shop %}{% capture u %}https://www.amazon.com/s?k={{ s.q }}{% endcapture %}{% capture t %}{{ s.t }} on Amazon{% endcapture %}{% include aff.html network="amazon" url=u text=t %}{% endfor %}</li>
+      <li><a href="#{{ m.id }}">{{ m.brand }} {{ m.model }}</a>: {% for s in m.shop %}{% capture u %}https://www.amazon.com/s?k={{ s.q }}{% endcapture %}{% capture t %}{{ s.t }} on Amazon{% endcapture %}{% include aff.html network="amazon" url=u text=t %}{% unless forloop.last %}, {% endunless %}{% endfor %}</li>
       {%- endfor %}
     </ul>
   </section>
@@ -98,22 +160,84 @@ What is a curved end strap?|A curved end strap is shaped to sit flush against th
   {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{%- for q in qs -%}{%- assign p = q | strip | split: "|" -%}{"@type":"Question","name":{{ p[0] | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ p[1] | jsonify }}}}{% unless forloop.last %},{% endunless %}{%- endfor -%}]}
   </script>
 
-  <p class="meta">Spotted a wrong number, or want your watch added? <a href="{{ '/about/' | relative_url }}">Get in touch</a>. Every model page lists where its lug width came from.</p>
+  <p class="meta">Spotted a wrong number, or want your watch added? <a href="{{ '/about/' | relative_url }}">Get in touch</a>. Every model page lists where its lug width came from. You can also browse <a href="{{ '/lug-width/' | relative_url }}">lug widths by brand</a>.</p>
 </article>
 <script>
 (function(){
   var c=document.querySelector('.sf-controls'),q=document.getElementById('sf-q'),w=document.getElementById('sf-w'),
+      psel=document.getElementById('sf-p'),suggest=document.getElementById('sf-suggest'),
       items=[].slice.call(document.querySelectorAll('.sf-item')),n=document.getElementById('sf-count'),none=document.getElementById('sf-none');
   if(!c)return; c.hidden=false;
+  var type='';
+  var chips=[].slice.call(document.querySelectorAll('.sf-chip'));
+  var catalog=items.map(function(el){
+    var a=el.querySelector('h3 a');
+    return {id:el.id,label:a?a.textContent.replace(/\s+/g,' ').trim():el.id,s:el.getAttribute('data-s')||'',href:a?a.getAttribute('href'):('#'+el.id)};
+  });
+  function applyPrice(range){
+    document.querySelectorAll('a[href*="amazon.com/s"]').forEach(function(a){
+      try{
+        var url=new URL(a.href);
+        if(!url.searchParams.get('k'))return;
+        var rh=url.searchParams.get('rh')||'';
+        if(rh && rh.indexOf('p_36:')===0){ url.searchParams.delete('rh'); }
+        if(range){ url.searchParams.set('rh','p_36:'+range); }
+        a.href=url.toString();
+      }catch(e){}
+    });
+  }
   function run(){
-    var t=q.value.toLowerCase().trim().split(/\s+/),v=w.value,k=0;
+    var t=q.value.toLowerCase().trim().split(/\s+/).filter(Boolean),v=w.value,k=0;
     items.forEach(function(el){
-      var s=el.getAttribute('data-s'),ok=(!v||el.getAttribute('data-w')===v)&&t.every(function(x){return s.indexOf(x)>-1;});
+      var s=el.getAttribute('data-s')||'', types=' '+(el.getAttribute('data-types')||'')+' ';
+      var ok=(!v||el.getAttribute('data-w')===v)&&t.every(function(x){return s.indexOf(x)>-1;})&&(!type||types.indexOf(' '+type+' ')>-1);
       el.hidden=!ok; if(ok)k++;
     });
     n.textContent='Showing '+k+' of '+items.length+' watches';
     none.hidden=k>0;
   }
-  q.addEventListener('input',run); w.addEventListener('change',run); run();
+  function renderSuggest(){
+    var raw=q.value.toLowerCase().trim();
+    suggest.innerHTML='';
+    if(raw.length<2){ suggest.hidden=true; q.setAttribute('aria-expanded','false'); return; }
+    var words=raw.split(/\s+/);
+    var hits=catalog.filter(function(m){return words.every(function(x){return m.s.indexOf(x)>-1;});}).slice(0,8);
+    hits.forEach(function(m){
+      var li=document.createElement('li');
+      var btn=document.createElement('button');
+      btn.type='button';
+      btn.setAttribute('role','option');
+      btn.textContent=m.label;
+      btn.addEventListener('click',function(){
+        q.value=m.label;
+        suggest.hidden=true;
+        q.setAttribute('aria-expanded','false');
+        run();
+        var target=document.getElementById(m.id);
+        if(target){ target.scrollIntoView({behavior:'smooth',block:'start'}); }
+      });
+      li.appendChild(btn);
+      suggest.appendChild(li);
+    });
+    suggest.hidden=hits.length===0;
+    q.setAttribute('aria-expanded',hits.length?'true':'false');
+  }
+  chips.forEach(function(btn){
+    btn.addEventListener('click',function(){
+      type=btn.getAttribute('data-type')||'';
+      chips.forEach(function(other){
+        var on=other===btn;
+        other.classList.toggle('is-on',on);
+        other.setAttribute('aria-pressed',on?'true':'false');
+      });
+      run();
+    });
+  });
+  q.addEventListener('input',function(){ renderSuggest(); run(); });
+  q.addEventListener('keydown',function(ev){ if(ev.key==='Escape'){ suggest.hidden=true; q.setAttribute('aria-expanded','false'); }});
+  document.addEventListener('click',function(ev){ if(!c.contains(ev.target)){ suggest.hidden=true; q.setAttribute('aria-expanded','false'); }});
+  w.addEventListener('change',run);
+  psel.addEventListener('change',function(){ applyPrice(psel.value); });
+  run();
 })();
 </script>

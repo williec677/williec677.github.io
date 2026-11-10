@@ -2,7 +2,10 @@
 layout: default
 ---
 {%- assign m = site.data.straps | where: "id", page.strap_id | first -%}
+{%- assign pick = site.data.strap_picks[page.strap_id] -%}
+{%- assign pstyle = site.data.strap_styles[pick.best_style] -%}
 {%- assign fid = "strap-finder" -%}
+{%- assign brand_slug = m.brand | downcase | replace: " ", "-" | replace: "omega-x-swatch", "omega" -%}
 <article class="page strap-model">
   <p class="kicker"><a href="{{ '/strap-finder/' | relative_url }}">Watch Strap Finder</a></p>
   <h1>{{ m.brand }} {{ m.model }} strap size</h1>
@@ -15,6 +18,25 @@ layout: default
   </figure>
   {%- endif -%}
   <p class="strap-answer">{% if m.fit == "standard" %}<strong>{{ m.lug }}mm</strong> lug width.{% elsif m.fit == "integrated" %}<strong>Integrated bracelet.</strong>{% else %}<strong>Proprietary fit.</strong>{% endif %} {{ m.line }}</p>
+  {%- if pick -%}
+  <section class="sf-best sf-best-feature">
+    {%- if pstyle and pstyle.image -%}
+    <figure class="sf-best-shot">
+      <img src="{{ pstyle.image | relative_url }}" alt="{{ pstyle.image_alt | escape }}" width="160" height="160">
+      <figcaption>Image: {{ pstyle.image_credit }}</figcaption>
+    </figure>
+    {%- endif -%}
+    <div>
+      <h2>Best match: {{ pick.best_label }}</h2>
+      <p>{{ pick.why }}</p>
+      <p class="sf-actions">
+        {%- capture u -%}https://www.amazon.com/s?k={{ pick.shop_q }}{%- endcapture -%}
+        {%- capture t -%}Shop {{ pick.shop_t }}{%- endcapture -%}
+        {% include aff.html network="amazon" url=u text=t class="button sf-shop-btn" %}
+      </p>
+    </div>
+  </section>
+  {%- endif -%}
   <table class="strap-specs">
     <tr><th scope="row">Brand</th><td>{{ m.brand }}</td></tr>
     <tr><th scope="row">Model</th><td>{{ m.model }}</td></tr>
@@ -31,14 +53,15 @@ layout: default
   <ul class="strap-shop">
     {%- for s in m.shop -%}
     {%- capture u -%}https://www.amazon.com/s?k={{ s.q }}{%- endcapture -%}
-    {%- capture t -%}{{ s.t }} on Amazon{%- endcapture %}
-    <li class="strap-shop-item">{% include strap-shot.html style=s.style %}<div class="strap-shop-copy">{% include aff.html network="amazon" url=u text=t %}</div></li>
+    {%- capture t -%}Shop {{ s.t }}{%- endcapture %}
+    <li class="strap-shop-item">{% include strap-shot.html style=s.style %}<div class="strap-shop-copy">{% include aff.html network="amazon" url=u text=t class="button sf-shop-btn" %}</div></li>
     {%- endfor %}
     {%- capture u -%}https://www.ebay.com/sch/i.html?_nkw={{ m.ebay_q }}{%- endcapture -%}
-    {%- capture t -%}{{ m.model | split: " (" | first }} straps on eBay{%- endcapture %}
-    <li class="strap-shop-item"><div class="strap-shot strap-shot-ph" aria-hidden="true"></div><div class="strap-shop-copy">{% include aff.html network="ebay" url=u text=t customid=fid %}</div></li>
+    {%- capture t -%}Shop {{ m.model | split: " (" | first }} straps on eBay{%- endcapture %}
+    <li class="strap-shop-item"><div class="strap-shot strap-shot-ph" aria-hidden="true"></div><div class="strap-shop-copy">{% include aff.html network="ebay" url=u text=t class="button button-secondary" customid=fid %}</div></li>
   </ul>
-  {% if m.fit == "standard" %}<p>Want more options? See every <a href="{{ '/strap-finder/' | relative_url }}#size-{{ m.lug }}">{{ m.lug }}mm watch</a> in the finder.</p>{% else %}<p>See all <a href="{{ '/strap-finder/' | relative_url }}#special-fits">special fit watches</a> in the finder.</p>{% endif %}
+  {% if m.fit == "standard" %}<p>Want more options? See every <a href="{{ '/strap-finder/' | relative_url }}#size-{{ m.lug }}">{{ m.lug }}mm watch</a> in the finder, or the <a href="{{ '/lug-width/' | append: m.lug | append: 'mm/' | relative_url }}">{{ m.lug }}mm size guide</a>.</p>{% else %}<p>See all <a href="{{ '/strap-finder/' | relative_url }}#special-fits">special fit watches</a> in the finder.</p>{% endif %}
+  <p>More {{ m.brand | replace: "Omega x Swatch", "Omega" }} sizes: <a href="{{ '/lug-width/' | append: brand_slug | append: '/' | relative_url }}">{{ m.brand | replace: "Omega x Swatch", "Omega" }} lug widths</a>.</p>
   <h2>Sources</h2>
   <p class="meta">We checked this lug width against these sources. Always confirm your exact reference before you buy.</p>
   <ul class="strap-sources">
@@ -46,5 +69,5 @@ layout: default
     <li><a href="{{ u }}" rel="nofollow noopener" target="_blank">{{ u | remove: "https://" | remove: "www." | split: "/" | first }}</a></li>
     {%- endfor %}
   </ul>
-  <p><a class="button" href="{{ '/strap-finder/' | relative_url }}#{{ m.id }}">Back to the Strap Finder</a></p>
+  <p class="sf-actions"><a class="button" href="{{ '/strap-finder/' | relative_url }}#{{ m.id }}">Back to the Strap Finder</a></p>
 </article>

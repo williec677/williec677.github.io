@@ -21,11 +21,13 @@
 {%- assign nav_guides = false -%}
 {%- assign nav_news = false -%}
 {%- assign nav_strap = false -%}
+{%- assign nav_tools = false -%}
 {%- assign nav_about = false -%}
 {%- if page.url == "/reviews/" or page.category_label == "Buying Guide" or page.category_label == "Head to Head" -%}{%- assign nav_reviews = true -%}{%- endif -%}
 {%- if page.url == "/guides/" or page.category_label == "Reference Guide" or page.category_label == "Collector Basics" or page.category_label == "Market Know How" -%}{%- assign nav_guides = true -%}{%- endif -%}
 {%- if page.url == "/news/" or page.category_label == "News" -%}{%- assign nav_news = true -%}{%- endif -%}
 {%- if page.url == "/strap-finder/" or page.layout == "strap-model" -%}{%- assign nav_strap = true -%}{%- endif -%}
+{%- if page.url == "/tools/" or page.url == "/lug-width/" or page.url contains "/lug-width/" or page.url == "/available-now/" or page.url contains "/available-now/" or page.url == "/service-costs/" or page.url contains "/service-costs/" -%}{%- assign nav_tools = true -%}{%- endif -%}
 {%- if page.url == "/about/" -%}{%- assign nav_about = true -%}{%- endif %}
 <body class="page-{{ body_class }}">
   <a class="skip" href="#main">Skip to content</a>
@@ -39,6 +41,7 @@
         <a href="{{ '/reviews/' | relative_url }}"{% if nav_reviews %} aria-current="page"{% endif %}>Reviews</a>
         <a href="{{ '/guides/' | relative_url }}"{% if nav_guides %} aria-current="page"{% endif %}>Guides</a>
         <a href="{{ '/news/' | relative_url }}"{% if nav_news %} aria-current="page"{% endif %}>News</a>
+        <a href="{{ '/tools/' | relative_url }}"{% if nav_tools %} aria-current="page"{% endif %}>Tools</a>
         <a href="{{ '/strap-finder/' | relative_url }}"{% if nav_strap %} aria-current="page"{% endif %}>Strap Finder</a>
         <a href="{{ '/about/' | relative_url }}"{% if nav_about %} aria-current="page"{% endif %}>About</a>
       </nav>
@@ -51,6 +54,7 @@
           <a href="{{ '/reviews/' | relative_url }}"{% if nav_reviews %} aria-current="page"{% endif %}>Reviews</a>
           <a href="{{ '/guides/' | relative_url }}"{% if nav_guides %} aria-current="page"{% endif %}>Guides</a>
           <a href="{{ '/news/' | relative_url }}"{% if nav_news %} aria-current="page"{% endif %}>News</a>
+          <a href="{{ '/tools/' | relative_url }}"{% if nav_tools %} aria-current="page"{% endif %}>Tools</a>
           <a href="{{ '/strap-finder/' | relative_url }}"{% if nav_strap %} aria-current="page"{% endif %}>Strap Finder</a>
           <a href="{{ '/about/' | relative_url }}"{% if nav_about %} aria-current="page"{% endif %}>About</a>
           <a href="{{ '/search/' | relative_url }}">Search</a>
@@ -73,6 +77,7 @@
         <a href="{{ '/reviews/' | relative_url }}">Reviews</a>
         <a href="{{ '/guides/' | relative_url }}">Guides</a>
         <a href="{{ '/news/' | relative_url }}">News</a>
+        <a href="{{ '/tools/' | relative_url }}">Tools</a>
         <a href="{{ '/strap-finder/' | relative_url }}">Strap Finder</a>
         <a href="{{ '/about/' | relative_url }}">About</a>
         <a href="{{ '/newsletter/' | relative_url }}">Follow</a>
