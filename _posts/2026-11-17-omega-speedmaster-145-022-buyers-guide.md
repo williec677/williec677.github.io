@@ -7,6 +7,9 @@ date: 2026-11-17 09:00:00 -0500
 category_label: Buying Guide
 tags: [omega, speedmaster, 145-022, cal-861, vintage]
 ig_caption: "The 145.022 was the first Speedmaster with the cal 861, and the suffix on the caseback is the key to the whole reference. 68, 69, 71, 74, 76, 78: here is what changed and what to check. Full guide on the Journal, link in bio. #omega #speedmaster #moonwatch #1450022 #vintageomega #mrtictoctalk"
+image: "/assets/img/watches/omega-speedmaster.webp"
+image_alt: "Official Omega product photo of the current Speedmaster Moonwatch Professional, the modern successor to the 145.022"
+image_credit: "Omega"
 ---
 Most people shopping for a vintage Speedmaster are really shopping for a 145.022. It is the reference that introduced calibre 861, Omega made it for about two decades, and it comes in enough variants to keep you busy for years. The good news is that the variants follow a logic once you know where to look. The bad news is that every one of those details can be swapped.
 

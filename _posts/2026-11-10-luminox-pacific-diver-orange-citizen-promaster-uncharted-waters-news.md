@@ -9,6 +9,9 @@ cluster: news
 tags: [news, luminox, dive watch, limited edition, sellita, citizen, promaster, eco-drive, affordable]
 affiliate: true
 ig_caption: "Two divers, two very different price points, one theme: orange. Luminox just made 400 Pacific Diver Automatics with a burnt orange ceramic bezel and a Swiss Sellita inside for $1,745. And Citizen's Promaster Dive Uncharted Waters solar divers finally hit the US from $425. Which one are you taking to the beach? Full story on the Journal, link in bio. #luminox #citizenwatch #promaster #divewatch #watchnews #mrtictoctalk"
+image: "/assets/img/watches/luminox-pacific-diver.webp"
+image_alt: "Official Luminox product photo of the Pacific Diver Automatic Limited Edition with a burnt orange ceramic bezel"
+image_credit: "Luminox"
 ---
 Orange and dive watches go together like steel and sapphire, and tonight two brands that live on opposite ends of the budget scale both leaned into it. **Luminox** officially announced the **Pacific Diver Automatic Limited Edition XS.3109.N** today, a 400 piece run with a burnt orange ceramic bezel. And **Citizen** has opened US sales of its **Promaster Dive Uncharted Waters** trio, solar powered divers built with sport fishing champion Peter Miller, starting at $425. Every spec and price below comes from the brands' own product pages and press release, checked on November 10, 2026, with outside reporting linked where I used it.
 

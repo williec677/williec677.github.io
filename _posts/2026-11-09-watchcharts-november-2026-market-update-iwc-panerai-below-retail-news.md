@@ -9,6 +9,9 @@ cluster: news
 tags: [news, market, prices, iwc, panerai, rolex, patek-philippe, tudor, omega, ming, secondary-market]
 affiliate: true
 ig_caption: "The secondary market dipped in October and two big names are getting left behind. Per WatchCharts, in production IWC and Panerai trade about 40% under retail: a Portugieser Chronograph IW371605 around $5,100 vs $9,200 retail, a Luminor PAM422 around $5,500 vs $13,200. Rolex slipped 1.1%, Ming jumped 3.1%. Full breakdown on the Journal, link in bio. #watchmarket #iwc #panerai #rolex #watchnews #mrtictoctalk"
+image: "/assets/img/watches/iwc-portugieser-iw371605.webp"
+image_alt: "Official IWC product photo of the Portugieser Chronograph IW371605 on a blue leather strap"
+image_credit: "IWC"
 ---
 Here is the number that should make every watch buyer sit up: according to WatchCharts, in production IWC and Panerai models now change hands for about 40% less than their sticker prices. That is not a clearance rack. That is the Portugieser Chronograph, the Top Gun and the Luminor, all sitting near half of retail on the secondary market while the rest of the industry has been climbing for almost two years. WatchCharts published its [November 2026 Watch Market Update](https://watchcharts.com/articles/p/9545/november-2026-watch-market-update) today, November 9, covering October, and it is one of the most useful buyer reports of the year.
 

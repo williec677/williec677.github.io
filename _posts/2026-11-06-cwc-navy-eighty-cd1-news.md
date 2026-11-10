@@ -9,6 +9,9 @@ cluster: news
 tags: [news, cwc, cabot-watch-company, diver, military, navy-eighty, sellita]
 affiliate: true
 ig_caption: "CWC just modernized its 1980 Clearance Diver. Navy Eighty CD-1: 41mm, ceramic bezel, Sellita SW200-1 Top Grade, 300m, five dial and lume configs, £2,500. Specs checked against the brand. Full story on the Journal, link in bio. #cwc #diver #militarywatch #watchnews #mrtictoctalk"
+image: "/assets/img/watches/cwc-navy-eighty.webp"
+image_alt: "Official CWC product photo of the Navy Eighty CD 1 Clearance Diver on a blue NATO strap"
+image_credit: "CWC"
 ---
 Cabot Watch Company just gave its most storied Royal Navy diver a civilian refresh. The CWC Navy Eighty CD-1 keeps the 1980 Clearance Diver case shape and dial language, then adds a ceramic bezel, applied luminous markers, and a Sellita SW200-1 Top Grade automatic. Five dial and lume combinations all land at £2,500. I checked every size, price, and availability note below against [CWC](https://www.cwcwatch.com/products/cwc-navy-eighty-cd1-automatic-divers-watch) and [Hodinkee](https://www.hodinkee.com/articles/cwc-navy-eighty-automatic) on November 6, 2026.
 
@@ -53,7 +56,7 @@ My take? £2,500 is a real step up from CWC's more affordable Radar and G10 piec
 
 ## What to read next
 
-This morning's {% assign om = site.posts | where: "slug", "omega-seamaster-ceramic-yema-senans-gshock-2500-news" | first %}{% if om %}[Omega ceramic Seamaster, Yema Senans, and G-Shock 2500 roundup]({{ om.url | absolute_url }}){% else %}Omega ceramic Seamaster, Yema Senans, and G-Shock 2500 roundup{% endif %} covers the bigger brand drops from earlier today. For another ceramic bezel story under about EUR 2,500, see the {% assign ser = site.posts | where: "slug", "serica-8315-3-golden-green-travel-chronometer-news" | first %}{% if ser %}[Serica 8315-3 Golden Green Travel Chronometer]({{ ser.url | absolute_url }}){% else %}Serica 8315-3 Golden Green Travel Chronometer{% endif %}. And the noon {% assign kl = site.posts | where: "slug", "klokers-klok03-briston-compressor-praesidus-montar-trafford-violet-news" | first %}{% if kl %}[Klokers, Briston Compressor, Praesidus, and Trafford roundup]({{ kl.url | absolute_url }}){% else %}Klokers, Briston Compressor, Praesidus, and Trafford roundup{% endif %} includes Briston's dual crown 200m Clubmaster Legend Compressor if you want dive vibes under EUR 620.
+This morning's {% assign om = site.posts | where: "slug", "omega-seamaster-ceramic-yema-senans-gshock-2500-news" | first %}{% if om %}[Omega ceramic Seamaster, Yema Senans, and G-Shock 2500 roundup]({{ om.url | absolute_url }}){% else %}Omega ceramic Seamaster, Yema Senans, and G-Shock 2500 roundup{% endif %} covers the bigger brand drops from earlier today. For another ceramic bezel story under about $2,804 USD (EUR 2,500), see the {% assign ser = site.posts | where: "slug", "serica-8315-3-golden-green-travel-chronometer-news" | first %}{% if ser %}[Serica 8315-3 Golden Green Travel Chronometer]({{ ser.url | absolute_url }}){% else %}Serica 8315-3 Golden Green Travel Chronometer{% endif %}. And the noon {% assign kl = site.posts | where: "slug", "klokers-klok03-briston-compressor-praesidus-montar-trafford-violet-news" | first %}{% if kl %}[Klokers, Briston Compressor, Praesidus, and Trafford roundup]({{ kl.url | absolute_url }}){% else %}Klokers, Briston Compressor, Praesidus, and Trafford roundup{% endif %} includes Briston's dual crown 200m Clubmaster Legend Compressor if you want dive vibes under about $695 USD (EUR 620).
 
 <div class="takeaways" markdown="1">
 ## Quick takeaways

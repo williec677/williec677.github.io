@@ -2,15 +2,18 @@
 layout: post
 title: "Watch News: Serica's 8315-3 Golden Green Travel Chronometer GMT"
 seo_title: "Serica 8315-3 Golden Green Travel Chronometer: Specs and Price"
-description: "Serica's new 8315-3 Golden Green Travel Chronometer pairs an olive green enamel dial with a two tone golden green and ivory ceramic GMT bezel. COSC Soprod C125, 39mm, 200m, EUR 2,090."
+description: "Serica's new 8315-3 Golden Green Travel Chronometer pairs an olive green enamel dial with a two tone golden green and ivory ceramic GMT bezel. COSC Soprod C125, 39mm, 200m, about $2,344 USD (EUR 2,090)."
 date: 2026-11-05 12:15:00 -0500
 category_label: News
 cluster: news
 tags: [news, serica, gmt, travel-chronometer, micro-brand, 8315-3]
 affiliate: true
-ig_caption: "Serica just painted its Travel Chronometer GMT in golden green. Olive enamel dial, two tone ceramic bezel, COSC Soprod C125, 39mm, 200m, EUR 2,090. Specs checked against the brand. Full story on the Journal, link in bio. #serica #gmt #microbrand #watchnews #mrtictoctalk"
+ig_caption: "Serica just painted its Travel Chronometer GMT in golden green. Olive enamel dial, two tone ceramic bezel, COSC Soprod C125, 39mm, 200m, about $2,344 USD (EUR 2,090). Specs checked against the brand. Full story on the Journal, link in bio. #serica #gmt #microbrand #watchnews #mrtictoctalk"
+image: "/assets/img/watches/serica-8315.webp"
+image_alt: "Official Serica product photo of the 8315 3 Golden Green Travel Chronometer on a steel mesh bracelet"
+image_credit: "Serica"
 ---
-French micro brand Serica just gave its Travel Chronometer a new suit, and the color is the whole story. Reference 8315-3 Golden Green pairs an olive green enamel dial with a two tone ceramic GMT bezel in "golden green" and ivory, keeps the same 39mm steel case and COSC certified Soprod C125 caller GMT, and lands at EUR 2,090 on the brand site. I checked every spec and price below against [Serica](https://serica-watches.com/en/products/8315-3-travel-chronometer) and named outlets on November 5, 2026.
+French micro brand Serica just gave its Travel Chronometer a new suit, and the color is the whole story. Reference 8315-3 Golden Green pairs an olive green enamel dial with a two tone ceramic GMT bezel in "golden green" and ivory, keeps the same 39mm steel case and COSC certified Soprod C125 caller GMT, and lands at about $2,344 USD (EUR 2,090) on the brand site. I checked every spec and price below against [Serica](https://serica-watches.com/en/products/8315-3-travel-chronometer) and named outlets on November 5, 2026.
 
 ## Why this colorway matters
 
@@ -32,7 +35,7 @@ It ships on Serica's Expedition bracelet: woven, folded, and machined 316L steel
 
 **Reference:** 8315-3 (Serica and Monochrome; Time and Tide writes 8315-03 for the same watch).
 
-**Price:** EUR 2,090 on [serica-watches.com](https://serica-watches.com/en/products/8315-3-travel-chronometer). Monochrome reports USD 2,450 alongside that euro figure ([Monochrome](https://monochrome-watches.com/the-new-serica-travel-chronometer-golden-green-ref-8315-3/)). Worn & Wound listed about $2,342, so treat the dollar number as an outlet conversion and buy against the brand's EUR 2,090 if you are ordering direct.
+**Price:** about $2,344 USD (EUR 2,090) on [serica-watches.com](https://serica-watches.com/en/products/8315-3-travel-chronometer). Monochrome reports USD 2,450 alongside that euro figure ([Monochrome](https://monochrome-watches.com/the-new-serica-travel-chronometer-golden-green-ref-8315-3/)). Worn & Wound listed about $2,342, so treat the dollar number as an outlet conversion and buy against the brand's about $2,344 USD (EUR 2,090) if you are ordering direct.
 
 **Availability:** Permanent collection, immediate. Serica currently shows the 3 o'clock crown variant in stock and the 9 o'clock crown as notify me only. Shipping is listed at 5 to 10 days for in stock pieces, with a two year international warranty ([Serica](https://serica-watches.com/en/products/8315-3-travel-chronometer)).
 
@@ -44,14 +47,14 @@ Because the lugs are a clean 20mm, strap swapping is easy. Start with the site's
 
 ## What to read next
 
-If EUR 2,090 is past your budget and you still want a travel bezel, my {% assign ag = site.posts | where: "slug", "affordable-rolex-gmt-alternatives" | first %}{% if ag %}[affordable Rolex GMT alternatives under $1,000]({{ ag.url | absolute_url }}){% else %}affordable Rolex GMT alternatives under $1,000{% endif %} covers Seiko, Citizen, Spinnaker and friends. For today's other GMT drop, the {% assign sk = site.posts | where: "slug", "seiko-5-sports-skx-gmt-hdb016-dr-pepper-news" | first %}{% if sk %}[Seiko HDB016 'Dr Pepper' SKX GMT]({{ sk.url | absolute_url }}){% else %}Seiko HDB016 'Dr Pepper' SKX GMT{% endif %} is the $525 U.S. limited edition with a maroon dial. And if you are comparing caller GMTs at the Rolex end of the spectrum, the {% assign gm = site.posts | where: "slug", "rolex-gmt-master-ii-16710-buyers-guide" | first %}{% if gm %}[Rolex GMT Master II 16710 buyer's guide]({{ gm.url | absolute_url }}){% else %}Rolex GMT Master II 16710 buyer's guide{% endif %} is the Coke and Pepsi reference that still sets the bar.
+If about $2,344 USD (EUR 2,090) is past your budget and you still want a travel bezel, my {% assign ag = site.posts | where: "slug", "affordable-rolex-gmt-alternatives" | first %}{% if ag %}[affordable Rolex GMT alternatives under $1,000]({{ ag.url | absolute_url }}){% else %}affordable Rolex GMT alternatives under $1,000{% endif %} covers Seiko, Citizen, Spinnaker and friends. For today's other GMT drop, the {% assign sk = site.posts | where: "slug", "seiko-5-sports-skx-gmt-hdb016-dr-pepper-news" | first %}{% if sk %}[Seiko HDB016 'Dr Pepper' SKX GMT]({{ sk.url | absolute_url }}){% else %}Seiko HDB016 'Dr Pepper' SKX GMT{% endif %} is the $525 U.S. limited edition with a maroon dial. And if you are comparing caller GMTs at the Rolex end of the spectrum, the {% assign gm = site.posts | where: "slug", "rolex-gmt-master-ii-16710-buyers-guide" | first %}{% if gm %}[Rolex GMT Master II 16710 buyer's guide]({{ gm.url | absolute_url }}){% else %}Rolex GMT Master II 16710 buyer's guide{% endif %} is the Coke and Pepsi reference that still sets the bar.
 
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 
 * Serica Travel Chronometer Golden Green, Ref. 8315-3: 39 x 12.30 x 46.5mm, 20mm lugs, 200m, olive green enamel dial, golden green and ivory ceramic GMT bezel.
 * Movement: Soprod C125 automatic, COSC chronometer, caller GMT, 23 jewels, 28,800 vph, 40 hour power reserve (brand figure).
-* Price: EUR 2,090 on Serica; Monochrome reports USD 2,450. Permanent collection; 3h crown in stock, 9h crown waitlist.
+* Price: about $2,344 USD (EUR 2,090) on Serica; Monochrome reports USD 2,450. Permanent collection; 3h crown in stock, 9h crown waitlist.
 </div>
 
 <div class="sources" markdown="1">

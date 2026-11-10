@@ -2,15 +2,18 @@
 layout: post
 title: "Watch News: Piaget's Warhol Camouflage in Stone, an All Silver Nomos Club Sport 34, and the $48 DWC Terra Comeback"
 seo_title: "Piaget Andy Warhol Camouflage G0A51242 and Nomos Club Sport neomatik 34 All Silver"
-description: "Piaget's Andy Warhol Camouflage G0A51242 brings a 27 piece stone and gold marquetry dial in 86 pieces at CHF 74,000, Nomos adds an all silver Club Sport neomatik 34 from $3,490, and DWC says the viral Terra returns in early 2027."
+description: "Piaget's Andy Warhol Camouflage G0A51242 brings a 27 piece stone and gold marquetry dial in 86 pieces at about $90,169 USD (CHF 74,000), Nomos adds an all silver Club Sport neomatik 34 from $3,490, and DWC says the viral Terra returns in early 2027."
 date: 2026-11-05 08:00:00 -0500
 category_label: News
 cluster: news
 tags: [news, piaget, andy-warhol, nomos, club-sport, dwc, terra, micro-brand]
 affiliate: true
 ig_caption: "From an 86 piece Piaget with a dial built from turquoise, sodalite and gold, to a 34mm Nomos that goes full silver with 200m of water resistance, to the $48 Indian micro brand watch nobody can buy. Today's watch news, specs and prices checked. Full story on the Journal, link in bio. #piaget #andywarhol #nomos #dwcterra #watchnews #mrtictoctalk"
+image: "/assets/img/watches/piaget-warhol.webp"
+image_alt: "Official Piaget product photo of the Andy Warhol Camouflage watch with a stone and gold marquetry dial on a blue strap"
+image_credit: "Piaget"
 ---
-Thursday's watch news covers the whole price range. At the top there's a CHF 74,000 Piaget whose dial is a puzzle of stone and gold based on Andy Warhol's camouflage self portraits. In the middle, Nomos just made one of its toughest watches its most understated. And at the bottom, a $48 quartz watch from New Delhi that sold out in minutes is getting a return date. I checked every price and spec below against the brand or a named outlet on November 5, 2026.
+Thursday's watch news covers the whole price range. At the top there's a Piaget at about $90,169 USD (CHF 74,000) whose dial is a puzzle of stone and gold based on Andy Warhol's camouflage self portraits. In the middle, Nomos just made one of its toughest watches its most understated. And at the bottom, a $48 quartz watch from New Delhi that sold out in minutes is getting a return date. I checked every price and spec below against the brand or a named outlet on November 5, 2026.
 
 ## Piaget Andy Warhol Camouflage: 27 pieces of stone and gold, 86 watches
 
@@ -20,7 +23,7 @@ The dial is the reason to care. Piaget took Warhol's 1986 camouflage self portra
 
 The case is 18k white gold with a rhodium finish, 45 x 43mm and only 8.08mm thick, keeping the stepped gadroons and recessed crown. Inside is Piaget's in house automatic calibre 501P1, based on the ultra thin 430P, at 3.63mm thick, 28,800 vph and a 40 hour power reserve. The solid caseback carries Warhol's signature and the edition number, water resistance is 30m, and it ships on a blue alligator strap with a pin buckle ([Monochrome](https://monochrome-watches.com/piaget-andy-warhol-camouflage-limited-edition-review-price/), [SJX](https://watchesbysjx.com/2026/11/piaget-andy-warhol-camouflage.html)).
 
-**Reference and price:** G0A51242, limited to 86 pieces as a nod to 1986. Monochrome and Luxe Digital report a price of CHF 74,000, while Piaget's own [US product page](https://www.piaget.com/us-en/watches/andy-warhol/automatic-white-gold-turquoise-sodalite-watch-g0a51242) lists it as price on request, so there's no official US dollar figure yet.
+**Reference and price:** G0A51242, limited to 86 pieces as a nod to 1986. Monochrome and Luxe Digital report a price of about $90,169 USD (CHF 74,000), while Piaget's own [US product page](https://www.piaget.com/us-en/watches/andy-warhol/automatic-white-gold-turquoise-sodalite-watch-g0a51242) lists it as price on request, so there's no official US dollar figure yet.
 
 My take? This is art you wear to dinner, not a daily driver, and the movement is solid rather than exciting, a point SJX makes too. But a hand cut stone marquetry dial on a case this thin is rare craft, and with only 86 made, that rarity is the whole point. If you love the shape but not the price, the cushion Piaget look shows up on the vintage market, and {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=vintage+piaget+watch&LH_Sold=1&LH_Complete=1" text="sold vintage Piaget listings on eBay" %} will show you what those actually go for before you trust any asking price.
 
@@ -32,7 +35,7 @@ Nomos added a 34mm size to the Club Sport line in 2024 with rosé, gold and purp
 
 The specs are what make this one interesting. Per [Nomos](https://nomos-glashuette.com/en-us/club/club-sport-neomatik-34-all-silver-758), the polished steel case measures 34mm across, 8.2mm thick and 41.5mm lug to lug, with a screw down crown, domed sapphire crystal and 20 atm of water resistance, so you can really swim with it. Nomos's red ring on the crown warns you when it isn't screwed down. Power comes from the in house DUW 3001 automatic, just 3.2mm thick, beating at 21,600 vph with the Nomos swing system and Glashütte three quarter plate. Monochrome's write up gives two power reserve figures, 42 and 43 hours, so call it roughly 42 hours. It sits on the integrated Club Sport bracelet with quick change spring bars, a deployant clasp and an 18mm lug width.
 
-**References and price:** Ref. 758 with a sapphire caseback is USD 3,880 and Ref. 758.SB with a solid steel caseback is USD 3,490 on the Nomos US store ([758](https://nomos-glashuette.com/en-us/club/club-sport-neomatik-34-all-silver-758), [758.SB](https://nomos-glashuette.com/en-us/club/club-sport-neomatik-34-all-silver-758.sb)). In Europe it's EUR 3,020 and EUR 2,720. It joins the regular collection, so it isn't a limited edition.
+**References and price:** Ref. 758 with a sapphire caseback is USD 3,880 and Ref. 758.SB with a solid steel caseback is USD 3,490 on the Nomos US store ([758](https://nomos-glashuette.com/en-us/club/club-sport-neomatik-34-all-silver-758), [758.SB](https://nomos-glashuette.com/en-us/club/club-sport-neomatik-34-all-silver-758.sb)). In Europe it's about $3,387 USD (EUR 3,020) and about $3,050 USD (EUR 2,720). It joins the regular collection, so it isn't a limited edition.
 
 My take? Thin, 200 meters, an in house movement, and a bracelet that fits a smaller wrist. Few watches at this price check all four boxes. If you've been looking at a 36mm sports watch and finding it too big, this is the one to try on. The solid back version saves you $390, and I'd take that deal, since the case flip is the only real difference. Want to see how Nomos holds value? Look at {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=nomos+club+sport+neomatik&LH_Sold=1&LH_Complete=1" text="sold Nomos Club Sport listings on eBay" %} first.
 
@@ -57,7 +60,7 @@ For a real mechanical sports watch at a friendly price, my {% assign px = site.p
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 
-* Piaget Andy Warhol Camouflage G0A51242: 45 x 43 x 8.08mm white gold, 27 piece sodalite, turquoise and gold marquetry dial, cal. 501P1, 86 pieces, CHF 74,000 (US price on request).
+* Piaget Andy Warhol Camouflage G0A51242: 45 x 43 x 8.08mm white gold, 27 piece sodalite, turquoise and gold marquetry dial, cal. 501P1, 86 pieces, about $90,169 USD (CHF 74,000) (US price on request).
 * Nomos Club Sport neomatik 34 All Silver, Ref. 758 and 758.SB: 34 x 8.2mm, 200m, DUW 3001, 18mm lugs, USD 3,880 sapphire back or USD 3,490 steel back.
 * DWC Terra: ₹4,499 (about $48) quartz carabiner watch, sold out every drop; founder says it returns around March 2027, version 2 possibly April or May.
 </div>

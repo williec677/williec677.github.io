@@ -2,13 +2,16 @@
 layout: post
 title: "Watch News: Ming's 51.01 Halo Is a 37 mm Crystallised Titanium Dress Watch, Plus Awake and Garrick"
 seo_title: "Ming 51.01 Halo Crystallised Titanium Dress Watch News"
-description: "Ming's 51.01 Halo is a 37 mm, 8 mm thick crystallised titanium dress watch with a 90 hour La Joux-Perret caliber, 150 pieces at CHF 10,900. Plus new Awake Sơn Mài Silver Leaf dials and the Garrick S8."
+description: "Ming's 51.01 Halo is a 37 mm, 8 mm thick crystallised titanium dress watch with a 90 hour La Joux-Perret caliber, 150 pieces at about $13,282 USD (CHF 10,900). Plus new Awake Sơn Mài Silver Leaf dials and the Garrick S8."
 date: 2026-11-09 08:15:00 -0500
 category_label: News
 cluster: news
 tags: [news, ming, dress watch, titanium, awake, garrick, independent, microbrand]
 affiliate: true
-ig_caption: "Ming just made a dress watch, and it looks like nothing else on the wrist. The 51.01 Halo is 37 mm, 8 mm thick, in crystallised titanium with a rose gold tone coating, a 90 hour hand wound La Joux-Perret caliber, and only 150 pieces at CHF 10,900 before tax. Orders open November 10. Also new today: four Awake Sơn Mài Silver Leaf dials and the hand made Garrick S8. Full story on the Journal, link in bio. #ming #ming5101 #awake #garrick #dresswatch #watchnews #mrtictoctalk"
+ig_caption: "Ming just made a dress watch, and it looks like nothing else on the wrist. The 51.01 Halo is 37 mm, 8 mm thick, in crystallised titanium with a rose gold tone coating, a 90 hour hand wound La Joux-Perret caliber, and only 150 pieces at about $13,282 USD (CHF 10,900) before tax. Orders open November 10. Also new today: four Awake Sơn Mài Silver Leaf dials and the hand made Garrick S8. Full story on the Journal, link in bio. #ming #ming5101 #awake #garrick #dresswatch #watchnews #mrtictoctalk"
+image: "/assets/img/watches/ming-51-01-halo.webp"
+image_alt: "Official Ming product photo of the 51.01 Halo dress watch in crystallised titanium"
+image_credit: "Ming"
 ---
 Ming built its name on bold, lume soaked sport and tool watches. So the last thing anyone expected this Monday morning was a slim, black and gold dress watch with no lume at all. That is exactly what the new **Ming 51.01 Halo** is, and the case material is the real headline: crystallised titanium with a mottled grain you can see from across the room. It is 37 mm, 8 mm thick, limited to 150 pieces, and it goes on order tomorrow. I checked the specs and price below against [Hodinkee](https://www.hodinkee.com/articles/ming-5101-halo), [Monochrome](https://monochrome-watches.com/ming-51-01-halo-contemporaryt-thin-dress-watch-crystallised-titanium-case-introducing-price/), and [SJX](https://watchesbysjx.com/2026/11/ming-51-01-halo.html), all published November 9, 2026, and the Halo is already featured on [Ming's own site](https://ming.watch/). Two more fresh drops round this out: four new Sơn Mài Silver Leaf dials from French brand Awake, and a tiny run skeleton from English independent Garrick.
 
@@ -24,7 +27,7 @@ Ming numbers its families with four digits. Monochrome explains that 51 marks a 
 * Functions: hours and minutes only
 * Strap: black goat leather by Jean Rousseau Paris on 20 mm curved quick release spring bars, with a crystallised titanium buckle
 * Weight: under 40 g including strap and buckle, per SJX
-* Edition and price: 150 pieces, CHF 10,900 before tax
+* Edition and price: 150 pieces, about $13,282 USD (CHF 10,900) before tax
 * Orders: open November 10, 2026 at 1:00 PM GMT (8:00 AM Eastern) at ming.watch and Ming's retail partners, per Monochrome
 
 ## What crystallised titanium actually is
@@ -41,7 +44,7 @@ The signature Ming trick of engraving the hour markers on the underside of the s
 
 The 7380 base is the same ultra thin platform used by La Joux-Perret's sister brand Arnold and Son, according to Monochrome. Ming's version gets openworked bridges with anthracite coating, a matte black mainplate, hand finished bevels, and Ming's spoke motif on the ratchet and barrel wheels. At 2.7 mm thick it is what lets the whole watch land at 8 mm, and SJX points out that much of that height is the domed crystal, so the case itself wears even slimmer. Ninety hours of reserve on a hand wound dress watch means you can take it off Friday and it is still running Monday morning.
 
-## My take: is the Halo worth CHF 10,900?
+## My take: is the Halo worth about $13,282 USD (CHF 10,900)?
 
 Here is the honest part. Ming started life as a brand that sold watches for well under a thousand dollars, and SJX calls out that this price "defies the brand's budget roots." You can find the same La Joux-Perret 7380 family in cheaper micro brand watches. What you cannot find elsewhere is this case. A 37 mm crystallised titanium dress watch with Ming's floating crystal markers is a genuinely new look, and only 150 people get one.
 
@@ -85,7 +88,7 @@ Prices start at GBP 59,500 in steel and GBP 73,000 in precious metal, both befor
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 
-* Ming 51.01 Halo: crystallised grade 5 titanium with 5N rose gold tone coating, 37 mm x 8 mm x 43 mm lug to lug, 50 m, La Joux-Perret for MING 7380.M1 hand wound (2.7 mm, 3 Hz, 90 hours), hours and minutes, lacquer filled crystal markers with no lume, 20 mm Jean Rousseau goat leather strap. 150 pieces, CHF 10,900 before tax. Orders open November 10, 2026 at 1:00 PM GMT.
+* Ming 51.01 Halo: crystallised grade 5 titanium with 5N rose gold tone coating, 37 mm x 8 mm x 43 mm lug to lug, 50 m, La Joux-Perret for MING 7380.M1 hand wound (2.7 mm, 3 Hz, 90 hours), hours and minutes, lacquer filled crystal markers with no lume, 20 mm Jean Rousseau goat leather strap. 150 pieces, about $13,282 USD (CHF 10,900) before tax. Orders open November 10, 2026 at 1:00 PM GMT.
 * Awake Sơn Mài Silver Leaf: new Java Green, Gentian Blue, and Indian Red (about 100 dials a year each) plus Purple Viola (200 pieces). 38 mm x 44.75 mm x 11.5 mm steel, 100 m, La Joux-Perret G101 with 68 hours. €2,640 including VAT, deliveries from late November.
 * Garrick S8: 39 mm x 8 mm 904L steel, 100 m, new hand wound Garrick S8 caliber (21,600 vph, about 60 hours), skeletonised, five watches a year, from GBP 59,500 in steel or GBP 73,000 in precious metal before VAT. Debuts at IAMWATCH Singapore, November 12 to 15.
 </div>

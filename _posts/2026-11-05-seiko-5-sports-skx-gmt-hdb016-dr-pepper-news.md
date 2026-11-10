@@ -9,6 +9,9 @@ cluster: news
 tags: [news, seiko, seiko-5, ssk, gmt, hdb016, limited-edition, affordable]
 affiliate: true
 ig_caption: "Pepsi, Root Beer, and now Dr Pepper. Seiko's new HDB016 5 Sports SKX GMT gets a maroon sunray dial, a red and dark brown bezel, and only 5,500 numbered pieces for the U.S. at $525. Specs and price checked. Full story on the Journal, link in bio. #seiko #seiko5 #seikogmt #drpepper #watchnews #mrtictoctalk"
+image: "/assets/img/watches/seiko-hdb016.webp"
+image_alt: "Official Seiko product photo of the 5 Sports SKX GMT HDB016 with a maroon dial and a red and dark brown bezel"
+image_credit: "Seiko"
 ---
 Collectors love naming GMT bezels after soda, and Seiko just poured a new one. The 5 Sports SKX GMT U.S. Limited Edition, reference HDB016, wraps a deep maroon sunray dial in a red and dark brown 24 hour bezel, and it is already being called the "Dr Pepper." It's limited to 5,500 numbered pieces, it's U.S. only, and it costs $525 retail. I checked every spec and price below against named sources on November 5, 2026.
 

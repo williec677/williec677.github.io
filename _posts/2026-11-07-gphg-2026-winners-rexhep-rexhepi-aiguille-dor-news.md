@@ -9,6 +9,9 @@ cluster: news
 tags: [news, gphg, gphg-2026, rexhep-rexhepi, awards, independent, grand-seiko, audemars-piguet, chopard]
 affiliate: true
 ig_caption: "The Oscars of watchmaking are in. Rexhep Rexhepi's first flyback chronograph just won the GPHG 2026 Aiguille d'Or, and indies cleaned up all night. Every winner on the Journal, link in bio. #GPHG2026 #rexheprexhepi #independentwatchmaking #watchnews #mrtictoctalk"
+image: "/assets/img/watches/rexhep-rexhepi-rrchf.webp"
+image_alt: "Official GPHG photo of the Rexhep Rexhepi Chronograph Flyback, winner of the 2026 Aiguille d Or"
+image_credit: "GPHG"
 ---
 The biggest night in watchmaking just crowned an independent. At the 26th Grand Prix d'Horlogerie de Genève on November 7, 2026, Rexhep Rexhepi's RRCHF Chronograph Flyback won the Aiguille d'Or, the GPHG's top prize for the best watch of the year. It was a huge evening for the little guys, too: Cleguer, Dominique Renaud, Ferdinand Berthoud and Otsuka Lotec all walked away with trophies. The winners list below comes from [Revolution's full prize list](https://revolutionwatch.com/the-20-winners-of-the-2026-gphg-awards/) and [Monochrome's breaking report](https://monochrome-watches.com/rexhep-rexhepi-rrchf-chronograph-flyback-wins-gphg-2026-aiguille-dor-plus-all-prize-winners/), both checked the night of the ceremony.
 
@@ -63,7 +66,7 @@ Matt Jorgensen and Yuma Miyai also won the Young Student Prize 2026, which is pr
 
 **Cleguer Inspiration One (Complication).** A debut watch from founder Mathieu Cleguer built around his own Innate escapement, a self starting take on the natural escapement, under a 12.9mm balance in a 38.5mm case. Winning a GPHG with your first watch is wild.
 
-**Otsuka Lotec No.8 (Petite Aiguille).** My favorite story of the night. This Japanese indie shows the hours through a jumping window and the minutes with a retrograde "fader" inspired by analog mixing consoles. The 62 part module sits on a Miyota base, which kept it inside the category's CHF 4,900 ceiling.
+**Otsuka Lotec No.8 (Petite Aiguille).** My favorite story of the night. This Japanese indie shows the hours through a jumping window and the minutes with a retrograde "fader" inspired by analog mixing consoles. The 62 part module sits on a Miyota base, which kept it inside the category's about $5,971 USD (CHF 4,900) ceiling.
 
 **SpaceOne X Baltic Seconde Majeure (Challenge).** A jumping hour collaboration with the movement architecture out in the open, built around a mechanism by independent watchmaker Théo Auffret. The Challenge prize rewards strong ideas at accessible prices, and this one fits that bill.
 

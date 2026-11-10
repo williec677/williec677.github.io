@@ -9,6 +9,9 @@ cluster: news
 tags: [news, horologically-unique, independent, jump-hour, wandering-hour, art-deco, dress-watch]
 affiliate: true
 ig_caption: "A 1920s Art Deco complication you can actually afford. Horologically Unique HU-02: wandering jump hour inspired by Robert Cart's Chronoscope, 38mm lugless case, brass or steel, from USD 3,850. Full story on the Journal, link in bio. #independentwatchmaking #jumphour #artdeco #watchnews #mrtictoctalk"
+image: "/assets/img/watches/hu-02.webp"
+image_alt: "Official Horologically Unique product photo of the HU 02 Classic wandering jump hour watch"
+image_credit: "Horologically Unique"
 ---
 Here is a weekend story for the people who love weird, beautiful displays. Horologically Unique, a young independent brand out of Singapore, just introduced the HU-02, a wristwatch built around the wandering jumping hour that watchmaker Robert Cart patented and sold to houses like Breguet in the Art Deco era. Two versions, a 38mm lugless case, and prices that start at USD 3,850. Every number below comes from [Monochrome's Introducing piece and spec table](https://monochrome-watches.com/horologically-unique-hu-02-inspired-robert-cart-chronoscope-wandering-jump-hour-in-wristwatch-disco-volante-format-introducing-price/), checked on November 7, 2026.
 

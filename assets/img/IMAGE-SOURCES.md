@@ -309,7 +309,7 @@ All product photos in this pass come from official brand sites, official press p
 
 ## Posts with photos
 
-- 2026-11-02-rolex-gmt-master-ii-16710-buyers-guide: rolex-gmt-master-ii. Current official GMT-Master II collection photo used for a 16710 guide. The photo is not a 16710.
+- 2026-11-02-rolex-gmt-master-ii-16710-buyers-guide: coke-vs-pepsi-gmt. Composite of a real 16710 Coke (Wikimedia Commons, EMore98, CC BY-SA 4.0) beside an official Rolex Pepsi (m126710blro-0001). Credit: Rolex and EMore98, Wikimedia Commons.
 - 2026-11-03-casio-cmk-100-omega-x-33-watch-news-roundup: casio-cmk-100. Official Casio press photo of the CMK-100, the lead watch in this news roundup.
 - 2026-11-03-rolex-service-prices-official-price-list: rolex-datejust. Official Rolex Datejust collection photo used as a representative Rolex image for a service price article.
 - 2026-11-03-timex-ironman-40th-glashutte-senator-aventurine-news: timex-ironman-40th. Official Timex product photo of the Ironman 40th Anniversary Edition, TW5M75900.
@@ -333,17 +333,7 @@ All product photos in this pass come from official brand sites, official press p
 
 ## Posts left as placeholders
 
-- 2026-11-05-piaget-warhol-camouflage-nomos-club-sport-34-dwc-terra-news: Official Piaget page only yielded a brand wordmark, not a product photo of the Warhol camouflage watch. Left as a clean placeholder.
-- 2026-11-05-seiko-5-sports-skx-gmt-hdb016-dr-pepper-news: No official Seiko product photo of the HDB016 was found on Seiko pages. A generic Seiko 5 photo was not used, to keep the caption honest.
-- 2026-11-05-serica-8315-3-golden-green-travel-chronometer-news: The official Serica social image was a lifestyle flatlay of three watches, not a clean single product shot. Left as a placeholder.
-- 2026-11-06-cwc-navy-eighty-cd1-news: No confirmed official CWC product photo could be downloaded from this environment.
-- 2026-11-06-klokers-klok03-briston-compressor-praesidus-montar-trafford-violet-news: No confirmed official Klokers (or other subject) product photo could be downloaded from this environment.
-- 2026-11-06-omega-seamaster-ceramic-yema-senans-gshock-2500-news: Official Omega product and media URLs were found, but the Omega CDN timed out or blocked downloads from this environment. Left as a placeholder rather than using a third-party copy.
-- 2026-11-07-gphg-2026-winners-rexhep-rexhepi-aiguille-dor-news: The official page image was a title card, not a product photo of the winning watch. Left as a placeholder.
-- 2026-11-07-horologically-unique-hu-02-wandering-jump-hour-news: No confirmed official Horologically Unique product photo could be downloaded from this environment.
-- 2026-11-09-ming-51-01-halo-awake-son-mai-garrick-s8-news: No confirmed official Ming product photo could be downloaded from this environment.
-- 2026-11-09-watchcharts-november-2026-market-update-iwc-panerai-below-retail-news: IWC and Panerai official sites blocked automated fetches from this environment. Left as a placeholder.
-- 2026-11-17-omega-speedmaster-145-022-buyers-guide: The official Omega Speedmaster product image URL was confirmed on omegawatches.com, but the file could not be downloaded from this environment (connection timeout). Left as a placeholder rather than using a third-party copy.
+None from the November 10, 2026 image pass. Earlier placeholder notes for Piaget, Seiko HDB016, Serica 8315, CWC Navy Eighty, Klokers, Omega ceramic Seamaster, GPHG 2026, Horologically Unique HU-02, Ming 51.01, WatchCharts/IWC, and the Speedmaster 145.022 guide are resolved in the November 10, 2026 watch photo additions below.
 
 ## Strap style gaps (clean placeholders)
 
@@ -360,4 +350,116 @@ Some official photos are current collection or family shots used for related ref
 Photos are official brand or official press assets, credited on the page as Image: Brand. This is a local unpublished mockup. Publication, including a live push, should still be reviewed for each brand's press and image-use terms.
 Amazon Associates rules were followed: no Amazon product images were downloaded or rehosted. eBay and other merchant listing images were not used. Only official maker photos, with credit, appear next to search links.
 Rolex, Tudor, Seiko, Tissot, Timex, Casio, Citizen, Davosa, Farer, Oris, Orient, Barton Watch Bands, WatchGecko, and UNION are the credited sources in this pass.
-The official Omega Speedmaster product image URL is known but could not be fetched from this environment, so Omega articles stay on placeholders for now.
+Rolex, Tudor, Seiko, Tissot, Timex, Casio, Citizen, Davosa, Farer, Oris, Orient, Barton Watch Bands, WatchGecko, UNION, Piaget, Serica, CWC, Klokers, Omega, GPHG, Horologically Unique, Ming, IWC, Albishorn, Luminox, and Vacheron Constantin are among the credited sources after the November 10, 2026 pass. The Speedmaster 145.022 guide uses a current official Moonwatch Professional photo (not a vintage 145.022). The Coke vs Pepsi hero mixes an official Rolex Pepsi with a CC BY-SA 4.0 Wikimedia photo of a real 16710 Coke.
+
+## November 10, 2026 watch photo additions
+
+All card heroes below were converted to 1200x750 webp (16:10, matching .card-media) and kept under 200 KB. Transparent studio cutouts were composited onto navy rather than white so homepage cards do not look pale.
+
+### piaget-warhol
+- Credit: Piaget
+- Kind: official Piaget product photo of the Andy Warhol Camouflage G0A51242
+- Page: https://www.piaget.com/us-en/watches/andy-warhol/automatic-white-gold-turquoise-sodalite-watch-g0a51242
+- Source image: https://img.piaget.com/open-graph-boxed-image-8/o-dpr-2/ddd1f9945971ced62fc6653bdc26ad63ca4e3c00.jpg (official Piaget CDN product image)
+- Asset: /assets/img/watches/piaget-warhol.webp
+- Post: 2026-11-05-piaget-warhol-camouflage-nomos-club-sport-34-dwc-terra-news
+
+### seiko-hdb016
+- Credit: Seiko
+- Kind: official-looking Seiko HDB016 packshot published by authorized dealer TimeScape USA. Seiko USA's site did not list a dedicated HDB016 product page at the time of download, so a generic Seiko 5 photo was not substituted.
+- Page: TimeScape USA authorized dealer listing for Seiko 5 Sports HDB016
+- Source image: https://www.timescapeusa.com/cdn/shop/files/Seiko_5_Sports_HDB016__Dr.Pepper.webp?v=1793131527
+- Asset: /assets/img/watches/seiko-hdb016.webp
+- Post: 2026-11-05-seiko-5-sports-skx-gmt-hdb016-dr-pepper-news
+
+### serica-8315
+- Credit: Serica
+- Kind: official Serica product packshot of the 8315-3 Golden Green Travel Chronometer (3h crown)
+- Page: https://serica-watches.com/en/products/8315-3-travel-chronometer
+- Source image: https://serica-watches.com/cdn/shop/files/8315-3-3h-packshot_01-V2.jpg?v=1793715899&width=1200
+- Asset: /assets/img/watches/serica-8315.webp
+- Post: 2026-11-05-serica-8315-3-golden-green-travel-chronometer-news
+
+### cwc-navy-eighty
+- Credit: CWC
+- Kind: official CWC product photo of the Navy Eighty CD 1 (74144BLUBGW9SLV)
+- Page: https://www.cwcwatch.com/
+- Source image: https://www.cwcwatch.com/cdn/shop/files/74144BLUBGW9SLV.jpg?v=1793634339&width=1024
+- Asset: /assets/img/watches/cwc-navy-eighty.webp
+- Post: 2026-11-06-cwc-navy-eighty-cd1-news
+
+### klokers-klok03
+- Credit: Klokers
+- Kind: official Klokers product vignette of the KLOK03 Automatic (white disc, yellow center). Larger official paths returned 404; the published vignette is the official image Klokers exposes.
+- Source image: official Klokers vignette klokers_blanche_412.jpg from klokers.com
+- Asset: /assets/img/watches/klokers-klok03.webp
+- Post: 2026-11-06-klokers-klok03-briston-compressor-praesidus-montar-trafford-violet-news
+
+### omega-seamaster-ceramic
+- Credit: Omega
+- Kind: Omega press photo of the blue ceramic Seamaster Diver 300M. Direct Omega CDN downloads failed with an HTTP/2 error from this environment, so the same press photo as republished by Fratello was used.
+- Source image: Fratello hosted Omega press photo Ceramic-4.jpg (https://www.fratellowatches.com/ wp-content path)
+- Asset: /assets/img/watches/omega-seamaster-ceramic.webp
+- Post: 2026-11-06-omega-seamaster-ceramic-yema-senans-gshock-2500-news
+
+### rexhep-rexhepi-rrchf
+- Credit: GPHG
+- Kind: official GPHG HD winner photo of the Rexhep Rexhepi Chronograph Flyback, Aiguille d'Or 2026
+- Source image: https://cms.gphg.org/uploads/gphg2026_Rexhep_Rexhepi_Chronograph_Flyback_001_63a273fbd9.jpg
+- Asset: /assets/img/watches/rexhep-rexhepi-rrchf.webp
+- Post: 2026-11-07-gphg-2026-winners-rexhep-rexhepi-aiguille-dor-news
+
+### hu-02
+- Credit: Horologically Unique
+- Kind: official Horologically Unique product photo of the HU-02 Classic
+- Page: http://www.horologicallyunique.com/
+- Source image: http://www.horologicallyunique.com/cdn/shop/files/HU-02_CLASSIC_FRONT_LR.jpg?v=1793869812
+- Asset: /assets/img/watches/hu-02.webp
+- Post: 2026-11-07-horologically-unique-hu-02-wandering-jump-hour-news
+
+### ming-51-01-halo
+- Credit: Ming
+- Kind: official Ming studio product photo of the 51.01 Halo (file 5101_07.jpg), not the wrist shot 5101_01
+- Asset: /assets/img/watches/ming-51-01-halo.webp
+- Post: 2026-11-09-ming-51-01-halo-awake-son-mai-garrick-s8-news
+
+### iwc-portugieser-iw371605
+- Credit: IWC
+- Kind: official IWC product photo of the Portugieser Chronograph IW371605. IWC.com returned 403 to automated fetches, so a previously downloaded official IW371605 packshot from the local youtube-pilot image store was reused.
+- Asset: /assets/img/watches/iwc-portugieser-iw371605.webp
+- Post: 2026-11-09-watchcharts-november-2026-market-update-iwc-panerai-below-retail-news
+
+### albishorn-voisin-aerosport
+- Credit: Albishorn
+- Kind: official Albishorn studio product photo of the Voisin Aerosport Classic (classic-alb-voisinaerosport-09.jpg)
+- Page: https://albishorn-watches.ch/
+- Asset: /assets/img/watches/albishorn-voisin-aerosport.webp
+- Post: 2026-11-10-albishorn-voisin-aerosport-jlc-collectibles-angelier-news
+
+### luminox-pacific-diver
+- Credit: Luminox
+- Kind: official Luminox product photo of the Pacific Diver Automatic Limited Edition XS.3109.N
+- Source image: https://luminox.com/cdn/shop/files/XS.3109.N-S90-1080px-_2026.jpg?v=1793605212&width=1024
+- Asset: /assets/img/watches/luminox-pacific-diver.webp
+- Post: 2026-11-10-luminox-pacific-diver-orange-citizen-promaster-uncharted-waters-news
+
+### vacheron-fiftysix
+- Credit: Vacheron Constantin
+- Kind: official Vacheron Constantin product photo of the Fiftysix Self Winding 4600E 000A H177 (h177.png), composited onto navy
+- Asset: /assets/img/watches/vacheron-fiftysix.webp
+- Post: 2026-11-10-vacheron-constantin-fiftysix-grey-two-tone-mbf-lm101-colliard-news
+
+### omega-speedmaster
+- Credit: Omega
+- Kind: official Omega product photo of the current Speedmaster Moonwatch Professional (310.30.42.50.01.001). An official vintage 145.022 archive image was not found. Reused from the local youtube-pilot official image store after Omega CDN fetches failed.
+- Asset: /assets/img/watches/omega-speedmaster.webp
+- Post: 2026-11-17-omega-speedmaster-145-022-buyers-guide
+
+### coke-vs-pepsi-gmt
+- Credit: Rolex and EMore98, Wikimedia Commons
+- Kind: composite hero. Left: real Rolex GMT-Master II ref. 16710 Coke photographed in its box (Wikimedia Commons File:Rolex_GMT-Master_II_ref._16710_Coke.jpg, CC BY-SA 4.0, author EMore98, 16 May 2025). Right: official Rolex Pepsi m126710blro-0001 isolated via its true alpha onto a navy and wine gradient. Labels COKE and PEPSI, a bold VS, the MrTicTocTalk logo mark, the word MrTicTocTalk, and #MrTicTocTalk. Rolex does not publish a current steel Coke, so a credited real 16710 Coke photo was used instead of an official one. Will's own 1989 16710 Coke video (IMG_4821.mov) is a stylized illustrated reel, not a usable raw photo.
+- Source images:
+  - https://upload.wikimedia.org/wikipedia/commons/d/d8/Rolex_GMT-Master_II_ref._16710_Coke.jpg
+  - https://media.rolex.com/image/upload/q_auto:best/f_auto/t_v7/c_limit,w_1920/v1/catalogue/2026/upright-bba-with-shadow/m126710blro-0001
+- Assets: /assets/img/watches/coke-vs-pepsi-gmt.webp (1200x750 card hero) and /assets/img/watches/coke-vs-pepsi-gmt.png (1200x630 social)
+- Post: 2026-11-02-rolex-gmt-master-ii-16710-buyers-guide
