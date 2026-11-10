@@ -287,7 +287,7 @@ Window checked: ~2026-11-09 12:30 PM ET through ~2026-11-09 6:25 PM ET.
 ## Check run 2026-11-10 ~12:25 PM ET
 | Date | Story | Sources | Status |
 |---|---|---|---|
-| 2026-11-10 | Albishorn Voisin Aérosport (LEAD): first time only Albishorn, 38 x 9.6 mm steel, 45.2 mm L2L, crown at 10, 50 m, three level sector dial Classic / Ice Blue, ALB04 M (AMT base) hand wound COSC, 4 Hz, 60h, 20 mm lugs, 99 per color over three years, CHF 3,450 straps / CHF 3,900 bracelet excl tax, albishorn-watches.ch only from Nov 11 | SJX, Monochrome, W&W review (all Nov 10) | Covered (lead) in albishorn-voisin-aerosport-jlc-collectibles-angelier-news |
+| 2026-11-10 | Albishorn Voisin Aérosport (LEAD): first time only Albishorn, 38 x 9.6 mm steel, 45.2 mm L2L, crown at 10, 50 m, three level sector dial Classic / Ice Blue, ALB04 M (AMT base) hand wound COSC, 4 Hz, 60h, 20 mm lugs, 99 per color over three years, CHF 3,450 straps / CHF 3,900 bracelet excl tax, albishorn-watches.ch only from Nov 11 | SJX, Monochrome, W&W review (all Nov 10) | Covered (lead) in albishorn-voisin-aerosport-jlc-collectibles-angelier-news, commit 212b62b, build 42863963801 passed, live 200 |
 | 2026-11-10 | Jaeger-LeCoultre The Collectibles VIII (US market vintage capsule, Madison Ave boutique until Nov 20, no prices) | Time and Tide | Covered (grouped) |
 | 2026-11-10 | Angelier dress watch Kickstarter: 37.2 x 8.7 mm, Miyota 9039, EUR 479 pledge / EUR 699 retail, delivery Apr 2027 | Monochrome | Covered (grouped) |
 | 2026-11-10 | Nomos Club Sport neomatik 34 All Silver (W&W) | W&W | Skipped: already covered Nov 5 |
