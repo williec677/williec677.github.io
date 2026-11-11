@@ -3,7 +3,7 @@ layout: post
 title: "Watch News: Panerai's Marina Militare Submersible Destro and GMT Arrive From $12,700, Plus Urwerk, Krayon and Tangens"
 seo_title: "Panerai PAM01757 and PAM01758 Submersible Marina Militare: Price, Specs"
 description: "Panerai's new Submersible Marina Militare Destro PAM01757 ($12,700) and GMT PAM01758 ($13,100) bring black ceramic bezels, 500 m and three day calibers. Plus the 50 piece Urwerk UR-101 Green Mamba (about $40,070 USD, CHF 33,000), Krayon's 15 piece Anywhere Magnolia and Tangens' $525 Storm capsule."
-date: 2026-11-11 08:20:00 -0500
+date: 2026-11-11 08:10:00 -0500
 category_label: News
 cluster: news
 tags: [news, panerai, submersible, dive watch, gmt, urwerk, krayon, tangens, micro brand, independent]
