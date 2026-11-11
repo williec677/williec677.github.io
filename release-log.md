@@ -334,3 +334,14 @@ Window checked: ~2026-11-10 6:25 PM ET through ~2026-11-11 8:15 AM ET.
 | 2026-11-11 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-11 8:15 AM ET through ~2026-11-11 12:20 PM ET.
+
+## Check run 2026-11-11 ~6:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-11 | TAG Heuer Aquaracer Professional 300 x Time+Tide Sundowner II (LEAD): 42 x 12 x 48 mm sandblasted grade 2 Ti, grey ceramic bezel, black wave dial no date, COSC TH31-01 no date version 80h, 300 m, 21 mm lugs; WBP5184.FT6257 rubber 450 pcs $5,100 / WBP5185.BF0010 bracelet 50 pcs $5,750; priority sale Nov 12 11:00 EST, public 15:00 EST. Hodinkee says not chronometer, T+T, Fratello and dial say COSC | Time+Tide, Hodinkee, Fratello, W&W | Covered (lead) in tag-heuer-aquaracer-time-tide-sundowner-ii-news, commit 4e751c4, build 43119659980 passed, live 200 |
+| 2026-11-11 | G-Shock GMA-P2110B-1A / -5A compact CasiOak black and brown, 40.5 mm, $145 | Teddy Baldassarre (says added earlier this fall) | Skipped: not new this week, minor |
+| 2026-11-11 | W&W Seiko H601-5480 "Upside-Down Arnie"; Monochrome Benu 1878 (covered noon) | RSS | Skipped: vintage feature or already covered |
+| 2026-11-11 | WatchPro feed 403 | RSS | Not checked |
+| 2026-11-11 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-11 12:20 PM ET through ~2026-11-11 6:25 PM ET.
