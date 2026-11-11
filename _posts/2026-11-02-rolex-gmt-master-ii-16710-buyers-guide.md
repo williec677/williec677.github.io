@@ -9,7 +9,7 @@ tags: [rolex, gmt-master, 16710, buying-guide]
 ig_caption: "The 16710 is the last aluminum bezel GMT, and my Coke GMT is still my favorite travel watch. Coke or Pepsi? Before you buy, check the text under 6, the lug holes, and the II on the dial. Full buyer's guide on the Journal, link in bio. #rolex #gmtmaster #16710 #cokegmt #vintagerolex #mrtictoctalk"
 image: "/assets/img/watches/coke-vs-pepsi-gmt.webp"
 image_alt: "A real Rolex GMT Master II Coke with a red and black bezel next to an official Rolex Pepsi with a red and blue bezel, with VS between them"
-image_credit: "Rolex and EMore98, Wikimedia Commons"
+image_credit: "MrTicTocTalk and Rolex"
 ---
 I'll admit my bias up front. My own GMT Master II is a 1989 Coke, and it is the watch I grab when I get on a plane. The 16710 has a 40mm steel case, an aluminum insert that will fade if you live in it, and a movement that does real GMT work. It is also one of the most faked and most "improved" references Rolex ever made, so it rewards a buyer who does homework.
 

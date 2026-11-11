@@ -309,7 +309,7 @@ All product photos in this pass come from official brand sites, official press p
 
 ## Posts with photos
 
-- 2026-11-02-rolex-gmt-master-ii-16710-buyers-guide: coke-vs-pepsi-gmt. Composite of a real 16710 Coke (Wikimedia Commons, EMore98, CC BY-SA 4.0) beside an official Rolex Pepsi (m126710blro-0001). Credit: Rolex and EMore98, Wikimedia Commons.
+- 2026-11-02-rolex-gmt-master-ii-16710-buyers-guide: coke-vs-pepsi-gmt. Composite of Will's own 1989 16710 Coke (MrTicTocTalk original) beside an official Rolex Pepsi (m126710blro-0001). Credit: MrTicTocTalk and Rolex.
 - 2026-11-03-casio-cmk-100-omega-x-33-watch-news-roundup: casio-cmk-100. Official Casio press photo of the CMK-100, the lead watch in this news roundup.
 - 2026-11-03-rolex-service-prices-official-price-list: rolex-datejust. Official Rolex Datejust collection photo used as a representative Rolex image for a service price article.
 - 2026-11-03-timex-ironman-40th-glashutte-senator-aventurine-news: timex-ironman-40th. Official Timex product photo of the Ironman 40th Anniversary Edition, TW5M75900.
@@ -350,7 +350,7 @@ Some official photos are current collection or family shots used for related ref
 Photos are official brand or official press assets, credited on the page as Image: Brand. This is a local unpublished mockup. Publication, including a live push, should still be reviewed for each brand's press and image-use terms.
 Amazon Associates rules were followed: no Amazon product images were downloaded or rehosted. eBay and other merchant listing images were not used. Only official maker photos, with credit, appear next to search links.
 Rolex, Tudor, Seiko, Tissot, Timex, Casio, Citizen, Davosa, Farer, Oris, Orient, Barton Watch Bands, WatchGecko, and UNION are the credited sources in this pass.
-Rolex, Tudor, Seiko, Tissot, Timex, Casio, Citizen, Davosa, Farer, Oris, Orient, Barton Watch Bands, WatchGecko, UNION, Piaget, Serica, CWC, Klokers, Omega, GPHG, Horologically Unique, Ming, IWC, Albishorn, Luminox, and Vacheron Constantin are among the credited sources after the November 10, 2026 pass. The Speedmaster 145.022 guide uses a current official Moonwatch Professional photo (not a vintage 145.022). The Coke vs Pepsi hero mixes an official Rolex Pepsi with a CC BY-SA 4.0 Wikimedia photo of a real 16710 Coke.
+Rolex, Tudor, Seiko, Tissot, Timex, Casio, Citizen, Davosa, Farer, Oris, Orient, Barton Watch Bands, WatchGecko, UNION, Piaget, Serica, CWC, Klokers, Omega, GPHG, Horologically Unique, Ming, IWC, Albishorn, Luminox, and Vacheron Constantin are among the credited sources after the November 10, 2026 pass. The Speedmaster 145.022 guide uses a current official Moonwatch Professional photo (not a vintage 145.022). The Coke vs Pepsi hero mixes an official Rolex Pepsi with Will's own photo of his 1989 16710 Coke (MrTicTocTalk original).
 
 ## November 10, 2026 watch photo additions
 
@@ -456,10 +456,10 @@ All card heroes below were converted to 1200x750 webp (16:10, matching .card-med
 - Post: 2026-11-17-omega-speedmaster-145-022-buyers-guide
 
 ### coke-vs-pepsi-gmt
-- Credit: Rolex and EMore98, Wikimedia Commons
-- Kind: composite hero. Left: real Rolex GMT-Master II ref. 16710 Coke photographed in its box (Wikimedia Commons File:Rolex_GMT-Master_II_ref._16710_Coke.jpg, CC BY-SA 4.0, author EMore98, 16 May 2025). Right: official Rolex Pepsi m126710blro-0001 isolated via its true alpha onto a navy and wine gradient. Labels COKE and PEPSI, a bold VS, the MrTicTocTalk logo mark, the word MrTicTocTalk, and #MrTicTocTalk. Rolex does not publish a current steel Coke, so a credited real 16710 Coke photo was used instead of an official one. Will's own 1989 16710 Coke video (IMG_4821.mov) is a stylized illustrated reel, not a usable raw photo.
+- Credit: MrTicTocTalk and Rolex
+- Kind: composite hero. Left: Will's own photo of his 1989 Rolex GMT Master II ref. 16710 Coke, on the wrist, cropped to the watch head and bracelet (MrTicTocTalk original). Right: official Rolex Pepsi m126710blro-0001 isolated via its true alpha onto a navy and wine gradient. Labels COKE and PEPSI, a bold VS, the MrTicTocTalk logo mark, the word MrTicTocTalk, and #MrTicTocTalk. Rolex does not publish a current steel Coke, so Will's own 16710 Coke photo is used instead of an official one.
 - Source images:
-  - https://upload.wikimedia.org/wikipedia/commons/d/d8/Rolex_GMT-Master_II_ref._16710_Coke.jpg
+  - Will's own photo of his 1989 Rolex GMT Master II 16710 Coke (MrTicTocTalk original)
   - https://media.rolex.com/image/upload/q_auto:best/f_auto/t_v7/c_limit,w_1920/v1/catalogue/2026/upright-bba-with-shadow/m126710blro-0001
 - Assets: /assets/img/watches/coke-vs-pepsi-gmt.webp (1200x750 card hero) and /assets/img/watches/coke-vs-pepsi-gmt.png (1200x630 social)
 - Post: 2026-11-02-rolex-gmt-master-ii-16710-buyers-guide
