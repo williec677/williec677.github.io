@@ -309,3 +309,28 @@ Window checked: ~2026-11-10 8:15 AM ET through ~2026-11-10 12:25 PM ET.
 | 2026-11-10 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-10 12:25 PM ET through ~2026-11-10 6:25 PM ET.
+
+## Check run 2026-11-11 ~8:15 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-11 | Panerai Submersible Marina Militare Destro PAM01757 (44 mm, P.980, no date) and GMT PAM01758 (42 x 14.38 mm, P.900/GMT24H caller GMT), black ceramic, 500 m, EUR 12,300 / 12,700, US AD $12,700 / $13,100 (LEAD) | Monochrome, Fratello, Panerai page, The 1916 Company | Covered (lead) in panerai-submersible-marina-militare-pam01757-pam01758-urwerk-krayon-tangens-news, commits 9aab9ac + 4616082 (time fix), build 43028143048 passed, live 200 |
+| 2026-11-11 | Urwerk UR-101 Green Mamba, 41 mm black PVD, 50 pcs, CHF 33,000 | Monochrome | Covered (grouped) |
+| 2026-11-10 | Krayon Anywhere Magnolia, 39 mm platinum, 15 pcs, CHF 178,000 | Hodinkee, Monochrome, Deployant | Covered (grouped) |
+| 2026-11-11 | Tangens Komposition Automatic Storm (Dusty Blue / Purple), EUR 469 (Monochrome sponsored post) | Monochrome | Covered (grouped) |
+| 2026-11 | Breguet Souscription Pt (SJX, skipped Nov 6); Lange Datograph Perpetual hands on; Fratello Albishorn repeat and Astron essay; aBTW CW C1 Jump Hour review; Revolution Tixier, Artisans Kipchoge, indie essay | RSS | Skipped: already logged, hands on or features |
+| 2026-11-11 | WatchPro feed 403 | RSS | Not checked |
+| 2026-11-11 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-10 6:25 PM ET through ~2026-11-11 8:15 AM ET.
+
+## Check run 2026-11-11 ~12:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-11 | Maen Grand Tonneau Jump Hour permanent collection (LEAD): 34 x 45 x 9.7 mm steel tonneau, modified Seagull ST1721 jump hour, display back, 50 m, refs M8.1.1 to M8.1.4, EUR 899 incl VAT (store EUR 719.20 ex VAT), on sale Dec 10 16:00 CET; collab was EUR 999 | Monochrome, maenwatches.com | Covered (lead) in maen-grand-tonneau-jump-hour-h-by-bohen-plongeur-530-moritz-grossmann-benu-1878-news, commit 9483909, build 43067671803 passed, live 200 |
+| 2026-11-11 | H by Bohen Plongeur 530: 39 x 46.5 x 12.6 mm, 530 m, Soprod P24, crown at 12 or 6, EUR 1,499 launch offer, deliveries Christmas 2026 (aBtW sponsored) | aBlogtoWatch, bohen-watches.com | Covered (grouped) |
+| 2026-11-11 | Moritz Grossmann Benu 1878: 41 x 11.35 mm steel, cal 100.1, 26 pcs, EUR 38,500 excl tax | Monochrome (grossmann-uhren.com blocked curl) | Covered (grouped) |
+| 2026-11-11 | Fratello Garrick S8 (covered Nov 9); Hodinkee GPHG podcast | RSS | Skipped: already covered or feature |
+| 2026-11-11 | WatchPro feed 403 | RSS | Not checked |
+| 2026-11-11 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-11 8:15 AM ET through ~2026-11-11 12:20 PM ET.
