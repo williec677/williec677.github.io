@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Watch News: Maen's Jump Hour Goes Permanent for About $1,000 USD, H by Bohen's 530 m Diver and Moritz Grossmann's 26 Piece Benu 1878"
+title: "Watch News: Maen's Jump Hour Goes Permanent for About $800 USD, H by Bohen's 530 m Diver and Moritz Grossmann's 26 Piece Benu 1878"
 seo_title: "Maen Grand Tonneau Jump Hour, H by Bohen Plongeur 530, Moritz Grossmann Benu 1878"
-description: "Maen's Grand Tonneau Jump Hour joins the permanent collection at about $1,000 USD (EUR 899) on December 10, Bohen launches H by Bohen with the 39 mm, 530 m Plongeur 530 at about $1,668 USD (EUR 1,499), and Moritz Grossmann's 26 piece Benu 1878 lands at about $42,839 USD (EUR 38,500)."
+description: "Maen's Grand Tonneau Jump Hour joins the permanent collection at about $800 USD (EUR 719.20 before EU VAT, EUR 899 with VAT) on December 10, Bohen launches H by Bohen with the 39 mm, 530 m Plongeur 530 at about $1,668 USD (EUR 1,499), and Moritz Grossmann's 26 piece Benu 1878 lands at about $42,839 USD (EUR 38,500)."
 date: 2026-11-11 12:15:00 -0500
 category_label: News
 cluster: news
 tags: [news, maen, jump hour, bohen, h by bohen, dive watch, moritz grossmann, glashutte, micro brand, independent]
 affiliate: true
-ig_caption: "The jumping hour that started as a Nico Leonard collab is now a regular Maen model. 34 mm tonneau, four brushed dials, display back, about $1,000 USD (EUR 899), on sale December 10. Plus H by Bohen's 39 mm, 530 m diver for about $1,668 USD (EUR 1,499) and a 26 piece Moritz Grossmann with the Glashütte watchmaking school engraved on the dial, about $42,839 USD (EUR 38,500). Which one goes on your wrist? Full story on the Journal, link in bio. #maen #jumphour #bohen #moritzgrossmann #watchnews #mrtictoctalk"
+ig_caption: "The jumping hour that started as a Nico Leonard collab is now a regular Maen model. 34 mm tonneau, four brushed dials, display back, about $800 USD (EUR 719.20 before EU VAT), on sale December 10. Plus H by Bohen's 39 mm, 530 m diver for about $1,668 USD (EUR 1,499) and a 26 piece Moritz Grossmann with the Glashütte watchmaking school engraved on the dial, about $42,839 USD (EUR 38,500). Which one goes on your wrist? Full story on the Journal, link in bio. #maen #jumphour #bohen #moritzgrossmann #watchnews #mrtictoctalk"
 image: "/assets/img/watches/maen-grand-tonneau-jump-hour.webp"
 image_alt: "Official Maen product photo of the Grand Tonneau Jump Hour M8.1.2 with a brushed anthracite black dial and black ribbed rubber strap"
 image_credit: "Maen"
@@ -29,7 +29,7 @@ The display is the whole show. A big numeral at 12 o'clock snaps to the next hou
 | Dials | Vertically brushed Steel M8.1.1, Anthracite Black M8.1.2, Midnight Blue M8.1.3, Copper M8.1.4 |
 | Movement | Automatic Seagull ST1721 modified by Maen for jumping hours and dragging minutes, 20 jewels, 21,600 vph, about 38 hours, custom rotor |
 | Strap | Black ribbed FKM rubber, 20 mm tapering to 16 mm, quick release, steel butterfly clasp with micro adjust; orange FKM and a bamboo steel bracelet optional |
-| Price | **About $1,000 USD (EUR 899 including VAT)**, down from EUR 999 (about $1,112 USD) for the Nico Leonard edition |
+| Price | **About $800 USD (EUR 719.20 before EU VAT; EUR 899 with VAT)**, down from EUR 999 (about $1,112 USD) with VAT for the Nico Leonard edition |
 
 One useful detail for US buyers: Maen's store lists each of the four new references at EUR 719.20 before Swedish VAT, which works out to about $800 USD. What you finally pay depends on your country's import duties and taxes, so check the checkout total. Monochrome also reports that Maen tests every movement in house for two weeks before assembly.
 
@@ -78,7 +78,7 @@ The rest is pure Saxon dress watch. A 41 mm by 11.35 mm polished steel case, a r
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 
-* Maen Grand Tonneau Jump Hour: 34 mm x 9.7 mm steel tonneau, jumping hours and dragging minutes, modified Seagull ST1721, display back, 50 m, four dials (M8.1.1 to M8.1.4). About $1,000 USD (EUR 899 incl VAT), on sale December 10, 2026.
+* Maen Grand Tonneau Jump Hour: 34 mm x 9.7 mm steel tonneau, jumping hours and dragging minutes, modified Seagull ST1721, display back, 50 m, four dials (M8.1.1 to M8.1.4). About $800 USD (EUR 719.20 before EU VAT, EUR 899 with VAT), on sale December 10, 2026, 16:00 CET. US orders may owe import duties.
 * H by Bohen Plongeur 530: 39 mm, 12.6 mm thick, 530 m with helium valve, ceramic bezel, Soprod P24, crown at 12 or 6. About $1,668 USD (EUR 1,499) launch offer, preorder now, delivery Christmas 2026.
 * Moritz Grossmann Benu 1878: 41 mm x 11.35 mm steel, relief engraved German silver dial, hand wound caliber 100.1 with 42 hours, 26 pieces. About $42,839 USD (EUR 38,500 excl tax).
 </div>
