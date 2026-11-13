@@ -373,3 +373,14 @@ Window checked: ~2026-11-11 6:25 PM ET through ~2026-11-13 8:20 AM ET.
 | 2026-11-13 | Follow ups still open: Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-13 8:20 AM ET through ~2026-11-13 12:30 PM ET.
+
+## Check run 2026-11-13 ~6:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-13 | W&W and Teddy Baldassarre on Studio Underd0g 04SERIES; Teddy on Zenith G.F.J. J.N. Shapiro; Monochrome Raúl Pagès RP2 Hour Glass | RSS | Skipped: already covered today |
+| 2026-11-13 | Hodinkee Vacheron Constantin Concours dispatch, vintage book review, happy hour | RSS | Skipped: features or events |
+| 2026-11-13 | Fratello, aBtW, T+T, Revolution, SJX, Deployant: no new items in window | RSS | Nothing new |
+| 2026-11-13 | WatchPro feed 403; r/Watches JSON blocked to curl | RSS | Not checked |
+| 2026-11-13 | Follow ups still open: Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-13 12:30 PM ET through ~2026-11-13 6:25 PM ET. No post.
