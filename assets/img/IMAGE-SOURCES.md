@@ -463,3 +463,52 @@ All card heroes below were converted to 1200x750 webp (16:10, matching .card-med
   - https://media.rolex.com/image/upload/q_auto:best/f_auto/t_v7/c_limit,w_1920/v1/catalogue/2026/upright-bba-with-shadow/m126710blro-0001
 - Assets: /assets/img/watches/coke-vs-pepsi-gmt.webp (1200x750 card hero) and /assets/img/watches/coke-vs-pepsi-gmt.png (1200x630 social)
 - Post: 2026-11-02-rolex-gmt-master-ii-16710-buyers-guide
+
+
+### hamilton-khaki-field-mechanical
+- Credit: Hamilton
+- Kind: official Hamilton product photo of the Khaki Field Mechanical 38mm H69439931 (transparent PNG), composited onto an olive to charcoal gradient
+- Page: https://www.hamiltonwatch.com/en-us/h69439931-khaki-field-mechanical.html
+- Source image: https://www.hamiltonwatch.com/media/catalog/product/h/6/h69439931.png
+- Asset: /assets/img/watches/hamilton-khaki-field-mechanical.webp (1080x1080, 97296 bytes, webp)
+- Post: 2026-11-16-hamilton-khaki-field-buyers-guide
+
+### rolex-gmt-master-ii-126710grnr
+- Credit: Rolex
+- Kind: official Rolex catalogue photo of the GMT-Master II m126710grnr-0004 (transparent PNG), composited onto a charcoal gradient
+- Page: https://www.rolex.com/en-us/watches/gmt-master-ii/m126710grnr-0004
+- Source image: https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126710grnr-0004
+- Asset: /assets/img/watches/rolex-gmt-master-ii-126710grnr.webp (1080x1080, 63970 bytes, webp)
+- Post: 2026-11-18-how-to-set-rolex-gmt-master-ii
+
+### rolex-explorer-36-124270
+- Credit: Rolex
+- Kind: official Rolex catalogue photo of the Explorer 36 m124270-0001 (transparent PNG), composited onto a charcoal gradient. Rolex publishes no official photo of the vintage 1016, so the modern descendant is used, as with the Speedmaster 145.022 post.
+- Page: https://www.rolex.com/en-us/watches/explorer/m124270-0001
+- Source image: https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m124270-0001
+- Asset: /assets/img/watches/rolex-explorer-36-124270.webp (1080x1080, 52338 bytes, webp)
+- Post: 2026-11-19-rolex-explorer-1016-history
+
+### seiko-5-sports-srpd-lineup
+- Credit: Seiko
+- Kind: official Seiko product photos of the SRPD55, SRPD51, SRPD63 and SRPD53 (SRPDxxK1.png from seikowatches.com), arranged 2x2 on a charcoal gradient
+- Page: https://www.seikowatches.com/us-en/products/5sports/srpd55
+- Source image: https://www.seikowatches.com/us-en/-/media/Images/Product--Image/All/Seiko/2022/02/20/02/14/SRPD55K1/SRPD55K1.png (plus SRPD51K1, SRPD63K1, SRPD53K1)
+- Asset: /assets/img/watches/seiko-5-sports-srpd-lineup.webp (1080x1080, 133800 bytes, webp)
+- Post: 2026-11-21-seiko-5-sports-srpd-buyers-guide
+
+### rolex-datejust-41-jubilee-vs-oyster
+- Credit: Rolex
+- Kind: official Rolex catalogue photos of the Datejust 41 m126300-0002 (Jubilee, left) and m126300-0001 (Oyster, right), composited side by side onto a navy gradient
+- Page: https://www.rolex.com/en-us/watches/datejust/m126300-0002
+- Source image: https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126300-0002 and .../m126300-0001
+- Asset: /assets/img/watches/rolex-datejust-41-jubilee-vs-oyster.webp (1080x1080, 109250 bytes, webp)
+- Post: 2026-11-22-rolex-jubilee-vs-oyster-bracelet
+
+### rolex-sea-dweller-vs-submariner
+- Credit: Rolex
+- Kind: official Rolex catalogue photos of the Sea-Dweller m126600-0002 (left) and Submariner m124060-0001 (right), composited side by side onto a deep blue gradient
+- Page: https://www.rolex.com/en-us/watches/sea-dweller/m126600-0002
+- Source image: https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126600-0002 and .../m124060-0001
+- Asset: /assets/img/watches/rolex-sea-dweller-vs-submariner.webp (1080x1080, 114592 bytes, webp)
+- Post: 2026-11-23-rolex-sea-dweller-vs-submariner

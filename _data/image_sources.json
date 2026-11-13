@@ -376,6 +376,78 @@
       "bytes": 167226,
       "src_format": "WEBP",
       "src_bytes": 196608
+    },
+    "hamilton-khaki-field-mechanical": {
+      "credit": "Hamilton",
+      "alt": "Official Hamilton product photo of the Khaki Field Mechanical 38mm H69439931 with a black dial on a green textile strap",
+      "page": "https://www.hamiltonwatch.com/en-us/h69439931-khaki-field-mechanical.html",
+      "source_image": "https://www.hamiltonwatch.com/media/catalog/product/h/6/h69439931.png",
+      "kind": "official Hamilton product photo of the Khaki Field Mechanical 38mm H69439931 (transparent PNG), composited onto an olive to charcoal gradient",
+      "asset": "/assets/img/watches/hamilton-khaki-field-mechanical.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 97296,
+      "src_format": "PNG"
+    },
+    "rolex-gmt-master-ii-126710grnr": {
+      "credit": "Rolex",
+      "alt": "Official Rolex photo of the GMT Master II 126710GRNR in Oystersteel with a grey and black Cerachrom bezel and an Oyster bracelet",
+      "page": "https://www.rolex.com/en-us/watches/gmt-master-ii/m126710grnr-0004",
+      "source_image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126710grnr-0004",
+      "kind": "official Rolex catalogue photo of the GMT-Master II m126710grnr-0004 (transparent PNG), composited onto a charcoal gradient",
+      "asset": "/assets/img/watches/rolex-gmt-master-ii-126710grnr.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 63970,
+      "src_format": "PNG"
+    },
+    "rolex-explorer-36-124270": {
+      "credit": "Rolex",
+      "alt": "Official Rolex photo of the current Explorer 36 reference 124270, the modern descendant of the 1016, with a black 3 6 9 dial on an Oyster bracelet",
+      "page": "https://www.rolex.com/en-us/watches/explorer/m124270-0001",
+      "source_image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m124270-0001",
+      "kind": "official Rolex catalogue photo of the Explorer 36 m124270-0001 (transparent PNG), composited onto a charcoal gradient. Rolex publishes no official photo of the vintage 1016, so the modern descendant is used, as with the Speedmaster 145.022 post.",
+      "asset": "/assets/img/watches/rolex-explorer-36-124270.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 52338,
+      "src_format": "PNG"
+    },
+    "seiko-5-sports-srpd-lineup": {
+      "credit": "Seiko",
+      "alt": "Official Seiko product photos of four Seiko 5 Sports SRPD models: the black SRPD55, blue SRPD51, green SRPD63, and blue and red SRPD53",
+      "page": "https://www.seikowatches.com/us-en/products/5sports/srpd55",
+      "source_image": "https://www.seikowatches.com/us-en/-/media/Images/Product--Image/All/Seiko/2022/02/20/02/14/SRPD55K1/SRPD55K1.png (plus SRPD51K1, SRPD63K1, SRPD53K1)",
+      "kind": "official Seiko product photos of the SRPD55, SRPD51, SRPD63 and SRPD53 (SRPDxxK1.png from seikowatches.com), arranged 2x2 on a charcoal gradient",
+      "asset": "/assets/img/watches/seiko-5-sports-srpd-lineup.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 133800,
+      "src_format": "PNG"
+    },
+    "rolex-datejust-41-jubilee-vs-oyster": {
+      "credit": "Rolex",
+      "alt": "Official Rolex photos of two Datejust 41 reference 126300 watches with bright blue dials, one on a Jubilee bracelet and one on an Oyster bracelet",
+      "page": "https://www.rolex.com/en-us/watches/datejust/m126300-0002",
+      "source_image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126300-0002 and .../m126300-0001",
+      "kind": "official Rolex catalogue photos of the Datejust 41 m126300-0002 (Jubilee, left) and m126300-0001 (Oyster, right), composited side by side onto a navy gradient",
+      "asset": "/assets/img/watches/rolex-datejust-41-jubilee-vs-oyster.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 109250,
+      "src_format": "PNG"
+    },
+    "rolex-sea-dweller-vs-submariner": {
+      "credit": "Rolex",
+      "alt": "Official Rolex photos of the Sea Dweller 126600 with a red Sea Dweller line on the dial next to the Submariner 124060 no date, both in Oystersteel with black Cerachrom bezels",
+      "page": "https://www.rolex.com/en-us/watches/sea-dweller/m126600-0002",
+      "source_image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126600-0002 and .../m124060-0001",
+      "kind": "official Rolex catalogue photos of the Sea-Dweller m126600-0002 (left) and Submariner m124060-0001 (right), composited side by side onto a deep blue gradient",
+      "asset": "/assets/img/watches/rolex-sea-dweller-vs-submariner.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 114592,
+      "src_format": "PNG"
     }
   },
   "straps": {
