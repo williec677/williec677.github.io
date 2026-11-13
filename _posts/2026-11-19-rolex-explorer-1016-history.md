@@ -6,7 +6,7 @@ description: "The story of the Rolex Explorer 1016 from 1963 to 1989: calibres 1
 date: 2026-11-19 08:00:00 -0500
 category_label: Reference History
 tags: [rolex, explorer, 1016, vintage, history]
-ig_caption: "36mm, a 3 6 9 dial, and a 26 year production run. The Explorer 1016 is the vintage Rolex that does everything and shouts about nothing. Gilt or matte, 1560 or 1570, and what one really sells for today, about $15,624 USD per WatchCharts. Full history on the Journal, link in bio. #rolex #explorer #rolex1016 #vintagerolex #toolwatch #mrtictoctalk"
+ig_caption: "36mm, a 3 6 9 dial, and a 26 year production run. The Explorer 1016 is the vintage Rolex that does everything and shouts about nothing. Gilt or matte, 1560 or 1570, plus the WatchCharts estimate about $15,624 USD. Photo shows the current Explorer 36, not a vintage 1016. Full history on the Journal, link in bio. #rolex #explorer #rolex1016 #vintagerolex #toolwatch #mrtictoctalk"
 image: "/assets/img/watches/rolex-explorer-36-124270.webp"
 image_alt: "Official Rolex photo of the current Explorer 36 reference 124270, the modern descendant of the 1016, with a black 3 6 9 dial on an Oyster bracelet"
 image_credit: "Rolex"
@@ -60,7 +60,7 @@ Because matte production ran for more than 20 years, collectors split matte dial
 
 In 1989, Rolex replaced the 1016 with the reference 14270. LeWatchBuyers notes it brought a sapphire crystal and applied hour markers with white gold surrounds. That was the end of the acrylic, tritium, all printed Explorer.
 
-Today's descendant is the [Explorer 36 reference 124270](https://www.rolex.com/en-us/watches/explorer/m124270-0001), which you see in the photo above. It keeps the 36mm size and the 3, 6, 9 dial, and it uses calibre 3230 with approximately 70 hours of power reserve. On rolex.com on November 13, 2026, it listed at about $7,900 USD. Rolex does not publish an official photo of a vintage 1016, which is why I used the modern model here.
+Today's descendant is the [Explorer 36 reference 124270](https://www.rolex.com/en-us/watches/explorer/m124270-0001), which you see in the photo above. It keeps the 36mm size and the 3, 6, 9 dial, and it uses calibre 3230 with approximately 70 hours of power reserve. On rolex.com on November 13, 2026, it carried an MSRP of $7,900 USD. Rolex does not publish an official photo of a vintage 1016, which is why I used the modern model here.
 
 ## What a 1016 sells for in 2026
 
@@ -94,7 +94,7 @@ Want to wear one on a strap while the bracelet rests? It takes 20mm, and my [20m
 * Calibre 1560 first, then calibre 1570 from the mid 1960s. Hacking arrived only around 1971 or 1972.
 * Gilt dials until about 1966 to 1967, then matte dials. Service dials are common.
 * WatchCharts estimated a private sale price of about $15,624 USD on November 12, 2026.
-* The 14270 replaced it in 1989. Today's Explorer 36 124270 lists at about $7,900 USD.
+* The 14270 replaced it in 1989. Today's Explorer 36 124270 has an MSRP of $7,900 USD.
 </div>
 
 <div class="sources" markdown="1">

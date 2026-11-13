@@ -87,7 +87,7 @@ If you own a five digit GMT Master II like the 16710, the setting procedure in t
 
 ## What a GMT Master II costs today
 
-On rolex.com on November 13, 2026, the [GMT Master II 126710GRNR](https://www.rolex.com/en-us/watches/gmt-master-ii/m126710grnr-0004) in Oystersteel on an Oyster bracelet listed at about $11,800 USD. It is 40mm with a sapphire crystal, 100m water resistance, and the calibre 3285. When I checked the US product pages for the 126710BLRO Pepsi the same day, they no longer loaded on rolex.com, so look at pre owned pricing and do your homework before you shop for that one.
+On rolex.com on November 13, 2026, the [GMT Master II 126710GRNR](https://www.rolex.com/en-us/watches/gmt-master-ii/m126710grnr-0004) in Oystersteel on an Oyster bracelet carried an MSRP of $11,800 USD. It is 40mm with a sapphire crystal, 100m water resistance, and the calibre 3285. When I checked the US product pages for the 126710BLRO Pepsi the same day, they no longer loaded on rolex.com, so look at pre owned pricing and do your homework before you shop for that one.
 
 If those numbers make your eyes water, I put together a list of [affordable Rolex GMT alternatives](/affordable-rolex-gmt-alternatives/) that work the same way. And when it is time for maintenance, my [Rolex service prices guide](/service-costs/rolex/) covers what Rolex charges.
 

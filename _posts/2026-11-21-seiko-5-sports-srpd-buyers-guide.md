@@ -6,14 +6,14 @@ description: "Everything you need before buying a Seiko 5 Sports SRPD: the 4R36 
 date: 2026-11-21 08:00:00 -0500
 category_label: Buying Guide
 tags: [seiko, seiko-5, srpd, 5kx, affordable, buying-guide]
-ig_caption: "The Seiko 5 Sports SRPD might be the best first automatic you can buy. 42.5mm, 4R36 with hacking and hand winding, 100m, 22mm lugs, about $350 USD at Seiko. Black, blue, green, or Pepsi? Full buyer's guide on the Journal, link in bio. #seiko #seiko5 #seiko5sports #srpd #5kx #mrtictoctalk"
+ig_caption: "The Seiko 5 Sports SRPD might be the best first automatic you can buy. 42.5mm, 4R36 with hacking and hand winding, 100m, 22mm lugs, MSRP $350 USD at Seiko. Black, blue, green, or Pepsi? Full buyer's guide on the Journal, link in bio. #seiko #seiko5 #seiko5sports #srpd #5kx #mrtictoctalk"
 image: "/assets/img/watches/seiko-5-sports-srpd-lineup.webp"
 image_alt: "Official Seiko product photos of four Seiko 5 Sports SRPD models: the black SRPD55, blue SRPD51, green SRPD63, and blue and red SRPD53"
 image_credit: "Seiko"
 ---
 If you have ever asked a watch person what your first automatic should be, there is a good chance you heard one word: Seiko. And for the last several years, the specific Seiko they meant was very often the 5 Sports SRPD, the watch the community nicknamed the 5KX.
 
-It is easy to see why. You get a real in house automatic movement, a dive style bezel, a 100m rating, and a look that borrows heavily from the legendary SKX007, all for about $350 USD at Seiko's own US store. Let me break down exactly what you are getting, which version to buy, and where the SKX comparison holds up and where it does not.
+It is easy to see why. You get a real in house automatic movement, a dive style bezel, a 100m rating, and a look that borrows heavily from the legendary SKX007, all for an MSRP of $350 USD at Seiko's own US store. Let me break down exactly what you are getting, which version to buy, and where the SKX comparison holds up and where it does not.
 
 ## Where the SRPD came from
 
@@ -38,20 +38,20 @@ Every number below comes from Seiko's US product page for the [SRPD55](https://w
 | Bezel | Unidirectional rotating |
 | Case back | See through, screw down |
 | Weight | 170g on the bracelet |
-| US price | about $350 USD (SRPD55) |
+| US MSRP | $350 USD (SRPD55) |
 
 Two things jump out. First, 46mm lug to lug on a 42.5mm watch is compact. The SRPD wears smaller than the diameter suggests, which is a big part of why it works on so many wrists. Second, the 4R36 gives you hacking and hand winding, two features that matter more than you think when you are setting the time or picking the watch up after a weekend off.
 
 ## Which SRPD should you buy?
 
-Seiko made the SRPD in a big range of colors. Here are the core models I checked on Seiko's US site on November 13, 2026, with their listed prices.
+Seiko made the SRPD in a big range of colors. Here are the core models I checked on Seiko's US site on November 13, 2026, with their MSRPs.
 
-* **[SRPD55](https://www.seikowatches.com/us-en/products/5sports/srpd55), black dial and black bezel on steel, about $350 USD.** The classic. This is the one that looks the most like an SKX007, and it goes with everything.
-* **[SRPD51](https://www.seikowatches.com/us-en/products/5sports/srpd51), blue dial and blue bezel on steel, about $350 USD.** A little more color without getting loud.
-* **[SRPD53](https://www.seikowatches.com/us-en/products/5sports/srpd53), blue dial with a blue and red bezel on steel, about $350 USD.** The Pepsi look for a tiny fraction of what a Rolex Pepsi costs.
-* **[SRPD63](https://www.seikowatches.com/us-en/products/5sports/srpd63), green dial and green bezel on steel, about $350 USD.** My favorite of the bunch. The green is rich and it has a little vintage warmth.
-* **[SRPD65](https://www.seikowatches.com/us-en/products/5sports/srpd65), black dial with a hard coated case and a dark bracelet, about $395 USD.** The stealth option.
-* **[SRPD79](https://www.seikowatches.com/us-en/products/5sports/srpd79), black with a hard coated case on a nylon strap, about $375 USD.** At 94g, it is much lighter than the bracelet models.
+* **[SRPD55](https://www.seikowatches.com/us-en/products/5sports/srpd55), black dial and black bezel on steel, MSRP $350 USD.** The classic. This is the one that looks the most like an SKX007, and it goes with everything.
+* **[SRPD51](https://www.seikowatches.com/us-en/products/5sports/srpd51), blue dial and blue bezel on steel, MSRP $350 USD.** A little more color without getting loud.
+* **[SRPD53](https://www.seikowatches.com/us-en/products/5sports/srpd53), blue dial with a blue and red bezel on steel, MSRP $350 USD.** The Pepsi look for a tiny fraction of what a Rolex Pepsi costs.
+* **[SRPD63](https://www.seikowatches.com/us-en/products/5sports/srpd63), green dial and green bezel on steel, MSRP $350 USD.** My favorite of the bunch. The green is rich and it has a little vintage warmth.
+* **[SRPD65](https://www.seikowatches.com/us-en/products/5sports/srpd65), black dial with a hard coated case and a dark bracelet, MSRP $395 USD.** The stealth option.
+* **[SRPD79](https://www.seikowatches.com/us-en/products/5sports/srpd79), black with a hard coated case on a nylon strap, MSRP $375 USD.** At 94g, it is much lighter than the bracelet models.
 
 If you are buying one SRPD and only one, start with the SRPD55 or the SRPD63. Both are timeless, both are steel, and both sit at the base price.
 
@@ -81,10 +81,10 @@ Two practical tips:
 
 ## What to pay
 
-At Seiko's own US store, the core steel models list at about $350 USD. But Seiko is one of the brands where street prices often run below list.
+At Seiko's own US store, the core steel models carry an MSRP of $350 USD. On the secondary market, though, SRPDs change hands for well under that.
 
-* **New:** WatchCurrent recorded a lowest new asking price of about $253 USD for the SRPD55K1 at Creation Watches on November 13, 2026. That is an asking price from one retailer, not a sold price, and warranty terms differ from buying direct.
-* **Used:** Check the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=seiko+5+sports+srpd55&LH_Sold=1&LH_Complete=1" text="eBay sold filter for the SRPD55" %} before making an offer. A used SRPD should be priced well under a discounted new one, so compare carefully. My [sold prices guide](/how-to-find-real-sold-prices-for-vintage-watches/) explains how to filter out the noise.
+* **Market value:** WatchCharts estimates a private sale price of about $214 USD for the SRPD55 as of November 12, 2026, and about $269 USD from a pre owned dealer ([WatchCharts](https://watchcharts.com/watch_model/1657-seiko-5-sports-srpd55/overview)). That is a model estimate, not a single sold price.
+* **Used:** Check the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=seiko+5+sports+srpd55&LH_Sold=1&LH_Complete=1" text="eBay sold filter for the SRPD55" %} before making an offer. Use the WatchCharts estimate as a sanity check, and compare condition and box and papers carefully. My [sold prices guide](/how-to-find-real-sold-prices-for-vintage-watches/) explains how to filter out the noise.
 
 You can also browse my page of [Seiko watches you can buy now](/available-now/seiko/).
 
@@ -98,7 +98,7 @@ Before you order a strap, confirm the size on my [Seiko 5 Sports SRPD Strap Find
 
 ## Final verdict
 
-The Seiko 5 Sports SRPD is not an SKX007 clone, and that is fine. It is a modern, compact, hacking and hand winding automatic with a great case and endless options, for about $350 USD at list. If this is your first automatic, it is one of the smartest places to start. If you already own a few watches, the SRPD63 in green is the perfect weekend beater.
+The Seiko 5 Sports SRPD is not an SKX007 clone, and that is fine. It is a modern, compact, hacking and hand winding automatic with a great case and endless options, for an MSRP of $350 USD. If this is your first automatic, it is one of the smartest places to start. If you already own a few watches, the SRPD63 in green is the perfect weekend beater.
 
 <div class="takeaways" markdown="1">
 ## Quick takeaways
@@ -106,10 +106,10 @@ The Seiko 5 Sports SRPD is not an SKX007 clone, and that is fine. It is a modern
 * Seiko announced the redesigned 5 Sports, including the SRPD, on August 7, 2019.
 * 42.5mm case, 13.4mm thick, 46.0mm lug to lug, 22mm lugs, 100m.
 * Calibre 4R36 with hacking, hand winding, and approximately 41 hours of reserve.
-* Core steel models list at about $350 USD at Seiko US. Hard coated SRPD65 is about $395 USD.
+* Core steel models carry an MSRP of $350 USD at Seiko US. The hard coated SRPD65 is MSRP $395 USD.
 * Better movement than the SKX007, but no screw down crown, no ISO rating, and half the depth rating.
 </div>
 
 <div class="sources" markdown="1">
-**Sources:** [Seiko, 5 Sports SRPD55](https://www.seikowatches.com/us-en/products/5sports/srpd55) · [Seiko, SRPD51](https://www.seikowatches.com/us-en/products/5sports/srpd51) · [Seiko, SRPD53](https://www.seikowatches.com/us-en/products/5sports/srpd53) · [Seiko, SRPD63](https://www.seikowatches.com/us-en/products/5sports/srpd63) · [Seiko, SRPD65](https://www.seikowatches.com/us-en/products/5sports/srpd65) · [Seiko, SRPD79](https://www.seikowatches.com/us-en/products/5sports/srpd79) · [Seiko, 2019 Seiko 5 Sports launch](https://www.seikowatches.com/uk-en/news/20190807-50002270216) · [namokiMODS, SKX vs 5KX](https://www.namokimods.com/blogs/namokitimes/head-to-head-skx-vs-5kx-aka-srpd-seiko-5-sports) · [WatchCurrent, SRPD55K1](https://www.watchcurrent.com/watches/seiko/srpd55k1). Accessed November 13, 2026.
+**Sources:** [Seiko, 5 Sports SRPD55](https://www.seikowatches.com/us-en/products/5sports/srpd55) · [Seiko, SRPD51](https://www.seikowatches.com/us-en/products/5sports/srpd51) · [Seiko, SRPD53](https://www.seikowatches.com/us-en/products/5sports/srpd53) · [Seiko, SRPD63](https://www.seikowatches.com/us-en/products/5sports/srpd63) · [Seiko, SRPD65](https://www.seikowatches.com/us-en/products/5sports/srpd65) · [Seiko, SRPD79](https://www.seikowatches.com/us-en/products/5sports/srpd79) · [Seiko, 2019 Seiko 5 Sports launch](https://www.seikowatches.com/uk-en/news/20190807-50002270216) · [namokiMODS, SKX vs 5KX](https://www.namokimods.com/blogs/namokitimes/head-to-head-skx-vs-5kx-aka-srpd-seiko-5-sports) · [WatchCharts, SRPD55](https://watchcharts.com/watch_model/1657-seiko-5-sports-srpd55/overview). Accessed November 13, 2026.
 </div>
