@@ -345,3 +345,17 @@ Window checked: ~2026-11-11 8:15 AM ET through ~2026-11-11 12:20 PM ET.
 | 2026-11-11 | Follow ups still open: Zenith after Nov 12, Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-11 12:20 PM ET through ~2026-11-11 6:25 PM ET.
+
+## Check run 2026-11-13 ~8:20 AM ET (Nov 12 runs missed; window covers them)
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-12 | Christopher Ward x Mr Jones C1 Bel Canto Lucia (LEAD): 41 mm Gr 5 Ti, 14.31 mm, 48 mm L2L, FS01 on SW200-2, 30 m, bird tail hammer, 19 pad printed colors, not limited; $5,550 leather / $5,895 Bader / $5,995 Consort (CW US store) | Worn & Wound, christopherward.com | Covered (lead) in christopher-ward-bel-canto-lucia-zenith-gfj-shapiro-petermann-bedat-2914-murakami-news, commit 2542591 |
+| 2026-11-12 | Zenith G.F.J. Calibre 135 Double Signed J.N. Shapiro: 39.15 x 10.5 mm RG, 25 pcs, CHF 68,900 (about $82,700; aBtW $83,150, bracelet +CHF 50,000, $143,500) | Monochrome, aBtW, Fratello, Hodinkee, T+T | Covered (grouped); closes "Zenith after Nov 12" follow up for releases |
+| 2026-11-11 | Petermann Bédat 2914 Monopusher: 36.5 x 9.9 mm Pt, cal 234, 56 h, 20 pcs, CHF 180,000 excl tax | Revolution, Hodinkee | Covered (grouped) |
+| 2026-11-12 | Takashi Murakami Time Objects Skull Flowers Cylindrical Jumping Hours Tourbillon, KM 7012 TM by Marco Tedeschi, CHF 85,000 to 148,000 | Monochrome | Covered (grouped) |
+| 2026-11-12/13 | UN Freak S Purple Enamel; Glashütte Original Senator Aventurine; Czapek Crossroads Lightning; Trilobe Une Folle Journée 2nd gen; Mickaël Gaspar Souscription; Brellum Duobox 39 TC blue; ArtyA Purity Curvy HMS; Fortis Novonaut N-42 TR; RZE Seeker; Anders & Co AC3 Lago; Vario Futurist Tantalum; Vander Avort Lovon; Blancpain Ladybird Zodiaque; IAMWATCH x Hour Glass LEs | RSS (Monochrome, W&W, aBtW, Fratello, T+T, Revolution) | Not covered this run; candidates for a later roundup if still fresh |
+| 2026-11-13 | Richemont H1 sales up 17%; Patek Philippe Museum 25th anniversary; Christie's HK; Hodinkee Rexhepi piece, Magazine Vol 17 | Monochrome, Revolution, Hodinkee | Skipped: business or features (Richemont possible industry item) |
+| 2026-11-13 | WatchPro feed returned 0 items | RSS | Not checked |
+| 2026-11-13 | Follow ups still open: Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-11 6:25 PM ET through ~2026-11-13 8:20 AM ET.
