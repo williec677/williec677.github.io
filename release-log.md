@@ -359,3 +359,17 @@ Window checked: ~2026-11-11 12:20 PM ET through ~2026-11-11 6:25 PM ET.
 | 2026-11-13 | Follow ups still open: Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-11 6:25 PM ET through ~2026-11-13 8:20 AM ET.
+
+## Check run 2026-11-13 ~12:30 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-13 | Studio Underd0g 04SERIES Calendar (LEAD): first automatic and first calendar; 37 or 38.5 mm steel, 44.5 mm L2L both sizes, 13.5 mm, Seagull ST-2115B (ST-2100 base + 34 parts), 28,800 vph, 42 h, retrograde date, moonphase, manual weekend indicator, 50 m, 20 to 16 mm strap; $1,100 / GBP 750 / EUR 800 / CHF 800; not limited, on sale Nov 17 | Hodinkee, Monochrome, T+T, Fratello, underd0g.com | Covered (lead) in studio-underd0g-04series-calendar-brellum-duobox-39-tc-raul-pages-rp2-news |
+| 2026-11-13 | Brellum Duobox 39 TC Moonphase Chronometer blue: 39 mm (Fratello 39.5), 48 L2L, 15.2 mm, BR-751 COSC (7751), 46 h, 100 m, 46 pcs, CHF 3,600 excl VAT (Fratello CHF 3,890) | Monochrome, Fratello, aBtW | Covered (grouped) |
+| 2026-11-13 | Raúl Pagès RP2 The Hour Glass Edition: 38.5 x 11.5 mm steel, 3 pcs, price on request (standard RP2 CHF 89,000) | Monochrome | Covered (grouped) |
+| 2026-11-12/13 | Fortis Novonaut N-42 TR Halo (F2040021/22/23, $5,950, CHF 5,450): WhoWatchWear article dated Oct 14, so launch may predate this week | Fratello, WatchTime, WhoWatchWear | Skipped: launch date unclear, possibly October |
+| 2026-11-13 | March LA.B Mansart Small Second Golden Hour (Hodinkee hands on); Hodinkee Bring a Loupe, happy hour; Fratello top 5 of 2026, Lange Saxonia AC video; Revolution material feature | RSS | Skipped: hands on of existing model or features |
+| 2026-11-13 | Earlier uncovered candidates (UN Freak S Purple, GO Senator Aventurine, Czapek Crossroads Lightning, etc.) | Prior | Still uncovered; aging out |
+| 2026-11-13 | WatchPro feed 403 | RSS | Not checked |
+| 2026-11-13 | Follow ups still open: Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-13 8:20 AM ET through ~2026-11-13 12:30 PM ET.
