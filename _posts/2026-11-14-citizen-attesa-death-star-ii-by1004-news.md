@@ -3,7 +3,7 @@ layout: post
 title: "Watch News: Citizen's Attesa Death Star II Swaps the Moon for the Empire's Battle Station, $1,500"
 seo_title: "Citizen Attesa Death Star II BY1004-50E: Price, Specs, Limit"
 description: "Citizen's Attesa Death Star II BY1004-50E puts the second Death Star in the moonphase of a 41.5 mm black DLC Super Titanium Eco-Drive with radio sync, perpetual calendar and world time. $1,500 in the US, limited edition."
-date: 2026-11-14 08:30:00 -0500
+date: 2026-11-14 08:15:00 -0500
 category_label: News
 cluster: news
 tags: [news, citizen, attesa, star wars, eco-drive, titanium, moonphase, limited edition]
