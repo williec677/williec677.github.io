@@ -384,3 +384,29 @@ Window checked: ~2026-11-13 8:20 AM ET through ~2026-11-13 12:30 PM ET.
 | 2026-11-13 | Follow ups still open: Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-13 12:30 PM ET through ~2026-11-13 6:25 PM ET. No post.
+
+## Check run 2026-11-14 ~8:25 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-12 | Citizen Attesa Death Star II BY1004-50E (LEAD): 41.5 mm black DLC Super Titanium, 10.8 mm, sapphire, 100 m, H874 Eco-Drive radio sync, perpetual calendar, world time, power reserve, Death Star moonphase; $1,500 USD Citizen US; limit 400 per Citizen US page vs 1,500 per Notebookcheck/Gadgeteer (flagged); Japan Nov 5 at JPY 162,800 (about $1,019) | citizenwatch.com, Gizmochina, The Gadgeteer, Notebookcheck, Esquire UK | Covered in citizen-attesa-death-star-ii-by1004-news, commits b842249 + 73a27c8 (time moved to 08:15, first build ran before 08:30 post time), build 43599916051 passed, live 200, links 200 except eBay 403 / Amazon 503 bot blocks |
+| 2026-11-14 | Nubeo Tranquility Automatic Star Trek 60th LE ($540, 3 x 150 pcs) aBtW hands on | aBtW, WatchOverviews | Skipped: launched Sept 4 |
+| 2026-11-13 | NOMOS Worldtimer Dark, Metro ice blue (DUW 4701, $4,500 / $5,390), Club 38 roundup on nxtmag | nxtmag, Fratello (Sept 29), nomos-glashuette.com | Skipped: NOMOS Forum releases from late September |
+| 2026-11-14 | Fratello Auret Mederi (covered Nov 8); aBtW Underd0g 04Series (covered Nov 13); SJX Krayon Magnolia (covered Nov 11); Monochrome Petrolhead, Fratello RAAF, T+T Rado event, Revolution IAMWATCH, SJX Phillips HK | RSS | Skipped: covered or features |
+| 2026-11-14 | WatchPro feed 403 | RSS | Not checked |
+| 2026-11-14 | Follow ups still open: Swiss exports Nov 19, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-13 6:25 PM ET through ~2026-11-14 8:25 AM ET.
+
+
+## Check run 2026-11-14 ~6:20 PM ET (12 PM run failed and logged nothing; window covers it)
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-13 | Kurono Tokyo "Structure" Chronograph S1 (LEAD): new Structure series by Hajime Asaoka; 40 mm high polished 316L steel, 13.15 mm incl box sapphire, 50.2 mm L2L, 22 mm lugs, 3 atm, rubber; NE86PWT auto chrono 34 jewels 28,800 vph about 45 h; four layer dial, near zero parallax; teal, salmon, white; $3,690 excl VAT/duties (JPY 632,500 incl tax); one online order window Nov 19 11 PM JST = 9 AM ET; limited, quantity not published, not repeated; deliveries mid Dec; 10% US tariff collected on delivery | kuronotokyo.com, Watch Media Online, The Gadgeteer, Hypebeast, Bersenti | Covered (lead) in kurono-tokyo-structure-chronograph-s1-citizen-promaster-air-champagne-news, commit 97b8379, build 43652804867 passed, live 200 |
+| 2026-11-14 | Citizen Promaster Air Automatic NK0040-58P champagne: 40 mm Super Titanium, slide rule bezel, sapphire, 200 m, cal 8310 auto 60 h hacking, $895 US / GBP 599 UK; Citizen page copy says champagne but spec table says Ivory (flagged) | citizenwatch.com, Gizmochina | Covered (grouped) |
+| 2026-11-14 | Davosa Cupex (covered Nov 8); Yema Senans Grande Lune (covered Nov 6); Vacheron Fiftysix steel grey (Deployant, covered Nov 10); aBtW Underd0g 04Series (covered Nov 13) | montre24, TWN, Deployant, aBtW | Skipped: already covered |
+| 2026-11-14 | T+T Last Week in Watches recap incl. Sartory Billard SB04-E Shanga (100 pcs EUR 4,800), Venezianico Redentore Baekma (800 pcs EUR 1,050), Hublot Big Bang Soldier All Black (50 pcs GBP 22,900), Straum x RTS Jan Mayen Ti Stormy Seas, MING 51.01 Halo | Time+Tide | Skipped: weekly recap of earlier week releases; candidates only if still fresh |
+| 2026-11-14 | Monochrome ABCs of Time dials; W&W Watches, Stories & Gear; Hodinkee, Fratello, Revolution, SJX, Teddy: nothing new in window | RSS | Skipped: features or nothing new |
+| 2026-11-14 | WatchPro feed returned 0 items; r/Watches JSON blocked to curl | RSS | Not checked |
+| 2026-11-14 | Follow ups still open: Swiss exports Nov 19, Kurono S1 order window Nov 19 9 AM ET, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Kurono S1 added |
+
+Window checked: ~2026-11-14 8:25 AM ET through ~2026-11-14 6:25 PM ET. Note: the 12 PM run failed and logged nothing.
