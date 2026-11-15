@@ -423,3 +423,18 @@ Window checked: ~2026-11-14 8:25 AM ET through ~2026-11-14 6:25 PM ET. Note: the
 
 Window checked: ~2026-11-14 6:25 PM ET through ~2026-11-15 8:25 AM ET.
 
+
+## Check run 2026-11-15 ~12:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-15 | TAG Heuer Formula 1 Solargraph x Oracle Red Bull Racing WBY111F.BA0042 (LEAD): 10 years of partnership, 38 mm sandblasted steel, 10.2 mm, blue TH Polylight bidirectional bezel, blue sunray dial, red flange, yellow seconds and date frame, TH50-00 solar quartz, 100 m; $2,250 USD TAG US (EUR 2,200) | tagheuer.com/us, Time and Watches | Covered (lead) in tag-heuer-formula-1-solargraph-red-bull-vulcain-skindiver-mark-ii-citizen-news, commit 44deb88, build 43740645466 passed, live 200 (tagheuer.com returns 403 to curl, bot block) |
+| 2026-11-12/13 | Vulcain Skindiver Mark II: 39 mm, 13.2 mm, 300 m, sandwich dial, lumed ceramic bezel, COSC Soprod M300 60 h; $2,340 / $2,490 / $2,650 USD per Gear Patrol, CHF 1,950 / 2,070 / 2,210 (about $2,326 / $2,469 / $2,636, ECB Nov 13 CHF 1 = $1.1927); early access Nov 23, sale Nov 24; vulcain.ch launch page 404 | Gear Patrol, The Gadgeteer | Covered (grouped) |
+| 2026-11-15 | Citizen Promaster Land GMT BJ7150-50E: 39.5 mm, fixed 24 h bezel, sapphire, 200 m, B878 Eco-Drive, $595 US / GBP 399 UK | citizenwatch.com/us, Gizmochina | Covered (grouped) |
+| 2026-11-10 | Campanola Small Second Mechanical NZ4000-56E (100 pcs) / 56N (70 pcs), new Cal. Y520 (La Joux-Perret base), 40 mm, 13.9 mm, 60 h, JPY 825,000 incl tax (about $5,156), Japan Dec 3 | citizen.jp, The Gadgeteer, Gear Patrol | Covered (grouped), previously missed |
+| 2026-11-15 | Timex x Jacquie Aiche True Intentions TW6A15300 $400 / TW6A15400 $500 quartz; Garrack Demon Slayer 4 watches JPY 74,800 to 77,000, Japan preorder Nov 19 | Gizmochina, Notebookcheck | Skipped: fashion collab / Japan only anime |
+| 2026-11-15 | Gear Patrol 25 watches roundup: uncovered items Seiko 5 Sports HDB019K1 Alishan, Casio x A.P.C. AQ-240, Albishorn Voisin Aerosport Classic (99 pcs), Tissot PRX 35 Lee Dong Wook, G-Shock DWE-5600MTM-8, Timex Marlin California 200 pcs | Gear Patrol | Candidates only, release dates not verified; check next run |
+| 2026-11-15 | T+T Trey Stone Experience (debuted August); Deployant independents feature | RSS | Skipped: not new / feature |
+| 2026-11-15 | WatchPro feed 403; Hodinkee, Monochrome, Fratello, W&W, aBtW, Revolution, SJX, Teddy: nothing new | RSS | Not checked / nothing new |
+| 2026-11-15 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Vulcain Skindiver Mark II on sale Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Vulcain and Campanola added |
+
+Window checked: ~2026-11-15 8:25 AM ET through ~2026-11-15 12:20 PM ET.
