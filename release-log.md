@@ -410,3 +410,16 @@ Window checked: ~2026-11-13 6:25 PM ET through ~2026-11-14 8:25 AM ET.
 | 2026-11-14 | Follow ups still open: Swiss exports Nov 19, Kurono S1 order window Nov 19 9 AM ET, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Kurono S1 added |
 
 Window checked: ~2026-11-14 8:25 AM ET through ~2026-11-14 6:25 PM ET. Note: the 12 PM run failed and logged nothing.
+
+
+## Check run 2026-11-15 ~8:25 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-12/15 | Wren Diver One Titanium Glacier (LEAD): 41 mm clear DLC grade 5 Ti, 12.4 mm, 47 L2L, ice blue to grey gradient, no date, lumed ceramic bezel, 200 m, ETA 2824 38 h, Swiss Made; $1,495 USD; 100 numbered pcs first run; ships Nov 21; 14 left Nov 15; strap blue/white FKM per Wren vs grey per T+T (flagged); Shopify published Nov 12 | wrenwatches.com, Time+Tide, Wrist Enthusiast | Covered (lead) in wren-diver-one-titanium-glacier-chopard-mille-miglia-american-racing-stripes-news |
+| ~2026-11-01 (aBtW hands on 11-15) | Chopard Mille Miglia Classic Chronograph American Racing Stripes 168619-3021: 40.5 mm Lucent Steel, 12.9 mm, COSC, 54 h, 50 m, 50 pcs US only, $12,400 USD | chopard.com/en-us, aBlogtoWatch, Waqt | Covered (grouped), previously missed |
+| 2026-11-15 | Monochrome white dial buying guide; Fratello Casio MQ-24, Sunday Showdown PAM01757 vs Ploprof; Revolution IAMWATCH, Independent Watchmakers | RSS | Skipped: features |
+| 2026-11-15 | WatchPro feed 403; Hodinkee, W&W, SJX, Deployant, Teddy: nothing new | RSS | Not checked / nothing new |
+| 2026-11-15 | Follow ups still open: Swiss exports Nov 19, Kurono S1 order window Nov 19 9 AM ET, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-14 6:25 PM ET through ~2026-11-15 8:25 AM ET.
+
