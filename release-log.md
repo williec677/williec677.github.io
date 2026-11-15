@@ -438,3 +438,16 @@ Window checked: ~2026-11-14 6:25 PM ET through ~2026-11-15 8:25 AM ET.
 | 2026-11-15 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Vulcain Skindiver Mark II on sale Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Vulcain and Campanola added |
 
 Window checked: ~2026-11-15 8:25 AM ET through ~2026-11-15 12:20 PM ET.
+
+## Check run 2026-11-15 ~6:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-10/11 | Albishorn Voisin Aérosport (LEAD): first non chronograph from Sébastien Chaulmontet's brand; 38 mm 316L, 9.6 mm (8.9 w/o sapphire), 45.2 L2L, 20 mm lugs, 50 m, crown at 10; three layer dial with sunken 180 degree sector seconds (double ended hand), Classic silver opaline and Ice Blue; ALB04 M hand wound AMT based COSC, 4 Hz, 17 j, 60 h; 99 unnumbered pcs over 3 years; CHF 3,450 straps (about $4,115) / CHF 3,900 bamboo bracelet (about $4,652, Hodinkee), ECB Nov 13 CHF 1 = $1.1927; on sale Nov 11, deliveries end Nov | albishorn-watches.ch, Hodinkee (Nov 10), Monochrome, montre24 | Covered (lead) in albishorn-voisin-aerosport-seiko-5-sports-alishan-news, commit 51ebd8b, build 43774354208 passed, live 200; previously missed |
+| 2026-11-12 | Seiko 5 Sports HDB019K1 Alishan: Taiwan only, 42.5 mm, forest green dial, black/sand brown bezel, 4R36, 100 m, NT$13,000 (about $395 at 32.9), preorder open, deliveries early Dec, quantity not stated | Notebookcheck, Gear Patrol | Covered (grouped) |
+| 2026-11-15 | Seiko Year of the Sheep 2027 zodiac quartz chrono (I.E.I. Japan mail order, 2,027 pcs, JPY 54,780) | Notebookcheck | Skipped: Japan mail order minor |
+| 2026-11-15 | Remaining Gear Patrol candidates (Casio x A.P.C. AQ-240, Tissot PRX 35 Lee Dong Wook, G-Shock DWE-5600MTM-8, Timex Marlin California) | Gear Patrol | Not verified; low priority |
+| 2026-11-15 | Fratello Hublot Meca-10 feature; aBtW Weekly #247 podcast (GPHG talk) | RSS | Skipped: features |
+| 2026-11-15 | WatchPro 403; Hodinkee, Monochrome, W&W, T+T, Revolution, SJX, Deployant, Teddy: nothing new | RSS | Nothing new |
+| 2026-11-15 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Vulcain Skindiver Mark II on sale Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-15 12:20 PM ET through ~2026-11-15 6:20 PM ET.
