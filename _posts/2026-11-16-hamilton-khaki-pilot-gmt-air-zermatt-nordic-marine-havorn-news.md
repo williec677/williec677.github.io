@@ -3,7 +3,7 @@ layout: post
 title: "Watch News: Hamilton's Khaki Pilot GMT Air Zermatt Brings a True Travel GMT in Forged Carbon for $1,725 USD, Plus the $349 Nordic Marine Havørn"
 seo_title: "Hamilton Khaki Pilot GMT Air Zermatt H76505930: Price and Specs"
 description: "Hamilton's Khaki Pilot GMT Air Zermatt H76505930 is a 42 mm forged carbon special edition with a flyer style H-14 GMT movement, 80 hours of reserve and a city ring, priced at $1,725 USD (CHF 1,445). Plus the Nordic Marine Instruments Havørn, a $349 USD rectangular Swiss quartz dress watch."
-date: 2026-11-16 08:30:00 -0500
+date: 2026-11-16 08:15:00 -0500
 category_label: News
 cluster: news
 tags: [news, hamilton, khaki aviation, gmt, pilot watch, forged carbon, special edition, nordic marine instruments, micro brand, dress watch]
