@@ -476,3 +476,17 @@ Window checked: ~2026-11-15 6:20 PM ET through ~2026-11-16 8:25 AM ET.
 | 2026-11-16 | Formex Redshift | RSS | Skipped: launched early Nov |
 | 2026-11-16 | Laurent Ferrier Iceberg, Garrick S8, Sundowner II, Kurono S1, UR-101 Green Mamba, Maen | RSS | Skipped: covered or skipped before |
 | 2026-11-16 | New follow up: confirmation of Bond's watch (Omega or JLC) | Prior | Open |
+
+## Check run 2026-11-16 ~6:15 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-03 (preorder 11-16 7 PM ET) | Kiwame Tokyo Asakusa Kubo Momiji KT304 (LEAD): 37 mm 316L, 9.3 mm (10.7 with domed sapphire), 45 mm L2L, 20 to 16 mm leather, regulated Miyota 82S5, 30 m, red lacquer dial, recessed small seconds with raised maple leaf; ¥84,700 ex tax (about $531 USD at ECB Nov 16 USD 1 = ¥159.60; Gear Patrol lists $630, discrepancy flagged in post); preorder Nov 17 9 AM JST, non cancellable, one per person, delivery early Jan 2027 | kiwametokyo.com, Gear Patrol, CasebackChron | Covered (lead) in kiwame-tokyo-kubo-momiji-straum-jan-mayen-stormy-seas-news, commits 05d0df7 + e0fa0b2 (time moved to 18:10), builds 43977902462/43977928028 passed, live 200; previously skipped Nov 3 as unverified |
+| 2026-11-03 (closes 11-17 noon ET) | Straum x TRTS Jan Mayen Titanium Stormy Seas final window: 38.7 mm Gr5 Ti, 11.5 mm, 45.7 L2L, 100 m, LJP G101 Soigné 68 h, Swiss Made; $2,500 USD rubber / $2,850 USD Ti bracelet incl taxes and duties, EUR 1,900 / 2,160; delivery Mar 2027; discontinued after window | straum.co press release + product page, W&W | Covered (grouped), last call angle |
+| 2026-11-16 | Bremont Supermarine 500 Full Ceramic Deep Blue (W&W hands on) | W&W, Hodinkee Oct 9, Haute Time | Skipped: launched Oct 8 |
+| 2026-11-16 | T+T TAG Aquaracer Sundowner II hands on (Monochrome); CW x Mr Jones Bel Canto Lucia interview (T+T); Teddy Maen Jump Hour | RSS | Skipped: already covered |
+| 2026-11-16 | Vanguart Orb ceramic (June), Formex Redshift (early Nov), Panerai PAM01757/58 (covered Nov 11), Czapek Crossroads Lightning (Nov 12/13 candidate), Seiko Selection HFH006P/007P (Japan, announced Oct 20, sale Nov 20), Premico Votoms | Web search, CasebackChron | Skipped: old, covered or minor regional |
+| 2026-11-16 | WatchPro 403; Hodinkee, Fratello, aBtW, Revolution, SJX, Deployant: nothing new | RSS | Nothing new |
+| 2026-11-16 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, Vulcain Skindiver Mark II on sale Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Seiko Selection added |
+
+Window checked: ~2026-11-16 12:20 PM ET through ~2026-11-16 6:15 PM ET.
+
