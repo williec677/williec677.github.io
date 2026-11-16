@@ -3,7 +3,7 @@ layout: post
 title: "Watch News: Robert Pattinson Is the New James Bond, So What Will 007 Wear? Plus G-Shock's $250 USD Mudman GDGB100"
 seo_title: "Robert Pattinson James Bond Watch: Omega or Jaeger-LeCoultre?"
 description: "Amazon MGM Studios named Robert Pattinson the next James Bond, and he has been a Jaeger-LeCoultre global ambassador since September while Omega has supplied 007 since 1995. Here is what is confirmed and what isn't about Bond's next watch, plus the new $250 USD G-Shock Mudman GDGB100."
-date: 2026-11-16 12:25:00 -0500
+date: 2026-11-16 12:20:00 -0500
 category_label: News
 cluster: news
 tags: [news, james bond, 007, robert pattinson, omega, seamaster, jaeger-lecoultre, g-shock, casio, mudman, digital watch]
