@@ -3,7 +3,7 @@ layout: post
 title: "Drop Alert: Kiwame Tokyo Kubo Momiji Preorders Open Tonight at About $531 USD, and Straum's Stormy Seas Takes Its Final Orders Tomorrow"
 seo_title: "Kiwame Tokyo Kubo Momiji Preorder and Straum Stormy Seas Last Call"
 description: "Kiwame Tokyo opens preorders for the 37 mm Kubo Momiji at 7 PM ET on November 16 for ¥84,700, about $531 USD, and the Straum x TRTS Jan Mayen Titanium Stormy Seas ($2,500 to $2,850 USD) is discontinued when its order window closes at noon ET on November 17."
-date: 2026-11-16 18:30:00 -0500
+date: 2026-11-16 18:10:00 -0500
 category_label: News
 cluster: news
 tags: [news, kiwame tokyo, kubo momiji, straum, jan mayen, stormy seas, micro brand, japanese watches, dress watch, titanium]
