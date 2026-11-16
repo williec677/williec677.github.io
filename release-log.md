@@ -466,3 +466,13 @@ Window checked: ~2026-11-15 12:20 PM ET through ~2026-11-15 6:20 PM ET.
 
 Window checked: ~2026-11-15 6:20 PM ET through ~2026-11-16 8:25 AM ET.
 
+
+## Check run 2026-11-16 ~12:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-16 | Robert Pattinson named the next James Bond by Amazon MGM (LEAD); JLC ambassador since Sept 2; Omega has supplied Bond since 1995; Bond's watch not announced | Amazon, AP, NPR, BBC | Covered (lead) in robert-pattinson-james-bond-omega-jaeger-lecoultre-g-shock-mudman-gdgb100-news, commits b6b2fbd + dc42806, build 43918384498 passed, live 200 |
+| 2026-11-16 | G-Shock Mudman GDGB100, $250 USD | RSS | Covered (grouped) |
+| 2026-11-16 | Simon Brette Confluence Ruby | RSS | Skipped: one off commission |
+| 2026-11-16 | Formex Redshift | RSS | Skipped: launched early Nov |
+| 2026-11-16 | Laurent Ferrier Iceberg, Garrick S8, Sundowner II, Kurono S1, UR-101 Green Mamba, Maen | RSS | Skipped: covered or skipped before |
+| 2026-11-16 | New follow up: confirmation of Bond's watch (Omega or JLC) | Prior | Open |
