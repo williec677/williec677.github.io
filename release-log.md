@@ -451,3 +451,18 @@ Window checked: ~2026-11-15 8:25 AM ET through ~2026-11-15 12:20 PM ET.
 | 2026-11-15 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Vulcain Skindiver Mark II on sale Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
 
 Window checked: ~2026-11-15 12:20 PM ET through ~2026-11-15 6:20 PM ET.
+
+## Check run 2026-11-16 ~8:25 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-16 | Hamilton Khaki Pilot GMT Air Zermatt H76505930 (LEAD): 15 years with Air Zermatt, 42 mm forged carbon, 100 m, screw down crown at 4, city ring crown at 2, H-14 flyer GMT (Powermatic 80 base) 80 h, 20 mm lugs, red textile + black leather strap; $1,725 USD (Monochrome) / CHF 1,445 (hamiltonwatch.com en-ch) / EUR 1,645; special edition, no limit published; thickness 11.1 mm Hamilton vs 13.38 mm Monochrome (flagged in post); hamiltonwatch.com blocks curl | hamiltonwatch.com/en-ch, Monochrome, Europa Star | Covered (lead) in hamilton-khaki-pilot-gmt-air-zermatt-nordic-marine-havorn-news, commits 6411439 + edf20ce (time moved to 08:15), build 43875551500 passed, live 200 |
+| 2026-11-04 (aBtW review 11-16) | Nordic Marine Instruments Havørn: first dress watch, 38 x 29 mm 316L, 7.7 mm spec, 30 m, Ronda 1062 quartz, curved sapphire, Arctic Silver / Sky Blue / Ember Red, sailcloth 20 to 18 mm, $349 USD, ships mid Nov | nordicmarineinstruments.com, LinkedIn, aBlogtoWatch | Covered (grouped), previously missed |
+| 2026-08-24 (Fratello partnership post 11-16) | Peacock Black Hole III Curved Guilloché Central Tourbillon PBG0203, $5,099 | Fratello, Monochrome (Aug 24), Hen & Mills | Skipped: launched August, sponsored repost |
+| 2026-11-16 | Fratello Maen Grand Tonneau Jump Hour | Fratello | Skipped: already covered Nov 11 |
+| 2026-11-16 | Monochrome Knoop/Genta IWC Ingenieur interview; T+T Mann About Time book; SJX escapements Part II; Fratello Meca-10 feature | RSS | Skipped: features |
+| 2026-11-16 | WatchPro 403; Hodinkee, W&W, Revolution, Deployant, Teddy: nothing new | RSS | Nothing new |
+| 2026-11-16 | Possible duplicate found: Albishorn Voisin Aérosport covered twice (2026-11-10 albishorn-voisin-aerosport-jlc-collectibles-angelier-news and 2026-11-15 albishorn-voisin-aerosport-seiko-5-sports-alishan-news), with different CHF conversions | repo | Flagged to parent, not edited |
+| 2026-11-16 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Vulcain Skindiver Mark II on sale Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton around Dec 10, Maen Jump Hour on sale Dec 10 | Prior | Unchanged |
+
+Window checked: ~2026-11-15 6:20 PM ET through ~2026-11-16 8:25 AM ET.
+
