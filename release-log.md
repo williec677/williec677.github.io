@@ -490,3 +490,17 @@ Window checked: ~2026-11-15 6:20 PM ET through ~2026-11-16 8:25 AM ET.
 
 Window checked: ~2026-11-16 12:20 PM ET through ~2026-11-16 6:15 PM ET.
 
+
+## Check run 2026-11-17 ~8:25 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-17 | Arnold & Son Time Pyramid 42.5 Agate Editions (LEAD): 42.5 x 10.72 mm, red gold 1TPER.Z01A.C1488A red agate / platinum 1TPEX.Z01A.C1483X blue agate, 0.4 mm agate hour ring, 0.8 mm agate behind movement, manual A&S1615 3 Hz 90 h two barrels, 30 m, 8 pcs each; $63,400 / $77,200 USD (Hodinkee), CHF 49,700 / 60,500 incl tax (Monochrome); ECB Nov 16 0.8393 CHF/USD | Hodinkee, Monochrome | Covered (lead) in arnold-son-time-pyramid-agate-jaeger-lecoultre-valley-of-inventions-news, commit c49e617 |
+| 2026-11-17 | Jaeger-LeCoultre x Zain Memon The Valley of Inventions escape game (Made of Makers; browser + Android) | Monochrome, valleyofinventions.jaeger-lecoultre.com | Covered (grouped) |
+| 2026-11-05 | Citizen Promaster SKY Blue Angels CA4667-53L (Japan, ¥99,000; already a US Navihawk ref) | webChronos, Impress Watch, citizenwatch.com | Skipped: launched Nov 5, existing US model |
+| 2026-11-17 | Citizen Mickey football AW1739-02W $395 US; Meia Lua Meridian; Micromilspec Pilot Worldtimer | Notebookcheck, web search | Skipped: minor licensed/unverified micro, not enough sourcing |
+| 2026-11-17 | Casio CMK-100 (Fratello), Orient Star Skeleton 75th (Deployant), HU-02 (SJX), Sundowner II (T+T) | RSS | Skipped: already covered |
+| 2026-11-17 | Phillips HK Patek highlights, VC Concours d'Elégance (SJX), Fratello On Air Chinese watches, Benrus Type 3X review, Movado video, Revolution Parmigiani | RSS | Skipped: features/auction recap |
+| 2026-11-17 | WatchPro 403; W&W, Teddy: nothing new | RSS | Nothing new |
+| 2026-11-17 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, Vulcain Skindiver Mark II Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Bond watch confirmation | Prior | Unchanged |
+
+Window checked: ~2026-11-16 6:15 PM ET through ~2026-11-17 8:25 AM ET.
