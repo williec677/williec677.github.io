@@ -516,3 +516,17 @@ Window checked: ~2026-11-16 6:15 PM ET through ~2026-11-17 8:25 AM ET.
 | 2026-11-17 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, Vulcain Skindiver Mark II Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Bond watch confirmation | Prior | Unchanged |
 
 Window checked: ~2026-11-17 8:25 AM ET through ~2026-11-17 12:25 PM ET.
+
+## Check run 2026-11-17 ~6:15 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-17 | Union Glashütte Averin Date (LEAD): 37 x 37 mm 316L, 41.4 L2L, 9.85 mm (Monochrome; brand 10 mm), 100 m, integrated bracelet 12 mm lug, 140 g; UNG-07.S1 (ETA 2892 base) 25,200 vph, 21 j, silicon hairspring, 60 h; refs D015.507.11.041.00 blue / .091.00 aquamarine / .031.00 silver; EUR 2,450 incl VAT, about $2,692 USD at ECB Nov 17 (1.0989); no official US price found | union-glashuette.com, Monochrome | Covered (lead) in union-glashutte-averin-date-g-shock-sneaker-politics-oyster-news, commits 3069c8d + 3018966 (time fix 18:10), builds 44198094834/44198650202 passed, live 200 |
+| 2026-11-17 | G-Shock x Sneaker Politics DW6900SP26-6 Oyster: translucent purple, 20th anniversary caseback, 53.2 x 50 x 18.7 mm, 67 g, 200 m; $180 USD; online Nov 21 9 AM CST via random draw (G-Central); Casio US coming soon | sneakerpolitics.com, G-Central, Gizmochina | Covered (grouped) |
+| 2026-11-17 | Timex Deepwater roundup (Arctic 200 $259, Meridian 200 HEV $469, Meridian 200 Auto GMT TW2Y63900 $549, Reef 200 Ti Auto $559 rubber / $689 bracelet) | W&W, timex.com | Skipped: existing models (Reef Ti Jan 2026, Arctic gradient Oct 2026), not a new launch |
+| 2026-11-17 | Wind Vintage book (W&W) | RSS | Skipped: logged at 12 PM |
+| 2026-11-17 | Lorige BL-Evo.09/IEC (50 pcs, brake pad material) | Gentleman's Pursuits via search | Not verified; candidate for next run |
+| 2026-11-17 | WatchPro 403; Hodinkee, Fratello, aBtW, T+T, Revolution, SJX, Deployant, Teddy: nothing new | RSS | Nothing new |
+| 2026-11-17 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Bond watch confirmation | Prior | G-Shock draw added |
+
+Window checked: ~2026-11-17 12:25 PM ET through ~2026-11-17 6:15 PM ET.
+
