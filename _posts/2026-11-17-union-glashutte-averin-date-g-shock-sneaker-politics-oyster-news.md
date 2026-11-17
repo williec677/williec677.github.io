@@ -3,7 +3,7 @@ layout: post
 title: "Union Glashütte Averin Date Goes Square and Integrated at About $2,692 USD, Plus the G-Shock x Sneaker Politics Oyster DW6900"
 seo_title: "Union Glashütte Averin Date: Price, Specs and References"
 description: "Union Glashütte's new Averin Date packs a 37 mm square steel case, integrated bracelet and 60 hour automatic for EUR 2,450, about $2,692 USD. Plus the $180 USD G-Shock x Sneaker Politics DW6900SP26-6 Oyster drops November 21."
-date: 2026-11-17 18:30:00 -0500
+date: 2026-11-17 18:10:00 -0500
 category_label: News
 cluster: news
 tags: [news, union glashutte, averin, averin date, integrated bracelet, square watch, german watchmaking, g-shock, casio, dw6900, sneaker politics, collaboration]
