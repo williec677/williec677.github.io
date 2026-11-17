@@ -504,3 +504,15 @@ Window checked: ~2026-11-16 12:20 PM ET through ~2026-11-16 6:15 PM ET.
 | 2026-11-17 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, Vulcain Skindiver Mark II Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Bond watch confirmation | Prior | Unchanged |
 
 Window checked: ~2026-11-16 6:15 PM ET through ~2026-11-17 8:25 AM ET.
+
+## Check run 2026-11-17 ~12:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-17 | Leica ZM 11 Green Spirit (LEAD): 41 x 13 mm, 45.3 L2L, 316L, 100 m, dual layer 0.4 mm louvered green to gray gradient dial, LA-3001 (Chronode) auto 4 Hz 60 h +6/-4 s/d, Easy Change; on sale Nov 17; $7,000 USD Leica US store, EUR 6,800 incl VAT | leicacamerausa.com, Monochrome, Fratello | Covered (lead) in leica-zm-11-green-spirit-armin-strom-dual-time-gmt-meteorite-news, commit bd836f8, build 44135743752 passed, live 200 |
+| 2026-11-17 | Armin Strom Dual Time GMT Resonance Manufacture Edition Meteorite ST26-DT.MT: 39 x 9.05 mm steel, 44.5 L2L, 50 m, ARF22 manual 3.5 Hz 42 h, 15 pcs; CHF 105,000 (brand site; US contact sales) about $124,970 USD at ECB Nov 17 (USD 1.0989 / CHF 0.9233 per EUR); Hourstriker $138,000 flagged as unconfirmed | arminstrom.com, Monochrome, Hourstriker | Covered (grouped) |
+| 2026-11-17 | Wind Vintage book Vintage Watches: The Modern Guide (Fratello review, W&W) | RSS | Skipped: book feature, possible future accessory guide mention |
+| 2026-11-17 | Hodinkee Talking Watches Kevin Love; Hamilton Behind the Camera Awards; Movado HSNY exhibition; Dutch Speedmaster GTG; T+T Sundowner reactions; Teddy Chaykin brand review; Revolution Parmigiani | RSS | Skipped: features/events |
+| 2026-11-17 | WatchPro 403; SJX, Deployant: nothing new | RSS | Nothing new |
+| 2026-11-17 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, Vulcain Skindiver Mark II Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Bond watch confirmation | Prior | Unchanged |
+
+Window checked: ~2026-11-17 8:25 AM ET through ~2026-11-17 12:25 PM ET.
