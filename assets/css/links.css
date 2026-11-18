@@ -1,0 +1,114 @@
+/* Links hub: mobile first, solid colors, large tap targets */
+.page-links main.wrap{
+  max-width:28rem;
+}
+.links-hub{
+  text-align:center;
+  padding:.4rem 0 1.5rem;
+}
+.links-logo{
+  display:block;
+  width:128px;
+  height:128px;
+  margin:0 auto .9rem;
+  border-radius:28px;
+  background:#14213d;
+  box-shadow:0 0 0 1px rgba(176,141,87,.45), 0 10px 24px rgba(20,33,61,.18);
+}
+.links-name{
+  margin:0 0 .35rem;
+  font:700 2rem/1.1 var(--sans);
+  color:var(--navy);
+  letter-spacing:.01em;
+}
+.links-slogan{
+  margin:0 0 .7rem;
+  font:600 1.05rem/1.35 var(--sans);
+  color:var(--navy);
+}
+.links-lede{
+  margin:0 0 1.35rem;
+  color:var(--muted);
+  font-size:1.02rem;
+}
+.links-nav{
+  display:flex;
+  flex-direction:column;
+  gap:.75rem;
+}
+.links-btn{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:56px;
+  padding:.9rem 1.1rem;
+  background:var(--navy);
+  color:#fff;
+  text-decoration:none;
+  font:700 1.08rem/1.2 var(--sans);
+  border-radius:12px;
+  border:2px solid var(--navy);
+  box-shadow:0 1px 0 rgba(20,33,61,.12);
+}
+.links-btn:hover,
+.links-btn:focus-visible{
+  background:var(--red);
+  border-color:var(--red);
+  color:#fff;
+}
+.links-btn:focus-visible{
+  outline:3px solid var(--gold);
+  outline-offset:3px;
+}
+.links-btn-feature{
+  flex-direction:column;
+  gap:.2rem;
+  min-height:72px;
+  background:var(--red);
+  border-color:var(--red);
+}
+.links-btn-feature:hover,
+.links-btn-feature:focus-visible{
+  background:#a50d26;
+  border-color:#a50d26;
+}
+.links-kicker{
+  font:700 .72rem/1 var(--sans);
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--gold-soft);
+}
+.links-title{
+  font:700 1.08rem/1.25 var(--sans);
+  color:#fff;
+}
+@media (min-width:700px){
+  .links-logo{width:144px;height:144px;border-radius:32px}
+  .links-name{font-size:2.25rem}
+  .links-btn{min-height:60px;font-size:1.12rem}
+}
+@media (prefers-color-scheme:dark){
+  .links-name,
+  .links-slogan{color:#dfe5f4}
+  .links-logo{
+    box-shadow:0 0 0 1px rgba(176,141,87,.5), 0 10px 24px rgba(0,0,0,.4);
+  }
+  .links-nav .links-btn{
+    background:#1c2c52;
+    border-color:#2a3c68;
+  }
+  .links-nav .links-btn:hover,
+  .links-nav .links-btn:focus-visible{
+    background:var(--red);
+    border-color:var(--red);
+  }
+  .links-nav .links-btn-feature{
+    background:var(--red);
+    border-color:var(--red);
+  }
+  .links-nav .links-btn-feature:hover,
+  .links-nav .links-btn-feature:focus-visible{
+    background:#a50d26;
+    border-color:#a50d26;
+  }
+}
