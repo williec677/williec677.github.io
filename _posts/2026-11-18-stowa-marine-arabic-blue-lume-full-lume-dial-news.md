@@ -3,7 +3,7 @@ layout: post
 title: "Stowa Marine Arabic Blue Lume Brings Back the Full Lume Dial From About $1,141 USD (EUR 1,040)"
 seo_title: "Stowa Marine Blue Lume: Price, Specs, Sizes and Availability"
 description: "Stowa just launched four Marine Arabic Blue Lume watches with dials fully coated in Super-LumiNova BGW9, in 36 or 40 mm steel or bronze, from about $1,141 USD (EUR 1,040) and available now."
-date: 2026-11-18 12:30:00 -0500
+date: 2026-11-18 12:20:00 -0500
 category_label: News
 cluster: news
 tags: [news, stowa, marine, blue lume, full lume dial, super-luminova, bgw9, german watches, sellita sw200, sellita sw210, bronze, deck watch, affordable]
