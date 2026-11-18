@@ -558,3 +558,17 @@ Window checked: ~2026-11-17 6:15 PM ET through ~2026-11-18 8:20 AM ET.
 | 2026-11-18 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Bond watch confirmation | Prior | Unchanged |
 
 Window checked: ~2026-11-18 8:20 AM ET through ~2026-11-18 12:25 PM ET.
+
+## Check run 2026-11-18 ~6:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-18 | Merci Super (LEAD): Merci (Paris concept store) third collection after LMM-01 and Beaumarchais; four non limited refs Plan 19.72 (black, Arabic numerals, Nakagin Capsule Tower), 19.74 (opaline/brushed silver sector, blue tip seconds, CDG Terminal 1), 19.70 (black, Brasília Cathedral), 19.63 (black, no numerals, lumed solid hands, Maison de la Radio); 36 x 9.9 mm steel, 42.8 L2L, 19 mm lugs, sapphire, screwed back, 5 bar, cordovan strap, assembled in France; Miyota 9039 auto 4 Hz about 42 h; EUR 550 each on merci-merci.com (product pages published Nov 18 9:56 AM ET), about $603 USD at ECB Nov 18 (1.0968); no USD price published | merci-merci.com product pages, Hodinkee | Covered (lead) in merci-super-algorithme-du-temps-reveries-des-secondes-news, commit 94c71da, build 44421066943 passed, live 200 |
+| 2026-11-18 | Algorithme du Temps Rêveries des Secondes (Étude Nº1) by Nadim Elgarhy: cam and differential module on Sellita SW200-1 no date, 4 Hz, 38 h; seconds hand from -1x to +3x, backwards 19% of time, 46 direction changes per 5 min cycle, crosses 12 every full minute; unique cam pair per piece; 38.0 x 42.1 x 10.53 mm 904L; 40 numbered pcs; approx CHF 16,800 excl taxes per Monochrome, final price TBC after prototype, register interest only; about $19,935 USD at ECB Nov 18 (USD 1.0968 / CHF 0.9243 per EUR) | algorithmedutemps.com, Monochrome | Covered (grouped), flagged as prototype with unconfirmed price |
+| 2026-11-18 | Waltham Field & Marine Dual Time (EIN Presswire PR, Nov 18): 43 mm, 300 m, bayonet crown, Soprod C115; CHF 2,950 to 3,150 on waltham.ch | einpresswire, waltham.ch, Fratello (older hands on) | Skipped: existing collection (waltham.ch listings dated Feb 2026, earlier Fratello hands on), PR push not a launch |
+| 2026-11-18 | JLC The Collectibles VIII (W&W) | W&W | Skipped: covered Nov 10 |
+| 2026-11-18 | Horologically Unique HU-02 (Hodinkee): new detail, preorders until Dec 1 2026, delivery June to July 2027 | Hodinkee | Skipped: covered Nov 7 (published post not edited) |
+| 2026-11-18 | Hublot Big Bang Denim (Hodinkee), O&HoraPictor (W&W), T+T French brands London Weekender | RSS | Skipped: already covered/logged, event |
+| 2026-11-18 | WatchPro 403, r/Watches 403; Fratello, aBtW, Revolution, SJX, Deployant, Teddy: nothing new in window; no new price increase, discontinuation or waitlist news found | RSS, web search | Nothing new |
+| 2026-11-18 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Algorithme du Temps final price, Bond watch confirmation | Prior | HU-02 deadline and Algorithme price added |
+
+Window checked: ~2026-11-18 12:25 PM ET through ~2026-11-18 6:25 PM ET.
