@@ -530,3 +530,17 @@ Window checked: ~2026-11-17 8:25 AM ET through ~2026-11-17 12:25 PM ET.
 
 Window checked: ~2026-11-17 12:25 PM ET through ~2026-11-17 6:15 PM ET.
 
+
+## Check run 2026-11-18 ~8:20 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-18 | Bangalore Watch Company Epoch (LEAD): Executive steel champagne / Statesman rose gold PVD anthracite, 39 x 11.6 mm, 47 L2L, 20 mm lugs, 50 m, hinged officer caseback with engravable perlage lid and sapphire window, Sellita SW261-1 hand wound 4 Hz 23 j, 45 h (BWC) vs 42 h min (Monochrome) flagged; $3,100 USD (Monochrome), Rs. 297,600 (BWC store); preorder Nov 18, ships Jan 6 2027 | bangalorewatchco.in, Monochrome | Covered (lead) in bangalore-watch-company-epoch-hublot-big-bang-denim-news, commit 14bce27 |
+| 2026-11-18 | Hublot Big Bang Denim x4 (non limited): BB Original Ti 43 mm 431.NXT.2710.NR.DENIM HUB1280 $24,000 USD / CHF 19,400; Spirit of BB Ti 42 mm HUB4700 $27,700; BB Steel Denim Diamonds 33 mm 485.SXT.2710.NR.1204.DENIM HUB1120 $19,000 / CHF 15,400; Spirit of BB Steel Diamonds 32 mm $21,500 | Robb Report, Time+Tide | Covered (grouped) |
+| 2026-11-18 | Peren One (Fratello hands on; released late 2025, CHF 485) | Fratello | Skipped: not new |
+| 2026-11-18 | ArtyA Purity Curvy HMS Sapphire Sport Edition; Daniel Roth Extra Plat rose gold gilt (aBtW); UN Freak S Purple (SJX; logged Nov 12/13); Sartory-Billard Shanga (T+T hands on; logged Nov 14) | Fratello, aBtW, SJX, T+T | Skipped: niche/older or already logged; ArtyA candidate if US price appears |
+| 2026-11-18 | UJ Rosenfield interview, VC Overseas shadow icons, Valjoux 7750 history, Christie's HK, IAMWATCH | RSS | Skipped: features/events |
+| 2026-11-18 | Lorige BL-Evo.09/IEC | Prior | Still unverified, dropped |
+| 2026-11-18 | WatchPro 403; Hodinkee, W&W, Deployant, Teddy: nothing new | RSS | Nothing new |
+| 2026-11-18 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Bond watch confirmation | Prior | Unchanged |
+
+Window checked: ~2026-11-17 6:15 PM ET through ~2026-11-18 8:20 AM ET.
