@@ -544,3 +544,17 @@ Window checked: ~2026-11-17 12:25 PM ET through ~2026-11-17 6:15 PM ET.
 | 2026-11-18 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Bond watch confirmation | Prior | Unchanged |
 
 Window checked: ~2026-11-17 6:15 PM ET through ~2026-11-18 8:20 AM ET.
+
+## Check run 2026-11-18 ~12:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-18 | Stowa Marine Arabic Blue Lume (LEAD): Marine Classic 36/40 polished steel 10 ATM, Marine Bronze Vintage 36/40 CuSn8 bronze 5 ATM; full Super-LumiNova BGW9 dial (light blue glow), Arabic numerals, heat blued hands, no date; 36 mm 44.6 L2L 18 mm strap, 40 mm 48.6 L2L 20 mm strap; heights auto (Stowa) 11.3/10.6/10.9/10.2, hand wound (Monochrome) 11.1/9.6/10.6/9.0; SW200 Basic/Top or SW210 Top, 4 Hz, 40 to 45 h per Monochrome (Stowa lists none); inspired by 1942 Stowa 57 mm deck instrument; EUR 1,040 / 1,240 incl 19% VAT, about $1,141 / $1,360 USD at ECB Nov 18 (1.0968); shop 0% VAT EUR 873.95 / 1,042.02 (about $959 / $1,143 USD); permanent, available immediately | stowa.de product pages, Monochrome, Stowa uhrforum post | Covered (standalone) in stowa-marine-arabic-blue-lume-full-lume-dial-news, commits 52e8d93 + ca17c7f (time 12:20), builds 44358825201/44358897445 passed, live 200 |
+| 2026-11-18 | Louis Moinet Time To Race Flash (aBtW sponsored post): launched around June 2026; aBtW $42,500 Ti / $65,000 RG vs Deployant $37,818 / $57,037 | aBtW, Deployant, thewatchpages | Skipped: old release, sponsored repost, price conflict |
+| 2026-11-18 | O&HoraPictor Duet Submarine Canyon (W&W hands on; 20 pcs, from $2,892) | W&W, horapictor.com, Chronoscout | Skipped: launched around Oct 2026, reported sold out |
+| 2026-11-16 | Micromilspec Pilot Worldtimer Single Date ($3,990 rubber / $4,020 leather / $4,790 Ti bracelet; EUR 3,555; Jan 2027 delivery; 15 pcs per color per year) | Gear Patrol (Nov 16), montre24 | Skipped: launched Nov 16, outside window |
+| 2026-11-18 | Panerai PAM01758 (Deployant), Omega Diver 300M ceramics (timeandwatches), Archi Works Diplomat 1.87 (montre24), Hublot Denim (T+T, Robb), Peren One (Fratello) | RSS, web search | Skipped: already covered or logged |
+| 2026-11-18 | Hodinkee magazine feature and A. Lange CEO podcast | Hodinkee | Skipped: features |
+| 2026-11-18 | WatchPro 403, r/Watches 403, WatchTime feed moved; SJX, Revolution, Teddy, G-Central: nothing new | RSS | Nothing new |
+| 2026-11-18 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Bond watch confirmation | Prior | Unchanged |
+
+Window checked: ~2026-11-18 8:20 AM ET through ~2026-11-18 12:25 PM ET.
