@@ -572,3 +572,17 @@ Window checked: ~2026-11-18 8:20 AM ET through ~2026-11-18 12:25 PM ET.
 | 2026-11-18 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Algorithme du Temps final price, Bond watch confirmation | Prior | HU-02 deadline and Algorithme price added |
 
 Window checked: ~2026-11-18 12:25 PM ET through ~2026-11-18 6:25 PM ET.
+
+## Check run 2026-11-19 ~8:20 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-19 | Roger W. Smith Series Seven (LEAD): 25th anniversary, unveiled at Owners' Dinner at the V&A London; 40 x 14.6 mm precious metal (launch prototype platinum, silver engine turned dial; Hodinkee: prototypes platinum and rose gold, any precious metal on request; SJX: red gold or platinum); new calibre, manual, twin barrels, one minute tourbillon with Daniels slim line coaxial (SJX), 3 Hz, 48 h (Hodinkee/SJX); annual calendar, date at six, numerical month beneath twelve, first RWS center seconds; WR not published; not limited, about two a year (Hodinkee); price on request, SJX rumoured seven figures flagged as rumor | rwsmithwatches.com news, Hodinkee, SJX, Revolution | Covered (lead) in roger-w-smith-series-seven-nomos-noir-oris-doraemon-news, commit 091c274, build 44532444794 passed, live 200 |
+| 2026-11-19 | Nomos Noir series: Tangente 33 / Ludwig 33 (32.8 x 6.6) and Tetra 27 (27.5 x 6.4) noir, steel or 18k yellow gold, DUW 4001 hand wound 53 h, 30 m; US store listing prices steel from $2,210 (152/152.SB), $2,170 (226/227), $2,460 (416/416.GB); gold $12,500 (106), $12,500 (220), $12,700 (420); Tangente product page showed $2,500 (flagged in text) | nomos-glashuette.com/en-us, Monochrome | Covered (grouped) |
+| 2026-11-19 | Oris Big Crown Pointer Date Doraemon LE 01 754 7798 4085-Set: 40 mm, 5 bar, 20 mm lugs, Cal. 754-1, 41 h, 1,000 pcs; $2,750 USD (oris.ch US, Mayors, WatchTime), CHF 2,250; Oris US e-shop showed not available at check | oris.ch, Monochrome, Fratello, Teddy, Mayors | Covered (grouped) |
+| 2026-11-19 | Chronoswiss ReSec Final Edition; Norqain Independence Skeleton 40 Arctic Blue N3008.07S01.Q01.S01 (EUR 4,650 / CHF 4,300, new bracelet); Frederique Constant Tourbillon Perpetual Calendar 40 mm sapphire marquetry; Farer Field Watch Series III; HTD Aquatic GMT; RZE Seeker Solar | Monochrome, T+T, Fratello, aBtW | Skipped this run (post already carries three stories); candidates for 12 PM roundup if US prices verified |
+| 2026-11-19 | Merci Super (Fratello), BWC Epoch (aBtW) | RSS | Skipped: covered Nov 18 |
+| 2026-11-19 | Citizen Eco-Drive 50th hands on (T+T), Fratello gift guide, Gallet interview, Chopard L.U.C 1963 Heritage Chrono hands on, Sotheby's Zurich exhibit | RSS | Skipped: features/events/hands on |
+| 2026-11-19 | WatchPro 403; W&W, Deployant: nothing new | RSS | Nothing new |
+| 2026-11-19 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Algorithme du Temps final price, Bond watch confirmation | Prior | Unchanged |
+
+Window checked: ~2026-11-18 6:25 PM ET through ~2026-11-19 8:20 AM ET.
