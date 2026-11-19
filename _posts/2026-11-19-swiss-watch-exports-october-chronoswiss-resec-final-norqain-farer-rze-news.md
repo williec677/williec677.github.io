@@ -122,7 +122,7 @@ Now the value play. The RZE Seeker is a 38 mm titanium solar field watch in Carb
 
 **My take:** titanium, sapphire, 100 m and you never wind or change a battery for $299 USD. That is a ridiculous beater watch. If you want the mechanical version of this idea, check our [Hamilton Khaki Field buyer's guide]({% post_url 2026-11-16-hamilton-khaki-field-buyers-guide %}).
 
-{% include ebay-shop.html lead="Want a piece of these brands now?" q="chronoswiss+resec" label="Chronoswiss ReSec" q2="farer+watch" label2="Farer" %}
+{% include ebay-shop.html lead="Want a piece of these brands now?" q="chronoswiss" label="Chronoswiss" q2="farer+watch" label2="Farer" %}
 
 Farer, Norqain and RZE all use 20 mm lugs, so a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=20mm+quick+release+watch+strap" text="20 mm quick release watch strap" %} is an easy way to switch up the look. Browse more options in our [20 mm strap guide]({{ "/lug-width/20mm/" | relative_url }}) or the full [Watch Strap Finder]({{ "/strap-finder/" | relative_url }}).
 
