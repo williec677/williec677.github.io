@@ -43,7 +43,7 @@ Here is what Moser lists on its own product page, with the extra details credite
 ![Brellum Pilot 39 Power Reserve Black DLC Chronometer with black dial, cream lumed Arabic numerals, three subdials, power reserve indicator and black DLC five row bracelet]({{ "/assets/img/watches/brellum-pilot-39-power-reserve-black-dlc.webp" | relative_url }})
 *Image: Brellum (ref. DB.CH.956)*
 
-Brellum is the small Swiss Jura brand run by watchmaker Sébastien Müller, and Fratello notes it caps production at 299 watches a year and sells direct through its own website. Its Pilot chronographs have always been 42 mm and up. Now the brand has finally shrunk the formula, and it went full stealth while doing it: black DLC steel case, black DLC bracelet, black dial and cream lume. The tachymeter bezel from the bigger models is gone, but you keep the 12 hour chronograph, the 46 hour power reserve indicator and a date.
+Brellum is the small Swiss Jura brand run by watchmaker Sébastien Müller, and Fratello notes it caps production at 299 watches a year and sells direct through its own website. Until now the Pilot line lived in a 41.8 mm case, sold as the Pilot 42, and Brellum says this is the first time the collection comes in a 39 mm case. It shrank the formula, and it went full stealth while doing it: black DLC steel case, black DLC bracelet, black dial and cream lume. The tachymeter bezel from the bigger models is gone, but you keep the 12 hour chronograph, the 46 hour power reserve indicator and a date.
 
 Specs straight from Brellum's product page:
 
