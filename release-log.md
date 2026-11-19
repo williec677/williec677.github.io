@@ -586,3 +586,20 @@ Window checked: ~2026-11-18 12:25 PM ET through ~2026-11-18 6:25 PM ET.
 | 2026-11-19 | Follow ups still open: Kurono S1 order window Nov 19 9 AM ET, Swiss exports Nov 19, Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Algorithme du Temps final price, Bond watch confirmation | Prior | Unchanged |
 
 Window checked: ~2026-11-18 6:25 PM ET through ~2026-11-19 8:20 AM ET.
+
+## Check run 2026-11-19 ~12:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-19 | Swiss watch exports October 2026 (LEAD): total CHF 2,456.4m (+9.1%, fifth straight monthly rise, about $2.92bn USD at ECB Nov 19 USD 1.0992 / CHF 0.9262); wristwatches 1.55m units (+12.9%) CHF 2,343.8m (+9.5%); Jan to Oct close to CHF 22bn (+3.4%); US CHF 363.7m (+60.8% on tariff base, still -13.8% vs Oct 2024; YTD -0.1% vs 2025, +3.6% vs 2024); France +101.6% re exports, EU +9.2%, HK +7.3%, UK +6.5%, S Korea +22.8%, Japan -2.1%, China -12.1%, UAE -3.2%, Singapore -14.4%; FH caution on gold, franc, tariffs; next release Dec 17 | fhs.swiss PDF comm_261010_a + mt3_261010_a, Rapaport, WWD (WWD gives UAE -22.8%, FH says -3.2%, used FH) | Covered (lead) in swiss-watch-exports-october-chronoswiss-resec-final-norqain-farer-rze-news, commits 4ba34dc + 15bbcaa (eBay query broadened), builds 44577317824 + 44578190323 passed, live 200 |
+| 2026-11-19 | Chronoswiss ReSec Final Edition CH-6923T.1-BRAN: 42 x 14.2 mm, 51 L2L, Gr5 Ti 17 part case, 100 m, C.6005 (with La Joux-Perret) 31 j 4 Hz 55 h, rose gold CVD hand guilloché dial, 100 pcs; $17,300 USD (Chronoswiss US), CHF 14,400; $250 reservation ticket, $2,500 allocation deposit; T+T CHF 4,400 typo flagged | chronoswiss.com/en/us, Monochrome, T+T | Covered (grouped) |
+| 2026-11-19 | Norqain Independence Skeleton 40 Arctic Blue N3008.07S01.Q01.S01: 40 x 12.05 mm, 46.3 L2L, 100 m, N08S (SW200-1 base) COSC 41 h, redesigned semi integrated bracelet; $5,580 USD Norqain US store, CHF 4,300, EUR 4,650; T+T US$5,772 flagged | norqain.com (country=US), Monochrome, T+T | Covered (grouped) |
+| 2026-11-19 | Farer Field Watch Series III: Lomond III $1,150, Pembroke III $1,195, Lomond/Pembroke Midnight $1,250 USD (usd.farer.com, US tariffs added at checkout); 40 x 11.7 mm, 44 L2L, 20 mm lugs, 150 m, pointer date, SW221-2 Power+ about 65 h | usd.farer.com, T+T | Covered (grouped) |
+| 2026-11-19 | RZE Seeker solar (Carbon Black, Spruce Green, Metropolis Blue): 38 mm Ti UltraHex, 10 mm / 45.5 L2L per RZE (aBtW 10.2 / 45.7 flagged), 100 m, sapphire, AS01 solar per aBtW; $299 USD duties included where available, ships mid to late Dec | rzewatches.com, aBtW | Covered (grouped) |
+| 2026-11-19 | Frederique Constant Classic Tourbillon Perpetual Calendar 40 mm sapphire marquetry (88 pcs, CHF/EUR 26,995) | Monochrome | Skipped: no US price verified |
+| 2026-11-19 | HTD Aquatìc GMT (EUR 990 brand store, US$1,090 per Fratello) | Fratello, htdwatches.com | Skipped: Fratello partnership post, brand listings dated Oct 13 |
+| 2026-11-19 | Kurono S1 order window (Nov 19 9 AM ET) | kuronotokyo.com | No verifiable sell out/update found; closed as follow up |
+| 2026-11-19 | Hermès Slim d'Hermès Sous le charme d'Orphée (Deployant), Chopard L.U.C Grand Strike feature (aBtW), Hodinkee HK auctions preview, T+T Citizen Eco-Drive 50th hands on, W&W Oris Doraemon | RSS | Skipped: features, métiers d'art one off, or already covered |
+| 2026-11-19 | WatchPro feed empty; SJX, Revolution, Fratello: nothing new beyond covered items | RSS | Nothing new |
+| 2026-11-19 | Follow ups still open: Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation | Prior | Swiss exports Oct and Kurono closed; Dec 17 exports added |
+
+Window checked: ~2026-11-19 8:20 AM ET through ~2026-11-19 12:30 PM ET.
