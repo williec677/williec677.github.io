@@ -617,3 +617,22 @@ Window checked: ~2026-11-19 8:20 AM ET through ~2026-11-19 12:30 PM ET.
 | 2026-11-19 | Follow ups still open: Seiko Selection HFH sale Nov 20, G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation | Prior | Dennison added |
 
 Window checked: ~2026-11-19 12:30 PM ET through ~2026-11-19 6:30 PM ET.
+
+## Check run 2026-11-20 ~8:20 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-19 | G-Shock x HIDDEN GM2110HDN-8A (LEAD, catch up: Casio America PR Nov 19 10:00 AM ET, never logged): first HIDDEN collab on the steel bezel GM-2110 (G-Central); silver with HIDDEN green at 3/6/9/12, "h" logo inset dial at 9, Statue of Liberty engraved on buckle and caseback, special packaging; G-Central adds steel band, "Past, Present & Future" / "Manhattan New York" caseback text, tin case, Canal Street box art, calls it limited (no number from Casio, flagged); $385 USD, on sale Nov 25 at gshock.casio.com, G-Shock SoHo, select retailers | prnewswire (Casio America), G-Central | Covered (lead) in g-shock-hidden-gm2110hdn-sushi-series-cimier-47-north-purple-dusk-news, commit 98b109c, build 44743472163 passed, live 200 |
+| 2026-11-18 | G-Shock Sushi Series US launch (catch up, never logged): GA-2100SSH-4A salmon $145, DW-5600SSH-4 tuna $155, DW-6900SSH-1 ikura $165 USD (G-Central, Notebookcheck, Hypebeast, G-Shock dealer price list; Casio US site 403 to our fetch); made at Yamagata Casio, 200 m, mineral crystal, yunomi teacup caseback, sushi takeaway box with hidden wasabi; Japan Oct, Europe early Nov; "limited" per G-Central, no numbers | G-Central, Notebookcheck, Hypebeast, gshockauthorizeddealer.com | Covered (grouped) |
+| 2026-11-20 | Cimier 47° North Purple Dusk: 38 mm 316L, 46 L2L, 20 mm lugs, 10.95 mm incl crystal per Cimier (Monochrome 11.25, flagged), box sapphire, screw down crown, 100 m, ETA 2824-2 38 h, leather or steel bracelet; CHF 850 / CHF 990 on cimier.com (Monochrome: excl taxes), about $1,009 / $1,175 USD at ECB Nov 19 (USD 1.0992 / CHF 0.9262; Nov 20 rates not yet published); no USD price | cimier.com product page, Monochrome | Covered (grouped) |
+| 2026-11-20 | Vaer C5 Postmaster USPS (aBtW review) | aBtW, vaerwatches.com | Skipped: launched Oct 14 2026, review not news (first batch sold out, restock mid Dec per Vaer) |
+| 2026-11-20 | Vacheron Constantin Overseas Perpetual Calendar Ultra-Thin 30th Anniversary 4300V/220G-H119 (Revolution closer look) | Revolution, Hodinkee | Skipped: launched Sept 24 2026 |
+| 2026-11-19 | Unimatic Modello Uno U1S-T-ICON / ICON-B (Le Nouveau Réveil) | lenouveaureveil.com, unimaticwatches.com | Skipped: brand store listings published Oct 11 2026 |
+| 2026-11-20 | Piaget Warhol Camouflage (ARTnews interview recap) | usaartnews.com | Skipped: covered Nov 5 |
+| 2026-11-20 | Filippo Loreti x Lord of the Rings (EIN Presswire, $485, 100 pcs each), Gc One forged carbon, Off-White TIME Japan | einpresswire, netty, prtimes | Skipped: fashion brand PR pushes |
+| 2026-11-20 | Tudor Jan 2027 price increase rumor (Rolex Forums, single anonymous boutique manager claim) | rolexforums.com | Skipped: Nov 6 thread, single unsourced claim, no new corroboration |
+| 2026-11-20 | Brellum Pilot 39 Black DLC (Monochrome, Fratello) | RSS | Skipped: covered Nov 19 |
+| 2026-11-20 | Fratello top 5 small brands, T+T Friday wind down (Pattinson Bond recap, JLC game), Revolution Lange chrono podcast and Anton Suhanov Flamingo SG closer look, SJX Paris Junior College and LV Tambour Convergence Mirror Steel hands on, Hodinkee HSNY Chronometry Talks | RSS | Skipped: features/recaps/already covered or skipped |
+| 2026-11-20 | WatchPro 403; Hodinkee, W&W, Deployant, Teddy: nothing new; X news: no watch industry story; no new price increase, discontinuation or waitlist news found | RSS, X, web search | Nothing new |
+| 2026-11-20 | Follow ups still open: G-Shock Sneaker Politics draw Nov 21, Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation | Prior | Seiko Selection HFH (Japan sale Nov 20) closed; HIDDEN Nov 25 added |
+
+Window checked: ~2026-11-19 6:30 PM ET through ~2026-11-20 8:20 AM ET.
