@@ -1,30 +1,32 @@
 ---
-title: "Watch Gifts Under $500 USD for Black Friday 2026: Three Watches and Six Gifts Under $100 USD"
+title: "Watch Gifts Under $500 USD for Black Friday 2026: Five Watches and Six Gifts Under $100 USD"
 seo_title: "Watch Gifts Under $500 USD"
 cluster: affordable
-description: "A short list of watch gifts that a watch person will actually wear: the Orient Bambino, the Seiko 5 Sports SRPD55, and the Tissot PRX 40mm quartz, plus straps, a spring bar tool, and travel cases under $100 USD. Every price checked on the brand's own US site on November 19, 2026."
+description: "A short list of watch gifts that a watch person will actually wear: the Orient Bambino, the Seiko 5 Sports SRPD55, the Tissot PRX 40mm quartz, the Hemel Night Passage, and the Tsar Bomba Elemental TB8204Q, plus straps, a spring bar tool, and travel cases under $100 USD. Every price checked on the seller's own US site on November 19, 2026."
 date: 2026-11-22 08:30:00 -0500
 category_label: Buying Guide
 affiliate: true
-tags: [gift-guide, black-friday, affordable, orient, seiko, tissot, straps]
-ig_caption: "#ad I earn a commission if you buy through my links. Watch gifts under $500 USD: Orient Bambino Version 7 at $295 USD, Seiko 5 Sports SRPD55 at MSRP $350 USD, Tissot PRX 40mm quartz at $450 USD, plus six gifts under $100 USD. Full gift guide on the Journal, link in bio. #watchgifts #blackfriday #seiko5 #tissotprx #orientbambino #mrtictoctalk"
+tags: [gift-guide, black-friday, affordable, orient, seiko, tissot, hemel, tsar-bomba, straps]
+ig_caption: "#ad I earn a commission if you buy through my links. Watch gifts under $500 USD: Orient Bambino Version 7 at $295 USD, Seiko 5 Sports SRPD55 at MSRP $350 USD, Tissot PRX 40mm quartz at $450 USD, Hemel Night Passage at $309 USD, Tsar Bomba Elemental TB8204Q at $219.99 USD, plus six gifts under $100 USD. Full gift guide on the Journal, link in bio. #watchgifts #blackfriday #seiko5 #tissotprx #orientbambino #mrtictoctalk"
 image: "/assets/img/posts/watch-gifts-under-500.webp"
 image_alt: "Official product photos of the Orient Bambino Version 7 40.5mm with a beige dial and blue hands, the Seiko 5 Sports SRPD55 with a black dial, and the Tissot PRX 40mm with a blue dial"
 image_credit: "Orient, Seiko, Tissot"
 ---
-Buying a watch for a watch person is scary. Buying one for someone who does not own a watch yet is even scarier. So here is a short list I would be happy to receive myself: three watches under $500 USD that punch above their price, and six smaller gifts under $100 USD that any collector will use.
+Buying a watch for a watch person is scary. Buying one for someone who does not own a watch yet is even scarier. So here is a short list I would be happy to receive myself: five watches under $500 USD that punch above their price, and six smaller gifts under $100 USD that any collector will use.
 
-Every price below comes from the brand's own US website, checked November 19, 2026, in USD. Retailer and Black Friday prices can be lower or higher and change quickly, so check the current price at the link before you buy.
+Every price below comes from the brand's or seller's own US website, checked November 19, 2026, in USD. Retailer and Black Friday prices can be lower or higher and change quickly, so check the current price at the link before you buy.
 
-## The three watches at a glance
+## The five watches at a glance
 
-| Watch | Case | Movement | Water resistance | Brand US price |
+| Watch | Case | Movement | Water resistance | US price |
 |---|---|---|---|---|
 | Orient Bambino Version 7, 40.5mm, RA AC0033Y30B | 40.5mm, 12.3mm thick, 21mm lugs | F6724 automatic, hand winding, hacking | 30m | $295 USD at Orient USA |
 | Seiko 5 Sports SRPD55 | 42.5mm, 13.4mm thick, 22mm lugs | 4R36 automatic with manual winding | 100m | MSRP $350 USD at Seiko |
 | Tissot PRX 40mm, T137.410.11.041.00 | 40mm, integrated steel bracelet | Swiss quartz | 10 bar | $450 USD at Tissot |
+| Hemel The Night Passage | 40mm, 13mm thick, 20mm lugs | Seiko Epson YN55A automatic, hand winding, hacking | 200m | $309 USD at Blackland Watch Co |
+| Tsar Bomba Elemental TB8204Q | 43 x 50.5mm, 15.5mm thick, silicone strap | Seiko quartz chronograph | 50m | $219.99 USD at Tsar Bomba |
 
-Specs come from each brand's US product page. The Seiko case figures are from my [Seiko 5 Sports SRPD buyer's guide](/seiko-5-sports-srpd-buyers-guide/), checked against Seiko's US page.
+Specs come from each brand's or seller's US product page. The Seiko case figures are from my [Seiko 5 Sports SRPD buyer's guide](/seiko-5-sports-srpd-buyers-guide/), checked against Seiko's US page.
 
 ## Orient Bambino Version 7: the dress watch for under $300 USD
 
@@ -48,6 +50,22 @@ The tradeoff: the bracelet is integrated, so this is not a strap swapping watch.
 
 Shop: {% include aff.html network="amazon" url="https://www.amazon.com/s?k=tissot+prx+40mm+quartz+blue+t1374101104100" text="Tissot PRX 40mm quartz on Amazon" %}
 
+## Hemel The Night Passage: the railroad dial automatic for $309 USD
+
+[The Night Passage by Hemel](https://blacklandwatchco.com/products/the-night-passage?ref=MRTICTOCTALK){: rel="sponsored nofollow noopener" target="_blank"} is a microbrand pick for someone who already owns a Seiko and wants something nobody at the office has. It has a railroad style dial with full lume, a domed sapphire crystal with AR coating, and a Seiko Epson YN55A automatic that hand winds and hacks with a 40 hour power reserve. The 40mm steel case is 13mm thick with a 20mm lug width, a screw down crown, and 200m of water resistance, and it comes on a signed jubilee style bracelet. Blackland Watch Co lists it at $309 USD.
+
+Blackland gave me a coupon code, **MRTICTOCTALK**, to enter at checkout. Check your cart total to see what it takes off before you pay.
+
+Shop: <a href="https://blacklandwatchco.com/products/the-night-passage?ref=MRTICTOCTALK" rel="sponsored nofollow noopener" target="_blank">The Night Passage at Blackland Watch Co</a>
+
+## Tsar Bomba Elemental TB8204Q: the bold chronograph under $250 USD
+
+For the person who likes big, loud, sporty watches, the [Tsar Bomba Elemental TB8204Q](https://tsarbomba.com/products/tb8204q?ref=gwjrjgeb){: rel="sponsored nofollow noopener" target="_blank"} is a tonneau shaped chronograph with a stainless steel case and bezel, a sapphire crystal, and a Seiko quartz movement. Tsar Bomba lists the case at 43 x 50.5mm and 15.5mm thick, so it wears large. It comes on a 26mm silicone strap and is rated to 50m. Tsar Bomba lists every color at $219.99 USD.
+
+The tradeoff: this is a statement watch, not a dress watch, and it is the thickest watch on this list. If the person on your list wants something classic, pick the Bambino.
+
+Shop: <a href="https://tsarbomba.com/products/tb8204q?ref=gwjrjgeb" rel="sponsored nofollow noopener" target="_blank">Elemental TB8204Q at Tsar Bomba</a>
+
 ## Six gifts under $100 USD
 
 These are for the person who already has a watch they love. All prices are Barton Watch Bands list prices on bartonwatchbands.com, checked November 19, 2026.
@@ -63,7 +81,7 @@ These are for the person who already has a watch they love. All prices are Barto
 
 Shop on Amazon: {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+spring+bar+tool" text="spring bar tool" %}, {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+nylon+nato+style+watch+strap" text="NATO style straps" %}, {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+elite+silicone+watch+band" text="Elite silicone straps" %}, {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+watch+travel+case" text="watch travel cases" %}, and {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+watch+roll" text="watch rolls" %}.
 
-Before you buy a strap, check the watch's lug width. The Bambino takes 21mm and the SRPD55 takes 22mm. My [lug width chart](/watch-lug-width-chart/) and [Strap Finder](/strap-finder/) cover dozens of other popular models, and my [affordable strap guide](/best-affordable-watch-straps/) explains which style suits which watch.
+Before you buy a strap, check the watch's lug width. The Bambino takes 21mm, the SRPD55 takes 22mm, and the Night Passage takes 20mm. My [lug width chart](/watch-lug-width-chart/) and [Strap Finder](/strap-finder/) cover dozens of other popular models, and my [affordable strap guide](/best-affordable-watch-straps/) explains which style suits which watch.
 
 ## Thinking vintage instead?
 
@@ -79,6 +97,8 @@ For a first watch, the Seiko 5 Sports SRPD55. It is tough, it takes every strap,
 * Orient Bambino Version 7, 40.5mm: F6724 automatic, 21mm lugs, 30m, $295 USD at Orient USA.
 * Seiko 5 Sports SRPD55: 4R36 automatic, 22mm lugs, 100m, MSRP $350 USD at Seiko.
 * Tissot PRX 40mm quartz T137.410.11.041.00: integrated bracelet, 10 bar, $450 USD at Tissot.
+* Hemel The Night Passage: YN55A automatic, 20mm lugs, 200m, $309 USD at Blackland Watch Co, coupon code MRTICTOCTALK.
+* Tsar Bomba Elemental TB8204Q: Seiko quartz chronograph, sapphire, 50m, $219.99 USD at Tsar Bomba.
 * Six collector gifts from $14.99 USD to $99.99 USD at Barton's list prices.
 * All prices checked November 19, 2026. Black Friday and retailer prices change quickly.
 </div>
@@ -100,5 +120,5 @@ For a first watch, the Seiko 5 Sports SRPD55. It is tough, it takes every strap,
 </aside>
 
 <div class="sources" markdown="1">
-**Sources:** [Orient USA, Bambino Version 7 40.5mm RA AC0033Y30B](https://www.orientwatchusa.com/products/ra-ac0033y30b) · [Seiko US, 5 Sports SRPD55](https://www.seikowatches.com/us-en/products/5sports/srpd55) · [Tissot US, PRX 40mm T137.410.11.041.00](https://www.tissotwatches.com/en-us/t1374101104100.html) · [Barton, spring bar tool](https://www.bartonwatchbands.com/collections/spring-bar-tool) · [Barton, nylon NATO style straps](https://www.bartonwatchbands.com/collections/nylon-nato-style-straps) · [Barton, Elite silicone](https://www.bartonwatchbands.com/collections/elite-silicone-quick-release) · [Barton, watch rolls and travel cases](https://www.bartonwatchbands.com/collections/recycled-leather-watch-roll-case). Prices checked November 19, 2026.
+**Sources:** [Orient USA, Bambino Version 7 40.5mm RA AC0033Y30B](https://www.orientwatchusa.com/products/ra-ac0033y30b) · [Seiko US, 5 Sports SRPD55](https://www.seikowatches.com/us-en/products/5sports/srpd55) · [Tissot US, PRX 40mm T137.410.11.041.00](https://www.tissotwatches.com/en-us/t1374101104100.html) · [Blackland Watch Co, Hemel The Night Passage](https://blacklandwatchco.com/products/the-night-passage?ref=MRTICTOCTALK){: rel="sponsored nofollow noopener"} · [Tsar Bomba, Elemental TB8204Q](https://tsarbomba.com/products/tb8204q?ref=gwjrjgeb){: rel="sponsored nofollow noopener"} · [Barton, spring bar tool](https://www.bartonwatchbands.com/collections/spring-bar-tool) · [Barton, nylon NATO style straps](https://www.bartonwatchbands.com/collections/nylon-nato-style-straps) · [Barton, Elite silicone](https://www.bartonwatchbands.com/collections/elite-silicone-quick-release) · [Barton, watch rolls and travel cases](https://www.bartonwatchbands.com/collections/recycled-leather-watch-roll-case). Prices checked November 19, 2026.
 </div>

@@ -28,7 +28,7 @@ body_class: links
 
   <section class="links-shop" aria-labelledby="links-shop-title">
     <h2 id="links-shop-title" class="links-shop-title">Shop my picks</h2>
-    <p class="links-disclosure">#ad These are affiliate links. If you buy through them, MrTicTocTalk earns a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner, I may be compensated if you make a purchase through eBay links. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.</p>
+    <p class="links-disclosure">#ad These are affiliate links, including Blackland Watch Co, Tsar Bomba, and Northwest Straps. If you buy through them or use my coupon code, MrTicTocTalk earns a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner, I may be compensated if you make a purchase through eBay links. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.</p>
     <nav class="links-nav" aria-label="Shop my picks">
       {%- assign gift_post = site.posts | where: "slug", "watch-gifts-under-500" | first -%}
       {%- if gift_post %}
@@ -46,6 +46,9 @@ body_class: links
       {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+watch+roll" text="Watch rolls and travel cases on Amazon" class="links-btn links-btn-shop" %}
       {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=vintage+seiko+automatic+watch" text="Vintage Seiko watches on eBay" class="links-btn links-btn-shop" customid="links" %}
       {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=rolex+watch&LH_ItemCondition=3000" text="Pre owned Rolex on eBay" class="links-btn links-btn-shop" customid="links" %}
+      <a class="links-btn links-btn-shop" href="https://blacklandwatchco.com/?ref=MRTICTOCTALK" rel="sponsored nofollow noopener" target="_blank">Blackland Watch Co (code MRTICTOCTALK)</a>
+      <a class="links-btn links-btn-shop" href="https://tsarbomba.com/?ref=gwjrjgeb" rel="sponsored nofollow noopener" target="_blank">Tsar Bomba watches</a>
+      <a class="links-btn links-btn-shop" href="https://nwstraps.com?sca_ref=12799774.nirNn5HJqU" rel="sponsored nofollow noopener" target="_blank">Northwest Straps: webbing belts, key fobs, and lanyards</a>
     </nav>
   </section>
 </section>
