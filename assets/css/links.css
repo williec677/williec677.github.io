@@ -112,3 +112,38 @@
     border-color:#a50d26;
   }
 }
+
+/* Shop my picks */
+.links-shop{
+  margin:2rem 0 0;
+  padding-top:1.5rem;
+  border-top:1px solid var(--line);
+}
+.links-shop-title{
+  margin:0 0 .5rem;
+  font:700 1.35rem/1.2 var(--sans);
+  color:var(--navy);
+}
+.links-disclosure{
+  margin:0 0 1rem;
+  font:.88rem/1.5 var(--sans);
+  color:var(--muted);
+  text-align:left;
+}
+.links-nav .links-btn-shop{
+  background:#fff;
+  color:var(--navy);
+}
+.links-nav .links-btn-shop:hover,
+.links-nav .links-btn-shop:focus-visible{
+  background:var(--red);
+  border-color:var(--red);
+  color:#fff;
+}
+@media (prefers-color-scheme:dark){
+  .links-shop-title{color:#dfe5f4}
+  .links-disclosure{color:#a9adb6}
+  .links-nav .links-btn-shop{background:transparent;color:#dfe5f4;border-color:#2a3c68}
+  .links-nav .links-btn-shop:hover,
+  .links-nav .links-btn-shop:focus-visible{background:var(--red);border-color:var(--red);color:#fff}
+}

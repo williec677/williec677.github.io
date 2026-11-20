@@ -25,4 +25,27 @@ body_class: links
       <span class="links-title">Every Patek collection ranked</span>
     </a>
   </nav>
+
+  <section class="links-shop" aria-labelledby="links-shop-title">
+    <h2 id="links-shop-title" class="links-shop-title">Shop my picks</h2>
+    <p class="links-disclosure">#ad These are affiliate links. If you buy through them, MrTicTocTalk earns a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner, I may be compensated if you make a purchase through eBay links. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.</p>
+    <nav class="links-nav" aria-label="Shop my picks">
+      {%- assign gift_post = site.posts | where: "slug", "watch-gifts-under-500" | first -%}
+      {%- if gift_post %}
+      <a class="links-btn links-btn-feature" href="{{ gift_post.url | relative_url }}">
+        <span class="links-kicker">Gift guide</span>
+        <span class="links-title">Watch gifts under $500 USD</span>
+      </a>
+      {%- endif -%}
+      {%- assign strap_post = site.posts | where: "slug", "best-affordable-watch-straps" | first -%}
+      {%- if strap_post %}
+      <a class="links-btn" href="{{ strap_post.url | relative_url }}">Best affordable watch straps</a>
+      {%- endif %}
+      {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+quick+release+watch+band" text="Quick release watch straps on Amazon" class="links-btn links-btn-shop" %}
+      {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+spring+bar+tool" text="Spring bar tools on Amazon" class="links-btn links-btn-shop" %}
+      {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+watch+roll" text="Watch rolls and travel cases on Amazon" class="links-btn links-btn-shop" %}
+      {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=vintage+seiko+automatic+watch" text="Vintage Seiko watches on eBay" class="links-btn links-btn-shop" customid="links" %}
+      {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=rolex+watch&LH_ItemCondition=3000" text="Pre owned Rolex on eBay" class="links-btn links-btn-shop" customid="links" %}
+    </nav>
+  </section>
 </section>
