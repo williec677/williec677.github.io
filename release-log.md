@@ -698,3 +698,18 @@ Window checked: ~2026-11-20 6:25 PM ET through ~2026-11-21 8:25 AM ET.
 | 2026-11-21 | Follow ups still open: Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement (SW200-1 vs SW 220-1), Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness (10 vs 10.5 mm) and meteorite LE sell out | Prior | Sneaker Politics closed; Direnzo added |
 
 Window checked: ~2026-11-21 8:25 AM ET through ~2026-11-21 12:30 PM ET.
+
+## Check run 2026-11-21 ~6:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-21 | aBlogtoWatch Weekly #248 podcast (Zenith x J.N. Shapiro, solar watches, Studio Underd0g) | aBtW | Skipped: podcast recap; Zenith G.F.J. J.N. Shapiro covered Nov 12, Underd0g 04SERIES covered Nov 13 |
+| 2026-11-21 | A. Lange & Söhne Anthony de Haas interview on Datograph Perpetual platinum bracelet | swisswatches-magazine.com | Skipped: interview about an existing model (hands on skipped early Nov) |
+| 2026-11-21 | Omega Seamaster Diver 300M blue ceramic/Ti and brown ceramic/Sedna Gold resurfacing on X ("quietly dropped") | X | Skipped: covered Nov 6 |
+| 2026-11-21 | NYPD Meatpacking District Royal Oak theft ($85,000) trending on X | NY Post (Nov 19), ABC7, Gothamist | Skipped: local crime report from Nov 1 / reported Nov 19, outside window and outside scope |
+| 2026-11-21 | Seiko x San-X Rilakkuma 7N01 (2,000 pcs, ¥49,280, Japan only via Premico, orders Nov 18) | Notebookcheck via Gizmo Guide | Skipped: Japan only character LE, orders opened Nov 18 (outside window), no USD price |
+| 2026-11-21 | Casio Edifice Windflow ECB-2200 India launch (INR 18,995 / 19,995), Oceanus Manta OCW-SG1000MC, Citizen Attesa Hazy (Gizmochina), The Citizen AQ4100-65F (the-gadgeteer), Nodus Red Jasper (TBWS), Armin Strom Resonance Meteorite, Genus x Tad Kozh, W&W Fossil CS-1 roundup | web search, RSS | Skipped: regional launch of existing model, or already covered / skipped earlier |
+| 2026-11-21 | Rolex / Tudor January 2027 price increase talk (miojewelry Nov 5 explainer, Rolex Forums Nov 6 thread, Causli Oct 9) | web search | Skipped: speculation, no new reporting or confirmation |
+| 2026-11-21 | Hodinkee, Monochrome (last post 10 AM ET), Fratello, W&W, T+T, Revolution, SJX, Deployant, Teddy Baldassarre, Robb Report, G-Central, Hypebeast: nothing new in window; WatchPro feed and site 403, Gear Patrol / WatchTime feeds 404, Chronodaily 520, Oracle of Time connection closed, r/Watches 403; X search found no new release, price increase, discontinuation or waitlist news | RSS, web search, X | Nothing new |
+| 2026-11-21 | Follow ups still open: Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement (SW200-1 vs SW 220-1), Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness (10 vs 10.5 mm) and meteorite LE sell out | Prior | Unchanged |
+
+Window checked: ~2026-11-21 12:30 PM ET through ~2026-11-21 6:35 PM ET. Nothing published.
