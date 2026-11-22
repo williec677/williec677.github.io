@@ -726,3 +726,17 @@ Window checked: ~2026-11-21 12:30 PM ET through ~2026-11-21 6:35 PM ET. Nothing 
 | 2026-11-22 | Follow ups still open: Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement, Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness and meteorite LE sell out, MR-G Haruka new date | Prior | MR-G Haruka added |
 
 Window checked: ~2026-11-21 6:35 PM ET through ~2026-11-22 8:20 AM ET.
+
+## Check run 2026-11-22 ~12:25 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-22 | ATOWAK Cosmofleet Ascent (T+T, 9:30 AM ET) | Time+Tide | Skipped: covered Nov 20 |
+| 2026-11-22 | Mido Multifort TV Big Date Chronometer, first COSC Multifort TV ($1,650 USD), resurfacing via time.news Nov 22 | time.news, Monochrome (Oct 16), T+T, Mido | Skipped: launched Oct 16, weeks outside window |
+| 2026-11-22 | G-Shock MR-G MRG-B2100HR-1AJR Haruka (webChronos English page dated Nov 22) | webChronos | Skipped: already logged 8 AM; page gives no new Japan launch date, follow up stays open |
+| 2026-11-24 | Protocol 001 Aposematic collection Kickstarter (Protocol Watches, Konstanz; 3 x 100 pcs, SW200, 38.5 mm per Kickstarter preview text), opens Nov 24 9 AM ET | Wrist League launches page, Kickstarter (403 to curl) | Skipped: pre launch, no price, no trusted outlet coverage; follow up Nov 24 |
+| 2026-11-22 | WristBuzz week in watches (Roger W. Smith Series Seven, Oris Doraemon, Hublot Denim, Arnold & Son Agate, Armin Strom Meteorite), Oracle of Time microbrand guide and Christmas gifts, Deployant IAMWATCH portraits, aBtW Citizen Promaster Air hands on | WristBuzz, Oracle of Time, Deployant, aBtW | Skipped: recaps, features, hands ons; all stories covered or skipped Nov 17 to 21 |
+| 2026-11-22 | Price increase search: only Oct/Nov increases already effective (VAGUE WATCH Oct 31, Ice-Watch Japan Nov 1, Citizen Japan Oct 1), Garmin CEO 2027 comment (Oct 31) | web search | Skipped: old or not a confirmed increase |
+| 2026-11-22 | Hodinkee, Monochrome, Fratello, W&W, Revolution, SJX, Teddy Baldassarre, Hypebeast, G-Central, Robb Report, Swisswatches: nothing new in window; WatchPro feed 403, Gear Patrol / WatchTime feeds 404, r/Watches 403; X post search returned 0 watch results, X news: nothing new | RSS, X, web search | Nothing new |
+| 2026-11-22 | Follow ups still open: Protocol 001 Kickstarter Nov 24, Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement, Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness and meteorite LE sell out, MR-G Haruka new date | Prior | Protocol 001 added |
+
+Window checked: ~2026-11-22 8:20 AM ET through ~2026-11-22 12:30 PM ET. Nothing published.
