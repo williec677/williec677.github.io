@@ -13,23 +13,14 @@ body_class: links
   <p class="links-slogan">Talking Time. One Watch at a Time.</p>
   <p class="links-lede">Watch education, honest prices, and the Journal in one place.</p>
 
-  <nav class="links-nav" aria-label="MrTicTocTalk links">
-    <a class="links-btn" href="https://www.youtube.com/@MrTicTocTalk" rel="me noopener" target="_blank">YouTube</a>
-    <a class="links-btn" href="https://www.instagram.com/mrtictoctalk" rel="me noopener" target="_blank">Instagram</a>
-    <a class="links-btn" href="https://www.tiktok.com/@mr.tictoctalk" rel="me noopener" target="_blank">TikTok</a>
-    <a class="links-btn" href="https://x.com/MrTicTocTalk" rel="me noopener" target="_blank">X</a>
-    <a class="links-btn" href="https://www.facebook.com/profile.php?id=61583792139178" rel="me noopener" target="_blank">Facebook</a>
-    <a class="links-btn" href="{{ '/' | relative_url }}">MrTicTocTalk Journal</a>
-    <a class="links-btn links-btn-feature" href="https://www.youtube.com/watch?v=tx67zHS0qUE" rel="noopener" target="_blank">
-      <span class="links-kicker">Latest long video</span>
-      <span class="links-title">5 Watch Complications Most Buyers Misunderstand</span>
-    </a>
-  </nav>
-
   <section class="links-shop" aria-labelledby="links-shop-title">
-    <h2 id="links-shop-title" class="links-shop-title">Shop my picks</h2>
-    <p class="links-disclosure">#ad These are affiliate links, including Blackland Watch Co, Tsar Bomba, and Northwest Straps. If you buy through them or use my coupon code, MrTicTocTalk earns a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner, I may be compensated if you make a purchase through eBay links. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.</p>
-    <nav class="links-nav" aria-label="Shop my picks">
+    <h2 id="links-shop-title" class="links-shop-title">This week's watch deals</h2>
+    <p class="links-disclosure">#ad These are affiliate links, including Blackland Watch Co, Tsar Bomba, and Northwest Straps. If you buy through them or use my coupon code, MrTicTocTalk earns a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner Network Affiliate, I earn from qualifying purchases. <a href="{{ '/affiliate-disclosure/' | relative_url }}">Details</a>.</p>
+    <nav class="links-nav" aria-label="This week's watch deals">
+      <a class="links-btn links-btn-feature links-btn-shop" href="https://tsarbomba.com/pages/black-friday?ref=gwjrjgeb" rel="sponsored nofollow noopener" target="_blank">
+        <span class="links-kicker">Black Friday</span>
+        <span class="links-title">Tsar Bomba 5% off, applied at checkout, thru Nov 30</span>
+      </a>
       {%- assign gift_post = site.posts | where: "slug", "watch-gifts-under-500" | first -%}
       {%- if gift_post %}
       <a class="links-btn links-btn-feature" href="{{ gift_post.url | relative_url }}">
@@ -46,9 +37,23 @@ body_class: links
       {% include aff.html network="amazon" url="https://www.amazon.com/s?k=barton+watch+roll" text="Watch rolls and travel cases on Amazon" class="links-btn links-btn-shop" %}
       {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=vintage+seiko+automatic+watch" text="Vintage Seiko watches on eBay" class="links-btn links-btn-shop" customid="links" %}
       {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=rolex+watch&LH_ItemCondition=3000" text="Pre owned Rolex on eBay" class="links-btn links-btn-shop" customid="links" %}
-      <a class="links-btn links-btn-shop" href="https://blacklandwatchco.com/?ref=MRTICTOCTALK" rel="sponsored nofollow noopener" target="_blank">Blackland Watch Co (code MRTICTOCTALK)</a>
+      <a class="links-btn links-btn-shop" href="https://blacklandwatchco.com/?ref=MRTICTOCTALK" rel="sponsored nofollow noopener" target="_blank">Blackland Watch Co: Hemel, Bertucci and pre owned Cartier</a>
+      <a class="links-btn links-btn-shop" href="https://blacklandwatchco.com/products/the-night-passage?ref=MRTICTOCTALK" rel="sponsored nofollow noopener" target="_blank">Hemel Night Passage railroad dial watch</a>
       <a class="links-btn links-btn-shop" href="https://tsarbomba.com/?ref=gwjrjgeb" rel="sponsored nofollow noopener" target="_blank">Tsar Bomba watches</a>
       <a class="links-btn links-btn-shop" href="https://nwstraps.com?sca_ref=12799774.nirNn5HJqU" rel="sponsored nofollow noopener" target="_blank">Northwest Straps: webbing belts, key fobs, and lanyards</a>
     </nav>
   </section>
+
+  <nav class="links-nav" aria-label="MrTicTocTalk links">
+    <a class="links-btn" href="https://www.youtube.com/@MrTicTocTalk" rel="me noopener" target="_blank">YouTube</a>
+    <a class="links-btn" href="https://www.instagram.com/mrtictoctalk" rel="me noopener" target="_blank">Instagram</a>
+    <a class="links-btn" href="https://www.tiktok.com/@mr.tictoctalk" rel="me noopener" target="_blank">TikTok</a>
+    <a class="links-btn" href="https://x.com/MrTicTocTalk" rel="me noopener" target="_blank">X</a>
+    <a class="links-btn" href="https://www.facebook.com/profile.php?id=61583792139178" rel="me noopener" target="_blank">Facebook</a>
+    <a class="links-btn" href="{{ '/' | relative_url }}">MrTicTocTalk Journal</a>
+    <a class="links-btn links-btn-feature" href="https://www.youtube.com/watch?v=tx67zHS0qUE" rel="noopener" target="_blank">
+      <span class="links-kicker">Latest long video</span>
+      <span class="links-title">5 Watch Complications Most Buyers Misunderstand</span>
+    </a>
+  </nav>
 </section>

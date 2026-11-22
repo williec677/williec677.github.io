@@ -113,11 +113,22 @@
   }
 }
 
-/* Shop my picks */
+/* This week's watch deals sits above the social nav */
 .links-shop{
-  margin:2rem 0 0;
-  padding-top:1.5rem;
-  border-top:1px solid var(--line);
+  margin:0 0 2rem;
+  padding:0 0 1.5rem;
+  border-bottom:1px solid var(--line);
+}
+.links-nav .links-btn-feature.links-btn-shop{
+  background:var(--red);
+  border-color:var(--red);
+  color:#fff;
+}
+.links-nav .links-btn-feature.links-btn-shop:hover,
+.links-nav .links-btn-feature.links-btn-shop:focus-visible{
+  background:#a50d26;
+  border-color:#a50d26;
+  color:#fff;
 }
 .links-shop-title{
   margin:0 0 .5rem;
@@ -146,4 +157,15 @@
   .links-nav .links-btn-shop{background:transparent;color:#dfe5f4;border-color:#2a3c68}
   .links-nav .links-btn-shop:hover,
   .links-nav .links-btn-shop:focus-visible{background:var(--red);border-color:var(--red);color:#fff}
+  .links-nav .links-btn-feature.links-btn-shop{
+    background:var(--red);
+    border-color:var(--red);
+    color:#fff;
+  }
+  .links-nav .links-btn-feature.links-btn-shop:hover,
+  .links-nav .links-btn-feature.links-btn-shop:focus-visible{
+    background:#a50d26;
+    border-color:#a50d26;
+    color:#fff;
+  }
 }
