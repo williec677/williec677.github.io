@@ -81,7 +81,7 @@ If you sell or trade, show buyers the truth. Photograph the dial in daylight wit
 
 ## Buying patina without overpaying
 
-Pay for patina only when the rest of the story agrees. That means a dial era that fits the serial, hands that match, a glow that fits the material, and a seller who can show you the watch under different light. If any piece is off, value the watch as if the lume were ordinary.
+Pay for patina only when the rest of the story agrees. That means a dial era that fits the serial, hands that match, a glow that fits the material, and a seller who can show you the watch under different light. If any piece is off, value the watch as if the lume were ordinary. For two vintage Subs where this comes up constantly, see [Rolex Submariner 5513 vs 1680](/rolex-submariner-5513-vs-1680/). The same checks apply in the [Rolex Explorer 1016 history](/rolex-explorer-1016-history/).
 
 {% include ebay-shop.html lead="Practice reading tritium dials on real listings:" q="rolex+submariner+5513" label="Rolex Submariner 5513" q2="rolex+datejust+1601" label2="Rolex Datejust 1601" %}
 

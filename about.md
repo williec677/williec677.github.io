@@ -4,7 +4,7 @@ title: About the Journal
 permalink: /about/
 description: "Who writes the MrTicTocTalk Journal, and how it researches vintage watches and prices."
 ---
-**MrTicTocTalk Journal** is the long form companion to the [MrTicTocTalk Instagram](https://www.instagram.com/mrtictoctalk/). Same motto: *Talking Time. One Watch at a Time.*
+**MrTicTocTalk Journal** (also written Mr TicTocTalk) is the long form companion to the [MrTicTocTalk YouTube channel](https://www.youtube.com/@MrTicTocTalk) and [Instagram](https://www.instagram.com/mrtictoctalk/). Same motto: *Talking Time. One Watch at a Time.* The Journal lives at [mrtictoctalk.com](https://mrtictoctalk.com/).
 
 I'm Will, a collector with five Rolexes in the box and a soft spot for great watches at every price. Here is the full rotation:
 

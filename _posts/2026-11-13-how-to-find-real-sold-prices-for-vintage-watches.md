@@ -81,7 +81,7 @@ If you sell on eBay, Seller Hub includes a Product Research tool, formerly Terap
 
 ## Why this blog does not quote prices casually
 
-You will notice that the guides here rarely give a number. That is on purpose. A price without a date and a source goes stale within weeks and gets copied around the internet as fact. When I do quote one, it will be a range with the source and the date. Otherwise I would rather give you the method.
+You will notice that the guides here rarely give a number. That is on purpose. A price without a date and a source goes stale within weeks and gets copied around the internet as fact. When I do quote one, it will be a range with the source and the date. Otherwise I would rather give you the method. Before you trust a vintage Rolex comp, [read the serial and reference numbers](/how-to-read-rolex-serial-and-reference-numbers/) so the example you are comparing is actually the same watch.
 
 <div class="takeaways" markdown="1">
 ## Quick takeaways

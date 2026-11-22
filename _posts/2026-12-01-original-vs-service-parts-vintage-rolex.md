@@ -80,11 +80,11 @@ Before you buy, ask the seller for:
 * Clasp code photos.
 * Whether any original parts are included.
 
-Then compare everything against the serial era. Use a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=10x+jewelers+loupe+triplet" text="10x loupe" %} and a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=365nm+uv+flashlight" text="UV flashlight" %} if you can see it in person.
+Then compare everything against the serial era, and [read the serial and reference numbers](/how-to-read-rolex-serial-and-reference-numbers/) if you need a refresher. For lume text and glow checks, use the [tritium vs Luminova guide](/tritium-vs-luminova-patina-guide/). Use a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=10x+jewelers+loupe+triplet" text="10x loupe" %} and a {% include aff.html network="amazon" url="https://www.amazon.com/s?k=365nm+uv+flashlight" text="UV flashlight" %} if you can see it in person.
 
 ## Where to look
 
-Service part watches are often the best value way to wear vintage. Search the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=vintage+rolex+service+dial&LH_Sold=1&LH_Complete=1" text="eBay sold filter for service dial watches" %} to see what wearer grade examples trade for, and compare against originals of the same reference on {% include aff.html network="chrono24" url="https://www.chrono24.com/search/index.htm?query=vintage+rolex" text="Chrono24" %}. I do not quote a percentage gap here because it varies by reference and the market moves. Build your own comps.
+Service part watches are often the best value way to wear vintage. Search the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=vintage+rolex+service+dial&LH_Sold=1&LH_Complete=1" text="eBay sold filter for service dial watches" %} to see what wearer grade examples trade for, and compare against originals of the same reference on {% include aff.html network="chrono24" url="https://www.chrono24.com/search/index.htm?query=vintage+rolex" text="Chrono24" %}. I do not quote a percentage gap here because it varies by reference and the market moves. Build your own comps with [this sold price method](/how-to-find-real-sold-prices-for-vintage-watches/).
 
 {% include ebay-shop.html lead="Practice the checklist on real listings:" q="rolex+datejust+1601" label="Rolex Datejust 1601" q2="rolex+submariner+5513" label2="Rolex Submariner 5513" %}
 

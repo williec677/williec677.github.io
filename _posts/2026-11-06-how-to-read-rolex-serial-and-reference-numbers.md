@@ -2,7 +2,7 @@
 title: "How to Read Rolex Serial and Reference Numbers (and What They Can't Tell You)"
 seo_title: "How to Read Rolex Serial and Reference Numbers"
 cluster: vintage
-description: "Where Rolex engraves serial and reference numbers, how to date a watch from its serial, how to decode the reference digits, and the clasp and caseback clues that catch swapped parts."
+description: "Where Rolex engraves serial and reference numbers, how to date a watch from its serial, and the clasp and caseback clues that catch swapped parts."
 date: 2026-11-06 09:00:00 -0500
 category_label: Reference Guide
 tags: [rolex, serial-numbers, reference-numbers, authentication]
@@ -101,6 +101,8 @@ The final check is always the same: a qualified watchmaker opens the case. Befor
 3. Check the clasp code against the serial.
 4. Ask whether the papers match the serial, and compare the digits yourself.
 5. Make the sale conditional on a watchmaker opening the case.
+
+Once the numbers check out, [find what comparable watches actually sold for](/how-to-find-real-sold-prices-for-vintage-watches/). For the Explorer that shows up in a lot of these examples, see the [Rolex Explorer 1016 history](/rolex-explorer-1016-history/).
 
 {% include ebay-shop.html lead="Practice on real listings:" q="rolex+datejust+1601" label="Rolex Datejust 1601" q2="rolex+submariner+5513" label2="Rolex Submariner 5513" %}
 

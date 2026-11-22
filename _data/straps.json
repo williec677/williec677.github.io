@@ -447,7 +447,7 @@
       "Leather",
       "Canvas"
     ],
-    "notes": "The 38mm Khaki Field Auto is 20mm.",
+    "notes": "The 38mm Khaki Field Auto (H70455533, H70455) has a 20mm lug width, so it takes 20mm straps. That is not the same size as the 42mm Khaki Field Auto, which is 22mm.",
     "sources": [
       "https://watchbase.com/hamilton/x/h70455533"
     ],
@@ -488,7 +488,7 @@
       "Leather",
       "Canvas"
     ],
-    "notes": "The 42mm Khaki Field Auto steps up to 22mm.",
+    "notes": "The 42mm Khaki Field Auto (H70555533, H70555) has a 22mm lug width, so it takes 22mm straps. The 38mm Khaki Field Auto is 20mm, so those straps will not fit.",
     "sources": [
       "https://watchbase.com/hamilton/x/h70555533"
     ],
@@ -529,7 +529,7 @@
       "Canvas",
       "Leather"
     ],
-    "notes": "Hamilton's field watch is 20mm and lives on NATO straps.",
+    "notes": "Hamilton lists the lug width of the Khaki Field Mechanical H69439931 as 20mm, so this 38mm field watch takes 20mm straps. The H69439 reference is the same 20mm size.",
     "sources": [
       "https://watchbase.com/hamilton/x/h69439931"
     ],
@@ -931,7 +931,7 @@
       "Leather",
       "Mesh"
     ],
-    "notes": "The current Seamaster 300M is 20mm. The lugs are fairly long and curved, so curved end rubber hugs it nicely.",
+    "notes": "The current 42mm Seamaster Diver 300M references 210.30.42.20.01.001 and 210.30.42.20.03.001 have a 20mm lug width, so they take 20mm straps.",
     "sources": [
       "https://watchbase.com/omega/x/210-30-42-20-01-001",
       "https://watchbase.com/omega/x/210-30-42-20-03-001"
@@ -1015,7 +1015,7 @@
       "Velcro",
       "Rubber"
     ],
-    "notes": "The Moonwatch is 20mm and one of the best strap swap watches ever made. Older 3570.50 and 311 references are also 20mm.",
+    "notes": "Omega lists the space between lugs on the Speedmaster Professional 310.30.42.50.01.001 as 20mm, so this Moonwatch takes 20mm straps. The 42mm case references 310.30.42.50.01.002 and 311.30.42.30.01.005 are also 20mm.",
     "sources": [
       "https://watchbase.com/omega/x/310-30-42-50-01-001",
       "https://watchbase.com/omega/x/311-30-42-30-01-005"
@@ -1345,7 +1345,7 @@
       "Suede",
       "Oyster style bracelet"
     ],
-    "notes": "The 36mm Datejust has been 20mm for generations. A dressy leather or suede strap looks great on it.",
+    "notes": "The 126200, 126234, and 116234 Datejust cases are 36mm with a 20mm lug width, so they take 20mm straps.",
     "sources": [
       "https://watchbase.com/rolex/datejust/126200-0001",
       "https://watchbase.com/rolex/datejust/126234-0011",
@@ -1388,7 +1388,7 @@
       "Suede",
       "Jubilee style bracelet"
     ],
-    "notes": "The 41mm Datejust is 21mm, not 20mm. Plenty of cheap straps only come in 20mm or 22mm, so check the size before you buy.",
+    "notes": "The 126300 and 126334 Datejust cases are 41mm with a 21mm lug width, so they take 21mm straps. This is not the same size as the 36mm Datejust, which is 20mm.",
     "sources": [
       "https://watchbase.com/rolex/datejust-41/126300-0001",
       "https://watchbase.com/rolex/datejust-41/126334-0001",
@@ -1643,7 +1643,7 @@
       "NATO",
       "Leather"
     ],
-    "notes": "Every steel GMT-Master II in the 40mm case is 20mm. Rolex sells it on Oyster and Jubilee, and the Jubilee look is the one people chase.",
+    "notes": "The current 40mm steel GMT Master II references (126710BLRO, 126710BLNR, 126710GRNR, and 126720VTNR) have a 20mm lug width, so they take 20mm straps.",
     "sources": [
       "https://watchbase.com/rolex/gmt-master/126710blro-0001",
       "https://www.modacommunities.com/glossary/guides/rolex-bracelets"
@@ -1725,7 +1725,7 @@
       "Leather",
       "Rubber"
     ],
-    "notes": "The aluminum bezel GMT people love. 20mm lugs with drilled holes on most examples, which makes it a fantastic NATO watch.",
+    "notes": "The 16710 has a 40mm case and a 20mm lug width, so it takes 20mm straps. Standard spring bar straps in 20mm fit this reference.",
     "sources": [
       "https://watchbase.com/rolex/x/16710"
     ],
@@ -1892,7 +1892,7 @@
       "Leather",
       "Oyster style bracelet"
     ],
-    "notes": "The Maxi case Submariner is a true 20mm, the easiest Sub to shop straps for. Same 20mm as the Sub before it, but different from the 21mm Sub that replaced it.",
+    "notes": "The 114060, 116610LN, and 116610LV cases are 40mm with a 20mm lug width, so they take 20mm straps. The later 41mm Submariner moved to 21mm, so a 20mm strap from this generation will not fit those references. Confirm your exact reference before you buy.",
     "sources": [
       "https://watchbase.com/rolex/x/116610ln",
       "https://watchbase.com/rolex/x/114060"
@@ -1936,7 +1936,7 @@
       "NATO",
       "Leather"
     ],
-    "notes": "The 2020 Submariner moved to 21mm, so your old 20mm Sub straps will not fit. Rolex lug holes sit close to the case, so curved spring bars or curved end rubber give the cleanest look.",
+    "notes": "The 124060, 126610LN, and 126610LV cases are 41mm with a 21mm lug width, so they take 21mm straps. The 40mm Submariner references from 2010 to 2020 are 20mm, so those straps will not fit.",
     "sources": [
       "https://watchbase.com/rolex/x/126610ln",
       "https://watchbase.com/rolex/x/124060",
@@ -2105,7 +2105,7 @@
       "Jubilee style bracelet",
       "Canvas"
     ],
-    "notes": "Seiko lists 22mm between the lugs on the SRPD 5 Sports. This is the modding king, and it takes the same 22mm straps as the SKX.",
+    "notes": "Seiko lists the distance between lugs on the SRPD55 as 22mm, so this 42.5mm 5 Sports takes 22mm straps. The SRPD51 and SRPD63 share that 22mm lug width.",
     "sources": [
       "https://www.seikowatches.com/us-en/products/5sports/srpd55"
     ],
@@ -2314,7 +2314,7 @@
       "Jubilee style bracelet",
       "FKM rubber"
     ],
-    "notes": "The legendary SKX is 22mm. Aftermarket bracelets and straps for it are everywhere.",
+    "notes": "The SKX007 and SKX009 have a 42mm case and a 22mm lug width, so they take 22mm straps.",
     "sources": [
       "https://watchbase.com/seiko/mechanical/skx007k1"
     ],
@@ -2590,7 +2590,7 @@
       "PRX specific rubber",
       "PRX specific leather"
     ],
-    "notes": "Integrated bracelet with a 12mm attachment. Regular straps do not fit. Buy straps made for the PRX and your case size.",
+    "notes": "The 40mm PRX Powermatic 80 (T137.407) uses an integrated bracelet. Watchbase lists a 12mm attachment width, and standard spring bar straps do not fit. Use a strap made for the 40mm PRX.",
     "sources": [
       "https://watchbase.com/tissot/x/t137-407-11-041-00"
     ],
@@ -2618,7 +2618,7 @@
       "PRX specific rubber",
       "PRX specific leather"
     ],
-    "notes": "Same 12mm integrated attachment as the automatic. Look for PRX specific straps.",
+    "notes": "The 40mm PRX Quartz (T137.410) uses an integrated bracelet, with the same 12mm attachment width as the automatic. Standard spring bar straps do not fit. Use a strap made for the 40mm PRX.",
     "sources": [
       "https://watchbase.com/tissot/x/t137-410-11-041-00"
     ],
@@ -2816,7 +2816,7 @@
       "Leather",
       "Rubber"
     ],
-    "notes": "The BB58 is 20mm, which makes it one of the easiest luxury divers to strap up. Tudor's own fabric straps are a fan favorite.",
+    "notes": "The Black Bay 58 references M79030N and M79030B have a 39mm case and a 20mm lug width, so they take 20mm straps.",
     "sources": [
       "https://watchbase.com/tudor/x/m79030n-0001"
     ],

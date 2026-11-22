@@ -62,6 +62,42 @@ layout: default
   </ul>
   {% if m.fit == "standard" %}<p>Want more options? See every <a href="{{ '/strap-finder/' | relative_url }}#size-{{ m.lug }}">{{ m.lug }}mm watch</a> in the finder, or the <a href="{{ '/lug-width/' | append: m.lug | append: 'mm/' | relative_url }}">{{ m.lug }}mm size guide</a>.</p>{% else %}<p>See all <a href="{{ '/strap-finder/' | relative_url }}#special-fits">special fit watches</a> in the finder.</p>{% endif %}
   <p>More {{ m.brand | replace: "Omega x Swatch", "Omega" }} sizes: <a href="{{ '/lug-width/' | append: brand_slug | append: '/' | relative_url }}">{{ m.brand | replace: "Omega x Swatch", "Omega" }} lug widths</a>.</p>
+  {%- if m.fit == "standard" and m.lug -%}
+  {%- assign q1 = "What strap size does the " | append: m.brand | append: " " | append: m.model | append: " take?" -%}
+  {%- assign a1 = "The " | append: m.brand | append: " " | append: m.model | append: " takes " | append: m.lug | append: "mm straps. The lug width is " | append: m.lug | append: "mm." -%}
+  {%- assign q2 = "What is the lug width of the " | append: m.brand | append: " " | append: m.model | append: "?" -%}
+  {%- assign a2 = "The " | append: m.brand | append: " " | append: m.model | append: " has a " | append: m.lug | append: "mm lug width." -%}
+  <h2>Strap size questions</h2>
+  <h3>{{ q1 }}</h3>
+  <p>{{ a1 }}</p>
+  <h3>{{ q2 }}</h3>
+  <p>{{ a2 }}</p>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type": "Question", "name": {{ q1 | jsonify }}, "acceptedAnswer": {"@type": "Answer", "text": {{ a1 | jsonify }}}},
+      {"@type": "Question", "name": {{ q2 | jsonify }}, "acceptedAnswer": {"@type": "Answer", "text": {{ a2 | jsonify }}}}
+    ]
+  }
+  </script>
+  {%- elsif m.fit == "integrated" or m.fit == "proprietary" -%}
+  {%- assign q1 = "What strap size does the " | append: m.brand | append: " " | append: m.model | append: " take?" -%}
+  {%- assign a1 = "The " | append: m.brand | append: " " | append: m.model | append: " uses an integrated or proprietary bracelet, so standard spring bar straps do not fit. Use a strap made for this model." -%}
+  <h2>Strap size questions</h2>
+  <h3>{{ q1 }}</h3>
+  <p>{{ a1 }}</p>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type": "Question", "name": {{ q1 | jsonify }}, "acceptedAnswer": {"@type": "Answer", "text": {{ a1 | jsonify }}}}
+    ]
+  }
+  </script>
+  {%- endif -%}
   <h2>Sources</h2>
   <p class="meta">We checked this lug width against these sources. Always confirm your exact reference before you buy.</p>
   <ul class="strap-sources">

@@ -16,6 +16,12 @@ social:
   name: MrTicTocTalk
   links:
     - https://www.instagram.com/mrtictoctalk/
+    - https://www.youtube.com/@MrTicTocTalk
+    - https://www.tiktok.com/@mr.tictoctalk
+    - https://x.com/mrtictoctalk
+    - https://www.facebook.com/profile.php?id=61583792139178
+twitter:
+  username: mrtictoctalk
 instagram_url: https://www.instagram.com/mrtictoctalk/
 x_url: https://x.com/mrtictoctalk
 logo: /assets/img/brand/logo-full.png   # Organization logo in jekyll-seo-tag JSON-LD (output as an absolute https URL)
@@ -23,11 +29,11 @@ defaults:
   - scope: { path: "", type: posts }
     values:
       layout: post
-      image: /assets/img/brand/logo-full.png   # default og:image / twitter:image; a post's own image: overrides it
+      image: /assets/img/og-default.png   # default og:image / twitter:image (1200x630); a post's own image: overrides it
       affiliate: true
   - scope: { path: "" }
     values:
-      image: /assets/img/brand/logo-full.png   # default og:image / twitter:image; a post's own image: overrides it
+      image: /assets/img/og-default.png   # default og:image / twitter:image (1200x630); a post's own image: overrides it
 
 permalink: /:title/
 future: false          # posts dated in the future are NOT built; the daily workflow publishes them on their date
@@ -48,6 +54,7 @@ exclude:
   - content-calendar.md   # internal planning file, never publish
   - release-log.md        # internal news check log, never publish
   - STRAP-FINDER-SOURCES.md  # strap finder source list, kept in the repo only
+  - assets/img/IMAGE-SOURCES.md  # internal photo credits, never publish
   - Gemfile
   - Gemfile.lock
   - vendor

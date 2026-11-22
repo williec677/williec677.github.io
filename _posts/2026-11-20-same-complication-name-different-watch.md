@@ -142,7 +142,7 @@ Official US price USD 6,195, official Dial Color Blue, on [Frederique Constant's
 
 ## What I would take from the comparisons
 
-If you remember one thing, make it this. The name of a complication does not tell you the whole story. Sometimes you are paying for function. Sometimes you are paying for craft. Know which one you want before you buy.
+If you remember one thing, make it this. The name of a complication does not tell you the whole story. Sometimes you are paying for function. Sometimes you are paying for craft. Know which one you want before you buy. If you already have a Rolex GMT Master II and need the crown sequence, see [how to set a Rolex GMT Master II](/how-to-set-rolex-gmt-master-ii/).
 
 This page can also be the start of a longer Watch Academy series on the Journal: annual calendar versus perpetual calendar, automatic versus manual winding, chronograph versus chronometer, and a closer look at caller GMT versus flyer GMT, among other topics. Those later guides are planned, not published yet.
 

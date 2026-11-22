@@ -2,7 +2,7 @@
 title: "Watch Gifts Under $500 USD for Black Friday 2026: Five Watches and Six Gifts Under $100 USD"
 seo_title: "Watch Gifts Under $500 USD"
 cluster: affordable
-description: "A short list of watch gifts that a watch person will actually wear: the Orient Bambino, the Seiko 5 Sports SRPD55, the Tissot PRX 40mm quartz, the Hemel Night Passage, and the Tsar Bomba Elemental TB8204Q, plus straps, a spring bar tool, and travel cases under $100 USD. Every price checked on the seller's own US site on November 19, 2026."
+description: "Five watches a watch person will actually wear, plus six gifts under $100 USD. Prices checked on each seller's own US site on November 19, 2026."
 date: 2026-11-22 08:30:00 -0500
 category_label: Buying Guide
 affiliate: true
