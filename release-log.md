@@ -713,3 +713,16 @@ Window checked: ~2026-11-21 8:25 AM ET through ~2026-11-21 12:30 PM ET.
 | 2026-11-21 | Follow ups still open: Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement (SW200-1 vs SW 220-1), Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness (10 vs 10.5 mm) and meteorite LE sell out | Prior | Unchanged |
 
 Window checked: ~2026-11-21 12:30 PM ET through ~2026-11-21 6:35 PM ET. Nothing published.
+
+## Check run 2026-11-22 ~8:20 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-21/22 | Paolo Bulgari, Bvlgari Group chairman since 1984, dies in Rome at 89 (announced Nov 21; no cause disclosed; funeral Nov 23 Santa Croce in Gerusalemme per BBC); watch legacy: 1975 BULGARI ROMA gift, 1977 Bvlgari Bvlgari (Bvlgari heritage), 2000 Genta/Roth buy (WSJ), Octo Finissimo 2014, 10 records in 11 years (Haute Time) | WWD, BBC, People, Bvlgari, WSJ, Haute Time | Covered (LEAD): paolo-bulgari-dies-89-bvlgari-watch-legacy-casio-lf-40w-us-news (missed Nov 21 12 PM window, caught now) |
+| 2026-11-21 | Casio LF-40W US launch: LF-40W-1A / -2A / -8A (8A called gray by Gizmochina, beige by Notebookcheck, flagged), 37.8 x 33.7 x 8.6 mm, 23 g, CR1616 ~3 yr, ±30 s/month, $42.95 USD each on Casio US | Notebookcheck, The Gadgeteer, Gizmochina | Covered (grouped): paolo-bulgari-dies-89-bvlgari-watch-legacy-casio-lf-40w-us-news (Nov 3 Japan only skip resolved) |
+| 2026-11-22 | G-Shock MR-G MRG-B2100HR-1AJR Haruka 30th anniversary (800 pcs, ¥1.1m, Japan launch Nov 13 postponed, no new date) | webChronos, Notebookcheck | Skipped: delay reported before window, Japan only; follow up for new date |
+| 2026-11-22 | Heinrich Helicoprion Football Edition review (aBtW; launched Sept 2026, from EUR 1,199) | aBtW, Le Nouveau Reveil | Skipped: review of Sept launch |
+| 2026-11-22 | Citizen Promaster Air Automatic hands on (aBtW), Fratello limited editions op ed and Navitimer B09 vs Speedmaster showdown, Monochrome six divers buying guide, Gear Patrol 19 watches you missed (all already covered or skipped) | RSS | Skipped: features, hands ons, recaps |
+| 2026-11-22 | Hodinkee, W&W, Revolution, SJX, Deployant, WatchPro, Teddy Baldassarre, G-Central, Robb Report, Hypebeast: nothing new in window; T+T and WatchTime feeds malformed; X news search: nothing watch related beyond Bulgari | RSS, X, web search | Nothing new |
+| 2026-11-22 | Follow ups still open: Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement, Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness and meteorite LE sell out, MR-G Haruka new date | Prior | MR-G Haruka added |
+
+Window checked: ~2026-11-21 6:35 PM ET through ~2026-11-22 8:20 AM ET.
