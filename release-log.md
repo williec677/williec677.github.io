@@ -740,3 +740,15 @@ Window checked: ~2026-11-21 6:35 PM ET through ~2026-11-22 8:20 AM ET.
 | 2026-11-22 | Follow ups still open: Protocol 001 Kickstarter Nov 24, Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement, Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness and meteorite LE sell out, MR-G Haruka new date | Prior | Protocol 001 added |
 
 Window checked: ~2026-11-22 8:20 AM ET through ~2026-11-22 12:30 PM ET. Nothing published.
+
+## Check run 2026-11-22 ~6:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-22 | Chronoswiss ReSec Final Edition (Fratello, 6:01 PM ET) | Fratello | Skipped: covered Nov 19 |
+| 2026-11-22 | Nomos Club Sport neomatik 39 tabac ref 760 framed as a launch by Simply Luxury (Nov 22) | Simply Luxury, nomos-glashuette.com (ref 760, existing model, $4,320 USD), T+T earlier hands on | Skipped: existing catalog model, not a new release; Simply Luxury text has errors (says acrylic crystal) |
+| 2026-11-22 | WristBuzz week in watches, Gear Patrol 19 watches you missed, Citizen Attesa Hazy (buyingtime.news), Mido Multifort TV (time.news), ATOWAK, Isotope x Direnzo, Nodus Red Jasper, Wren Glacier | web search | Skipped: recaps or already covered/skipped |
+| 2026-11-22 | Hodinkee, Monochrome, W&W, aBtW, T+T, Revolution, SJX, Deployant, Teddy Baldassarre: nothing new in window; WatchPro feed 403; X news (8 h): nothing watch related beyond Paolo Bulgari (covered) | RSS, X, web search | Nothing new |
+| 2026-11-22 | Follow ups still open: unchanged from 12 PM run (Protocol 001 and Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN Nov 25, etc.) | Prior | No change |
+
+Window checked: ~2026-11-22 12:30 PM ET through ~2026-11-22 6:20 PM ET. Nothing published.
+
