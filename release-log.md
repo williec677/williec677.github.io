@@ -752,3 +752,18 @@ Window checked: ~2026-11-22 8:20 AM ET through ~2026-11-22 12:30 PM ET. Nothing 
 
 Window checked: ~2026-11-22 12:30 PM ET through ~2026-11-22 6:20 PM ET. Nothing published.
 
+
+## Check run 2026-11-23 ~8:30 AM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-23 | Synchron Ti300M Poseidon Deep Black hands on (Fratello 5 AM ET): 41 mm Grade 5 Ti, 11.9 mm, SW200-1 38 h, 3D-BRYTE molded lume, $1,490 intro / $1,690 regular | Fratello, synchronusa.com (product page datePublished Oct 2 2026), uhrforum | Skipped: launched late Sept/Oct 2, hands on of earlier release |
+| 2026-11-23 | Kneijnsberg Hugenius hands on (Fratello): 40 mm Ti, cal 28.350, 350 pcs, EUR 1,495 ex VAT | Fratello, Brendan Horneman LinkedIn (launch June 24 2025), Monochrome, Gear Patrol | Skipped: launched June 2025 |
+| 2026-11-23 | G-Shock Monotone Mix DW-5600MTM-8JF / DW-6900MTM-8JF / DW-5900MTM-8JF (JPY 25,300) and DWE-5600MTM-8JF (JPY 28,050), webChronos English page Nov 23 | webChronos, Japanese retailers (release Nov 7 2026) | Skipped: Japan release Nov 7, weeks outside window |
+| 2026-11-23 | Mondaine Doppio Solar Skeleton ($465 leather / $495 IP gun mesh), Dezeen partnership content Nov 23 | Dezeen, mondaine.com, aBtW (Oct 12 2026) | Skipped: launched Oct 12, sponsored resurfacing |
+| 2026-11-23 | Hublot Middle East exclusive Classic Fusion Titanium Brown (Buro 24/7) | Buro 24/7 | Skipped: regional exclusive, no date or USD price confirmed |
+| 2026-11-23 | Qian GuoBiao Facing The Sky 2.0 Ti (Monochrome 3 AM ET, carryandwear), Campanola NZ4000 urushi (SJX), Patek Museum 25 years (SJX), Chronoswiss ReSec Final (Fratello) | Monochrome, SJX, Fratello | Skipped: covered Nov 21, Nov 10, Nov 19; Patek Museum logged Nov 13 |
+| 2026-11-23 | MB&F Catalogue Raisonne update (Monochrome), Fratello Nacho's best of 2026, aBtW Grinding Gears Zenith op ed, T+T best quartz list | RSS | Skipped: book, features, op eds |
+| 2026-11-23 | Hodinkee, W&W, Revolution, Deployant, Teddy Baldassarre: nothing new; WatchPro feed 403; X news (16 h): nothing watch related beyond Rado celebrity dinner; price increase search: nothing new (latest June 2026) | RSS, X, web search | Nothing new |
+| 2026-11-23 | Follow ups still open: Protocol 001 Kickstarter Nov 24, Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement, Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness and meteorite LE sell out, MR-G Haruka new date | Prior | No change |
+
+Window checked: ~2026-11-22 6:20 PM ET through ~2026-11-23 8:30 AM ET. Nothing published.
