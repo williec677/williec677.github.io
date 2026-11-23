@@ -784,3 +784,18 @@ Window checked: ~2026-11-22 6:20 PM ET through ~2026-11-23 8:30 AM ET. Nothing p
 | 2026-11-23 | Follow ups still open: unchanged from 8 AM run | Prior | No change |
 
 Window checked: ~2026-11-23 8:30 AM ET through ~2026-11-23 12:20 PM ET. Published: favre-leuba-deep-raider-ladies-34mm-news.
+
+## Check run 2026-11-23 ~6:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-23 | Tusenö Shellback GMT: 39 mm case / 40 mm bezel, 47 mm L2L, 10.85 mm ex sapphire, 316L with 1200 HV hardening, Sellita SW330-2 Elaboré caller GMT ~56 h, 24 click bidirectional sapphire bezel, box sapphire, display back, 200 m, bracelet 20 to 16 mm; Blue Linen, Green Linen, Frozen White; $1,045 USD (12,495 SEK / EUR 1,095) on brand site, preorder Dec 3, $150 off + rubber strap preorder perks, launch price first 50 per color, delivery July/Aug 2027 | tuseno.com (product pages published Nov 23), Worn & Wound (Nov 23, 3 PM ET); CW C63 Sealander GMT 39 mm $1,395 USD strap config used as comparison (christopherward.com) | Covered: tuseno-shellback-gmt-news |
+| 2026-11-23 | Atelier Loreti Celestial Tourbillon Charoite / Snowflake Obsidian (aBtW, 1 PM ET): Miyota based L.1T, 50 pcs each, $980 / $1,180 | aBtW | Skipped: sponsored "produced in partnership" piece, Filippo Loreti fashion brand PR (pattern skipped Nov 20 and 12 PM), article contradicts itself on which dial costs $980 |
+| 2026-11-23 | Citizen Series8 831 NB6050-19W burgundy (Gizmochina "launched in US"): 40 mm, cal 9051, 600 pcs, $1,125 USD | Gizmochina, citizenwatch.com, uhren-nerd (Oct 2), Citizen US Instagram (Sept 3) | Skipped: announced early Sept 2026, not new |
+| 2026-11-23 | Christopher Ward C63 Sealander 42 mm Automatic / 44 mm GMT (montre24 Nov 23) | montre24, Gear Patrol (Nov 20) | Skipped: logged Nov 20 as existing models |
+| 2026-11-23 | Frederique Constant Classic Tourbillon Perpetual Calendar (A Timely Perspective), Brellum Pilot 39 Black DLC / Nodus Red Jasper / Luminox Sport Timer Bronze (MrStateless), Buying Time issue 296, Oris Doraemon (GMT India), Casio LF-40W (Gear Patrol), Qian GuoBiao Ti (carryandwear), G-Shock HIDDEN and Nodus Red Jasper (Gear Patrol) | web search, RSS | Skipped: all covered or logged Nov 19 to 22 (FC still no US price) |
+| 2026-11-23 | Gear Patrol 5 Bond watch brands, Robb Report F1 Las Vegas watches, Swisswatches Geneva Nov auction trends, Monochrome Lebois hands on | RSS | Skipped: features/recaps; Lebois logged 12 PM |
+| 2026-11-23 | Price increase search: no new announcement; Jan 2027 Rolex/Tudor pieces are speculative guides, Tudor rumor still only the Nov 6 Rolex Forums post | web search | Skipped: no new corroboration |
+| 2026-11-23 | Hodinkee, Fratello, T+T, Revolution, SJX, Deployant, Teddy Baldassarre, Hypebeast, G-Central: nothing new in window; WatchPro feed 403, r/Watches 403; X news (7 h): nothing watch related | RSS, X, web search | Nothing new |
+| 2026-11-23 | Follow ups still open: Protocol 001 Kickstarter Nov 24, Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Tusenö Shellback GMT preorder Dec 3 (launch price confirm), Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement, Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness and meteorite LE sell out, MR-G Haruka new date | Prior | Tusenö preorder added |
+
+Window checked: ~2026-11-23 12:20 PM ET through ~2026-11-23 6:20 PM ET. Published: tuseno-shellback-gmt-news.
