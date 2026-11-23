@@ -767,3 +767,20 @@ Window checked: ~2026-11-22 12:30 PM ET through ~2026-11-22 6:20 PM ET. Nothing 
 | 2026-11-23 | Follow ups still open: Protocol 001 Kickstarter Nov 24, Vulcain Skindiver Mark II Nov 24, G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement, Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness and meteorite LE sell out, MR-G Haruka new date | Prior | No change |
 
 Window checked: ~2026-11-22 6:20 PM ET through ~2026-11-23 8:30 AM ET. Nothing published.
+
+## Check run 2026-11-23 ~12:20 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-23 | Favre Leuba Deep Raider Ladies: 11 refs 00.20309.106.xx, 34 mm x 9.89 mm steel, 100 m, FLQ01 quartz (Ronda 783), $1,750 to $3,750 USD per brand US site | favreleuba.com, WatchTime, The Hour Markers, titanium.lv | Covered: favre-leuba-deep-raider-ladies-34mm-news |
+| 2026-11-23 | Micromilspec Pilot Worldtimer Single Date Edition (Monochrome intro, 9 AM ET) | Monochrome | Skipped: launched Nov 16, logged then |
+| 2026-11-23 | Lebois & Co Heritage Atelier Chronograph Bleu-sur-Blanc hands on (EUR 11,800, orders close Dec 31 2026) | Monochrome | Skipped: unveiled months ago, hands on of deliveries |
+| 2026-11-23 | Hodinkee Longines Heritage Workshop feature and vintage ads feature, W&W Sex and the City feature, Revolution Last Week in Watches recap | Hodinkee, W&W, Revolution | Skipped: features/recap |
+| 2026-11-23 | Citizen Attesa Hazy (Deployant) | Deployant | Skipped: covered Nov 20 |
+| 2026-11-23 | Tudor Jan 2027 price increase rumor | Rolex Forums (Nov 6 thread) | Skipped: no new corroboration |
+| 2026-11-23 | Louis Vuitton Tambour Convergence Mirror Steel W9ST11 (timeandwatches Nov 23) | timeandwatches, Monochrome (Nov 3), Hodinkee (Nov 5) | Skipped: launched early Nov, logged Nov 5 |
+| 2026-11-23 | Hublot Classic Fusion Titanium Brown Middle East Special Edition, G-Shock Monotone Mix, Mondaine Doppio Solar Skeleton, Qian GuoBiao Facing The Sky 2.0 Ti (resurfacing in web search) | Buro 24/7, webChronos, Dezeen, carryandwear | Skipped: logged 8 AM run |
+| 2026-11-23 | Filippo Loreti Mr Bean collection (web search mention) | web search | Skipped: fashion brand PR push |
+| 2026-11-23 | WatchPro feed 403; X news (5 h): nothing watch related | RSS, X | Nothing new |
+| 2026-11-23 | Follow ups still open: unchanged from 8 AM run | Prior | No change |
+
+Window checked: ~2026-11-23 8:30 AM ET through ~2026-11-23 12:20 PM ET. Published: favre-leuba-deep-raider-ladies-34mm-news.
