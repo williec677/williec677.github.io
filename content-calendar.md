@@ -49,7 +49,7 @@ Weekdays still open in the next two weeks:
 
 ## News follow ups
 
-* Protocol 001 Kickstarter, Nov 24
+* Protocol 001 Kickstarter, Nov 24 (covered Nov 24 12 PM run)
 * Vulcain Skindiver Mark II on sale, Nov 24
 * G-Shock HIDDEN GM2110HDN-8A on sale, Nov 25
 * HU-02 preorders close, Dec 1
