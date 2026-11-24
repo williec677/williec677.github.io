@@ -3,7 +3,7 @@ layout: post
 title: "Blancpain Carrousel Incliné: a 30 Degree Flying Carrousel in a Full Sapphire Case for $502,600 USD"
 seo_title: "Blancpain Carrousel Incliné: Specs, $502,600 USD Price, Cal. 222ISQ"
 description: "Blancpain tilts its one minute flying carrousel 30 degrees inside its first full sapphire case: 40.3 x 11.3 mm, solid 5N gold cal. 222ISQ, 100 hours, certified 0 to +2 seconds a day. $502,600 USD (CHF 380,000 before tax), not limited."
-date: 2026-11-24 08:35:00 -0500
+date: 2026-11-24 08:20:00 -0500
 category_label: News
 cluster: news
 tags: [news, blancpain, carrousel, carrousel incline, flying carrousel, karrusel, tourbillon alternative, sapphire case, skeleton, haute horlogerie, 222isq, chronometry]

@@ -3,7 +3,7 @@ layout: post
 title: "Hanhart 417 C Panna Flyback, About $2,997 USD (EUR 2,740), and SHER's Origami Dial Obtuse at $759 USD"
 seo_title: "Hanhart 417 C Panna Flyback Price, Specs and SHER Obtuse Preorder"
 description: "Hanhart and The Real Time Show turn the 417 cream and bronze: 39 mm flyback, AMT5100 M, 100 pieces, EUR 2,740, about $2,997 USD (EUR 2,940 on bracelet, about $3,216 USD). Plus SHER's 7.4 mm Obtuse quartz from $759 USD, preorders November 25."
-date: 2026-11-24 08:45:00 -0500
+date: 2026-11-24 08:25:00 -0500
 category_label: News
 cluster: news
 tags: [news, hanhart, 417, 417 c panna, flyback, chronograph, pilot watch, bronze, limited edition, the real time show, sher, sher obtuse, rectangular watch, quartz, integrated bracelet, microbrand]
