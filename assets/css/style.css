@@ -359,30 +359,3 @@ h3{font-size:1.1rem;margin:1.5rem 0 .4rem}
   .card-title{color:#dfe5f4}
   .toc li::marker{color:#a9adb6}
 }
-
-/* Ownership calculator */
-.calc-wrap{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1rem 1.1rem;margin:0 0 1.4rem}
-.calc-grid{display:grid;grid-template-columns:1fr;gap:.75rem 1rem;margin:0 0 1rem}
-@media (min-width:640px){
-  .calc-grid{grid-template-columns:1fr 1fr 1fr}
-}
-.calc-grid label{display:block;font:600 .85rem var(--sans);margin:0 0 .3rem;color:var(--ink)}
-.calc-grid input{width:100%;font:1rem var(--sans);padding:.55rem .6rem;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);min-height:48px}
-.calc-grid input:focus{outline:2px solid var(--gold);outline-offset:1px}
-.calc-result{font:700 1.15rem/1.4 var(--sans);background:var(--paper);border-left:3px solid var(--red);border-radius:6px;padding:.8rem 1rem;margin:0 0 1rem}
-.calc-result .calc-formula{display:block;font:400 .9rem/1.45 var(--sans);color:var(--muted);margin-top:.25rem}
-.calc-examples{display:flex;flex-wrap:wrap;gap:.45rem;margin:.2rem 0 1rem}
-.calc-examples button{font:600 .82rem var(--sans);padding:.45rem .7rem;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink);cursor:pointer;min-height:44px}
-.calc-examples button:hover,.calc-examples button[aria-pressed="true"]{background:var(--navy);color:#fff;border-color:var(--navy)}
-.calc-note{font:.9rem/1.5 var(--sans);color:var(--muted);margin:0 0 1rem}
-.page table.tool-table,.calc-wrap table{width:100%;border-collapse:collapse;font:.9rem/1.4 var(--sans);display:block;overflow-x:auto}
-.page table.tool-table th,.page table.tool-table td,.calc-wrap th,.calc-wrap td{border-bottom:1px solid var(--line);padding:.45rem .5rem;text-align:left;vertical-align:top}
-.page table.tool-table th,.calc-wrap th{font:600 .8rem var(--sans);text-transform:uppercase;letter-spacing:.04em}
-@media (prefers-color-scheme:dark){
-  .calc-wrap{background:#181b22}
-  .calc-grid label{color:#dfe5f4}
-  .calc-grid input{background:#111318;color:#dfe5f4;border-color:#2a2e38}
-  .calc-result{background:#111318}
-  .calc-examples button{background:#181b22;color:#dfe5f4;border-color:#2a2e38}
-  .calc-examples button:hover,.calc-examples button[aria-pressed="true"]{background:#9cc3ff;color:#111318;border-color:#9cc3ff}
-}
