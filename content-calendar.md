@@ -51,8 +51,10 @@ Weekdays still open in the next two weeks:
 
 * Protocol 001 Kickstarter, Nov 24 (covered Nov 24 12 PM run)
 * Vulcain Skindiver Mark II on sale, Nov 24
-* G-Shock HIDDEN GM2110HDN-8A on sale, Nov 25
+* G-Shock HIDDEN GM2110HDN-8A on sale, Nov 25 (on sale per Casio, closed Nov 25 8 AM run)
+* MoonSwatch Mission to Earthphase Silver Snowflake launch, Nov 27 (covered Nov 25; check stock and snow days)
 * HU-02 preorders close, Dec 1
+* Gagà Labormatic Arabia at Time+Tide Shop US, early December
 * Campanola Y520, Dec 3
 * Citizen Attesa Hazy, December
 * Orient Star Skeleton, around Dec 10
