@@ -3,7 +3,7 @@ layout: post
 title: "Bell & Ross BR-05 Moonphase Lands at $5,800 USD, Unimatic x Massena LAB Ghost Duo at $785, and a Tapisserie Style G-Shock CasiOak for $310"
 seo_title: "Bell & Ross BR-05 Moonphase Price and Specs, Unimatic Ghost, G-Shock GBM-2100LXB"
 description: "Bell & Ross gives the BR-05 its first moonphase: 40 mm steel, black aventurine dial, full moon window, BR-CAL.330, $5,800 USD on rubber or $6,300 USD on the bracelet. Plus the 200 piece Unimatic x Massena LAB Ghost Modello Cinque pair at $785 USD and G-Shock's checkered dial GBM-2100LXB-1A2 at $310 USD."
-date: 2026-11-25 12:40:00 -0500
+date: 2026-11-25 12:20:00 -0500
 category_label: News
 cluster: news
 tags: [news, bell & ross, br-05, moonphase, aventurine, la joux perret, integrated bracelet, unimatic, massena lab, modello cinque, limited edition, quartz, g-shock, casio, casioak, gbm-2100, tough solar]
