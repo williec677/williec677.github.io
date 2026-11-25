@@ -13,7 +13,7 @@ image: "/assets/img/watches/hamilton-khaki-pilot-gmt-air-zermatt.webp"
 image_alt: "Hamilton Khaki Pilot GMT Air Zermatt with a black forged carbon case, black city ring dial and red Air Zermatt textile strap"
 image_credit: "Monochrome Watches"
 ---
-Hamilton has been building watches with Air Zermatt, the Swiss alpine helicopter rescue outfit, since 2011. For the 15th anniversary it did not just swap a dial color. The new **Hamilton Khaki Pilot GMT Air Zermatt**, reference **H76505930**, puts a forged carbon case and a proper traveler's GMT into the Khaki Pilot family for the first time, and it costs $1,725 USD. That is a lot of watch for the money, and if you have been waiting for Hamilton to make a GMT that feels like a tool instead of a fashion piece, this is it. I checked the details below against [Hamilton's own Swiss product page](https://www.hamiltonwatch.com/en-ch/h76505930-khaki-aviation-gmt-air-zermatt-auto.html), [Monochrome's first look](https://monochrome-watches.com/hamilton-khaki-pilot-gmt-air-zermatt-accessible-true-gmt-watch-in-forged-carbon-review-price/) published this morning, and Hamilton's press release as carried by [Europa Star](https://www.europastar.com/time-keeper/1004116603-hamilton-celebrates-15-years-of-partnership-with.html). After that, a sharp little dress watch from a Nordic micro brand that I missed when it launched earlier this month.
+Hamilton has been building watches with Air Zermatt, the Swiss alpine helicopter rescue outfit, since 2011. For the 15th anniversary it did not just swap a dial color. The new **Hamilton Khaki Pilot GMT Air Zermatt**, reference **H76505930**, puts a forged carbon case and a proper traveler's GMT into the Khaki Pilot family for the first time, and Monochrome lists it at $1,725 USD. That is a lot of watch for the money, and if you have been waiting for Hamilton to make a GMT that feels like a tool instead of a fashion piece, this is it. I checked the details below against [Hamilton's own Swiss product page](https://www.hamiltonwatch.com/en-ch/h76505930-khaki-aviation-gmt-air-zermatt-auto.html), [Monochrome's first look](https://monochrome-watches.com/hamilton-khaki-pilot-gmt-air-zermatt-accessible-true-gmt-watch-in-forged-carbon-review-price/) published this morning, and Hamilton's press release as carried by [Europa Star](https://www.europastar.com/time-keeper/1004116603-hamilton-celebrates-15-years-of-partnership-with.html). After that, a sharp little dress watch from a Nordic micro brand that I missed when it launched earlier this month.
 
 ## Hamilton Khaki Pilot GMT Air Zermatt: the specs
 
@@ -28,7 +28,7 @@ Hamilton has been building watches with Air Zermatt, the Swiss alpine helicopter
 | Movement | Hamilton H-14 automatic GMT, Powermatic 80 based, 21,600 vph, Nivachron balance spring, 80 hour power reserve |
 | Strap | 20 mm lugs, red textile strap with the Air Zermatt logo plus a black leather strap, black PVD pin buckle |
 | Edition | Special edition; no production limit has been published |
-| Price | $1,725 USD per Monochrome, CHF 1,445 on Hamilton's Swiss site, EUR 1,645 |
+| Price | $1,725 USD per Monochrome, CHF 1,445 on Hamilton's Swiss site, EUR 1,645 per Monochrome |
 
 A quick honesty note on thickness: Hamilton's own product page says 11.1 mm, while Monochrome's spec list says 13.38 mm. Those can't both be right, and I could not get Hamilton's US page to load to settle it, so treat the case height as unconfirmed until you see one on the wrist. Everything else lines up across all three sources.
 

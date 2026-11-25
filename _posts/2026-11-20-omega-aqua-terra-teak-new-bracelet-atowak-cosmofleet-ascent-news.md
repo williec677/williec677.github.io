@@ -64,7 +64,7 @@ How the display works: three hour satellites orbit the dial and rotate on their 
 * **Dial:** multi layered copper with a fish scale texture and sandblasted finish, per Worn & Wound, with hand applied Super-LumiNova on the numerals and minute markers.
 * **Straps:** color matched leather with a squared profile, secured by screw bars, plus a spare white leather strap and a tool for swapping.
 
-**Price and availability:** **$3,799 USD** for either the green or purple version on ATOWAK's store, available now. Worn & Wound reports each color is limited to **150 pieces**. ATOWAK does not list a water resistance rating in the launch materials I found, so treat this as a desk diver, not a swimmer, until the brand confirms.
+**Price and availability:** **$3,799 USD** for either the green or purple version on ATOWAK's store, available now. Worn & Wound reports each color is limited to **150 pieces**. ATOWAK lists water resistance of **3 ATM / 30 m**, so treat this as a desk watch, not a swimmer.
 
 **My take:** an in house movement with 65 hours of reserve and a genuinely unusual complication for under $4,000 is a bold flex for a young brand. The white composite case is love it or hate it, but it makes the green and purple satellites pop like cockpit lights. If wandering hours have your attention, go back to the [Horologically Unique HU-02 wandering jump hour]({% post_url 2026-11-07-horologically-unique-hu-02-wandering-jump-hour-news %}) for another affordable take on the complication.
 

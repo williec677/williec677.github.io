@@ -71,8 +71,8 @@ All three ship on the Oyster bracelet with an Oysterlock safety clasp and the Gl
 
 At Rolex, the Sea Dweller's MSRP is $4,500 USD higher than the no date Submariner's. On the pre owned market, that order flips.
 
-* **Sea Dweller 126600:** WatchCharts estimates a private sale price of about **$11,560 USD** as of November 12, 2026, below its MSRP of $14,550 USD. Expect about $12,864 USD from a pre owned dealer ([WatchCharts](https://watchcharts.com/watch_model/1300-rolex-sea-dweller-126600/overview)).
-* **Submariner 124060:** WatchCharts estimates about **$12,263 USD** as of November 12, 2026, above its MSRP of $10,050 USD. Expect about $13,534 USD from a dealer ([WatchCharts](https://watchcharts.com/watch_model/21813-rolex-submariner-124060/overview)).
+* **Sea Dweller 126600:** WatchCharts estimates a private sale price of about **$11,666 USD** as of November 23, 2026, below its MSRP of $14,550 USD. Expect about $12,964 USD from a pre owned dealer ([WatchCharts](https://watchcharts.com/watch_model/1300-rolex-sea-dweller-126600/overview)).
+* **Submariner 124060:** WatchCharts estimates about **$12,263 USD** as of November 23, 2026, above its MSRP of $10,050 USD. Expect about $13,500 USD from a dealer ([WatchCharts](https://watchcharts.com/watch_model/21813-rolex-submariner-124060/overview)).
 
 Read that again. On WatchCharts' numbers, a pre owned Sea Dweller is estimated to cost less than a pre owned no date Submariner. You get the bigger case, the date, the helium valve, and 1,220m of depth rating for less money. These are WatchCharts model estimates built from market data, not individual sold prices, so always pull your own comps. My guide to [finding real sold prices](/how-to-find-real-sold-prices-for-vintage-watches/) shows how, and the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=rolex+sea+dweller+126600&LH_Sold=1&LH_Complete=1" text="eBay sold filter for the Sea Dweller 126600" %} is a good starting point.
 
@@ -104,7 +104,7 @@ If I were buying new at MSRP, I would take the Submariner. The 41mm case suits m
 * Submariner: launched 1953, now 41mm, 300m. 124060 has an MSRP of $10,050 USD, 126610LN an MSRP of $11,350 USD.
 * Sea Dweller: launched 1967, helium escape valve patented 1967, now 43mm, 1,220m. 126600 has an MSRP of $14,550 USD.
 * Since 2017 the Sea Dweller has a Cyclops and a red Sea Dweller line on the dial.
-* WatchCharts estimated the 126600 at about $11,560 USD and the 124060 at about $12,263 USD on November 12, 2026.
+* WatchCharts estimated the 126600 at about $11,666 USD and the 124060 at about $12,263 USD as of November 23, 2026.
 * Sea Dweller takes 22mm straps. Submariner 41 takes 21mm.
 </div>
 

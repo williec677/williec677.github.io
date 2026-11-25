@@ -2,7 +2,7 @@
 layout: post
 title: "Direnzo's First GMT Is on Sale: DRZ 08 Cosmonaire From About $1,430 USD, and the Isotope Edition Is Already Gone"
 seo_title: "Direnzo DRZ 08 Cosmonaire GMT on Sale, Isotope x Direnzo Limited Edition"
-description: "The Direnzo DRZ 08 Cosmonaire, a 39 mm Swiss GMT on the Sellita SW330-2, went on pre sale today at CHF 1,200, about $1,430 USD. The 40 piece Isotope x Direnzo grey dial edition (CHF 1,350, about $1,609 USD) sold out within hours; the 60 piece meteorite dial was down to its last few."
+description: "The Direnzo DRZ 08 Cosmonaire, a 39 mm Swiss GMT on the Sellita SW330-2, went on pre sale today at CHF 1,200, about $1,430 USD. The 40 piece Isotope x Direnzo grey dial edition (CHF 1,350, about $1,609 USD) sold out within hours; the 60 piece meteorite dial was still available at midday."
 date: 2026-11-21 12:20:00 -0500
 category_label: News
 cluster: news
@@ -39,7 +39,7 @@ The specs, per Direnzo's launch page and product listings:
 * **Meteorite LE:** heated Muonionalusta meteorite dial with orange lume, 60 pieces, CHF 1,350 pre sale, CHF 1,400 retail.
 * **Isotope x Direnzo LE:** grey dial with a vertically brushed center, white lume and heat blued steel hands and cardinal markers, 40 pieces, CHF 1,350 pre sale, CHF 1,400 retail.
 
-**Price in dollars:** Direnzo prices only in Swiss francs. At the ECB reference rate of November 20 (USD 1.0990 and CHF 0.9223 per euro), the standard pre sale price of CHF 1,200 is **about $1,430 USD (CHF 1,200)**, rising to about $1,490 USD (CHF 1,250) at full retail. The two limited editions are **about $1,609 USD (CHF 1,350)** pre sale and about $1,668 USD (CHF 1,400) retail. Direnzo says US orders ship domestically within the United States with no tariffs to pay on delivery. Deliveries are expected in mid January 2027.
+**Price in dollars:** Direnzo prices only in Swiss francs. At the ECB reference rate of November 20 (USD 1.0990 and CHF 0.9223 per euro), the standard pre sale price of CHF 1,200 is **about $1,430 USD (CHF 1,200)**, rising to about $1,490 USD (CHF 1,250) at full retail. The two limited editions are **about $1,609 USD (CHF 1,350)** pre sale and about $1,668 USD (CHF 1,400) retail. Direnzo says US orders ship domestically within the United States with no tariffs to pay on delivery. Deliveries are expected in January 2027.
 
 ## The Isotope edition sold out fast
 
@@ -60,4 +60,4 @@ Traveling with your new GMT? A {% include aff.html network="amazon" url="https:/
 
 ## The bottom line
 
-Direnzo DRZ 08 Cosmonaire: Direnzo's first GMT, 39 mm steel with an elliptical bezel, 10.5 mm per the product pages (10 mm on the launch page), Sellita SW330-2 Elaboré, 100 m, on pre sale since today at CHF 1,200, about $1,430 USD, with deliveries in mid January 2027. The 40 piece Isotope x Direnzo edition (about $1,609 USD, CHF 1,350) sold out within hours and the 60 piece meteorite dial was close behind. Which Cosmonaire would you pick?
+Direnzo DRZ 08 Cosmonaire: Direnzo's first GMT, 39 mm steel with an elliptical bezel, 10.5 mm per the product pages (10 mm on the launch page), Sellita SW330-2 Elaboré, 100 m, on pre sale since today at CHF 1,200, about $1,430 USD, with deliveries in January 2027. The 40 piece Isotope x Direnzo edition (about $1,609 USD, CHF 1,350) sold out within hours and the 60 piece meteorite dial was close behind. Which Cosmonaire would you pick?

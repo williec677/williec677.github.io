@@ -2,11 +2,11 @@
 title: "Rolex Explorer 1016 History: 26 Years of the Ultimate Vintage Tool Watch"
 seo_title: "Rolex Explorer 1016 History"
 cluster: vintage
-description: "The story of the Rolex Explorer 1016 from 1963 to 1989: calibres 1560 and 1570, when hacking arrived, gilt vs matte dials, the exclamation dial, and what a 1016 sells for in 2026."
+description: "The story of the Rolex Explorer 1016 from 1963 to 1989, per LeWatchBuyers: calibres 1560 and 1570, when hacking arrived, gilt vs matte dials, the exclamation dial, and what a 1016 sells for in 2026."
 date: 2026-11-19 08:00:00 -0500
 category_label: Reference History
 tags: [rolex, explorer, 1016, vintage, history]
-ig_caption: "36mm, a 3 6 9 dial, and a 26 year production run. The Explorer 1016 is the vintage Rolex that does everything and shouts about nothing. Gilt or matte, 1560 or 1570, plus the WatchCharts estimate about $15,624 USD. Photo shows the current Explorer 36, not a vintage 1016. Full history on the Journal, link in bio. #rolex #explorer #rolex1016 #vintagerolex #toolwatch #mrtictoctalk"
+ig_caption: "36mm, a 3 6 9 dial, and a 26 year production run. The Explorer 1016 is the vintage Rolex that does everything and shouts about nothing. Gilt or matte, 1560 or 1570, plus the WatchCharts estimate about $16,095 USD as of November 23, 2026. Photo shows the current Explorer 36, not a vintage 1016. Full history on the Journal, link in bio. #rolex #explorer #rolex1016 #vintagerolex #toolwatch #mrtictoctalk"
 image: "/assets/img/watches/rolex-explorer-36-124270.webp"
 image_alt: "Official Rolex photo of the current Explorer 36 reference 124270, the modern descendant of the 1016, with a black 3 6 9 dial on an Oyster bracelet"
 image_credit: "Rolex"
@@ -64,9 +64,9 @@ Today's descendant is the [Explorer 36 reference 124270](https://www.rolex.com/e
 
 ## What a 1016 sells for in 2026
 
-Here is the market picture as of mid November 2026.
+Here is the market picture as of November 23, 2026.
 
-* **WatchCharts:** an estimated private sale price of about **$15,624 USD** as of November 12, 2026, and about $18,062 USD to buy from a pre owned dealer ([WatchCharts, Explorer 1016](https://watchcharts.com/watch_model/28168-rolex-explorer-1016/overview)). That is a model estimate drawn from sales and listings, not a single sold price.
+* **WatchCharts:** an estimated private sale price of about **$16,095 USD** as of November 23, 2026, and about $19,127 USD to buy from a pre owned dealer ([WatchCharts, Explorer 1016](https://watchcharts.com/watch_model/28168-rolex-explorer-1016/overview)). That is a model estimate drawn from sales and listings, not a single sold price.
 * **LeWatchBuyers** describes honest matte examples trading in the mid teens to low twenties as of mid 2026, with original gilt dials running about $25,000 to $45,000 USD or more ([LeWatchBuyers](https://www.lewatchbuyers.com/watch-education/vintage-rolex-1016-explorer/)).
 
 The range is wide because originality drives everything. Two 1016s with the same wear can be thousands apart if one has a refinished dial or relumed hands. Before you buy, pull real comps by dial type. My guide to [finding real sold prices](/how-to-find-real-sold-prices-for-vintage-watches/) shows how, and the {% include aff.html network="ebay" url="https://www.ebay.com/sch/i.html?_nkw=rolex+explorer+1016&LH_Sold=1&LH_Complete=1" text="eBay sold filter for the 1016" %} is a good place to start.
@@ -90,10 +90,10 @@ Want to wear one on a strap while the bracelet rests? It takes 20mm, and my [20m
 <div class="takeaways" markdown="1">
 ## Quick takeaways
 
-* The Explorer 1016 ran from 1963 to 1989: 36mm, acrylic crystal, 100m, 20mm lugs.
+* The Explorer 1016 ran from 1963 to 1989, per LeWatchBuyers: 36mm, acrylic crystal, 100m, 20mm lugs.
 * Calibre 1560 first, then calibre 1570 from the mid 1960s. Hacking arrived only around 1971 or 1972.
 * Gilt dials until about 1966 to 1967, then matte dials. Service dials are common.
-* WatchCharts estimated a private sale price of about $15,624 USD on November 12, 2026.
+* WatchCharts estimated a private sale price of about $16,095 USD as of November 23, 2026.
 * The 14270 replaced it in 1989. Today's Explorer 36 124270 has an MSRP of $7,900 USD.
 </div>
 

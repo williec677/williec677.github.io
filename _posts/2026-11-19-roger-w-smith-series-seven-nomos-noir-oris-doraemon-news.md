@@ -69,7 +69,7 @@ Nomos calls it the little black dress idea applied to watches, and honestly it w
 
 * **Tangente 33 noir:** the Bauhaus one, 32.8 mm x 6.6 mm with Arabic numerals.
 * **Ludwig 33 noir:** softer and more classic, same 32.8 mm x 6.6 mm with Roman numerals.
-* **Tetra 27 noir:** the square, 27.5 mm x 27.5 mm and just 6.4 mm thick, with Arabic numerals.
+* **Tetra 27 noir:** the square, 27.5 mm x 27.5 mm and 6.1 mm in steel and 6.4 mm in gold, with Arabic numerals.
 
 All three use the in house hand wound DUW 4001 with the Nomos Swing System, a 53 hour power reserve and stop seconds, plus a small seconds at six. Per Monochrome, every model has a sapphire crystal and 30 m of water resistance, the steel versions come with a closed or sapphire caseback and ride on an anthracite velour strap, and the gold versions always get a sapphire back and a black Horween Genuine Shell Cordovan strap.
 
@@ -83,7 +83,7 @@ All three use the in house hand wound DUW 4001 with the Nomos Swing System, a 53
 
 **Price note:** those are the figures on the Nomos US store listing pages this morning. The individual Tangente 33 noir product page showed $2,500 USD for the configuration we viewed, and the store lists a 7 week delivery time on it, so confirm the exact price for your caseback choice at checkout.
 
-**My take:** small watches are having a moment, and a 6.4 mm thick black and gold Tetra is about as elegant as a sub $2,500 USD manual wind gets. These are small, so try one on if you are used to 40 mm sports watches. For another recent Nomos release, see our [Club Sport neomatik 34 All Silver story]({% post_url 2026-11-05-piaget-warhol-camouflage-nomos-club-sport-34-dwc-terra-news %}).
+**My take:** small watches are having a moment, and a Tetra that is 6.1 mm in steel and 6.4 mm in gold is about as elegant as a sub $2,500 USD manual wind gets. These are small, so try one on if you are used to 40 mm sports watches. For another recent Nomos release, see our [Club Sport neomatik 34 All Silver story]({% post_url 2026-11-05-piaget-warhol-camouflage-nomos-club-sport-34-dwc-terra-news %}).
 
 ## Also new: Oris Big Crown Pointer Date Doraemon Limited Edition
 

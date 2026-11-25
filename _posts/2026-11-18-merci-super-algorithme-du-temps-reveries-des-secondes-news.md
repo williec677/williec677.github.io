@@ -81,7 +81,7 @@ The case is cushion shaped, mirror polished 904L steel at 38.0 mm by 42.1 mm and
 
 ### My take
 
-Watchmakers have played with seconds before, from the Swiss railway clock that pauses at twelve to John C. Taylor's Corpus Clock in Cambridge, both mentioned by Monochrome. But a fully mechanical wristwatch where every single piece has its own computed pattern is a seriously fun idea, and the dial, with the cams on display, looks fantastic. It is still a prototype with an unconfirmed price and an SW200 base, so I would wait for the final specs before getting too excited. If quirky displays are your thing, our [Horologically Unique HU-02 story]({% post_url 2026-11-07-horologically-unique-hu-02-wandering-jump-hour-news %}) covers another clever take on a 1920s complication.
+Watchmakers have played with seconds before, from the Swiss railway clock that pauses at twelve to John C. Taylor's Corpus Clock in Cambridge, both mentioned by Monochrome. But a fully mechanical wristwatch where every single piece has its own computed pattern is a seriously fun idea, and the dial, with the cams on display, looks fantastic. It is still in development with an unconfirmed price and an SW200 base, so I would wait for the final specs before getting too excited. If quirky displays are your thing, our [Horologically Unique HU-02 story]({% post_url 2026-11-07-horologically-unique-hu-02-wandering-jump-hour-news %}) covers another clever take on a 1920s complication.
 
 {% include ebay-shop.html lead="Love the Merci look?" q="merci+watch" label="Merci watch" q2="miyota+9039+automatic+watch" label2="Miyota 9039 automatic watch" %}
 

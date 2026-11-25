@@ -2,7 +2,7 @@
 layout: post
 title: "Watch News: TAG Heuer's 38 mm Formula 1 Solargraph x Oracle Red Bull Racing Hits $2,250, Vulcain's Skindiver Mark II Goes 300 m, and Two Citizen Drops"
 seo_title: "TAG Heuer Formula 1 Solargraph Red Bull WBY111F: Price, Specs"
-description: "TAG Heuer marks ten years with Oracle Red Bull Racing with the Formula 1 Solargraph WBY111F.BA0042, a 38 mm solar quartz diver at $2,250 USD. Plus the Vulcain Skindiver Mark II (39 mm, 300 m, COSC Soprod M300, about $2,326 USD (CHF 1,950)), the $595 USD Citizen Promaster Land GMT BJ7150-50E and Campanola's new Y520 automatic, about $5,156 USD (JPY 825,000)."
+description: "TAG Heuer marks ten years with Oracle Red Bull Racing with the Formula 1 Solargraph WBY111F.BA0042, a 38 mm solar quartz sports watch at $2,250 USD. Plus the Vulcain Skindiver Mark II (39 mm, 300 m, COSC Soprod M300, about $2,326 USD (CHF 1,950)), the $595 USD Citizen Promaster Land GMT BJ7150-50E and Campanola's new Y520 automatic, about $5,156 USD (JPY 825,000)."
 date: 2026-11-15 12:20:00 -0500
 category_label: News
 cluster: news
@@ -35,7 +35,7 @@ The bigger news for collectors is the size. Time and Watches points out that thi
 
 ### Why Solargraph makes sense here
 
-The TH50-00 runs entirely on light, natural or artificial. TAG Heuer says **a minute of direct sunlight powers a full day**, a full charge in under 40 hours of light gives **up to ten months** in total darkness, and the battery is rated for up to 15 years. For a watch that is meant to be thrown on and worn hard, that is exactly the right engine. No winding, no dead battery surprises.
+The TH50-00 runs entirely on light, natural or artificial. TAG Heuer says **one minute of exposure to light** powers a full day, a full charge in under 40 hours of light gives **up to ten months** in total darkness, and the battery is rated for up to 15 years. For a watch that is meant to be thrown on and worn hard, that is exactly the right engine. No winding, no dead battery surprises.
 
 ### My take
 
