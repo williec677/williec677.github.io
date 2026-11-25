@@ -17,7 +17,9 @@ Ad: I earn commissions from links in this article.
 
 The MoonSwatch just went full winter mode, and the buying rules are the wildest yet. Swatch and Omega announced the **Mission to Earthphase Silver Snowflake** this morning: an all black Bioceramic MoonSwatch with a silver moonphase, a snowflake engraved on every watch that no other watch shares, and a sales window controlled by the Swiss weather. After launch day on Black Friday, you can only buy one when it is actually snowing in Switzerland.
 
-Here is everything confirmed so far.
+Here is everything confirmed so far. I also posted a five slide carousel this morning covering the unique snowflake, the key specs, and the Swiss snow rule.
+
+**[See it on Instagram](https://www.instagram.com/p/DgKzdMIhC8Y/).**
 
 ## MoonSwatch Mission to Earthphase Silver Snowflake
 
