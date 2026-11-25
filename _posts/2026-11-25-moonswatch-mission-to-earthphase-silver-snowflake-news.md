@@ -8,18 +8,20 @@ category_label: News
 cluster: news
 tags: [news, swatch, omega, moonswatch, mission to earthphase, silver snowflake, snoopy, moonphase, earthphase, bioceramic, quartz, black friday, gift ideas]
 affiliate: true
-ig_caption: "Swatch just made the weather forecast part of your watch shopping. The new MoonSwatch Mission to Earthphase Silver Snowflake (SSX01B701) is all black Bioceramic with a silver moonphase, and every single one gets its own laser engraved snowflake, so no two are the same. Snoopy and Woodstock in the snow, a white Switzerland on the earthphase, tiny skis that nod to the Speedmaster Apollo 11 50th, and hidden UV details. $450 USD. It drops Black Friday, November 27, at selected Swatch stores, then you can only buy it on days it snows in Switzerland, all the way to March 20, 2027. Are you lining up Friday or watching the Swiss forecast? Tell us below and save this for launch day. Full story on the Journal, link in bio. #moonswatch #swatch #omega #snoopy #silversnowflake #watchnews #mrtictoctalk"
+ig_caption: "Swatch just made the weather forecast part of your watch shopping. The new MoonSwatch Mission to Earthphase Silver Snowflake (SSX01B701) is all black Bioceramic with a silver moonphase, and every single one gets its own laser engraved snowflake, so no two are the same. Snoopy and Woodstock in the snow, a white Switzerland on the earthphase, tiny skis that nod to the Speedmaster Apollo 11 50th, and hidden UV details. $450 USD. It drops Black Friday, November 27, at selected Swatch stores, then you can only buy it on days it snows in Switzerland, all the way to March 20, 2027. Are you lining up Friday or watching the Swiss forecast? Comment below and check the full breakdown at https://mrtictoctalk.com/moonswatch-mission-to-earthphase-silver-snowflake-news/ (link in bio). #moonswatch #swatch #omega #snoopy #silversnowflake #watchnews #mrtictoctalk"
 image: "/assets/img/watches/moonswatch-mission-to-earthphase-silver-snowflake.webp"
 image_alt: "Omega x Swatch MoonSwatch Mission to Earthphase Silver Snowflake in black Bioceramic with silver moonphase at 2 o'clock, earthphase at 10 o'clock and black Velcro strap"
 image_credit: "Swatch"
 ---
+Ad: I earn commissions from links in this article.
+
 The MoonSwatch just went full winter mode, and the buying rules are the wildest yet. Swatch and Omega announced the **Mission to Earthphase Silver Snowflake** this morning: an all black Bioceramic MoonSwatch with a silver moonphase, a snowflake engraved on every watch that no other watch shares, and a sales window controlled by the Swiss weather. After launch day on Black Friday, you can only buy one when it is actually snowing in Switzerland.
 
 Here is everything confirmed so far.
 
 ## MoonSwatch Mission to Earthphase Silver Snowflake
 
-**Announced:** November 25, 2026 ([Swatch press release](https://www.swatch.com/en-SG/press/collection/mission-to-earthphase-silver-snowflake-a-one-of-a-kind-moonswatch-that-will-have-you-hoping-for-a-snow-day), [Swatch US product page](https://www.swatch.com/en-us/mission-to-earthphase-silver-snowflake-ssx01b701/SSX01B701.html), [Hodinkee](https://www.hodinkee.com/articles/swatch-offers-winter-whimsy-with-the-moonswatch-mission-to-earthphase-silver-snowflake), [Time+Tide](https://timeandtidewatches.com/omega-x-swatch-mission-to-earthphase-silver-snowflake-introducing/), [Fratello](https://www.fratellowatches.com/omega-x-swatch-moonswatch-mission-to-earthphase-silver-snowflake-a-moonswatch-that-depends-on-the-weather/))
+**Announced:** November 25, 2026 ([Swatch press release](https://www.swatch.com/en-SG/press/collection/mission-to-earthphase-silver-snowflake-a-one-of-a-kind-moonswatch-that-will-have-you-hoping-for-a-snow-day), [Swatch US product page](https://www.swatch.com/en-us/mission-to-earthphase-silver-snowflake-ssx01b701/SSX01B701.html), [Hodinkee](https://www.hodinkee.com/articles/swatch-offers-winter-whimsy-with-the-moonswatch-mission-to-earthphase-silver-snowflake), [Time+Tide](https://timeandtidewatches.com/omega-x-swatch-mission-to-earthphase-silver-snowflake-introducing/), [Fratello](https://www.fratellowatches.com/omega-x-swatch-moonswatch-mission-to-earthphase-silver-snowflake-a-moonswatch-that-depends-on-the-weather/), [WatchTime](https://www.watchtime.com/brands/quartz-watches/moonswatch-silver-snowflake))
 
 ### The snowflake trick
 
@@ -35,7 +37,7 @@ This dial rewards a close look:
 * **Snoopy and Woodstock:** the pair sit together in a snowy scene beneath the earthphase.
 * **Two tiny skis at 11 o'clock:** a wink to the Omega Speedmaster Apollo 11 50th Anniversary Limited Edition. Hodinkee also points out that "Silver Snowflake" sounds a lot like "Silver Snoopy."
 * **UV surprises:** under a UV torch the oceans on the earthphase glow blue while the snowy Switzerland and the snow around Snoopy and Woodstock glow lime green, and Swatch promises more hidden UV details for owners to find.
-* **Lume:** hands, hour markers and the tip of the chronograph seconds hand use blue emission Grade A Super-LumiNova.
+* **Lume:** hands, hour markers and the tip of the chronograph seconds hand use blue emission Grade A Super LumiNova.
 
 ### How the earthphase works
 
@@ -48,14 +50,14 @@ The earthphase is a complication found only in the Bioceramic MoonSwatch collect
 * **Bezel:** glossy black Bioceramic tachymeter with the Speedmaster style dot over 90
 * **Crystal:** box shaped, made from bio sourced material with an anti scratch coating, with the Swatch "S" in the center
 * **Dial:** black sun brushed, sparkly black moon and earth phase backgrounds, UV ink details
-* **Movement:** quartz chronograph with moonphase and earthphase (Hodinkee lists it as part of ETA's G10 family, battery life about 2 to 3 years)
+* **Movement:** quartz chronograph with moonphase and earthphase (Hodinkee lists it as part of ETA's G10 family, battery life about 2 to 3 years; WatchTime and Time+Tide note the chronograph is seconds only, with running seconds at 6 o'clock and no minute or hour totalizers)
 * **Water resistance:** 30 m
 * **Strap:** black rubber with Velcro closure and grey Moon surface pattern backing, black Bioceramic loop
 * **Caseback:** engraved mission statement and an Earth themed battery cover (per Time+Tide)
 
 ### Price, launch and the snow rule
 
-* **Price:** **$450 USD** on Swatch's US site. Elsewhere it is EUR 400, CHF 350 and GBP 350, per Fratello and Notebookcheck.
+* **Price:** **$450 USD** on Swatch's US site. Elsewhere it is EUR 400, CHF 350 and GBP 350, per Fratello, Time+Tide and Notebookcheck.
 * **Launch:** Friday, November 27, 2026 (Black Friday), at a selection of Swatch stores worldwide.
 * **After launch day:** available only on days when it snows in Switzerland, until the last day of winter, March 20, 2027. Swatch says it will post the forecast on Swatch.com so you can check availability, and its store locator shows where to buy.
 * **Limited?** Not a numbered edition. Notebookcheck says Swatch describes it as a limited time release, and the official product page calls it "available for a limited time."
@@ -78,4 +80,4 @@ The Velcro strap is comfortable, but the MoonSwatch looks great on other straps 
 
 ## The bottom line
 
-MoonSwatch Mission to Earthphase Silver Snowflake, ref. SSX01B701: 42 mm matte black Bioceramic, silver moonphase with a Snoopy moon and a laser engraved snowflake unique to every watch, earthphase with a snowy Switzerland, Snoopy and Woodstock, skis for the Apollo 11 50th, hidden UV details, quartz chronograph, 30 m, Velcro strap. **$450 USD.** On sale Black Friday, November 27, at selected Swatch stores, then only when it snows in Switzerland until March 20, 2027. Are you going Friday, or are you checking the Swiss forecast every morning?
+MoonSwatch Mission to Earthphase Silver Snowflake, ref. SSX01B701: 42 mm matte black Bioceramic, silver moonphase with a Snoopy moon and a laser engraved snowflake unique to every watch, earthphase with a snowy Switzerland, Snoopy and Woodstock, skis for the Apollo 11 50th, hidden UV details, seconds only quartz chronograph, 30 m, Velcro strap. **$450 USD.** On sale Black Friday, November 27, at selected Swatch stores, then only when it snows in Switzerland until March 20, 2027. Are you going Friday, or are you checking the Swiss forecast every morning?
