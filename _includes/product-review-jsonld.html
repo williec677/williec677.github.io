@@ -1,0 +1,72 @@
+{%- assign pr = page.product_review -%}
+{%- if pr and pr.name -%}
+{%- assign review_author_name = site.author.name | default: "Will" -%}
+{%- assign review_author_url = site.author.url | default: "https://mrtictoctalk.com/about/" -%}
+{%- assign review_summary = pr.summary | default: page.verdict -%}
+{%- assign default_img = "/assets/img/brand/logo-full.png" -%}
+{%- assign has_hero_img = false -%}
+{%- if page.image and page.image != "" and page.image != default_img -%}
+  {%- assign has_hero_img = true -%}
+{%- endif -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": {{ page.url | absolute_url | append: "#product" | jsonify }},
+  "name": {{ pr.name | jsonify }},
+  {%- if pr.brand %}
+  "brand": {
+    "@type": "Brand",
+    "name": {{ pr.brand | jsonify }}
+  },
+  {%- endif %}
+  {%- if page.description %}
+  "description": {{ page.description | jsonify }},
+  {%- endif %}
+  {%- if has_hero_img %}
+  "image": {{ page.image | absolute_url | jsonify }},
+  {%- endif %}
+  "url": {{ page.url | absolute_url | jsonify }},
+  "review": {
+    "@type": "Review",
+    "@id": {{ page.url | absolute_url | append: "#review" | jsonify }},
+    "name": {{ page.title | jsonify }},
+    "url": {{ page.url | absolute_url | jsonify }},
+    "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+    "author": {
+      "@type": "Person",
+      "name": {{ review_author_name | jsonify }},
+      "url": {{ review_author_url | jsonify }}
+    },
+    "publisher": {
+      "@type": "Organization",
+      "@id": "https://mrtictoctalk.com/#org",
+      "name": {{ site.social.name | default: "MrTicTocTalk" | jsonify }}
+    }
+    {%- if review_summary and review_summary != "" %},
+    "reviewBody": {{ review_summary | jsonify }}
+    {%- endif %}
+    {%- if pr.pros and pr.pros.size > 0 %},
+    "positiveNotes": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {%- for item in pr.pros %}
+        {"@type": "ListItem", "position": {{ forloop.index }}, "name": {{ item | jsonify }}}{% unless forloop.last %},{% endunless %}
+        {%- endfor %}
+      ]
+    }
+    {%- endif %}
+    {%- if pr.cons and pr.cons.size > 0 %},
+    "negativeNotes": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {%- for item in pr.cons %}
+        {"@type": "ListItem", "position": {{ forloop.index }}, "name": {{ item | jsonify }}}{% unless forloop.last %},{% endunless %}
+        {%- endfor %}
+      ]
+    }
+    {%- endif %}
+  }
+}
+</script>
+{%- endif -%}

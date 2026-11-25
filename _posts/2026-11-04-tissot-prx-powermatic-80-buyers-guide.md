@@ -11,6 +11,17 @@ verdict: "The PRX Powermatic 80 is the first Swiss automatic I would tell a new 
 image: "/assets/img/watches/tissot-prx-40.webp"
 image_alt: "A Tissot PRX Powermatic 80 with a blue dial on an integrated steel bracelet"
 image_credit: "Tissot"
+product_review:
+  name: "Tissot PRX Powermatic 80"
+  brand: "Tissot"
+  pros:
+    - "An 80 hour power reserve means you can take it off Friday night and it is still ticking Monday morning."
+    - "100m water resistance, sapphire crystal, quick release bracelet."
+  cons:
+    - "No screw down crown."
+    - "No fine regulator."
+    - "It is everywhere."
+    - "Polished surfaces scratch."
 ---
 Let me say the quiet part out loud. Most people who fall for the integrated bracelet look will never spend Royal Oak money, and they should not have to. The Tissot PRX Powermatic 80 is the reason that does not matter anymore. Flat tonneau case, bracelet that flows straight out of it like liquid steel, a dial that throws light around the room, and a Swiss automatic movement that runs for more than three days off the wrist. For the money, nothing else in the category gives you this much watch.
 

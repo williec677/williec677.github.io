@@ -10,6 +10,16 @@ ig_caption: "Not every great vintage diver wears a crown. The Seiko 6105 earned 
 image: "/assets/img/watches/seiko-spb143.webp"
 image_alt: "A Seiko Prospex SPB143 62MAS reissue with a black dial on a steel bracelet"
 image_credit: "Seiko"
+product_review:
+  name: "Seiko 6105"
+  brand: "Seiko"
+  summary: "It has real history, a design that still looks modern, and a movement that keeps going. It is also one of the most frankenstein prone watches you can buy, because aftermarket parts are everywhere."
+  pros:
+    - "It has real history, a design that still looks modern, and a movement that keeps going."
+    - "The 6105 movement is simple and well documented, and many parts interchange with its 6106 base calibre"
+  cons:
+    - "It is also one of the most frankenstein prone watches you can buy, because aftermarket parts are everywhere."
+    - "the bayonet crown and its gasket on the 8110 wear over time, and original case parts are getting harder to find."
 ---
 My collection leans Rolex, but the watch I recommend most to friends starting out in vintage is a Seiko 6105. It has real history, a design that still looks modern, and a movement that keeps going. It is also one of the most frankenstein prone watches you can buy, because aftermarket parts are everywhere.
 

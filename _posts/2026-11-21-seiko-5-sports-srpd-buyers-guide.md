@@ -10,6 +10,16 @@ ig_caption: "The Seiko 5 Sports SRPD might be the best first automatic you can b
 image: "/assets/img/watches/seiko-5-sports-srpd-lineup.webp"
 image_alt: "Official Seiko product photos of four Seiko 5 Sports SRPD models: the black SRPD55, blue SRPD51, green SRPD63, and blue and red SRPD53"
 image_credit: "Seiko"
+product_review:
+  name: "Seiko 5 Sports SRPD"
+  brand: "Seiko"
+  summary: "The Seiko 5 Sports SRPD is not an SKX007 clone, and that is fine. It is a modern, compact, hacking and hand winding automatic with a great case and endless options, for an MSRP of $350 USD. If this is your first automatic, it is one of the smartest places to start. If you already own a few watches, the SRPD63 in green is the perfect weekend beater."
+  pros:
+    - "Calibre 4R36 with hacking, hand winding, and approximately 41 hours of reserve."
+    - "46mm lug to lug on a 42.5mm watch is compact. The SRPD wears smaller than the diameter suggests"
+  cons:
+    - "The SRPD is rated to 100m with no ISO certification."
+    - "The SKX007 had a screw down crown. The SRPD does not."
 ---
 If you have ever asked a watch person what your first automatic should be, there is a good chance you heard one word: Seiko. And for the last several years, the specific Seiko they meant was very often the 5 Sports SRPD, the watch the community nicknamed the 5KX.
 

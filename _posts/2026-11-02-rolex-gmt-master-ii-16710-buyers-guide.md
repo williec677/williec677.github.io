@@ -10,6 +10,16 @@ ig_caption: "The 16710 is the last aluminum bezel GMT, and my Coke GMT is still 
 image: "/assets/img/watches/coke-vs-pepsi-gmt.webp"
 image_alt: "A real Rolex GMT Master II Coke with a red and black bezel next to an official Rolex Pepsi with a red and blue bezel, with VS between them"
 image_credit: "MrTicTocTalk and Rolex"
+product_review:
+  name: "Rolex GMT Master II 16710"
+  brand: "Rolex"
+  summary: "The 16710 has a 40mm steel case, an aluminum insert that will fade if you live in it, and a movement that does real GMT work. It is also one of the most faked and most \"improved\" references Rolex ever made, so it rewards a buyer who does homework."
+  pros:
+    - "Calibre 3185 lets you jump the local hour hand on its own in one hour steps while the 24 hour hand keeps home time."
+    - "40mm Oyster case, 20mm lugs, 100m water resistance, a sapphire crystal, and a bidirectional 24 hour bezel with 120 clicks."
+  cons:
+    - "It is also one of the most faked and most \"improved\" references Rolex ever made, so it rewards a buyer who does homework."
+    - "Modern replicas of the 16710 are good enough that photos are not proof."
 ---
 I'll admit my bias up front. My own GMT Master II is a 1989 Coke, and it is the watch I grab when I get on a plane. The 16710 has a 40mm steel case, an aluminum insert that will fade if you live in it, and a movement that does real GMT work. It is also one of the most faked and most "improved" references Rolex ever made, so it rewards a buyer who does homework.
 

@@ -10,6 +10,16 @@ ig_caption: "The 145.022 was the first Speedmaster with the cal 861, and the suf
 image: "/assets/img/watches/omega-speedmaster.webp"
 image_alt: "Official Omega product photo of the current Speedmaster Moonwatch Professional, the modern successor to the 145.022"
 image_credit: "Omega"
+product_review:
+  name: "Omega Speedmaster 145.022"
+  brand: "Omega"
+  summary: "The new calibre 861 was Lemania based, used a shuttle cam instead of a column wheel, and ran faster at 21,600 vibrations per hour. It is hand wound, robust, and cheaper to service than a 321."
+  pros:
+    - "It is hand wound, robust, and cheaper to service than a 321."
+    - "The case is 42mm wide with 20mm lugs and about 48mm lug to lug, under a Hesalite crystal"
+  cons:
+    - "The bad news is that every one of those details can be swapped."
+    - "DON bezels are now expensive parts, which is exactly why they get fitted to watches that never had one."
 ---
 Most people shopping for a vintage Speedmaster are really shopping for a 145.022. It is the reference that introduced calibre 861, Omega made it for about two decades, and it comes in enough variants to keep you busy for years. The good news is that the variants follow a logic once you know where to look. The bad news is that every one of those details can be swapped.
 
