@@ -36,7 +36,7 @@ layout: default
     <p class="meta">
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       · {% assign words = content | number_of_words %}{{ words | divided_by: 230 | plus: 1 }} min read
-      · by <a href="{{ site.instagram_url }}" rel="author noopener" target="_blank">Will, @mrtictoctalk</a>
+      · by <a href="{{ '/about/' | relative_url }}" rel="author">Will</a> (<a href="{{ site.instagram_url }}" rel="noopener" target="_blank">@mrtictoctalk</a>)
     </p>
   </header>
   {%- assign default_img = "/assets/img/brand/logo-full.png" -%}
@@ -62,18 +62,7 @@ layout: default
   <aside class="post-cta">
     <p><strong>Talk watches with me.</strong> Questions about a reference, or a watch you are thinking of buying? Send a DM on <a href="{{ site.instagram_url }}" rel="noopener" target="_blank">Instagram @mrtictoctalk</a>, or <a href="{{ '/newsletter/' | relative_url }}">follow the Journal</a> to get new articles automatically.</p>
   </aside>
-  <aside class="author-box">
-    <img src="{{ '/assets/img/brand/logo-mark.png' | relative_url }}" alt="MrTicTocTalk logo" width="64" height="64">
-    <div>
-      <p class="kicker">About the author</p>
-      <p><strong>Will</strong> writes the MrTicTocTalk Journal. Sold prices over asking prices, always.</p>
-      <p class="author-links">
-        <a href="{{ site.instagram_url }}" rel="noopener" target="_blank">Instagram</a>
-        {% if site.x_url != "" %}<a href="{{ site.x_url }}" rel="noopener" target="_blank">X</a>{% endif %}
-        <a href="{{ '/about/' | relative_url }}">More about Will</a>
-      </p>
-    </div>
-  </aside>
+  {% include author-methodology.html %}
   <p class="share">
     Share this article:
     <a href="https://x.com/intent/tweet?url={{ page.url | absolute_url | url_encode }}&amp;text={{ page.title | url_encode }}" rel="noopener" target="_blank">X</a>

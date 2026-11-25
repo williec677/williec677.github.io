@@ -246,6 +246,7 @@ h3{font-size:1.1rem;margin:1.5rem 0 .4rem}
 .author-box img{width:64px;height:64px;border-radius:12px;flex:none}
 .author-box p{margin:.2rem 0 0}
 .author-links{font:.9rem var(--sans);display:flex;flex-wrap:wrap;gap:.35rem 1rem;margin-top:.45rem}
+.author-methodology{font:.86rem/1.5 var(--sans);color:var(--muted);margin:.5rem 0 0}
 
 .share{font:.9rem var(--sans);color:var(--muted);margin:0 0 1.6rem}
 .share a{margin-left:.55rem}
