@@ -61,7 +61,7 @@ The four steel wave dials are the ones I keep coming back to. Favre Leuba lays a
 
 Inside every reference is Favre Leuba's Swiss quartz calibre FLQ01, based on the Ronda 783, showing hours, minutes and seconds. No date. Purists will grumble about quartz in a Deep Raider, but this is the right call. It is how the case stays under 10 mm, it means the watch is always ready to wear when it comes out of the drawer, and nobody buying a 34 mm mother of pearl diver is shopping for a chronometer certificate.
 
-**Price and availability:** available now, **$1,750 to $3,750 USD**, per Favre Leuba's US product pages and WatchTime. The steel wave dials sit at the entry point, the PVD mother of pearl models at $2,100 USD, the aventurine at $2,250 USD, and the two diamond bezel models at $3,400 USD (steel) and $3,750 USD (rose gold PVD). Every reference is listed with a USD price on Favre Leuba's own site, which is the cleanest place to check stock.
+**Price and availability:** the collection is open for pre booking on Favre Leuba's site, which lists delivery in November 2027, at **$1,750 to $3,750 USD**, per Favre Leuba's US product pages and WatchTime. The steel wave dials sit at the entry point, the PVD mother of pearl models at $2,100 USD, the aventurine at $2,250 USD, and the two diamond bezel models at $3,400 USD (steel) and $3,750 USD (rose gold PVD). Every reference is listed with a USD price on Favre Leuba's own site, which is the cleanest place to pre book.
 
 ## My take: who this is for
 
@@ -77,4 +77,4 @@ A quartz watch you love deserves a safe place to rest between wears. A {% includ
 
 ## The bottom line
 
-Favre Leuba Deep Raider Ladies: 11 references, 34 mm by 9.89 mm steel, twisted lugs, integrated three link bracelet, 100 m, unidirectional bezel (nine dive scales, two with 48 VVS diamonds), wave pattern, mother of pearl and aventurine dials, Swiss quartz FLQ01 on a Ronda 783 base, available now from $1,750 to $3,750 USD. Steel wave dial or blue aventurine: which one would you put on your wrist?
+Favre Leuba Deep Raider Ladies: 11 references, 34 mm by 9.89 mm steel, twisted lugs, integrated three link bracelet, 100 m, unidirectional bezel (nine dive scales, two with 48 VVS diamonds), wave pattern, mother of pearl and aventurine dials, Swiss quartz FLQ01 on a Ronda 783 base, open for pre booking on Favre Leuba's site, which lists delivery in November 2027, from $1,750 to $3,750 USD. Steel wave dial or blue aventurine: which one would you put on your wrist?

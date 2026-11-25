@@ -852,3 +852,8 @@ Window checked: ~2026-11-24 8:20 AM ET through ~2026-11-24 12:25 PM ET. Publishe
 | 2026-11-24 | Follow ups still open: SHER Obtuse preorder Nov 25 8 AM ET (Founders 50 sell out), G-Shock HIDDEN GM2110HDN-8A Nov 25, HU-02 preorders close Dec 1, Campanola Y520 Dec 3, Tusenö Shellback GMT preorder Dec 3, Citizen Attesa Hazy Dec, Orient Star Skeleton ~Dec 10, Maen Jump Hour Dec 10, Dennison x W&W LE Dec 10, The Citizen AQ4100-65F Dec 17 (US price?), Swiss exports November Dec 17, Algorithme du Temps final price, Bond watch confirmation, Nodus Red Jasper sell out, Luminox movement, Qian GuoBiao brand site listing, Direnzo Cosmonaire thickness and meteorite LE sell out, MR-G Haruka new date, Blancpain Carrousel Incliné official US listing, Hanhart 417 C Panna sell out, Bremont Supernova PC GMT sell out, Holthinrichs movement data (SW300 vs SW360), Protocol 001 funding / delivery date / warranty | Prior | Unchanged (Colorama not limited, no follow up) |
 
 Window checked: ~2026-11-24 12:25 PM ET through ~2026-11-24 6:25 PM ET. Published: nivada-grenchen-colorama-womens-watch-sets-news (6:15 PM ET).
+
+## Correction 2026-11-24 ~10:50 PM ET
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-24 | Favre Leuba Deep Raider Ladies live correction: replaced "available now" with pre booking and delivery in November 2027, per Favre Leuba product pages (Pre Book Now, Delivery in Nov 2027). Will approved in his own words. No other post changes. | favreleuba.com product pages | Corrected: favre-leuba-deep-raider-ladies-34mm-news |
