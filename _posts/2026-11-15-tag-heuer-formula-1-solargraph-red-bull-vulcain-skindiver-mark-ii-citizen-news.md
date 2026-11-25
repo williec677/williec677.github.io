@@ -35,7 +35,7 @@ The bigger news for collectors is the size. Time and Watches points out that thi
 
 ### Why Solargraph makes sense here
 
-The TH50-00 runs entirely on light, natural or artificial. TAG Heuer says **one minute of exposure to light** powers a full day, a full charge in under 40 hours of light gives **up to ten months** in total darkness, and the battery is rated for up to 15 years. For a watch that is meant to be thrown on and worn hard, that is exactly the right engine. No winding, no dead battery surprises.
+The TH50-00 runs entirely on light, natural or artificial. TAG Heuer says a brief exposure to light powers a full day, and its guide says about one minute of direct sunlight does it. A full charge in under 40 hours of light gives **up to ten months** in total darkness, and the battery is rated for up to 15 years. For a watch that is meant to be thrown on and worn hard, that is exactly the right engine. No winding, no dead battery surprises.
 
 ### My take
 
