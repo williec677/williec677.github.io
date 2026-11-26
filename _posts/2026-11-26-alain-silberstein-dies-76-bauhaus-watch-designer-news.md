@@ -7,7 +7,7 @@ date: 2026-11-26 08:15:00 -0500
 category_label: News
 cluster: news
 tags: [news, alain silberstein, obituary, independent watchmaking, krono bauhaus, bauhaus, mbf, louis erard, watch design, besancon, industry]
-affiliate: true
+affiliate: false
 ig_caption: "A red triangle, a blue square and a yellow circle. If you have ever seen those on a watch dial, you know whose work it was. Alain Silberstein, the Paris born architect turned watch designer, died on Wednesday, November 25, at 76. He showed his first watches at Basel in 1987, built a brand in Besançon that made roughly 30,000 watches before closing in 2012, then found a whole new audience through MB&F and Louis Erard. He was days away from revealing the relaunch of his own brand on December 1, its 40th anniversary year. Which Silberstein design do you remember first? Tell us in the comments and save this one. Full story on the Journal, link in bio. #alainsilberstein #independentwatchmaking #kronobauhaus #mbandf #louiserard #watchdesign #watchnews #mrtictoctalk"
 image: "/assets/img/watches/alain-silberstein-portrait.webp"
 image_alt: "Alain Silberstein smiling with his chin on his hand, surrounded by red triangles, blue squares and yellow circles on a black background"
@@ -19,7 +19,7 @@ Some designers you recognize by a logo. Alain Silberstein you could recognize fr
 
 **Reported:** November 25 and 26, 2026 ([Monochrome](https://monochrome-watches.com/in-memory-of-alain-silberstein-1950-2026-the-singular-watch-designer/), [L'Est Républicain](https://www.estrepublicain.fr/economie/2026/11/26/disparition-d-alain-silberstein-genial-designer-horloger), [The Hour Markers](https://www.thehourmarkers.com/articles/alain-silberstein-obituary))
 
-* **When:** he died on the morning of Wednesday, November 25, 2026, aged 76, per L'Est Républicain, the daily newspaper in Besançon, where he built his career. Monochrome describes the death as sudden and unexpected.
+* **When:** he died on the morning of Wednesday, November 25, 2026, aged 76, per L'Est Républicain, the daily newspaper in Besançon, where he built his career.
 * **Who broke it:** L'Est Républicain credits Grégory Pons, the French watch journalist, as the first to report it. Pons called him "the greatest French watch designer of the last half century" (our translation).
 * **Born:** June 14, 1950, in Paris, per L'Est Républicain.
 * **Not disclosed:** no cause of death has been published, and we have not seen funeral details. L'Est Républicain links to an online condolence page for anyone who wants to leave a message.
@@ -64,14 +64,6 @@ This is the painful part. His brand site, [alainsilberstein.ch](https://www.alai
 The Hour Markers reports he was developing seven proprietary movements for the return. Treat that number as reported, not confirmed by the brand. The Hour Markers also says the project's future is now uncertain, while Monochrome says it is still going ahead. We will check the brand's December 1 announcement and update the story then.
 
 **My take:** in a hobby that takes itself very seriously, Silberstein made watches that smiled. That is harder than it looks, and the fact that brands from MB&F to Louis Erard kept calling him decades after his debut says everything. It has been a heavy week for the industry: [Paolo Bulgari]({% post_url 2026-11-22-paolo-bulgari-dies-89-bvlgari-watch-legacy-casio-lf-40w-us-news %}) died just four days earlier, and the two men, in very different ways, both proved a watch can be a design object first.
-
-## If you want one of his watches
-
-Original Alain Silberstein Créations pieces and the Louis Erard collaborations turn up on the secondary market, but sellers often relist after news like this, so compare sold prices rather than asking prices. Our guide on [how to find real sold prices for vintage watches]({% post_url 2026-11-13-how-to-find-real-sold-prices-for-vintage-watches %}) walks through it.
-
-{% include ebay-shop.html lead="Looking for one?" q="alain+silberstein+watch" label="Alain Silberstein" q2="louis+erard+silberstein" label2="Louis Erard x Silberstein" %}
-
-Most of these sit on leather or rubber straps that are worth refreshing on a vintage piece. Check the lug width before you order, or look up your watch in the [Watch Strap Finder](https://mrtictoctalk.com/strap-finder/).
 
 ## The bottom line
 

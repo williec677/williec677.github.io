@@ -2,18 +2,18 @@
 layout: post
 title: "Anoma A2: A Twisted Möbius Oval With a 4 mm Sapphire Crystal, About $3,145 USD (£2,400)"
 seo_title: "Anoma A2 Price, Specs and Order Window: The Möbius Strip Watch"
-description: "London design brand Anoma follows its triangular A1 with the A2, a twisted oval steel case inspired by the Möbius strip, a 4 mm faceted sapphire crystal and a hand wound La Joux-Perret D100. About $3,145 USD (£2,400 ex tax), orders open November 26 to December 3, 2026, delivery April 2027."
+description: "London design brand Anoma follows its triangular A1 with the A2, a twisted oval steel case inspired by the Möbius strip, a 4 mm faceted sapphire crystal and a hand wound La Joux-Perret D100. £2,400 before taxes (£2,880 with 20% UK VAT), about $3,145 USD as a conversion at the ECB rate of Nov 26, 2026. No official USD price. Orders open November 26 to December 3, 2026, delivery April 2027."
 date: 2026-11-26 12:20:00 -0500
 category_label: News
 cluster: news
 tags: [news, anoma, anoma a2, shaped watch, design watch, microbrand, independent, la joux perret, d100, hand wound, dress watch, oval watch, baignoire]
 affiliate: true
-ig_caption: "This is not a pebble, a puddle or a ring. It is the new Anoma A2, and it might be the most sculptural watch you can buy for about $3,145 USD (£2,400 ex tax). The steel case twists one way like a Möbius strip, the 4 mm faceted sapphire crystal twists the other way, and the crown hides on the back. Teal blue lacquered dial, hands shaped after Brancusi's Bird in Space, hand wound La Joux-Perret D100, 9.8 mm thick, 50 m. It is not limited, but the first batch only takes orders from November 26 to December 3, with delivery in April 2027. Genius design or too weird to wear daily? Tell us in the comments and save this for your next shaped watch hunt. Full story on the Journal, link in bio. #anoma #anomaa2 #shapedwatch #designwatch #microbrand #independentwatch #watchnews #mrtictoctalk"
+ig_caption: "This is not a pebble, a puddle or a ring. It is the new Anoma A2, and it might be the most sculptural watch you can buy for about $3,145 USD (£2,400 before taxes). The steel case twists one way like a Möbius strip, the 4 mm faceted sapphire crystal twists the other way, and the crown hides on the back. Teal blue lacquered dial, hands shaped after Brancusi's Bird in Space, hand wound La Joux-Perret D100, 9.8 mm thick, 50 m. It is not limited, but the first batch only takes orders from November 26 to December 3, with delivery in April 2027. Genius design or too weird to wear daily? Tell us in the comments and save this for your next shaped watch hunt. Full story on the Journal, link in bio. #anoma #anomaa2 #shapedwatch #designwatch #microbrand #independentwatch #watchnews #mrtictoctalk"
 image: "/assets/img/watches/anoma-a2-blue-moebius-case.webp"
 image_alt: "Anoma A2 with a twisted polished steel oval case, thick faceted sapphire crystal and teal blue brushed dial with white polished hands on a dark background"
 image_credit: "Anoma"
 ---
-Every year a handful of watches make you stop scrolling. Anoma just dropped one of them on Thanksgiving morning. The A2 is the second model from the London design brand behind the triangular A1, and it trades that soft triangle for an oval that literally twists around itself. Hodinkee, Fratello, SJX, Time+Tide and Watchonista all published at 9 AM ET, with a full Worn & Wound review shortly after, which tells you how much attention this young brand now commands.
+Every year a handful of watches make you stop scrolling. Anoma just dropped one of them on Thanksgiving morning. The A2 is the second model from the London design brand behind the triangular A1, and it trades that soft triangle for an oval that literally twists around itself. Hodinkee, Fratello, SJX, Time+Tide and Watchonista all published the same morning, with a full Worn & Wound review shortly after, which tells you how much attention this young brand now commands.
 
 ## What is confirmed
 
@@ -40,7 +40,7 @@ Every year a handful of watches make you stop scrolling. Anoma just dropped one 
 
 ## Price and how to order
 
-**About $3,145 USD (£2,400)** excluding taxes and duties, using today's ECB reference rates (USD 1.0975 and GBP 0.83755 per euro). Anoma sells in pounds and does not publish an official USD price. For context, Worn & Wound lists **$3,130** and Hodinkee says around $3,150, so the conversion lines up. UK buyers pay £2,880 including 20% VAT (about $3,774 USD), and US buyers should budget for possible import charges on top of the ex tax price.
+**£2,400 before taxes (£2,880 with 20% UK VAT), about $3,145 USD as a conversion at the ECB rate of Nov 26, 2026. No official USD price.** US orders ship from within the US with tariffs and duties included, per Anoma. Anoma lists prices only in pounds. For context, Worn & Wound lists **$3,130** and Hodinkee says around $3,150, so the conversion lines up.
 
 **Order window:** Anoma's product page says first run orders are open **November 26 to December 3, 2026**, with **delivery in April 2027**, sold only through anomawatches.com. Time+Tide prints December 6 as the closing date, but we are going with the brand's own page. If you want one from the first batch, do not sleep on it.
 
@@ -64,7 +64,7 @@ On straps: because the A2's strap attaches under the case, do not assume any 16 
 
 * **Watch:** Anoma A2, twisted Möbius inspired oval in 316L steel, 41.5 x 35.7 x 9.8 mm, 4 mm faceted sapphire, 50 m
 * **Movement:** La Joux-Perret D100 hand wound, 3 Hz, 18 jewels, about 50 hours (per Time+Tide and SJX)
-* **Price:** **about $3,145 USD (£2,400)** ex tax; Worn & Wound lists $3,130
+* **Price:** **£2,400 before taxes (£2,880 with 20% UK VAT), about $3,145 USD as a conversion at the ECB rate of Nov 26, 2026. No official USD price.** Worn & Wound lists $3,130
 * **Order:** November 26 to December 3, 2026 at anomawatches.com, delivery April 2027, not limited
 
 Would you wear a watch with no markers and a crown on the back if it looked this good? Tell us in the comments.

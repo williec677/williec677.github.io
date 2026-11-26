@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Panerai's 30 Piece Luna Rossa GMT PAM01464 Comes With a Week at the America's Cup, a Pink Gold Reverso at $18,400, and the \"British Panerai\" Heads to Bonhams"
+title: "Panerai's 30 Piece Luna Rossa GMT PAM01464 Comes With a Five Day Luna Rossa Experience in Naples, June 16 to 20, 2027, a Pink Gold Reverso at $18,400, and the \"British Panerai\" Heads to Bonhams"
 seo_title: "Panerai PAM01464 Luna Rossa GMT Experience, JLC Reverso Q3862520, Longines HS C Bonhams"
-description: "Panerai's first open worked Luna Rossa Luminor, the PAM01464 GMT Experience Edition, is 44 mm Carbotech, P.4001/S, 30 pieces, price on request. Plus Jaeger-LeCoultre's pink gold Reverso Classic Monoface Small Seconds at $18,400 USD and a WWII Longines Royal Navy HS C diver estimated at about $39,200 to $65,300 USD (£30,000 to £50,000) at Bonhams."
+description: "Panerai's first open worked Luna Rossa Luminor, the PAM01464 GMT Experience Edition, is 44 mm Carbotech, P.4001/S, 30 pieces, price on request. Plus Jaeger-LeCoultre's pink gold Reverso Classic Monoface Small Seconds at $18,400 USD and a WWII Longines Royal Navy HS C diver estimated at about $39,200 to $65,300 USD (£30,000 to £50,000) at Bonhams, excluding the buyer's premium."
 date: 2026-11-25 18:25:00 -0500
 category_label: News
 cluster: news
 tags: [news, panerai, luminor, luna rossa, pam01464, gmt, carbotech, skeleton, limited edition, america's cup, jaeger-lecoultre, reverso, reverso classic, pink gold, dress watch, longines, military watch, royal navy, dive watch, auction, bonhams, vintage]
 affiliate: true
-ig_caption: "Panerai just made a watch you basically can't buy without a plane ticket. The new Luminor Luna Rossa GMT Experience Edition PAM01464 is the first open worked Luminor in the Luna Rossa line: 44 mm Carbotech, skeletonized P.4001/S with 3 days of reserve, a true jumping local hour GMT and 100 m. Only 30 exist, price is on request, and every owner gets a week with the Luna Rossa sailing team in Naples for the 2027 America's Cup. Also today: Jaeger-LeCoultre puts the Reverso Classic Monoface Small Seconds in pink gold for the first time, $18,400 USD at a US dealer, and Bonhams is selling HS C13, a WWII Longines Royal Navy diver built as Britain's answer to Panerai, estimated at about $39,200 to $65,300 USD (£30,000 to £50,000). Would you rather have the new Panerai or the original rival? Comment below and save this for later. Full story on the Journal, link in bio. #panerai #lunarossa #luminor #jaegerlecoultre #reverso #longines #bonhams #militarywatch #watchnews #mrtictoctalk"
+ig_caption: "Panerai just made a watch you basically can't buy without a plane ticket. The new Luminor Luna Rossa GMT Experience Edition PAM01464 is the first open worked Luminor in the Luna Rossa line: 44 mm Carbotech, skeletonized P.4001/S with 3 days of reserve, a true jumping local hour GMT and 100 m. Only 30 exist, price is on request, and every owner gets a five day Luna Rossa Experience in Naples, June 16 to 20, 2027. Also today: Jaeger-LeCoultre puts the Reverso Classic Monoface Small Seconds in pink gold for the first time, $18,400 USD, US retail price per Jaeger-LeCoultre's launch figures, as reported by Monochrome, and Bonhams is selling HS C13, a WWII Longines Royal Navy diver built as Britain's answer to Panerai, estimated at about $39,200 to $65,300 USD (£30,000 to £50,000), excluding the buyer's premium. Would you rather have the new Panerai or the original rival? Comment below and save this for later. Full story on the Journal, link in bio. #panerai #lunarossa #luminor #jaegerlecoultre #reverso #longines #bonhams #militarywatch #watchnews #mrtictoctalk"
 image: "/assets/img/watches/panerai-luminor-luna-rossa-gmt-experience-pam01464.webp"
 image_alt: "Panerai Luminor Luna Rossa GMT Experience Edition PAM01464 in black Carbotech on a sailboat deck next to a red rope"
 image_credit: "Panerai via Haute Time"
@@ -21,7 +21,7 @@ Thanksgiving eve turned into a little Panerai story. Panerai dropped a 30 piece 
 
 Panerai has sponsored the Italian sailing team Luna Rossa since 2019, and the 38th America's Cup is headed to Naples in 2027, the first time the race will be sailed in Italy. Earlier this year Panerai released a Luna Rossa chronograph and a 40 mm GMT for the campaign. This one is different: it is the first open worked Luminor in the Luna Rossa collection, and it is an Experience Edition, which means the watch comes bundled with a trip.
 
-Each of the 30 owners gets a place at a Luna Rossa Experience in Naples from June 16 to 20, 2027. Per Haute Time, that covers access to the team base and dock out operations, following the racing with the crew, time on the water around Naples, visits to Capri and the submerged Roman city of Baia, and time aboard Eilean, the classic ketch Panerai owns.
+Each of the 30 owners gets a place at a five day Luna Rossa Experience in Naples, June 16 to 20, 2027. Per Haute Time, that covers access to the team base and dock out operations, following the racing with the crew, time on the water around Naples, visits to Capri and the submerged Roman city of Baia, and time aboard Eilean, the classic ketch Panerai owns.
 
 ![Panerai Luminor Luna Rossa GMT Experience Edition PAM01464 front view showing the skeletonized grid dial and red accented rubber strap]({{ "/assets/img/watches/panerai-luminor-luna-rossa-gmt-experience-pam01464-front.webp" | relative_url }})
 *Image: Panerai via Haute Time*
@@ -40,11 +40,11 @@ The GMT is a proper traveler's GMT: local time jumps forward or back in one hour
 * **Power reserve:** 3 days (72 hours)
 * **Functions:** hours, minutes, small seconds with seconds reset, GMT with 24 hour indication, polarized date, power reserve on the back
 * **Strap:** Luna Rossa hook and loop strap, plus a black rubber strap with PAM Click Release and a black DLC titanium trapezoidal buckle, 24 mm at the lugs tapering to 22 mm, in a mahogany box with a screwdriver
-* **Edition:** 30 pieces, each with the Naples Luna Rossa Experience
+* **Edition:** 30 pieces, each with a five day Luna Rossa Experience in Naples, June 16 to 20, 2027
 
 **Price and availability:** price on request, per Oracle of Time and Haute Time. Panerai has not published a number, so we will not guess one.
 
-**My take:** I like that the travel GMT and the open movement got the 100 m rating to go with them, which is the hard part with a sapphire backed skeleton. The watch itself is a niche piece, but the real product here is the week in Naples. If you want the Panerai GMT feel without an invitation, the [PAM01757 and PAM01758 Submersible Marina Militare]({% post_url 2026-11-11-panerai-submersible-marina-militare-pam01757-pam01758-urwerk-krayon-tangens-news %}) we covered earlier this month are the more attainable route. For a very different take on a big complication from a sponsor brand, compare it with the [Bremont Supernova Perpetual Calendar GMT]({% post_url 2026-11-24-bremont-supernova-perpetual-calendar-gmt-monopusher-news %}).
+**My take:** I like that the travel GMT and the open movement got the 100 m rating to go with them, which is the hard part with a sapphire backed skeleton. The watch itself is a niche piece, but the real product here is a five day Luna Rossa Experience in Naples, June 16 to 20, 2027. If you want the Panerai GMT feel without an invitation, the [PAM01757 and PAM01758 Submersible Marina Militare]({% post_url 2026-11-11-panerai-submersible-marina-militare-pam01757-pam01758-urwerk-krayon-tangens-news %}) we covered earlier this month are the more attainable route. For a very different take on a big complication from a sponsor brand, compare it with the [Bremont Supernova Perpetual Calendar GMT]({% post_url 2026-11-24-bremont-supernova-perpetual-calendar-gmt-monopusher-news %}).
 
 ## Jaeger-LeCoultre Reverso Classic Monoface Small Seconds in Pink Gold
 
@@ -66,7 +66,7 @@ The dial matches the steel watch: silvered grey with a vertical satin brushed ou
 * **Movement:** Jaeger-LeCoultre calibre 822 manual wind, 42 hour power reserve; hours, minutes, small seconds
 * **Strap:** black alligator per Oracle of Time
 
-**Price:** **$18,400 USD** at CJ Charles. The Jaeger-LeCoultre US site did not return a product page for this reference when we checked, so treat the dealer listing as the US figure until the brand publishes its own. In the UK it is £16,500 (about $21,550 USD at the November 25 ECB rate), per Oracle of Time.
+**Price:** **$18,400 USD**, US retail price per Jaeger-LeCoultre's launch figures, as reported by Monochrome. In the UK it is £16,500 (about $21,550 USD at the November 25 ECB rate), per Oracle of Time.
 
 **My take:** this is gap filling, not a revolution, and that is fine. A slim, hand wound, pink gold Reverso at 40 mm tall is about as classic as dress watches get. If you are following the Bond watch chatter, Jaeger-LeCoultre is one of the two names in the frame, as we laid out in our [Robert Pattinson Bond watch story]({% post_url 2026-11-16-robert-pattinson-james-bond-omega-jaeger-lecoultre-g-shock-mudman-gdgb100-news %}).
 
@@ -92,7 +92,7 @@ Bonhams calls the HS C Britain's first purpose built military diving watch, deve
 * **Condition:** original silver case, matching numbered components and original radium dial, per Bonhams
 * **Rarity:** Bonhams says fewer than 100 were believed made and fewer than 10 survive; Oracle of Time puts the known count at eight before HS C13 surfaced. Both point the same way, just phrased differently.
 * **History:** Bonhams says it was issued to Chariot crews and "may also have seen service" in preparations for the D Day landings. That is the auction house's wording, not a confirmed service record.
-* **Estimate:** £30,000 to £50,000, about **$39,200 to $65,300 USD** at the November 25 ECB rate
+* **Estimate:** £30,000 to £50,000, about **$39,200 to $65,300 USD** at the November 25 ECB rate, excluding the buyer's premium
 * **Last comparable:** Oracle of Time says the last complete, original HS C at auction was HS C15 at Antiquorum in 2007, which sold for CHF 37,760
 
 Public viewing at New Bond Street runs December 6 (12:00 to 16:00) and December 7 to 9 (10:00 to 17:00), per Oracle of Time.
@@ -107,8 +107,8 @@ The PAM01464 is 24 mm at the lugs, same as the rest of the 44 mm Luminor family.
 
 ## The bottom line
 
-* **Panerai Luminor Luna Rossa GMT Experience Edition PAM01464:** 44 mm Carbotech, skeletonized P.4001/S, 72 hours, traveler GMT, polarized date, 100 m, 30 pieces with a June 2027 week in Naples, **price on request**.
-* **Jaeger-LeCoultre Reverso Classic Monoface Small Seconds Q3862520:** 18k pink gold, 40.1 x 24.4 x 7.56 mm, calibre 822 manual wind, **$18,400 USD** at a US dealer, £16,500 in the UK.
-* **Longines Royal Navy HS C13 at Bonhams:** circa 1943, 51 mm silver, cal. 12.68N, original radium dial, Lot 7 on December 10, estimate **about $39,200 to $65,300 USD** (£30,000 to £50,000).
+* **Panerai Luminor Luna Rossa GMT Experience Edition PAM01464:** 44 mm Carbotech, skeletonized P.4001/S, 72 hours, traveler GMT, polarized date, 100 m, 30 pieces with a five day Luna Rossa Experience in Naples, June 16 to 20, 2027, **price on request**.
+* **Jaeger-LeCoultre Reverso Classic Monoface Small Seconds Q3862520:** 18k pink gold, 40.1 x 24.4 x 7.56 mm, calibre 822 manual wind, **$18,400 USD**, US retail price per Jaeger-LeCoultre's launch figures, as reported by Monochrome, £16,500 in the UK.
+* **Longines Royal Navy HS C13 at Bonhams:** circa 1943, 51 mm silver, cal. 12.68N, original radium dial, Lot 7 on December 10, estimate **about $39,200 to $65,300 USD** (£30,000 to £50,000), excluding the buyer's premium.
 
 New Panerai with an America's Cup invite, or the WWII watch Britain built to beat Panerai: which would you rather own?
