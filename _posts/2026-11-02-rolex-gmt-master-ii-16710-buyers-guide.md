@@ -114,3 +114,4 @@ A good {% include aff.html network="amazon" url="https://www.amazon.com/s?k=10x+
 <div class="sources" markdown="1">
 **Sources:** [Bob's Watches, 16710 history](https://www.bobswatches.com/rolex/gmt-master-ii/reference-16710-history) · [BezelBase, Reference 16710](https://bezelbase.org/wiki/Reference:16710) · [The Watch Build, 16710 guide](https://www.thewatchbuild.com/rolex-gmt-master-ii-16710-guide/) · [The Gentleman's Reference, 16710](https://gentlemansreference.com/rolex/gmt-master-ii/16710/) · [WatchProSite, the stick dial](https://www.watchprosite.com/rolex/identifying-future-classic-rolex-from-the-1990-2018-era--part-4-rolex-16710-gmt-master-ii--the-stick-dial-/732.1229496.10113536/). Accessed November 2026.
 </div>
+NEGATIVE TEST LINE, never merge.
