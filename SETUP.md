@@ -29,6 +29,13 @@ Create a free follow.it account using the feed `https://mrtictoctalk.com/feed.xm
 `followit_url: "https://follow.it/..."`
 A subscribe button then appears on the Newsletter page and under every post.
 
+
+## 6. Visitor analytics (Cloudflare Web Analytics, free)
+
+Create a free Cloudflare account at https://dash.cloudflare.com/sign-up using mrtictoctalk@gmail.com. Do not add the domain as a Cloudflare DNS zone, and do not change the Porkbun nameservers. After email verification, open Web Analytics, choose Add a site, and enter hostname `mrtictoctalk.com`. Copy the site token from Manage site (the value inside `data-cf-beacon`). In `_config.yml` set:
+`cloudflare_token: "YOUR_CLOUDFLARE_WEB_ANALYTICS_TOKEN"`
+using your real token in place of the placeholder. The beacon stays off while the value is blank. The Privacy page already has a visitor analytics section that should go out in the same commit as the token.
+
 ## Publishing schedule
 Posts in `_posts/` dated in the future stay hidden. A GitHub Action rebuilds the site every day at 9:05 AM ET (14:05 UTC), so each post goes live on its date. To add a post, copy an existing one, change the date and text, and commit. Note: GitHub pauses scheduled workflows after 60 days with no commits, so make any small commit (or tap "Enable workflow" in the Actions tab) at least every 60 days.
 

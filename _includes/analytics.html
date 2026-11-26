@@ -1,0 +1,9 @@
+{%- comment -%}
+  Cloudflare Web Analytics beacon. Stays off while the token is blank or still
+  the placeholder. Official snippet: type="module", before the ending body tag.
+  Docs: https://developers.cloudflare.com/web-analytics/get-started/
+{%- endcomment -%}
+{%- assign cf_token = site.analytics.cloudflare_token | default: "" | strip -%}
+{%- if cf_token != "" and cf_token != "YOUR_CLOUDFLARE_WEB_ANALYTICS_TOKEN" -%}
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ cf_token }}"}'></script>
+{%- endif -%}

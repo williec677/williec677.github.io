@@ -81,3 +81,14 @@ adsense:
 newsletter:
   # Paste your follow.it (free) subscribe page URL here to show an email signup button.
   followit_url: ""
+
+# ---------------------------------------------------------------
+# VISITOR ANALYTICS (Cloudflare Web Analytics, cookieless)
+# Paste the site token after signup. Leave it blank to keep the beacon off.
+# The token is a public site identifier, not a password. Still, do not put
+# API keys or login secrets in this repo.
+# ---------------------------------------------------------------
+analytics:
+  # Site token from dash.cloudflare.com, Web Analytics, Manage site.
+  # Replace the empty string with YOUR_CLOUDFLARE_WEB_ANALYTICS_TOKEN.
+  cloudflare_token: ""

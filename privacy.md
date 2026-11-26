@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 description: "Privacy policy for the MrTicTocTalk Journal."
 ---
-_Last updated: November 3, 2026_
+_Last updated: November 16, 2026_
 
 This policy explains what happens to information when you visit the MrTicTocTalk Journal (mrtictoctalk.com).
 
@@ -15,6 +15,11 @@ The Journal has no accounts, no comments, and no contact forms. It does not sell
 ## Hosting
 
 The site is hosted on GitHub Pages. GitHub may log technical information such as your IP address when you load a page, for security and to operate the service. See [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+
+## Visitor analytics
+
+The site uses Cloudflare Web Analytics to count page views, visits, referring sites, countries, and basic device data. It does not use cookies, and Cloudflare states it does not collect or use visitors' personal data. This helps measure how people reach pages such as articles and the ownership calculator, including visits that follow a YouTube video. See [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 ## Affiliate links
 

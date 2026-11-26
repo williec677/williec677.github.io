@@ -1,0 +1,180 @@
+---
+layout: default
+title: "Watch Ownership Calculator: The MrTicTocTalk True Cost Breakdown"
+seo_title: "Watch Ownership Calculator"
+description: "An illustrative watch ownership calculator: purchase price plus service, minus expected resale after optional selling fees, with hypothetical 0, 10 and 20 percent resale scenarios. Prefilled examples from the MrTicTocTalk True Cost Breakdown."
+permalink: /ownership-calculator/
+tool: true
+searchable: true
+---
+<article class="page tool-page" id="ownership-calculator">
+  <p class="kicker"><a href="{{ '/tools/' | relative_url }}">Watch tools</a></p>
+  <h1>Watch ownership calculator</h1>
+  <p class="disclosure">This calculator has no affiliate links, and nothing on this page is sponsored. The companion article contains affiliate links, disclosed at the top of that article.</p>
+  <p>This is a MrTicTocTalk True Cost Breakdown tool. Enter the price you actually pay, an estimated service cost, and the resale value you expect, all in US dollars. Add selling fees if you will pay them. The calculator returns an illustrative net ownership cost: purchase plus service, minus net resale after fees, plus hypothetical results if the watch sells 0, 10 or 20 percent below what you paid.</p>
+  <p>The result is not a prediction of future value, and it is not personalized buying advice. Taxes, shipping, extra parts, different service needs, and later market moves are left out, and selling fees are only included if you enter them. Your purchase price can dramatically change your ownership cost, so if you buy under retail, use the price you would actually pay.</p>
+
+  <div class="calc-wrap">
+    <p class="calc-note">Official US retail and official service prices were checked November 18, 2026, taxes excluded. WatchCharts estimated private sale prices and one year sales volume are as of November 17, 2026. Dealer expect to pay figures were not used.</p>
+    <p class="calc-note">Load a verified example, or type your own numbers.</p>
+    <div id="calc-examples" class="calc-examples"></div>
+    <p class="calc-note" id="calc-example-note"></p>
+    <form class="calc-grid" onsubmit="return false;">
+      <div>
+        <label for="calc-purchase">Purchase price you pay, USD</label>
+        <input id="calc-purchase" name="purchase" type="number" inputmode="decimal" min="0" step="1" value="315">
+      </div>
+      <div>
+        <label for="calc-service">Estimated service cost, USD</label>
+        <input id="calc-service" name="service" type="number" inputmode="decimal" min="0" step="1" value="176">
+      </div>
+      <div>
+        <label for="calc-resale">Expected resale, USD</label>
+        <input id="calc-resale" name="resale" type="number" inputmode="decimal" min="0" step="1" value="202">
+      </div>
+      <div>
+        <label for="calc-fee-pct">Selling fees, percent (optional)</label>
+        <input id="calc-fee-pct" name="feepct" type="number" inputmode="decimal" min="0" max="100" step="0.1" value="0">
+      </div>
+      <div>
+        <label for="calc-fee-flat">Other selling costs, USD (optional)</label>
+        <input id="calc-fee-flat" name="feeflat" type="number" inputmode="decimal" min="0" step="1" value="0">
+      </div>
+    </form>
+    <div class="calc-result" id="calc-result" aria-live="polite">Illustrative ownership cost will appear here.</div>
+    <h3>Depreciation sensitivity, hypothetical</h3>
+    <div id="calc-sens" aria-live="polite"></div>
+  </div>
+
+  <h2>Verified examples used in the video</h2>
+  <p>Scenario 1 assumes you buy at official retail, pay one official complete service, and subtract today's estimated private sale price. Scenario 2 assumes you buy at that same estimated private sale price, pay one official complete service, and subtract the same estimate. Scenario 2 is a way to see what happens after the first owner's depreciation. Selling later at today's estimate is not a forecast.</p>
+
+  <h3>Scenario 1, buy at official retail</h3>
+  <table class="tool-table">
+    <thead>
+      <tr>
+        <th>Watch</th>
+        <th>Purchase</th>
+        <th>Complete service</th>
+        <th>Estimated resale</th>
+        <th>Reported sales, 1 year</th>
+        <th>Illustrative cost</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Seiko 5 Sports Field automatic SRPG29</td>
+        <td>315</td>
+        <td>176</td>
+        <td>202</td>
+        <td>125</td>
+        <td>289</td>
+      </tr>
+      <tr>
+        <td>Tissot PRX quartz chronograph T1374171105100</td>
+        <td>525</td>
+        <td>200</td>
+        <td>428</td>
+        <td>6</td>
+        <td>297</td>
+      </tr>
+      <tr>
+        <td>Seiko 5 Sports Field GMT SSK023</td>
+        <td>450</td>
+        <td>176</td>
+        <td>326</td>
+        <td>484</td>
+        <td>300</td>
+      </tr>
+      <tr>
+        <td>Tissot PRX 40 mm quartz T1374101103100</td>
+        <td>450</td>
+        <td>130</td>
+        <td>209</td>
+        <td>421</td>
+        <td>371</td>
+      </tr>
+      <tr>
+        <td>Hamilton Intra Matic Auto Chrono H38416111</td>
+        <td>2,645</td>
+        <td>370</td>
+        <td>1,474</td>
+        <td>71</td>
+        <td>1,541</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>The PRX chronograph estimated resale rests on only 6 reported sales in WatchCharts&#39; one year volume, against 484 for the Field GMT, and WatchCharts market data for the chronograph only starts in September 2026. Reported sales show market activity. They do not, by themselves, tell you how quickly an individual watch will sell.</p>
+
+  <h3>Scenario 2, buy at today's estimated private sale</h3>
+  <table class="tool-table">
+    <thead>
+      <tr>
+        <th>Watch</th>
+        <th>Purchase</th>
+        <th>Complete service</th>
+        <th>Estimated resale</th>
+        <th>Illustrative cost</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Tissot PRX 40 mm quartz T1374101103100</td>
+        <td>209</td>
+        <td>130</td>
+        <td>209</td>
+        <td>130</td>
+      </tr>
+      <tr>
+        <td>Seiko 5 Sports Field automatic SRPG29 (tied)</td>
+        <td>202</td>
+        <td>176</td>
+        <td>202</td>
+        <td>176</td>
+      </tr>
+      <tr>
+        <td>Seiko 5 Sports Field GMT SSK023 (tied)</td>
+        <td>326</td>
+        <td>176</td>
+        <td>326</td>
+        <td>176</td>
+      </tr>
+      <tr>
+        <td>Tissot PRX quartz chronograph T1374171105100</td>
+        <td>428</td>
+        <td>200</td>
+        <td>428</td>
+        <td>200</td>
+      </tr>
+      <tr>
+        <td>Hamilton Intra Matic Auto Chrono H38416111</td>
+        <td>1,474</td>
+        <td>370</td>
+        <td>1,474</td>
+        <td>370</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>In this simplified case, the illustrative cost equals the official complete service bill, because the purchase and the later sale use the same estimate. The Field automatic and the Field GMT are tied at $176. Your purchase price can dramatically change your ownership cost.</p>
+
+  <h2>Sources</h2>
+  <ul>
+    <li>Official Tissot PRX quartz chronograph: <a href="https://www.tissotwatches.com/en-us/T1374171105100.html">T1374171105100</a>, retail $525.</li>
+    <li>Official Tissot PRX 40 mm quartz: <a href="https://www.tissotwatches.com/en-us/T1374101103100.html">T1374101103100</a>, retail $450.</li>
+    <li>Official Tissot US service prices: <a href="https://www.tissotwatches.com/en-us/service-prices">service prices</a>. Quartz complete service $130. Quartz chronograph complete service $200.</li>
+    <li>Official Hamilton Intra Matic Auto Chrono: <a href="https://www.hamiltonwatch.com/en-us/h38416111-american-classic-intra-matic-auto-chrono.html">H38416111</a>, retail $2,645.</li>
+    <li>Official Hamilton service: <a href="https://www.hamiltonwatch.com/en-us/watch-intervention.html">watch service prices</a>. Complete service, automatic chronographs $370.</li>
+    <li>Official Seiko 5 Sports Field GMT: <a href="https://www.seikowatches.com/us-en/products/5sports/ssk023">SSK023</a>, retail $450, caliber 4R34.</li>
+    <li>Official Seiko 5 Sports Field automatic: <a href="https://www.seikowatches.com/us-en/products/5sports/srpg29">SRPG29</a>, retail $315, caliber 4R36.</li>
+    <li>Official Seiko Service Warehouse America: <a href="https://seikoserviceusa.com/pages/serviceprice">service prices</a>. 4R series $176.</li>
+    <li>WatchCharts estimated private sale and one year sales volume, as of November 17, 2026: <a href="https://watchcharts.com/watch_model/57925-tissot-prx-t137-417-11-051-00/overview">PRX quartz chronograph</a>, <a href="https://watchcharts.com/watch_model/33223-tissot-prx-t137-410-11-031-00/overview">PRX 40 mm quartz</a>, <a href="https://watchcharts.com/watch_model/51494-seiko-5-sports-field-deploy-mechanical-gmt-ssk023/overview">Field GMT SSK023</a>, <a href="https://watchcharts.com/watch_model/34119-seiko-5-sports-srpg29/overview">Field automatic SRPG29</a>, <a href="https://watchcharts.com/watch_model/32294-hamilton-intra-matic-68-auto-chrono-stainless-steel-h38416111/overview">Hamilton H38416111</a>. These are estimates, not guaranteed proceeds.</li>
+  </ul>
+  <p>Official prices were checked November 18, 2026, taxes excluded.</p>
+
+  <p>For the written breakdown, service tier definitions, and buying notes, read the <a href="{{ '/true-cost-breakdown-first-watch-complication/' | relative_url }}">companion True Cost Breakdown article</a>.</p>
+  <p class="sf-actions">
+    <a class="button" href="{{ '/true-cost-breakdown-first-watch-complication/' | relative_url }}">Read the companion article</a>
+    <a class="button-secondary" href="{{ '/tools/' | relative_url }}">Back to watch tools</a>
+  </p>
+</article>
+<script src="{{ '/assets/js/ownership-calculator.js' | relative_url }}" defer></script>

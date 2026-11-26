@@ -28,7 +28,7 @@
 {%- if page.url == "/guides/" or page.category_label == "Reference Guide" or page.category_label == "Collector Basics" or page.category_label == "Market Know How" -%}{%- assign nav_guides = true -%}{%- endif -%}
 {%- if page.url == "/news/" or page.category_label == "News" -%}{%- assign nav_news = true -%}{%- endif -%}
 {%- if page.url == "/strap-finder/" or page.layout == "strap-model" -%}{%- assign nav_strap = true -%}{%- endif -%}
-{%- if page.url == "/tools/" or page.url == "/lug-width/" or page.url contains "/lug-width/" or page.url == "/available-now/" or page.url contains "/available-now/" or page.url == "/service-costs/" or page.url contains "/service-costs/" -%}{%- assign nav_tools = true -%}{%- endif -%}
+{%- if page.url == "/tools/" or page.url == "/lug-width/" or page.url contains "/lug-width/" or page.url == "/available-now/" or page.url contains "/available-now/" or page.url == "/service-costs/" or page.url contains "/service-costs/" or page.url == "/ownership-calculator/" or page.url contains "/ownership-calculator/" -%}{%- assign nav_tools = true -%}{%- endif -%}
 {%- if page.url == "/about/" -%}{%- assign nav_about = true -%}{%- endif %}
 <body class="page-{{ body_class }}">
   <a class="skip" href="#main">Skip to content</a>
@@ -93,5 +93,6 @@
     </div>
   </footer>
   <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
+  {% include analytics.html %}
 </body>
 </html>
