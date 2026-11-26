@@ -3,7 +3,7 @@ layout: post
 title: "Alain Silberstein Dies at 76: The Designer Who Put Red, Yellow and Blue on Mechanical Watches"
 seo_title: "Alain Silberstein Dies at 76: Krono Bauhaus Designer and His Watch Legacy"
 description: "French watch designer Alain Silberstein died on November 25, 2026, at 76, days before his brand's planned December 1 relaunch reveal. What is confirmed, the Krono Bauhaus, the MB&F and Louis Erard collaborations, and what happens next."
-date: 2026-11-26 08:25:00 -0500
+date: 2026-11-26 08:15:00 -0500
 category_label: News
 cluster: news
 tags: [news, alain silberstein, obituary, independent watchmaking, krono bauhaus, bauhaus, mbf, louis erard, watch design, besancon, industry]

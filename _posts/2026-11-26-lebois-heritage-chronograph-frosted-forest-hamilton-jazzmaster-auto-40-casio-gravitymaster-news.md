@@ -3,7 +3,7 @@ layout: post
 title: "Lebois & Co's Frosted Forest Chronograph at $4,500 USD, Hamilton's New Jazzmaster Auto 40mm From $675, and a Kevlar Strap Gravitymaster at About $1,202 USD (£920)"
 seo_title: "Lebois Heritage Chronograph Frosted Forest, Hamilton Jazzmaster Auto 40mm, Casio GWR-B3000SC-1A"
 description: "Lebois & Co opens preorders for two new 39 mm Heritage Chronographs with the LC-450 column wheel caliber at $4,500 USD. Hamilton's Jazzmaster Auto 40mm brings 80 hours for $675 to $725 USD. Casio's Gravitymaster GWR-B3000SC-1A debuts in the UK at £920 (about $1,202 USD), and Citizen refreshes the Axiom from $350 USD."
-date: 2026-11-26 08:27:00 -0500
+date: 2026-11-26 08:17:00 -0500
 category_label: News
 cluster: news
 tags: [news, lebois & co, heritage chronograph, chronograph, column wheel, la joux perret, hand wound, hamilton, jazzmaster, h-10, powermatic 80, dress watch, affordable, casio, g-shock, gravitymaster, pilot watch, solar, citizen, axiom, eco-drive]
