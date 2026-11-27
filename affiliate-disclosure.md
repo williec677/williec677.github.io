@@ -4,7 +4,7 @@ title: Affiliate Disclosure
 permalink: /affiliate-disclosure/
 description: "How the MrTicTocTalk Journal earns money from affiliate links."
 ---
-_Last updated: November 19, 2026_
+_Last updated: November 27, 2026_
 
 Some posts on this site contain affiliate links. I earn a commission if you buy through them, at no extra cost to you. It helps keep the Journal free.
 
@@ -15,6 +15,7 @@ Some posts on this site contain affiliate links. I earn a commission if you buy 
 * **Blackland Watch Co.** Links to blacklandwatchco.com carry my referral code, and MRTICTOCTALK is my coupon code there. I earn a commission on purchases made through those links or with that code.
 * **Tsar Bomba.** Links to tsarbomba.com carry my referral code. I earn a commission on purchases made through those links.
 * **Northwest Straps.** Links to nwstraps.com carry my referral code. I earn a commission on purchases made through those links.
+* **STYX Watch Protection.** Links to styxwatch.com carry my referral code. I earn a commission on purchases made through those links.
 
 **What affiliate links do not change:**
 
