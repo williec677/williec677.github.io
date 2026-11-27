@@ -1,0 +1,41 @@
+---
+layout: default
+body_class: collector-tool
+title: Watch ownership calculator
+description: Estimate the cost of owning a watch, including purchase, expenses and resale.
+permalink: /tools/ownership-calculator/
+searchable: true
+---
+<header class="section-intro">
+  <p class="kicker"><a href="{{ '/tools/' | relative_url }}">Collector tools</a></p>
+  <h1>Ownership calculator</h1>
+  <p>What does a watch cost to own? Enter your figures in USD, then see the total and the cost per year.</p>
+</header>
+<noscript><p>Enable JavaScript to calculate ownership costs in your browser.</p></noscript>
+<div class="workbench" id="calculator" hidden>
+  <form id="ownership-inputs" class="entry-panel">
+    <h2>Ownership assumptions</h2>
+    <div class="field-grid">
+      <label>Purchase price (USD)<input name="purchase" type="number" inputmode="decimal" min="0" max="9999999999" step=".01" required></label>
+      <label>Years of ownership<input name="years" type="number" inputmode="decimal" min=".01" max="150" step=".01" value="1" required></label>
+      <label>One-time expenses (USD)<input name="once" type="number" inputmode="decimal" min="0" max="9999999999" step=".01" placeholder="0"><small>Include taxes, fees, straps and service over the full period.</small></label>
+      <label>Annual expenses (USD)<input name="annual" type="number" inputmode="decimal" min="0" max="9999999999" step=".01" placeholder="0"><small>Include recurring costs such as insurance.</small></label>
+      <label class="field-wide">Expected resale proceeds (USD)<input name="resale" type="number" inputmode="decimal" min="0" max="9999999999" step=".01" placeholder="0"><small>Enter the amount after selling fees. Leave blank to estimate costs before resale.</small></label>
+    </div>
+    <button class="button" type="submit">Calculate ownership cost</button>
+  </form>
+  <section class="result-panel" aria-labelledby="estimate-title">
+    <p class="kicker">Estimate in USD</p>
+    <h2 id="estimate-title" tabindex="-1">Ownership cost</h2>
+    <div aria-live="polite" aria-atomic="true">
+      <p id="estimate-empty">Enter a purchase price and holding period to see your estimate.</p>
+      <div id="estimate-values" hidden>
+        <p class="big-value" id="net-cost"></p>
+        <dl class="figures"><div><dt>Purchase plus expenses</dt><dd id="gross-cost"></dd></div><div><dt>Resale proceeds</dt><dd id="resale-result"></dd></div><div><dt>Net cost per year</dt><dd id="per-year"></dd></div></dl>
+        <p id="estimate-gain" hidden>Estimated resale proceeds exceed your purchase price and expenses.</p>
+      </div>
+    </div>
+    <p class="result-note">Net cost equals purchase price plus one-time and recurring expenses, less resale proceeds.</p>
+  </section>
+</div>
+<script defer src="{{ '/assets/js/ownership-calculator.js' | relative_url }}"></script>

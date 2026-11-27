@@ -1,7 +1,7 @@
 {%- assign p = include.post -%}
 {%- assign default_img = "/assets/img/brand/logo-full.png" -%}
 {%- assign has_photo = false -%}
-{%- if p.image and p.image != "" and p.image != default_img -%}
+{%- if p.image and p.image != "" and p.image != default_img and p.image != "/assets/img/og-default.png" -%}
   {%- assign has_photo = true -%}
 {%- endif -%}
 {%- assign kind = "story" -%}

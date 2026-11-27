@@ -14,7 +14,7 @@ New guides and release coverage added regularly. Pick whichever way of following
 
 Copy this feed address into any reader app (Feedly, Inoreader, NetNewsWire, Reeder):
 
-`{{ '/feed.xml' | absolute_url }}`
+<code style="overflow-wrap: anywhere">{{ '/feed.xml' | absolute_url }}</code>
 
 <a class="button" href="https://feedly.com/i/subscription/feed/{{ '/feed.xml' | absolute_url | url_encode }}" rel="noopener" target="_blank">Follow on Feedly</a>
 

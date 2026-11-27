@@ -1,0 +1,5 @@
+<a href="{{ '/reviews/' | relative_url }}"{% if nav_reviews %} aria-current="page"{% endif %}>Reviews</a>
+<a href="{{ '/guides/' | relative_url }}"{% if nav_guides %} aria-current="page"{% endif %}>Guides</a>
+<a href="{{ '/news/' | relative_url }}"{% if nav_news %} aria-current="page"{% endif %}>News</a>
+<a href="{{ '/market-intelligence/' | relative_url }}"{% if page.url == "/market-intelligence/" %} aria-current="page"{% endif %}>Market Intelligence</a>
+<a href="{{ '/tools/' | relative_url }}"{% if nav_tools or nav_strap %} aria-current="page"{% endif %}>Tools</a>

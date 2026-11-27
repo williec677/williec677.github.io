@@ -1,0 +1,48 @@
+---
+layout: default
+body_class: collector-tool
+title: MrTicTocTalk Collector Vault
+description: A browser-based watch collection register with manually entered costs and valuations.
+permalink: /collector-vault/
+searchable: true
+---
+<header class="section-intro">
+  <p class="kicker">MrTicTocTalk</p>
+  <h1>Collector Vault</h1>
+  <p>Keep a register of your watches, what you’ve spent and what you think each piece is worth.</p>
+</header>
+<p class="local-note"><strong>Saved in this browser.</strong> This prototype stores entries on this device. Clearing site data removes them. All amounts are manually entered in USD.</p>
+<noscript><p>Enable JavaScript to use your local watch register.</p></noscript>
+<section id="vault" hidden data-store="{{ '/collector-vault/' | relative_url }}">
+  <p class="vault-message" id="vault-status" role="status"></p>
+  <div class="vault-totals">
+    <div><span>Watches</span><strong id="watch-count">0</strong></div>
+    <div><span>Purchase plus expenses</span><strong id="collection-cost">$0.00</strong></div>
+    <div><span>Estimated value</span><strong id="collection-value">Not entered</strong><small id="valuation-count"></small></div>
+  </div>
+  <div class="workbench vault-workbench">
+    <section aria-labelledby="register-title">
+      <h2 id="register-title" tabindex="-1">Watch register</h2>
+      <p id="register-empty">Add your first watch to start your register.</p>
+      <ul id="watch-list" class="watch-list"></ul>
+      <template id="watch-template">
+        <li class="watch-record">
+          <h3></h3>
+          <dl class="figures"><div><dt>Purchase price</dt><dd></dd></div><div><dt>Ownership expenses</dt><dd></dd></div><div><dt>Estimated value</dt><dd></dd></div></dl>
+          <div class="record-actions"><button type="button" data-edit>Edit</button><button type="button" data-remove>Remove</button></div>
+        </li>
+      </template>
+    </section>
+    <form id="watch-entry" class="entry-panel" autocomplete="off">
+      <h2 id="entry-title">Add a watch</h2>
+      <div class="field-grid">
+        <label class="field-wide">Watch name or reference<input name="watchName" maxlength="120" required placeholder="Brand, model or reference"></label>
+        <label>Purchase price (USD)<input name="purchase" type="number" inputmode="decimal" min="0" max="9999999999" step=".01" required></label>
+        <label>Expenses to date (USD)<input name="expenses" type="number" inputmode="decimal" min="0" max="9999999999" step=".01" placeholder="0"></label>
+        <label class="field-wide">Estimated value (USD, optional)<input name="valuation" type="number" inputmode="decimal" min="0" max="9999999999" step=".01"><small>Use your own estimate. You can update it later.</small></label>
+      </div>
+      <div class="record-actions"><button type="submit" class="button">Save watch</button><button id="cancel-edit" type="button" hidden>Cancel edit</button></div>
+    </form>
+  </div>
+</section>
+<script defer src="{{ '/assets/js/collector-vault.js' | relative_url }}"></script>
