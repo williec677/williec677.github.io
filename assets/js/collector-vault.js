@@ -93,7 +93,7 @@
     document.getElementById('register-empty').hidden = records.length > 0 || unreadable;
     document.getElementById('watch-count').textContent = records.length;
     document.getElementById('collection-cost').textContent = amount(cost);
-    document.getElementById('collection-value').textContent = valued ? amount(value) : '—';
+    document.getElementById('collection-value').textContent = valued ? amount(value) : 'Not entered';
     document.getElementById('valuation-count').textContent =
       records.length ? valued + ' of ' + records.length + ' valued' : '';
     if (unreadable) status.textContent = 'Some saved entries could not be read. Totals include readable entries only.';
