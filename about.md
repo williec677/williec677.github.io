@@ -38,7 +38,7 @@ Asking prices are wishes. Sold prices are facts. When an article mentions a pric
 
 ## How articles are made
 
-Articles are researched against published reference sources, auction house notes, and brand archives, and the key sources are linked inside each post. Drafting is AI assisted, and every article is checked for technical accuracy before it is published. If you spot an error, send a DM on Instagram and it will be corrected.
+Articles are researched against published reference sources, auction house notes, and brand archives, and the key sources are linked inside each post. Every article is checked for technical accuracy before it is published. If you spot an error, send a DM on Instagram and it will be corrected.
 
 ## Not affiliated
 
