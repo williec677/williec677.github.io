@@ -2,17 +2,13 @@
 layout: page
 title: Follow the Journal
 permalink: /newsletter/
-description: "Get new MrTicTocTalk Journal articles by RSS or email, free."
+description: "Get The MrTicTocTalk Weekly Watch Report and new Journal articles, free."
 ---
 New guides and release coverage added regularly. Pick whichever way of following is easiest for you.
 
-{% if site.newsletter.followit_url != "" %}
-## By email
+## The MrTicTocTalk Weekly Watch Report
 
-<a class="button" href="{{ site.newsletter.followit_url }}" rel="noopener" target="_blank">Get new articles by email</a>
-
-Free, no spam, unsubscribe any time.
-{% endif %}
+{% include newsletter-form.html %}
 
 ## By RSS
 
