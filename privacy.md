@@ -4,17 +4,21 @@ title: Privacy Policy
 permalink: /privacy/
 description: "Privacy policy for the MrTicTocTalk Journal."
 ---
-_Last updated: November 3, 2026_
+_Last updated: November 26, 2026_
 
 This policy explains what happens to information when you visit the MrTicTocTalk Journal (mrtictoctalk.com).
 
 ## The short version
 
-The Journal has no accounts, no comments, and no contact forms. It does not sell personal information.
+The Journal has no accounts and no comments. It does not sell personal information. If you subscribe to the newsletter, Kit handles your email address as described below.
 
 ## Hosting
 
 The site is hosted on GitHub Pages. GitHub may log technical information such as your IP address when you load a page, for security and to operate the service. See [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+## Site analytics
+
+This site uses Google Analytics to count visits, see which pages are read, and see which partner links get clicked. It sets cookies and sends anonymous usage data to Google. See [how Google uses data from sites that use its services](https://policies.google.com/technologies/partner-sites). You can opt out with the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
 
 ## Affiliate links
 
@@ -22,7 +26,7 @@ Some links go to partner sites: Amazon (through Amazon Associates) and eBay (thr
 
 ## Newsletter
 
-If you subscribe to email updates, your email address is handled by the newsletter provider named on the signup page, under its privacy policy, and you can unsubscribe from any email. Subscribing by RSS shares nothing with this site.
+If you subscribe to The MrTicTocTalk Weekly Watch Report, your email address is handled by [Kit](https://kit.com/privacy), under Kit's privacy policy, and you can unsubscribe from any email. Subscribing by RSS shares nothing with this site.
 
 ## Children
 
