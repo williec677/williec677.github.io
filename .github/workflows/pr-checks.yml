@@ -88,6 +88,12 @@ jobs:
               return out
           base, pr = files("base_site"), files("pr_site")
           gone = sorted(set(base) - set(pr))
+          # Archived social media files may be removed only with the infra-approved label (Will's approval).
+          if "infra-approved" in labels:
+              archived = [g for g in gone if g.startswith("assets/social/")]
+              if archived:
+                  print(f"{len(archived)} social media files removed with infra-approved (archived first).")
+              gone = [g for g in gone if not g.startswith("assets/social/")]
           if gone:
               fails.append(f"{len(gone)} published URLs would disappear, for example: {gone[:10]}. Add redirects instead of removing URLs.")
 
