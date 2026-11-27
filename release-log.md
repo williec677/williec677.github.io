@@ -996,3 +996,7 @@ Window checked: ~2026-11-26 6:20 PM ET through ~2026-11-27 8:30 AM ET. Published
 ## Accuracy fixes 2026-11-27 ~10:40 AM ET
 
 Will approved in his own words ("Both" on HYAN's card). Christie's NY Important Watches preview: linked the 3452/1 lot page, the October 22 press release, Watches Online: The New York Edit, and the Falk preorder page; made the 3452/1 unique per Christie's and one of seven across the 3452 and 3452/1; labeled the $800,000 to $1,600,000 USD figure as an estimate; recast the Akmaev price as SJX US $12,000 excluding taxes and a Falk $9,800 USD preorder that showed Sold Out on November 27; set the Santa Monica line as California based, in Santa Monica per SJX; spelled out Christie's on Friday, December 4, then Phillips New York Watch Auction XV on Saturday and Sunday, December 5 and 6; and framed the new Bivouac as the CEO hoping it will be the key product at Watches and Wonders 2027, not a confirmed launch.
+
+## Accuracy fix 2026-11-27 ~11:30 AM ET
+
+Will approved in his own words ("U handle it and approve it"). Christie's NY Important Watches preview: changed the Christie's venue wording from Rockefeller Center to Rockefeller Plaza, including 20 Rockefeller Plaza. The Phillips bag line was left unchanged.
