@@ -1,0 +1,53 @@
+{%- comment -%}
+Google Analytics 4 (gtag.js) plus affiliate click tracking. Measurement ID lives in _config.yml (analytics.ga4_measurement_id).
+Sends the affiliate_click event (a key event in GA4) with link_url, link_domain and program, using beacon transport.
+Only runs on mrtictoctalk.com (not on previews or localhost), and is skipped when the ID is blank.
+{%- endcomment -%}
+{%- assign ga_id = site.analytics.ga4_measurement_id | default: "" -%}
+{%- if ga_id != "" -%}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ ga_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  (function () {
+    if (location.hostname.replace(/^www\./, '') !== 'mrtictoctalk.com') return;
+    gtag('config', '{{ ga_id }}');
+    var programs = [
+      ['amazon.com', 'amazon'], ['amzn.to', 'amazon'],
+      ['ebay.com', 'ebay'], ['rover.ebay.com', 'ebay'],
+      ['blacklandwatchco.com', 'blacklandwatch'], ['blacklandwatch.com', 'blacklandwatch'],
+      ['tsarbomba.com', 'tsarbomba'],
+      ['northweststraps.com', 'northweststraps'], ['nwstraps.com', 'northweststraps'],
+      ['af.uppromote.com', 'styx'],
+      ['anrdoezrs.net', 'cj'], ['jdoqocy.com', 'cj'], ['tkqlhce.com', 'cj'], ['dpbolvw.net', 'cj'], ['kqzyfj.com', 'cj']
+    ];
+    function program(host, path) {
+      for (var i = 0; i < programs.length; i++) {
+        var d = programs[i][0];
+        if (host === d || host.slice(-(d.length + 1)) === '.' + d) return programs[i][1];
+      }
+      if (path.indexOf('/strap-finder/') === 0) return 'strap_finder';
+      return '';
+    }
+    function track(e) {
+      try {
+        var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+        if (!a || !a.hostname || a.hostname === location.hostname) return;
+        if (a.protocol !== 'http:' && a.protocol !== 'https:') return;
+        var host = a.hostname.toLowerCase().replace(/^www\./, '');
+        var prog = program(host, location.pathname);
+        if (!prog) return;
+        gtag('event', 'affiliate_click', {
+          link_url: a.href,
+          link_domain: host,
+          program: prog,
+          transport_type: 'beacon'
+        });
+      } catch (err) {}
+    }
+    document.addEventListener('click', track, true);
+    document.addEventListener('auxclick', function (e) { if (e.button === 1) track(e); }, true);
+  })();
+</script>
+{%- endif -%}
