@@ -16,6 +16,10 @@ The Journal has no accounts and no comments. It does not sell personal informati
 
 The site is hosted on GitHub Pages. GitHub may log technical information such as your IP address when you load a page, for security and to operate the service. See [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
+## Site analytics
+
+This site uses Google Analytics to count visits, see which pages are read, and see which partner links get clicked. It sets cookies and sends anonymous usage data to Google. See [how Google uses data from sites that use its services](https://policies.google.com/technologies/partner-sites). You can opt out with the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
+
 ## Affiliate links
 
 Some links go to partner sites: Amazon (through Amazon Associates) and eBay (through the eBay Partner Network). If you click one, that site and its affiliate network may set cookies to credit the referral. As an Amazon Associate I earn from qualifying purchases. As an eBay Partner, I may be compensated if you make a purchase through eBay links. Their own privacy policies apply once you leave this site.

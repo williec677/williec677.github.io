@@ -71,6 +71,10 @@ affiliates:
   awin_affid: ""
   chrono24_awinmid: ""
 
+analytics:
+  # Google Analytics 4 web stream Measurement ID (G-...). Leave blank to turn analytics off.
+  ga4_measurement_id: "G-PD7095GQ1D"
+
 adsense:
   # Google AdSense publisher ID, looks like "ca-pub-1234567890123456". Ads stay OFF while blank.
   publisher_id: ""
