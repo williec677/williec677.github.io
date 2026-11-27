@@ -18,13 +18,13 @@
 .links-name{
   margin:0 0 .35rem;
   font:700 2rem/1.1 var(--sans);
-  color:var(--navy);
+  color:var(--ink);
   letter-spacing:.01em;
 }
 .links-slogan{
   margin:0 0 .7rem;
   font:600 1.05rem/1.35 var(--sans);
-  color:var(--navy);
+  color:var(--ink);
 }
 .links-lede{
   margin:0 0 1.35rem;
@@ -52,8 +52,8 @@
 }
 .links-btn:hover,
 .links-btn:focus-visible{
-  background:var(--red);
-  border-color:var(--red);
+  background:var(--smoke);
+  border-color:var(--smoke);
   color:#fff;
 }
 .links-btn:focus-visible{
@@ -64,19 +64,19 @@
   flex-direction:column;
   gap:.2rem;
   min-height:72px;
-  background:var(--red);
-  border-color:var(--red);
+  background:var(--smoke);
+  border-color:var(--smoke);
 }
 .links-btn-feature:hover,
 .links-btn-feature:focus-visible{
-  background:#a50d26;
-  border-color:#a50d26;
+  background:var(--smoke);
+  border-color:var(--smoke);
 }
 .links-kicker{
-  font:700 .72rem/1 var(--sans);
+  font:650 .8rem/1 var(--sans);
   letter-spacing:.12em;
   text-transform:uppercase;
-  color:var(--gold-soft);
+  color:var(--gold);
 }
 .links-title{
   font:700 1.08rem/1.25 var(--sans);
@@ -87,32 +87,6 @@
   .links-name{font-size:2.25rem}
   .links-btn{min-height:60px;font-size:1.12rem}
 }
-@media (prefers-color-scheme:dark){
-  .links-name,
-  .links-slogan{color:#dfe5f4}
-  .links-logo{
-    box-shadow:0 0 0 1px rgba(176,141,87,.5), 0 10px 24px rgba(0,0,0,.4);
-  }
-  .links-nav .links-btn{
-    background:#1c2c52;
-    border-color:#2a3c68;
-  }
-  .links-nav .links-btn:hover,
-  .links-nav .links-btn:focus-visible{
-    background:var(--red);
-    border-color:var(--red);
-  }
-  .links-nav .links-btn-feature{
-    background:var(--red);
-    border-color:var(--red);
-  }
-  .links-nav .links-btn-feature:hover,
-  .links-nav .links-btn-feature:focus-visible{
-    background:#a50d26;
-    border-color:#a50d26;
-  }
-}
-
 /* This week's watch deals sits above the social nav */
 .links-shop{
   margin:0 0 2rem;
@@ -120,20 +94,20 @@
   border-bottom:1px solid var(--line);
 }
 .links-nav .links-btn-feature.links-btn-shop{
-  background:var(--red);
-  border-color:var(--red);
+  background:var(--smoke);
+  border-color:var(--smoke);
   color:#fff;
 }
 .links-nav .links-btn-feature.links-btn-shop:hover,
 .links-nav .links-btn-feature.links-btn-shop:focus-visible{
-  background:#a50d26;
-  border-color:#a50d26;
+  background:var(--smoke);
+  border-color:var(--smoke);
   color:#fff;
 }
 .links-shop-title{
   margin:0 0 .5rem;
   font:700 1.35rem/1.2 var(--sans);
-  color:var(--navy);
+  color:var(--ink);
 }
 .links-disclosure{
   margin:0 0 1rem;
@@ -142,30 +116,17 @@
   text-align:left;
 }
 .links-nav .links-btn-shop{
-  background:#fff;
-  color:var(--navy);
+  background:var(--card);
+  color:var(--ink);
 }
 .links-nav .links-btn-shop:hover,
 .links-nav .links-btn-shop:focus-visible{
-  background:var(--red);
-  border-color:var(--red);
+  background:var(--smoke);
+  border-color:var(--smoke);
   color:#fff;
 }
+
+.links-btn:hover,.links-btn:focus-visible,.links-nav .links-btn-shop:hover,.links-nav .links-btn-shop:focus-visible{border-color:var(--gold)}
 @media (prefers-color-scheme:dark){
-  .links-shop-title{color:#dfe5f4}
-  .links-disclosure{color:#a9adb6}
-  .links-nav .links-btn-shop{background:transparent;color:#dfe5f4;border-color:#2a3c68}
-  .links-nav .links-btn-shop:hover,
-  .links-nav .links-btn-shop:focus-visible{background:var(--red);border-color:var(--red);color:#fff}
-  .links-nav .links-btn-feature.links-btn-shop{
-    background:var(--red);
-    border-color:var(--red);
-    color:#fff;
-  }
-  .links-nav .links-btn-feature.links-btn-shop:hover,
-  .links-nav .links-btn-feature.links-btn-shop:focus-visible{
-    background:#a50d26;
-    border-color:#a50d26;
-    color:#fff;
-  }
+  .links-nav .links-btn-shop:not(.links-btn-feature){border-color:var(--line)}
 }

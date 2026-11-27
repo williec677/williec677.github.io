@@ -1,0 +1,29 @@
+---
+layout: default
+body_class: market
+title: Market Intelligence
+description: Reporting and reference tools for researching watch prices and ownership costs.
+permalink: /market-intelligence/
+searchable: true
+---
+<header class="section-intro">
+  <p class="kicker">Collector research</p>
+  <h1>Market Intelligence</h1>
+  <p>Read the evidence behind a price, from completed sales and auction reporting to brand-published retail and service figures.</p>
+</header>
+<nav class="desk market-desk" aria-label="Market research tools">
+  <h2>Reference desk</h2>
+  <a href="{{ '/available-now/' | relative_url }}">Official retail prices</a>
+  <a href="{{ '/service-costs/' | relative_url }}">Service costs</a>
+  <a href="{{ '/tools/ownership-calculator/' | relative_url }}">Ownership calculator</a>
+</nav>
+<section class="section">
+  <div class="section-head"><h2>From the Journal</h2></div>
+  <div class="card-grid">
+    {% for post in site.posts %}
+      {% if post.category_label == "Market Know How" or post.tags contains "auction" %}
+        {% include post-card.html post=post %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>

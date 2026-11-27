@@ -8,44 +8,44 @@ description: "Vintage watch buying guides, reference histories, and sold price r
 {%- assign default_img = "/assets/img/brand/logo-full.png" -%}
 {%- assign featured = nil -%}
 {%- for post in site.posts -%}
-  {%- if post.image and post.image != "" and post.image != default_img -%}
+  {%- if post.image and post.image != "" and post.image != default_img and post.image != "/assets/img/og-default.png" -%}
     {%- assign featured = post -%}
     {%- break -%}
   {%- endif -%}
 {%- endfor -%}
-<section class="hero">
-  <div class="hero-intro">
-    <p class="kicker">Talking Time. One Watch at a Time.</p>
-    <h1>MrTicTocTalk Journal</h1>
-    <p>Reference histories, buying guides, and fake spotting notes on vintage Rolex, Tudor, Omega, and Seiko. Written by a collector who trusts sold prices, not asking prices.</p>
+<section class="cover" aria-labelledby="cover-title">
+  <div class="cover-inner">
+    <div class="cover-copy">
+      <p class="cover-slogan">{{ site.tagline }}</p>
+      <h1 id="cover-title">The Watch <em>Journal</em></h1>
+      <p class="cover-intro">Reference histories, buying guides and market notes for the collector who looks closer.</p>
+      <a class="button cover-button" href="#journal">Explore the Journal</a>
+    </div>
+    {% if featured %}
+    <a class="cover-story" href="{{ featured.url | relative_url }}">
+      <figure>
+        <img src="{{ featured.image | relative_url }}" alt="{{ featured.image_alt | default: featured.title | escape }}" width="960" height="600" fetchpriority="high">
+        <figcaption>
+          <span class="cover-caption"><span class="kicker">Featured story</span>
+            <span class="cover-headline">{{ featured.seo_title | default: featured.title }}</span>
+          </span>
+          {% if featured.image_credit %}<span class="cover-credit">Image: {{ featured.image_credit }}</span>{% endif %}
+        </figcaption>
+      </figure>
+    </a>
+    {% endif %}
   </div>
-  {% if featured %}
-  <div class="hero-feature">
-    <p class="kicker">Featured</p>
-    {% include post-card.html post=featured featured=true %}
-  </div>
-  {% endif %}
 </section>
 
-<aside class="promo">
-  <div class="promo-copy">
-    <p class="kicker">Tool</p>
-    <h2>Watch Strap Finder</h2>
-    <p>Look up the lug width for {{ site.data.straps.size }} popular watches before you buy a strap.</p>
-  </div>
-  <a class="button" href="{{ '/strap-finder/' | relative_url }}">Open the Strap Finder</a>
-</aside>
-<aside class="promo">
-  <div class="promo-copy">
-    <p class="kicker">Tools</p>
-    <h2>More watch tools</h2>
-    <p>Browse lug widths by brand, see watches you can buy now at official MSRP, and check published service costs.</p>
-  </div>
-  <a class="button" href="{{ '/tools/' | relative_url }}">Explore the tools</a>
-</aside>
+<nav class="desk" aria-label="Collector resources">
+  <h2>Collector’s desk</h2>
+  <a href="{{ '/tools/ownership-calculator/' | relative_url }}">Ownership calculator</a>
+  <a href="{{ '/strap-finder/' | relative_url }}">Strap Finder</a>
+  <a href="{{ '/market-intelligence/' | relative_url }}">Market Intelligence</a>
+</nav>
 
 {%- assign evergreen_count = 0 -%}
-<section class="section">
+<section class="section" id="journal">
   <div class="section-head">
     <h2>Guides and reviews</h2>
     <p class="section-links"><a href="{{ '/reviews/' | relative_url }}">All reviews</a> · <a href="{{ '/guides/' | relative_url }}">All guides</a></p>
