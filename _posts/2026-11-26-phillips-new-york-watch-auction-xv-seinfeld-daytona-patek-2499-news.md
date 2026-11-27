@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Phillips New York Watch Auction XV: Seinfeld's Vic Elford Daytona, a $3 Million Pink Gold Patek 2499 and the Biggest Watch Sale America Has Ever Seen"
+title: "Phillips New York Watch Auction XV: Seinfeld's Vic Elford Daytona, a Pink Gold Patek 2499 Estimated in Excess of $3 Million, and What Phillips Calls the Highest Value Watch Auction Ever Hosted in the US"
 seo_title: "Phillips New York Watch Auction XV: Elford Daytona, Patek 2499"
-description: "Phillips New York Watch Auction XV, December 5 and 6, 2026, carries a total low estimate above $25 million USD across 196 lots: a pink gold Patek Philippe 2499 above $3,000,000 USD, Jerry Seinfeld's Vic Elford Daytona 6239 at $100,000 to $200,000 USD, a Paul Newman 6241 and F.P. Journe Souscription No. 13."
+description: "Phillips New York Watch Auction XV, December 5 and 6, 2026, carries a total low estimate above $25 million USD across 196 lots: a pink gold Patek Philippe 2499 estimated in excess of $3,000,000 USD, Jerry Seinfeld's Vic Elford Daytona 6239 at a $100,000 to $200,000 USD estimate, a Paul Newman 6241 and F.P. Journe Souscription No. 13."
 date: 2026-11-26 18:20:00 -0500
 category_label: News
 cluster: news
 tags: [news, auction, phillips, new york, patek philippe, 2499, perpetual calendar, chronograph, rolex, daytona, 6239, 6241, paul newman, jerry seinfeld, vic elford, f.p. journe, souscription, akrivia, philippe dufour, cartier, timeforart, vintage]
 affiliate: true
-ig_caption: "The biggest watch auction America has ever seen is 9 days out. Phillips New York Watch Auction XV hits December 5 and 6 with a total low estimate above $25 million USD across 196 lots. The headliner: a 1953 pink gold Patek Philippe 2499 second series, one of eight publicly known, estimated above $3,000,000 USD. Then there's the Daytona that started it all: the steel 6239 handed to Vic Elford after Porsche won the 1968 24 Hours of Daytona, consigned by Jerry Seinfeld at $100,000 to $200,000 USD. Add a Paul Newman 6241 in yellow gold ($450,000 to $900,000 USD) and F.P. Journe Souscription No. 13 (above $1,000,000 USD). One watch from this sale goes home with you: which one? Comment below and save this for auction week. Full story on the Journal, link in bio. #phillips #phillipswatches #patekphilippe #rolexdaytona #paulnewman #fpjourne #watchauction #vintagewatches #watchnews #mrtictoctalk"
+ig_caption: "Phillips calls New York Watch Auction XV the highest value watch auction ever hosted in the US, and it is 9 days out. Phillips New York Watch Auction XV hits December 5 and 6 with a total low estimate above $25 million USD across 196 lots. The headliner: a 1953 pink gold Patek Philippe 2499 second series, one of eight publicly known, estimated above $3,000,000 USD. Then there's the Daytona that started it all: the steel 6239 handed to Vic Elford after Porsche won the 1968 24 Hours of Daytona, consigned by Jerry Seinfeld, $100,000 to $200,000 USD estimate. Add a Paul Newman 6241 in yellow gold ($450,000 to $900,000 USD) and F.P. Journe Souscription No. 13 (above $1,000,000 USD). One watch from this sale goes home with you: which one? Comment below and save this for auction week. Full story on the Journal, link in bio. #phillips #phillipswatches #patekphilippe #rolexdaytona #paulnewman #fpjourne #watchauction #vintagewatches #watchnews #mrtictoctalk"
 image: "/assets/img/watches/patek-philippe-2499-pink-gold-phillips-new-york-xv.webp"
 image_alt: "Pink gold Patek Philippe reference 2499 second series perpetual calendar chronograph with silvered dial, moon phase at 6 and brown leather strap"
 image_credit: "Phillips via Haute Time"
 ---
-While everybody else is carving turkey, the auction world is loading up for the biggest week American watch collecting has ever had. Phillips says The New York Watch Auction: XV, on December 5 and 6, 2026, is the highest value watch auction ever hosted in the United States, with a total low estimate in excess of **$25 million USD**. Haute Time put the full picture together today, and every number below is checked against Phillips' own press releases and lot pages where Phillips has published them.
+While everybody else is carving turkey, the auction world is loading up for The New York Watch Auction: XV. Phillips says the sale, on December 5 and 6, 2026, is the highest value watch auction ever hosted in the United States, with a total low estimate in excess of **$25 million USD**. Haute Time put the full picture together today, and every number below is checked against Phillips' own press releases and lot pages where Phillips has published them.
 
 This is not one big single owner collection either. Phillips' Paul Boutros and Isabella Proia say the sale "is not built around a single collection," which tells you how deep the high end market still is. Here's what matters.
 
@@ -27,7 +27,7 @@ This is not one big single owner collection either. Phillips' Paul Boutros and I
 * **Public viewing:** opens December 2 per Phillips; Haute Time lists 432 Park Avenue, December 2 to 4, 10 AM to 7 PM ET Wednesday and Friday, 10 AM to 8 PM ET Thursday
 * **Sessions (per Haute Time):** Session I, December 5 at 10 AM ET, lots 1 to 77; Session II, December 5 at 3 PM ET, TimeForArt, lots 78 to 103; Session III, December 6 at 10 AM ET, lots 104 to 196
 
-One reality check: "highest value" is based on the published estimates. The hammer decides whether it becomes a record result.
+One reality check: "highest value" is based on the published estimates. The hammer decides whether it becomes a record result. Estimates exclude the buyer's premium.
 
 ![Pink gold Patek Philippe reference 2499 second series with silvered dial and moon phase]({{ "/assets/img/watches/patek-philippe-2499-pink-gold-phillips-new-york-xv.webp" | relative_url }})
 *Image: Phillips via Haute Time*
@@ -69,7 +69,7 @@ If the Elford watch is the history lesson, this is the eye candy. From the [Phil
 
 ## The F.P. Journe wall
 
-This might be the deepest group of early Journe ever put in one American sale. The headliner is Lot 10, Tourbillon Souverain "Souscription" No. 13, from the first 20 watches Journe sold by subscription in 1998 to fund the brand, delivered in 1999. Per [Phillips](https://www.phillips.com/detail/fp-journe/241899) it is platinum, 38 mm, calibre 1498 with 25 jewels and a remontoir d'égalité, with the original souscription contract signed by F.P. Journe, and the catalogue notes the subscription price was CHF 25,000 plus CHF 2,500 for platinum. The estimate is in excess of **$1,000,000 USD**. That is quite the return for the original subscriber.
+This might be the deepest group of early Journe ever put in one American sale. The headliner is Lot 10, Tourbillon Souverain "Souscription" No. 13, from the first 20 watches Journe sold by subscription in 1998 to fund the brand, delivered in 1999. Per [Phillips](https://www.phillips.com/detail/fp-journe/241899) it is platinum, 38 mm, calibre 1498 with 25 jewels and a remontoir d'égalité, with the original souscription contract signed by F.P. Journe, and the catalogue notes the subscription price was CHF 25,000 plus CHF 2,500 for platinum. The estimate is in excess of **$1,000,000 USD**.
 
 Also in the group, per Phillips and Haute Time:
 
@@ -102,8 +102,8 @@ A modern steel Daytona takes 20 mm straps; our [Rolex Daytona strap page](https:
 ## The bottom line
 
 * **What:** Phillips New York Watch Auction XV, December 5 and 6, 2026, total low estimate above **$25 million USD**, billed by Phillips as the highest value watch auction ever held in the US
-* **Top lot:** Patek Philippe 2499 second series, 1953, pink gold, above **$3,000,000 USD**
-* **Story lot:** Vic Elford's 1968 Rolex Daytona 6239 from Jerry Seinfeld's collection, **$100,000 to $200,000 USD**
+* **Top lot:** Patek Philippe 2499 second series, 1953, pink gold, estimated in excess of **$3,000,000 USD**
+* **Story lot:** Vic Elford's 1968 Rolex Daytona 6239 from Jerry Seinfeld's collection, **$100,000 to $200,000 USD** estimate
 * **Also:** Paul Newman 6241 champagne in yellow gold at **$450,000 to $900,000 USD**, F.P. Journe Souscription No. 13 above **$1,000,000 USD**, a unique Akrivia AK-02, and 26 no reserve TimeForArt pieces
 * **Viewing:** opens December 2 in New York
 
