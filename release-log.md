@@ -1051,3 +1051,16 @@ Window checked: ~2026-11-27 12:25 PM ET through ~2026-11-27 6:30 PM ET. Publishe
 | 2026-11-28 | Follow ups still open: Christie's NY Dec 4 results, Phillips NY XV Dec 5 and 6 (incl TimeForArt: Atelier Wen Bǎishí est $4k to $8k, Anoma A2), Alain Silberstein reveal Dec 1, MoonSwatch Silver Snowflake snow day sales / resale, Anoma A2 order close Dec 3 (T+T Dec 6), Favre Leuba Bivouac, Akmaev price ($9,800 vs $12,000), Carl Suchy Waltz 39 brand USD price, Mermont US price / delivery, HU-02 Dec 1, Campanola Y520 Dec 3, Tusenö Shellback Dec 3, Dennison x W&W Dec 10, Bonhams HS C13 Dec 10, Maen Jump Hour Dec 10, Orient Star Skeleton ~Dec 10, The Citizen AQ4100-65F Dec 17, Swiss exports Dec 17, PAM01464 price, GWR-B3000SC-1A US price/date, plus the rest of the Nov 27 12 PM list | Prior | Atelier Wen Bǎishí added; none closed |
 
 Window checked: ~2026-11-27 6:30 PM ET through ~2026-11-28 8:20 AM ET. Published: nothing (holiday weekend; only new release was a single one off TimeForArt charity lot, too thin alone; everything else old, sponsored or already covered).
+
+
+## Check run 2026-11-28 ~12:20 PM ET (holiday weekend)
+| Date | Story | Sources | Status |
+|---|---|---|---|
+| 2026-11-28 | Citizen Series 8 831 limited editions (US launch): NB6050-01L blue 700 pcs $1,125, NB6050-19W magenta 600 pcs $1,125, NB6059-06W brown rose gold tone bezel 700 pcs $1,150, NB6052-56W two tone H link bracelet 650 pcs $1,295 (Citizen US prices); 40 x 11.6 mm, sapphire, 100 m, 20 mm lugs, cal 9051 4 Hz 24 j 42 h, -10/+20 s/d, 16,000 A/m; plus Series 8 880 GMT NB6092-01E gold Damascus steel, forged carbon dial, 41 mm, cal 9054 50 h, 1,400 pcs, $2,195 | citizenwatch.com/us (product pages), Monochrome (Nov 27), Notebookcheck, The Gadgeteer (Nov 25), Buying Time #301 | Covered: citizen-series-8-831-limited-editions-880-gmt-damascus-news |
+| 2026-11-28 | AWAKE Sơn Mài Silver Leaf 38 mm (aBtW sponsored post), Bell & Ross BR-05 Moonphase (Deployant) | aBtW, Deployant | Skipped: covered Nov 9 / Nov 25 |
+| 2026-11-28 | T+T last week in watches recap, Monochrome ABCs French watchmaking history, W&W Watches Stories & Gear, Oracle of Time Movado feature, aBtW RZE recap; Buying Time: JLC Miami boutique, Universal Genève at Hamilton Jewelers Palm Beach, SwissWatchExpo collection tracker | RSS, Buying Time #301 | Skipped: recap / feature / retail news |
+| 2026-11-28 | MoonSwatch Silver Snowflake: web synthesis mentions ~$775 resale listings but WatchCharts page timed out (504), no verified sold data | web search | Nothing verified; follow up stays open |
+| 2026-11-28 | X news (10 h): celebrity, smartwatch, F1 rumor; nothing watch relevant. WatchPro 403, QP 500, G-Central/WatchTime/Teddy 301, r/Watches 403, Europa Star 0 items | X search_news, RSS | Nothing new / Note |
+| 2026-11-28 | Follow ups still open: unchanged from 8 AM run (Christie's NY Dec 4, Phillips NY XV Dec 5 and 6 incl TimeForArt, Silberstein Dec 1, Snowflake resale, Anoma A2 close Dec 3, HU-02 Dec 1, Campanola Y520 Dec 3, Tusenö Dec 3, Dec 10 items, Citizen AQ4100-65F Dec 17, Swiss exports Dec 17, PAM01464 price, GWR-B3000SC-1A US price) | Prior | none closed |
+
+Window checked: ~2026-11-28 8:20 AM ET through ~2026-11-28 12:25 PM ET. Published: citizen-series-8-831-limited-editions-880-gmt-damascus-news (12:15 PM ET).
